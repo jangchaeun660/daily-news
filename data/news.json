@@ -1,0 +1,37 @@
+{
+  "updatedAt": "2026-05-03",
+  "articles": [
+    {
+      "category": "society",
+      "title": "청년 주거 지원 정책, 수도권 전세 부담 완화에 초점",
+      "summary": "정부와 지자체가 청년층 주거비 부담을 낮추기 위한 보증 지원과 공공임대 공급 계획을 확대하고 있습니다.",
+      "source": "Sample Brief",
+      "publishedAt": "2026-05-03",
+      "url": "#"
+    },
+    {
+      "category": "society",
+      "title": "고령화 대응 지역 돌봄 서비스 개편 논의 확대",
+      "summary": "초고령 사회 진입에 맞춰 의료, 복지, 생활 지원을 지역 단위에서 연결하는 통합 돌봄 모델이 주목받고 있습니다.",
+      "source": "Sample Brief",
+      "publishedAt": "2026-05-03",
+      "url": "#"
+    },
+    {
+      "category": "ai",
+      "title": "생성형 AI 도입 기업, 업무 자동화와 검증 체계 병행",
+      "summary": "기업들은 문서 작성, 고객 응대, 데이터 분석에 AI를 활용하면서도 결과 검증과 보안 기준을 함께 강화하고 있습니다.",
+      "source": "Sample Brief",
+      "publishedAt": "2026-05-03",
+      "url": "#"
+    },
+    {
+      "category": "ai",
+      "title": "AI 반도체 경쟁, 저전력 추론 성능으로 확장",
+      "summary": "클라우드뿐 아니라 온디바이스 환경에서 빠르게 동작하는 AI 모델 수요가 늘며 전용 칩 경쟁이 이어지고 있습니다.",
+      "source": "Sample Brief",
+      "publishedAt": "2026-05-03",
+      "url": "#"
+    }
+  ]
+}
