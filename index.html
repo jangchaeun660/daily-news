@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Daily news</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav" aria-label="Main navigation">
+        <a class="brand" href="#">
+          <span class="brand-mark" aria-hidden="true">D</span>
+          <span>Daily news</span>
+        </a>
+        <div class="nav-links">
+          <a href="#today">Today</a>
+          <a href="#society">Society</a>
+          <a href="#ai">AI</a>
+          <a href="#archive">Archive</a>
+          <a class="active" href="#news">News</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" id="news">
+        <p class="eyebrow">LATEST BRIEFING</p>
+        <h1>Daily news</h1>
+        <p class="hero-copy">사회 이슈와 AI 트렌드를 매일 2개씩 엄선해 보여주는 뉴스 보드</p>
+      </section>
+
+      <section class="toolbar" aria-label="News filters">
+        <div class="chips" role="list">
+          <button class="chip active" type="button" data-filter="all">All</button>
+          <button class="chip" type="button" data-filter="society">Society</button>
+          <button class="chip" type="button" data-filter="ai">AI</button>
+        </div>
+        <label class="search">
+          <svg aria-hidden="true" viewBox="0 0 24 24">
+            <path d="m21 21-4.3-4.3m1.3-5.2a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0Z" />
+          </svg>
+          <input id="searchInput" type="search" placeholder="Search news..." />
+        </label>
+      </section>
+
+      <section class="summary" id="today" aria-label="Today summary">
+        <article>
+          <span class="summary-label">TODAY</span>
+          <strong id="todayCount">4 updates</strong>
+          <p>사회 뉴스 2개, AI 뉴스 2개를 한 화면에서 빠르게 확인합니다.</p>
+        </article>
+        <article>
+          <span class="summary-label">REFRESH</span>
+          <strong id="updatedAt">-</strong>
+          <p>배포 후 자동 업데이트 스크립트를 연결하면 매일 새 기사로 갱신됩니다.</p>
+        </article>
+      </section>
+
+      <section class="news-board" aria-live="polite">
+        <div class="section-heading" id="society">
+          <p class="eyebrow">SOCIAL ISSUES</p>
+          <h2>Society News</h2>
+        </div>
+        <div class="news-list" id="societyList"></div>
+
+        <div class="section-heading" id="ai">
+          <p class="eyebrow">ARTIFICIAL INTELLIGENCE</p>
+          <h2>AI News</h2>
+        </div>
+        <div class="news-list" id="aiList"></div>
+      </section>
+
+      <section class="archive-note" id="archive">
+        <h2>Archive Ready</h2>
+        <p>나중에는 날짜별 저장 기능을 붙여 지난 뉴스 브리핑도 모아볼 수 있습니다.</p>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
