@@ -3,35 +3,35 @@
   "articles": [
     {
       "category": "society",
-      "title": "청년 주거 지원 정책, 수도권 전세 부담 완화에 초점",
-      "summary": "정부와 지자체가 청년층 주거비 부담을 낮추기 위한 보증 지원과 공공임대 공급 계획을 확대하고 있습니다.",
-      "source": "Sample Brief",
+      "title": "Seoul Pushes Public Senior Housing at About 2 Million Won a Month",
+      "summary": "서울시가 초고령 사회에 대응해 월 200만 원 안팎의 공공형 시니어 주거 모델을 추진하며 중산층 고령자를 겨냥한 새로운 주거 시장을 모색하고 있습니다.",
+      "source": "AJU Press",
       "publishedAt": "2026-05-03",
-      "url": "#"
+      "url": "https://www.ajupress.com/view/20260503145470317"
     },
     {
       "category": "society",
-      "title": "고령화 대응 지역 돌봄 서비스 개편 논의 확대",
-      "summary": "초고령 사회 진입에 맞춰 의료, 복지, 생활 지원을 지역 단위에서 연결하는 통합 돌봄 모델이 주목받고 있습니다.",
-      "source": "Sample Brief",
-      "publishedAt": "2026-05-03",
-      "url": "#"
+      "title": "Lee's State Visit Ends, but Housing and Energy Issues Remain at Home",
+      "summary": "대외 순방 성과와 별개로 한국 내에서는 전세 공급 위축, 주택시장 불안, 에너지 공급 불확실성 같은 사회·경제 현안이 계속 압박 요인으로 떠오르고 있습니다.",
+      "source": "Korea JoongAng Daily",
+      "publishedAt": "2026-04-26",
+      "url": "https://koreajoongangdaily.joins.com/news/2026-04-26/national/socialAffairs/Lees-six-day-state-visit-abroad-sees-success-but-issues-still-exist-at-home/2578194"
     },
     {
       "category": "ai",
-      "title": "생성형 AI 도입 기업, 업무 자동화와 검증 체계 병행",
-      "summary": "기업들은 문서 작성, 고객 응대, 데이터 분석에 AI를 활용하면서도 결과 검증과 보안 기준을 함께 강화하고 있습니다.",
-      "source": "Sample Brief",
-      "publishedAt": "2026-05-03",
-      "url": "#"
+      "title": "South Korea to Launch $1 Billion On-Device AI Chip Program in May",
+      "summary": "한국 정부가 2030년까지 1조 원 규모의 온디바이스 AI 반도체 개발 프로그램을 추진하며 현대차, LG전자, 국내 팹리스 기업들이 맞춤형 AI 칩 개발에 참여할 예정입니다.",
+      "source": "AJU Press",
+      "publishedAt": "2026-04-28",
+      "url": "https://m.ajupress.com/amp/20260428180970024"
     },
     {
       "category": "ai",
-      "title": "AI 반도체 경쟁, 저전력 추론 성능으로 확장",
-      "summary": "클라우드뿐 아니라 온디바이스 환경에서 빠르게 동작하는 AI 모델 수요가 늘며 전용 칩 경쟁이 이어지고 있습니다.",
-      "source": "Sample Brief",
-      "publishedAt": "2026-05-03",
-      "url": "#"
+      "title": "Korean AI Chip Startup DEEPX, Hyundai Work on Generative AI Robots",
+      "summary": "한국 AI 칩 스타트업 DEEPX가 현대차그룹과 협력을 확대해 저전력 2세대 칩 기반의 생성형 AI 로봇 컴퓨팅 플랫폼을 개발할 계획입니다.",
+      "source": "Reuters via Investing.com",
+      "publishedAt": "2026-04-15",
+      "url": "https://www.investing.com/news/stock-market-news/korean-ai-chip-startup-deepx-hyundai-work-on-robots-powered-by-generative-ai-4614183"
     }
   ]
 }
