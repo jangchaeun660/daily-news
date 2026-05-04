@@ -3,11 +3,11 @@ import { readFile, writeFile } from "node:fs/promises";
 const feeds = [
   {
     category: "society",
-    query: '("social policy" OR "public welfare" OR "housing policy" OR "education policy" OR "welfare") sourcelang:english',
+    query: '(Korea OR Seoul OR Korean) ("social policy" OR "public welfare" OR "housing" OR "education" OR "healthcare" OR "population") sourcelang:english',
   },
   {
     category: "ai",
-    query: '("artificial intelligence" OR "generative AI" OR "AI chip" OR "machine learning") sourcelang:english',
+    query: '(Korea OR Seoul OR Korean OR Samsung OR Hyundai OR Naver OR Kakao) ("artificial intelligence" OR "generative AI" OR "AI chip" OR "machine learning") sourcelang:english',
   },
 ];
 
@@ -18,19 +18,6 @@ const previous = await readPreviousData();
 const articles = [];
 
 for (const feed of feeds) {
-  const picked = await fetchFeed(feed);
-  articles.push(...backfill(feed.category, picked));
-}
-
-const payload = {
-  updatedAt: new Date().toISOString().slice(0, 10),
-  articles,
-};
-
-await writeFile(dataFile, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
-console.log(`Updated ${articles.length} articles.`);
-
-async function fetchFeed(feed) {
   const url = new URL(endpoint);
   url.searchParams.set("query", feed.query);
   url.searchParams.set("mode", "artlist");
@@ -39,32 +26,46 @@ async function fetchFeed(feed) {
   url.searchParams.set("sort", "datedesc");
   url.searchParams.set("timespan", "7d");
 
+  let data = { articles: [] };
   try {
     const response = await fetch(url);
     if (!response.ok) {
       console.warn(`GDELT request failed for ${feed.category}: ${response.status}`);
-      return [];
+      articles.push(...backfill(feed.category, []));
+      continue;
     }
 
-    const data = await response.json();
-    return (data.articles ?? [])
-      .filter((article) => article.title && article.url)
-      .slice(0, 2)
-      .map((article) => ({
-        category: feed.category,
-        title: article.title,
-        summary: article.seendate
-          ? `${article.domain ?? "News"}에서 보도한 최신 기사입니다.`
-          : "자동 수집된 최신 기사입니다.",
-        source: article.domain ?? "GDELT",
-        publishedAt: article.seendate ? article.seendate.slice(0, 8).replace(/(\d{4})(\d{2})(\d{2})/, "$1-$2-$3") : new Date().toISOString().slice(0, 10),
-        url: article.url,
-      }));
+    data = await response.json();
   } catch (error) {
     console.warn(`GDELT request errored for ${feed.category}: ${error.message}`);
-    return [];
+    articles.push(...backfill(feed.category, []));
+    continue;
   }
+
+  const picked = (data.articles ?? [])
+    .filter((article) => article.title && article.url)
+    .slice(0, 2)
+    .map((article) => ({
+      category: feed.category,
+      title: article.title,
+      summary: article.seendate
+        ? `${article.domain ?? "News"}에서 보도한 최신 기사입니다.`
+        : "자동 수집된 최신 기사입니다.",
+      source: article.domain ?? "GDELT",
+      publishedAt: article.seendate ? article.seendate.slice(0, 8).replace(/(\d{4})(\d{2})(\d{2})/, "$1-$2-$3") : new Date().toISOString().slice(0, 10),
+      url: article.url,
+    }));
+
+  articles.push(...backfill(feed.category, picked));
 }
+
+const payload = {
+  updatedAt: getKoreaDate(),
+  articles,
+};
+
+await writeFile(dataFile, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
+console.log(`Updated ${articles.length} articles.`);
 
 async function readPreviousData() {
   try {
@@ -82,4 +83,13 @@ function backfill(category, picked) {
     .slice(0, 2 - picked.length);
 
   return [...picked, ...existing];
+}
+
+function getKoreaDate() {
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Seoul",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(new Date());
 }
