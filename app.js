@@ -1,43 +1,45 @@
 const state = {
   filter: "all",
   query: "",
-  articles: [],
+  news: { updatedAt: "", articles: [] },
+  archive: [],
+  selectedArchiveDate: "",
 };
 
 const fallbackNews = {
-  updatedAt: "2026-05-03",
+  updatedAt: "2026-05-04",
   articles: [
     {
       category: "society",
-      title: "청년 주거 지원 정책, 수도권 전세 부담 완화에 초점",
-      summary: "정부와 지자체가 청년층 주거비 부담을 낮추기 위한 보증 지원과 공공임대 공급 계획을 확대하고 있습니다.",
-      source: "Sample Brief",
-      publishedAt: "2026-05-03",
-      url: "#",
+      title: "AI chip boom spurs new 'aristocracy,' rippling from housing to college admissions",
+      summary: "반도체 슈퍼사이클이 한국의 주거 시장과 입시 환경까지 흔드는 새 고소득 계층을 만들고 있다는 분석입니다.",
+      source: "Korea JoongAng Daily",
+      publishedAt: "2026-05-04",
+      url: "https://koreajoongangdaily.joins.com/news/2026-05-04/business/economy/AI-chip-boom-spurs-new-aristocracy-rippling-from-housing-to-college-admissions/2580191",
     },
     {
       category: "society",
-      title: "고령화 대응 지역 돌봄 서비스 개편 논의 확대",
-      summary: "초고령 사회 진입에 맞춰 의료, 복지, 생활 지원을 지역 단위에서 연결하는 통합 돌봄 모델이 주목받고 있습니다.",
-      source: "Sample Brief",
-      publishedAt: "2026-05-03",
-      url: "#",
+      title: "President warns of 'excessive or unfair' union demands as Samsung strike looms",
+      summary: "삼성전자 파업 가능성을 앞두고 노동조합 요구와 사회적 책임을 둘러싼 논의가 커지고 있습니다.",
+      source: "Korea JoongAng Daily",
+      publishedAt: "2026-04-30",
+      url: "https://koreajoongangdaily.joins.com/news/2026-04-30/national/politics/President-warns-of-excessive-or-unfair-union-demands-as-Samsung-strike-looms/2582221",
     },
     {
       category: "ai",
-      title: "생성형 AI 도입 기업, 업무 자동화와 검증 체계 병행",
-      summary: "기업들은 문서 작성, 고객 응대, 데이터 분석에 AI를 활용하면서도 결과 검증과 보안 기준을 함께 강화하고 있습니다.",
-      source: "Sample Brief",
-      publishedAt: "2026-05-03",
-      url: "#",
+      title: "Samsung's Net Profit Soars as AI Demand Fuels Record Chip Earnings",
+      summary: "AI 메모리 수요 확대가 삼성전자의 2026년 1분기 기록적 실적을 견인했다는 보도입니다.",
+      source: "Wall Street Journal",
+      publishedAt: "2026-05-01",
+      url: "https://www.wsj.com/business/earnings/samsungs-net-profit-soars-as-ai-demand-fuels-record-chip-earnings-3d62cc69",
     },
     {
       category: "ai",
-      title: "AI 반도체 경쟁, 저전력 추론 성능으로 확장",
-      summary: "클라우드뿐 아니라 온디바이스 환경에서 빠르게 동작하는 AI 모델 수요가 늘며 전용 칩 경쟁이 이어지고 있습니다.",
-      source: "Sample Brief",
-      publishedAt: "2026-05-03",
-      url: "#",
+      title: "Naver Posts Weaker First-Quarter Earnings",
+      summary: "네이버가 AI 기능과 GPU 투자를 확대하는 가운데 비용 증가로 1분기 순이익이 감소했다는 분석입니다.",
+      source: "Wall Street Journal",
+      publishedAt: "2026-04-30",
+      url: "https://www.wsj.com/business/earnings/naver-posts-weaker-first-quarter-earnings-1a3511ec",
     },
   ],
 };
@@ -45,77 +47,124 @@ const fallbackNews = {
 const lists = {
   society: document.querySelector("#societyList"),
   ai: document.querySelector("#aiList"),
+  archive: document.querySelector("#archiveList"),
+};
+
+const views = {
+  home: document.querySelector("#homeView"),
+  article: document.querySelector("#articleView"),
 };
 
 const updatedAt = document.querySelector("#updatedAt");
 const todayCount = document.querySelector("#todayCount");
 const searchInput = document.querySelector("#searchInput");
 const chips = document.querySelectorAll(".chip");
+const navLinks = document.querySelectorAll("[data-view-link]");
+const archiveDates = document.querySelector("#archiveDates");
 
 async function loadNews() {
-  try {
-    const response = await fetch(`data/news.json?v=${Date.now()}`, { cache: "no-store" });
-    if (!response.ok) throw new Error("News data unavailable");
-    const data = await response.json();
-    state.articles = data.articles;
-    updatedAt.textContent = formatDate(data.updatedAt);
-  } catch {
-    state.articles = fallbackNews.articles;
-    updatedAt.textContent = `${formatDate(fallbackNews.updatedAt)} sample`;
+  state.news = await fetchJson("data/news.json", fallbackNews);
+  state.archive = await fetchJson("data/archive.json", [state.news]);
+  if (!state.archive.some((entry) => entry.updatedAt === state.news.updatedAt)) {
+    state.archive = [state.news, ...state.archive];
   }
 
-  todayCount.textContent = `${state.articles.length} updates`;
+  state.selectedArchiveDate = state.archive[0]?.updatedAt ?? state.news.updatedAt;
+  updatedAt.textContent = formatDate(state.news.updatedAt);
+  todayCount.textContent = `${state.news.articles.length} updates`;
   render();
+  route();
+}
+
+async function fetchJson(path, fallback) {
+  try {
+    const response = await fetch(`${path}?v=${Date.now()}`, { cache: "no-store" });
+    if (!response.ok) throw new Error(`${path} unavailable`);
+    return response.json();
+  } catch {
+    return fallback;
+  }
 }
 
 function render() {
-  const filtered = state.articles.filter((article) => {
+  const filtered = state.news.articles.filter((article) => {
     const matchesCategory = state.filter === "all" || article.category === state.filter;
     const searchTarget = `${article.title} ${article.summary} ${article.source}`.toLowerCase();
     return matchesCategory && searchTarget.includes(state.query.toLowerCase());
   });
 
-  renderList("society", filtered);
-  renderList("ai", filtered);
+  renderList(lists.society, filtered.filter((article) => article.category === "society"), state.news.updatedAt);
+  renderList(lists.ai, filtered.filter((article) => article.category === "ai"), state.news.updatedAt);
+  renderArchiveDates();
+  renderArchive();
 }
 
-function renderList(category, articles) {
-  const categoryArticles = articles.filter((article) => article.category === category);
-  lists[category].innerHTML = "";
+function renderList(container, articles, updatedDate) {
+  container.innerHTML = "";
 
-  if (!categoryArticles.length) {
-    lists[category].innerHTML = '<div class="empty">표시할 뉴스가 없습니다.</div>';
+  if (!articles.length) {
+    container.innerHTML = '<div class="empty">표시할 뉴스가 없습니다.</div>';
     return;
   }
 
   const fragment = document.createDocumentFragment();
-  categoryArticles.forEach((article) => fragment.appendChild(createCard(article)));
-  lists[category].appendChild(fragment);
+  articles.forEach((article) => fragment.appendChild(createCard(article, updatedDate)));
+  container.appendChild(fragment);
 }
 
-function createCard(article) {
+function renderArchiveDates() {
+  archiveDates.innerHTML = "";
+  const fragment = document.createDocumentFragment();
+
+  state.archive.forEach((entry) => {
+    const button = document.createElement("button");
+    button.className = `date-tab${entry.updatedAt === state.selectedArchiveDate ? " active" : ""}`;
+    button.type = "button";
+    button.textContent = formatDate(entry.updatedAt);
+    button.addEventListener("click", () => {
+      state.selectedArchiveDate = entry.updatedAt;
+      renderArchiveDates();
+      renderArchive();
+    });
+    fragment.appendChild(button);
+  });
+
+  archiveDates.appendChild(fragment);
+}
+
+function renderArchive() {
+  const entry = state.archive.find((item) => item.updatedAt === state.selectedArchiveDate) ?? state.archive[0];
+  renderList(lists.archive, entry?.articles ?? [], entry?.updatedAt ?? state.news.updatedAt);
+}
+
+function createCard(article, updatedDate) {
   const card = document.createElement("article");
   card.className = "news-card";
 
-  const date = new Date(article.publishedAt);
-  const day = Number.isNaN(date.getTime()) ? "NEW" : `${date.getMonth() + 1}/${date.getDate()}`;
   const label = article.category === "ai" ? "AI" : "Society";
 
   card.innerHTML = `
-    <div class="date-badge">${day}</div>
+    <div class="date-badge">${formatShortDate(updatedDate)}</div>
     <div>
       <span class="tag ${article.category}">${label}</span>
       <h3>${escapeHtml(article.title)}</h3>
       <p>${escapeHtml(article.summary)}</p>
       <div class="meta">
+        <span><strong>Updated</strong> ${formatDate(updatedDate)}</span>
+        <span><strong>Article</strong> ${formatDate(article.publishedAt)}</span>
         <span>${escapeHtml(article.source)}</span>
-        <span>${formatDate(article.publishedAt)}</span>
       </div>
     </div>
     <a class="read-link" href="${article.url}" target="_blank" rel="noreferrer">Read</a>
   `;
 
   return card;
+}
+
+function route() {
+  const target = window.location.hash === "#article" ? "article" : "home";
+  Object.entries(views).forEach(([name, element]) => element.classList.toggle("hidden", name !== target));
+  navLinks.forEach((link) => link.classList.toggle("active", link.dataset.viewLink === target));
 }
 
 function formatDate(value) {
@@ -126,6 +175,12 @@ function formatDate(value) {
     month: "2-digit",
     day: "2-digit",
   }).format(date);
+}
+
+function formatShortDate(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "NEW";
+  return `${date.getMonth() + 1}/${date.getDate()}`;
 }
 
 function escapeHtml(value) {
@@ -154,5 +209,7 @@ searchInput.addEventListener("input", (event) => {
   state.query = event.target.value;
   render();
 });
+
+window.addEventListener("hashchange", route);
 
 loadNews();
