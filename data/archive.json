@@ -1,5 +1,42 @@
 [
   {
+    "updatedAt": "2026-05-05",
+    "articles": [
+      {
+        "category": "society",
+        "title": "제주 중장기 사회복지 보장체계 구축",
+        "summary": "제민일보에서 보도한 한국어 최신 기사입니다.",
+        "source": "제민일보",
+        "publishedAt": "2026-04-09",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3TDVzYmpRZjFTc19Pb0ZGc0tsY3kwNW1uZkV5NDNkQ3MwVk9qdTFUblRNdno5Q0I4UldNeXNUdEJ0bUdVMWdLeG5iY2xFbWJMQndMRU9fSlpLNDVabU93NmZ1bFNIYjg?oc=5"
+      },
+      {
+        "category": "society",
+        "title": "부천형 기본사회 모델 시동... 주거·교육·돌봄 ‘행정 혁신’ 속도",
+        "summary": "경기일보에서 보도한 한국어 최신 기사입니다.",
+        "source": "경기일보",
+        "publishedAt": "2026-02-26",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ibnJuYzd6VGFHUUoyUmppYnYzTFF3TTZrd3V0Szl1QW1wMW5yX3pBOWN2Tmh2b2VQN1F5QnlHVFhfSDdZNlNyeFJqOGdEODUydHFXbEp0OVhEbjg?oc=5"
+      },
+      {
+        "category": "ai",
+        "title": "구글 제미나이, 韓 반도체·제조와 손잡다",
+        "summary": "mstoday.co.kr에서 보도한 한국어 최신 기사입니다.",
+        "source": "mstoday.co.kr",
+        "publishedAt": "2026-04-29",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuOUlzZE10cUZoMHM0ajJjbFBCZVNYbTV6SHZFZW15aFVCRjhPbUhJRzJ6cGpVRVNyMkVDbk5vQkRmZzhaNHZBdXVDYW12RkhXYW1WR0ppSTRZLXhxb0R3cUsxWkJTNi1LczFkdA?oc=5"
+      },
+      {
+        "category": "ai",
+        "title": "\"온디바이스 AI·반도체 설계… 데이터 처리 효율화 기술에 주목\"",
+        "summary": "유니콘팩토리에서 보도한 한국어 최신 기사입니다.",
+        "source": "유니콘팩토리",
+        "publishedAt": "2026-04-16",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbUNYNEFZZ0txcXRQalhtb1hiTEp6MnJjMlNiOHpNYzQtaXhBOXRRNmtITXFJdEJBWHF4ZU80RkRCNWJuYmJ5aGxVY3plckdZTTd1OHlxRjVmMlhGbnBlWnRXUzdsOXZCanBmVA?oc=5"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-05-04",
     "articles": [
       {
