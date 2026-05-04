@@ -7,7 +7,7 @@ const feeds = [
   },
   {
     category: "ai",
-    query: "인공지능 AI 반도체 삼성 네이버",
+    query: "인공지능 AI 반도체 온디바이스 데이터센터",
   },
 ];
 
