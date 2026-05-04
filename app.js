@@ -3,7 +3,6 @@ const state = {
   query: "",
   news: { updatedAt: "", articles: [] },
   archive: [],
-  selectedArchiveDate: "",
 };
 
 const fallbackNews = {
@@ -11,35 +10,35 @@ const fallbackNews = {
   articles: [
     {
       category: "society",
-      title: "AI chip boom spurs new 'aristocracy,' rippling from housing to college admissions",
-      summary: "반도체 슈퍼사이클이 한국의 주거 시장과 입시 환경까지 흔드는 새 고소득 계층을 만들고 있다는 분석입니다.",
-      source: "Korea JoongAng Daily",
-      publishedAt: "2026-05-04",
-      url: "https://koreajoongangdaily.joins.com/news/2026-05-04/business/economy/AI-chip-boom-spurs-new-aristocracy-rippling-from-housing-to-college-admissions/2580191",
+      title: "\"차별 없애자\" 장애인의날 전국 행사…편견 허물고 공존 가치 되새겨",
+      summary: "제46회 장애인의 날을 맞아 전국에서 장애인 권익과 이동권, 복지 증진을 요구하는 행사와 집회가 열렸습니다.",
+      source: "연합뉴스",
+      publishedAt: "2026-04-20",
+      url: "https://www.yna.co.kr/view/AKR20260420118100053",
     },
     {
       category: "society",
-      title: "President warns of 'excessive or unfair' union demands as Samsung strike looms",
-      summary: "삼성전자 파업 가능성을 앞두고 노동조합 요구와 사회적 책임을 둘러싼 논의가 커지고 있습니다.",
-      source: "Korea JoongAng Daily",
-      publishedAt: "2026-04-30",
-      url: "https://koreajoongangdaily.joins.com/news/2026-04-30/national/politics/President-warns-of-excessive-or-unfair-union-demands-as-Samsung-strike-looms/2582221",
+      title: "2026년부터 유아 무상교육·보육 지원대상 4~5세로 확대",
+      summary: "국가책임형 유아교육·보육을 위해 무상교육·보육 지원 대상이 2026년부터 4~5세까지 확대됩니다.",
+      source: "대한민국 정책브리핑",
+      publishedAt: "2026-03-05",
+      url: "https://m.korea.kr/news/policyNewsView.do?newsId=148960352",
     },
     {
       category: "ai",
-      title: "Samsung's Net Profit Soars as AI Demand Fuels Record Chip Earnings",
-      summary: "AI 메모리 수요 확대가 삼성전자의 2026년 1분기 기록적 실적을 견인했다는 보도입니다.",
-      source: "Wall Street Journal",
-      publishedAt: "2026-05-01",
-      url: "https://www.wsj.com/business/earnings/samsungs-net-profit-soars-as-ai-demand-fuels-record-chip-earnings-3d62cc69",
+      title: "에이디테크놀로지, 美 기업과 AI DC향 4나노 턴키 계약 체결",
+      summary: "에이디테크놀로지가 미국 AI 팹리스 기업과 데이터센터용 고성능 SoC 칩렛 개발·공급 계약을 체결했습니다.",
+      source: "ZDNet Korea",
+      publishedAt: "2026-05-04",
+      url: "https://zdnet.co.kr/view/?no=20260504084437",
     },
     {
       category: "ai",
-      title: "Naver Posts Weaker First-Quarter Earnings",
-      summary: "네이버가 AI 기능과 GPU 투자를 확대하는 가운데 비용 증가로 1분기 순이익이 감소했다는 분석입니다.",
-      source: "Wall Street Journal",
-      publishedAt: "2026-04-30",
-      url: "https://www.wsj.com/business/earnings/naver-posts-weaker-first-quarter-earnings-1a3511ec",
+      title: "삼성전자, '엑시노스 2600'에 모바일 AI 그래픽 신기술 첫 탑재",
+      summary: "삼성전자가 자체 모바일 AP 엑시노스 2600에 인공지능 기반 그래픽 최적화 기술을 처음 상용화했습니다.",
+      source: "연합뉴스",
+      publishedAt: "2026-04-28",
+      url: "https://www.yna.co.kr/view/AKR20260428063100003",
     },
   ],
 };
@@ -60,7 +59,7 @@ const todayCount = document.querySelector("#todayCount");
 const searchInput = document.querySelector("#searchInput");
 const chips = document.querySelectorAll(".chip");
 const navLinks = document.querySelectorAll("[data-view-link]");
-const archiveDates = document.querySelector("#archiveDates");
+const archiveRange = document.querySelector("#archiveRange");
 
 async function loadNews() {
   state.news = await fetchJson("data/news.json", fallbackNews);
@@ -68,8 +67,8 @@ async function loadNews() {
   if (!state.archive.some((entry) => entry.updatedAt === state.news.updatedAt)) {
     state.archive = [state.news, ...state.archive];
   }
+  state.archive = getRecentArchive(state.archive);
 
-  state.selectedArchiveDate = state.archive[0]?.updatedAt ?? state.news.updatedAt;
   updatedAt.textContent = formatDate(state.news.updatedAt);
   todayCount.textContent = `${state.news.articles.length} updates`;
   render();
@@ -95,7 +94,6 @@ function render() {
 
   renderList(lists.society, filtered.filter((article) => article.category === "society"), state.news.updatedAt);
   renderList(lists.ai, filtered.filter((article) => article.category === "ai"), state.news.updatedAt);
-  renderArchiveDates();
   renderArchive();
 }
 
@@ -112,29 +110,30 @@ function renderList(container, articles, updatedDate) {
   container.appendChild(fragment);
 }
 
-function renderArchiveDates() {
-  archiveDates.innerHTML = "";
-  const fragment = document.createDocumentFragment();
+function renderArchive() {
+  lists.archive.innerHTML = "";
 
+  if (!state.archive.length) {
+    lists.archive.innerHTML = '<div class="empty">최근 7일 기사 기록이 없습니다.</div>';
+    archiveRange.textContent = "최근 7일 기사";
+    return;
+  }
+
+  const newest = state.archive[0]?.updatedAt;
+  const oldest = state.archive[state.archive.length - 1]?.updatedAt;
+  archiveRange.textContent = `${formatDate(oldest)} - ${formatDate(newest)}`;
+
+  const fragment = document.createDocumentFragment();
   state.archive.forEach((entry) => {
-    const button = document.createElement("button");
-    button.className = `date-tab${entry.updatedAt === state.selectedArchiveDate ? " active" : ""}`;
-    button.type = "button";
-    button.textContent = formatDate(entry.updatedAt);
-    button.addEventListener("click", () => {
-      state.selectedArchiveDate = entry.updatedAt;
-      renderArchiveDates();
-      renderArchive();
-    });
-    fragment.appendChild(button);
+    const heading = document.createElement("h3");
+    heading.className = "archive-day";
+    heading.textContent = `${formatDate(entry.updatedAt)} 업데이트`;
+    fragment.appendChild(heading);
+
+    entry.articles.forEach((article) => fragment.appendChild(createCard(article, entry.updatedAt)));
   });
 
-  archiveDates.appendChild(fragment);
-}
-
-function renderArchive() {
-  const entry = state.archive.find((item) => item.updatedAt === state.selectedArchiveDate) ?? state.archive[0];
-  renderList(lists.archive, entry?.articles ?? [], entry?.updatedAt ?? state.news.updatedAt);
+  lists.archive.appendChild(fragment);
 }
 
 function createCard(article, updatedDate) {
@@ -181,6 +180,20 @@ function formatShortDate(value) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return "NEW";
   return `${date.getMonth() + 1}/${date.getDate()}`;
+}
+
+function getRecentArchive(entries) {
+  const sorted = [...entries].sort((a, b) => new Date(b.updatedAt) - new Date(a.updatedAt));
+  const latest = sorted[0]?.updatedAt;
+  if (!latest) return [];
+
+  const cutoff = new Date(latest);
+  cutoff.setDate(cutoff.getDate() - 6);
+
+  return sorted.filter((entry) => {
+    const date = new Date(entry.updatedAt);
+    return !Number.isNaN(date.getTime()) && date >= cutoff;
+  });
 }
 
 function escapeHtml(value) {
