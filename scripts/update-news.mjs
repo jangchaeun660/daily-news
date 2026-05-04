@@ -127,7 +127,14 @@ async function readArchiveData() {
 
 function updateArchive(payload) {
   const withoutToday = archive.filter((entry) => entry.updatedAt !== payload.updatedAt);
-  return [payload, ...withoutToday].slice(0, 30);
+  const nextArchive = [payload, ...withoutToday].sort((a, b) => new Date(b.updatedAt) - new Date(a.updatedAt));
+  const cutoff = new Date(payload.updatedAt);
+  cutoff.setDate(cutoff.getDate() - 6);
+
+  return nextArchive.filter((entry) => {
+    const date = new Date(entry.updatedAt);
+    return !Number.isNaN(date.getTime()) && date >= cutoff;
+  });
 }
 
 function backfill(category, picked) {
