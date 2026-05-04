@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-05-03",
+  "updatedAt": "2026-05-04",
   "articles": [
     {
       "category": "society",
-      "title": "Seoul Pushes Public Senior Housing at About 2 Million Won a Month",
-      "summary": "서울시가 초고령 사회에 대응해 월 200만 원 안팎의 공공형 시니어 주거 모델을 추진하며 중산층 고령자를 겨냥한 새로운 주거 시장을 모색하고 있습니다.",
-      "source": "AJU Press",
-      "publishedAt": "2026-05-03",
-      "url": "https://www.ajupress.com/view/20260503145470317"
+      "title": "AI chip boom spurs new 'aristocracy,' rippling from housing to college admissions",
+      "summary": "반도체 슈퍼사이클이 한국의 주거 시장과 입시 환경까지 흔드는 새 고소득 계층을 만들고 있다는 분석입니다.",
+      "source": "Korea JoongAng Daily",
+      "publishedAt": "2026-05-04",
+      "url": "https://koreajoongangdaily.joins.com/news/2026-05-04/business/economy/AI-chip-boom-spurs-new-aristocracy-rippling-from-housing-to-college-admissions/2580191"
     },
     {
       "category": "society",
-      "title": "Lee's State Visit Ends, but Housing and Energy Issues Remain at Home",
-      "summary": "대외 순방 성과와 별개로 한국 내에서는 전세 공급 위축, 주택시장 불안, 에너지 공급 불확실성 같은 사회·경제 현안이 계속 압박 요인으로 떠오르고 있습니다.",
+      "title": "President warns of 'excessive or unfair' union demands as Samsung strike looms",
+      "summary": "삼성전자 파업 가능성을 앞두고 노동조합 요구와 사회적 책임을 둘러싼 논의가 커지고 있습니다.",
       "source": "Korea JoongAng Daily",
-      "publishedAt": "2026-04-26",
-      "url": "https://koreajoongangdaily.joins.com/news/2026-04-26/national/socialAffairs/Lees-six-day-state-visit-abroad-sees-success-but-issues-still-exist-at-home/2578194"
+      "publishedAt": "2026-04-30",
+      "url": "https://koreajoongangdaily.joins.com/news/2026-04-30/national/politics/President-warns-of-excessive-or-unfair-union-demands-as-Samsung-strike-looms/2582221"
     },
     {
       "category": "ai",
-      "title": "Jazz finds new beats in Beijing art town",
-      "summary": "cambodiantimes.com에서 보도한 최신 기사입니다.",
-      "source": "cambodiantimes.com",
-      "publishedAt": "2026-05-03",
-      "url": "http://www.cambodiantimes.com/news/279027201/jazz-finds-new-beats-in-beijing-art-town"
+      "title": "Samsung's Net Profit Soars as AI Demand Fuels Record Chip Earnings",
+      "summary": "AI 메모리 수요 확대가 삼성전자의 2026년 1분기 기록적 실적을 견인했다는 보도입니다.",
+      "source": "Wall Street Journal",
+      "publishedAt": "2026-05-01",
+      "url": "https://www.wsj.com/business/earnings/samsungs-net-profit-soars-as-ai-demand-fuels-record-chip-earnings-3d62cc69"
     },
     {
       "category": "ai",
-      "title": "The Glaring Reason Microsoft Is Falling Behind Alphabet and Amazon",
-      "summary": "fool.com에서 보도한 최신 기사입니다.",
-      "source": "fool.com",
-      "publishedAt": "2026-05-03",
-      "url": "https://www.fool.com/investing/2026/05/03/microsoft-falling-behind-alphabet-amazon/?source=iedfolrf0000001"
+      "title": "Naver Posts Weaker First-Quarter Earnings",
+      "summary": "네이버가 AI 기능과 GPU 투자를 확대하는 가운데 비용 증가로 1분기 순이익이 감소했다는 분석입니다.",
+      "source": "Wall Street Journal",
+      "publishedAt": "2026-04-30",
+      "url": "https://www.wsj.com/business/earnings/naver-posts-weaker-first-quarter-earnings-1a3511ec"
     }
   ]
 }
