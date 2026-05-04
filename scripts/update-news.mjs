@@ -13,7 +13,9 @@ const feeds = [
 
 const endpoint = "https://api.gdeltproject.org/api/v2/doc/doc";
 const dataFile = new URL("../data/news.json", import.meta.url);
+const archiveFile = new URL("../data/archive.json", import.meta.url);
 const previous = await readPreviousData();
+const archive = await readArchiveData();
 
 const articles = [];
 
@@ -65,6 +67,7 @@ const payload = {
 };
 
 await writeFile(dataFile, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
+await writeFile(archiveFile, `${JSON.stringify(updateArchive(payload), null, 2)}\n`, "utf8");
 console.log(`Updated ${articles.length} articles.`);
 
 async function readPreviousData() {
@@ -73,6 +76,19 @@ async function readPreviousData() {
   } catch {
     return { articles: [] };
   }
+}
+
+async function readArchiveData() {
+  try {
+    return JSON.parse(await readFile(archiveFile, "utf8"));
+  } catch {
+    return [];
+  }
+}
+
+function updateArchive(payload) {
+  const withoutToday = archive.filter((entry) => entry.updatedAt !== payload.updatedAt);
+  return [payload, ...withoutToday].slice(0, 30);
 }
 
 function backfill(category, picked) {
