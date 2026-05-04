@@ -22,30 +22,28 @@
   color: var(--ink);
 }
 
-.date-tabs {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
+.archive-range {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
   margin: 0 0 28px;
-}
-
-.date-tab {
-  height: 44px;
   padding: 0 18px;
   border: 1px solid var(--line);
   border-radius: 999px;
-  color: #5a6a82;
-  background: #ffffff;
-  box-shadow: 0 6px 18px rgba(28, 48, 78, 0.05);
-  cursor: pointer;
-  font: inherit;
-  font-weight: 800;
+  color: var(--blue);
+  background: #eef7fb;
+  font-weight: 900;
 }
 
-.date-tab.active {
-  border-color: var(--blue);
-  color: #ffffff;
-  background: var(--blue);
+.archive-day {
+  margin: 24px 0 12px;
+  color: var(--ink);
+  font-size: 24px;
+  font-weight: 900;
+}
+
+.archive-day:first-child {
+  margin-top: 0;
 }
 
 @media (max-width: 900px) {
