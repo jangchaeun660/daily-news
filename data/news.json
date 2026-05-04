@@ -3,35 +3,35 @@
   "articles": [
     {
       "category": "society",
-      "title": "AI chip boom spurs new 'aristocracy,' rippling from housing to college admissions",
-      "summary": "반도체 슈퍼사이클이 한국의 주거 시장과 입시 환경까지 흔드는 새 고소득 계층을 만들고 있다는 분석입니다.",
-      "source": "Korea JoongAng Daily",
-      "publishedAt": "2026-05-04",
-      "url": "https://koreajoongangdaily.joins.com/news/2026-05-04/business/economy/AI-chip-boom-spurs-new-aristocracy-rippling-from-housing-to-college-admissions/2580191"
+      "title": "\"차별 없애자\" 장애인의날 전국 행사…편견 허물고 공존 가치 되새겨",
+      "summary": "제46회 장애인의 날을 맞아 전국에서 장애인 권익과 이동권, 복지 증진을 요구하는 행사와 집회가 열렸습니다.",
+      "source": "연합뉴스",
+      "publishedAt": "2026-04-20",
+      "url": "https://www.yna.co.kr/view/AKR20260420118100053"
     },
     {
       "category": "society",
-      "title": "President warns of 'excessive or unfair' union demands as Samsung strike looms",
-      "summary": "삼성전자 파업 가능성을 앞두고 노동조합 요구와 사회적 책임을 둘러싼 논의가 커지고 있습니다.",
-      "source": "Korea JoongAng Daily",
-      "publishedAt": "2026-04-30",
-      "url": "https://koreajoongangdaily.joins.com/news/2026-04-30/national/politics/President-warns-of-excessive-or-unfair-union-demands-as-Samsung-strike-looms/2582221"
+      "title": "2026년부터 유아 무상교육·보육 지원대상 4~5세로 확대",
+      "summary": "국가책임형 유아교육·보육을 위해 무상교육·보육 지원 대상이 2026년부터 4~5세까지 확대됩니다.",
+      "source": "대한민국 정책브리핑",
+      "publishedAt": "2026-03-05",
+      "url": "https://m.korea.kr/news/policyNewsView.do?newsId=148960352"
     },
     {
       "category": "ai",
-      "title": "Samsung's Net Profit Soars as AI Demand Fuels Record Chip Earnings",
-      "summary": "AI 메모리 수요 확대가 삼성전자의 2026년 1분기 기록적 실적을 견인했다는 보도입니다.",
-      "source": "Wall Street Journal",
-      "publishedAt": "2026-05-01",
-      "url": "https://www.wsj.com/business/earnings/samsungs-net-profit-soars-as-ai-demand-fuels-record-chip-earnings-3d62cc69"
+      "title": "에이디테크놀로지, 美 기업과 AI DC향 4나노 턴키 계약 체결",
+      "summary": "에이디테크놀로지가 미국 AI 팹리스 기업과 데이터센터용 고성능 SoC 칩렛 개발·공급 계약을 체결했습니다.",
+      "source": "ZDNet Korea",
+      "publishedAt": "2026-05-04",
+      "url": "https://zdnet.co.kr/view/?no=20260504084437"
     },
     {
       "category": "ai",
-      "title": "Naver Posts Weaker First-Quarter Earnings",
-      "summary": "네이버가 AI 기능과 GPU 투자를 확대하는 가운데 비용 증가로 1분기 순이익이 감소했다는 분석입니다.",
-      "source": "Wall Street Journal",
-      "publishedAt": "2026-04-30",
-      "url": "https://www.wsj.com/business/earnings/naver-posts-weaker-first-quarter-earnings-1a3511ec"
+      "title": "삼성전자, '엑시노스 2600'에 모바일 AI 그래픽 신기술 첫 탑재",
+      "summary": "삼성전자가 자체 모바일 AP 엑시노스 2600에 인공지능 기반 그래픽 최적화 기술을 처음 상용화했습니다.",
+      "source": "연합뉴스",
+      "publishedAt": "2026-04-28",
+      "url": "https://www.yna.co.kr/view/AKR20260428063100003"
     }
   ]
 }
