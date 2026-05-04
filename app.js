@@ -54,7 +54,7 @@ const chips = document.querySelectorAll(".chip");
 
 async function loadNews() {
   try {
-    const response = await fetch("data/news.json", { cache: "no-store" });
+    const response = await fetch(`data/news.json?v=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) throw new Error("News data unavailable");
     const data = await response.json();
     state.articles = data.articles;
