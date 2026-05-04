@@ -1,6 +1,7 @@
 const state = {
   filter: "all",
   query: "",
+  selectedArchiveDate: "",
   news: { updatedAt: "", articles: [] },
   archive: [],
 };
@@ -60,6 +61,8 @@ const searchInput = document.querySelector("#searchInput");
 const chips = document.querySelectorAll(".chip");
 const navLinks = document.querySelectorAll("[data-view-link]");
 const archiveRange = document.querySelector("#archiveRange");
+const archiveDateInput = document.querySelector("#archiveDateInput");
+const archiveClearButton = document.querySelector("#archiveClearButton");
 
 async function loadNews() {
   state.news = await fetchJson("data/news.json", fallbackNews);
@@ -69,6 +72,7 @@ async function loadNews() {
   }
   state.archive = getRecentArchive(state.archive);
 
+  setupArchiveDatePicker();
   updatedAt.textContent = formatDate(state.news.updatedAt);
   todayCount.textContent = `${state.news.articles.length} updates`;
   render();
@@ -113,18 +117,29 @@ function renderList(container, articles, updatedDate) {
 function renderArchive() {
   lists.archive.innerHTML = "";
 
-  if (!state.archive.length) {
-    lists.archive.innerHTML = '<div class="empty">최근 7일 기사 기록이 없습니다.</div>';
-    archiveRange.textContent = "최근 7일 기사";
+  const entries = state.selectedArchiveDate
+    ? state.archive.filter((entry) => entry.updatedAt === state.selectedArchiveDate)
+    : state.archive;
+
+  if (!entries.length) {
+    const message = state.selectedArchiveDate
+      ? `${formatDate(state.selectedArchiveDate)}에 올라온 기사 기록이 없습니다.`
+      : "최근 7일 기사 기록이 없습니다.";
+    lists.archive.innerHTML = `<div class="empty">${message}</div>`;
+    archiveRange.textContent = state.selectedArchiveDate ? `${formatDate(state.selectedArchiveDate)} 기사` : "최근 7일 기사";
     return;
   }
 
-  const newest = state.archive[0]?.updatedAt;
-  const oldest = state.archive[state.archive.length - 1]?.updatedAt;
-  archiveRange.textContent = `${formatDate(oldest)} - ${formatDate(newest)}`;
+  if (state.selectedArchiveDate) {
+    archiveRange.textContent = `${formatDate(state.selectedArchiveDate)} 기사 ${countArticles(entries)}개`;
+  } else {
+    const newest = entries[0]?.updatedAt;
+    const oldest = entries[entries.length - 1]?.updatedAt;
+    archiveRange.textContent = `${formatDate(oldest)} - ${formatDate(newest)}`;
+  }
 
   const fragment = document.createDocumentFragment();
-  state.archive.forEach((entry) => {
+  entries.forEach((entry) => {
     const heading = document.createElement("h3");
     heading.className = "archive-day";
     heading.textContent = `${formatDate(entry.updatedAt)} 업데이트`;
@@ -164,6 +179,18 @@ function route() {
   const target = window.location.hash === "#article" ? "article" : "home";
   Object.entries(views).forEach(([name, element]) => element.classList.toggle("hidden", name !== target));
   navLinks.forEach((link) => link.classList.toggle("active", link.dataset.viewLink === target));
+}
+
+function setupArchiveDatePicker() {
+  if (!archiveDateInput || !state.archive.length) return;
+
+  const dates = state.archive.map((entry) => entry.updatedAt).sort();
+  archiveDateInput.min = dates[0];
+  archiveDateInput.max = dates[dates.length - 1];
+}
+
+function countArticles(entries) {
+  return entries.reduce((total, entry) => total + entry.articles.length, 0);
 }
 
 function formatDate(value) {
@@ -221,6 +248,17 @@ chips.forEach((chip) => {
 searchInput.addEventListener("input", (event) => {
   state.query = event.target.value;
   render();
+});
+
+archiveDateInput?.addEventListener("change", (event) => {
+  state.selectedArchiveDate = event.target.value;
+  renderArchive();
+});
+
+archiveClearButton?.addEventListener("click", () => {
+  state.selectedArchiveDate = "";
+  archiveDateInput.value = "";
+  renderArchive();
 });
 
 window.addEventListener("hashchange", route);

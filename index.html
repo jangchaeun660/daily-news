@@ -79,9 +79,18 @@
         </section>
 
         <section class="archive-panel" aria-label="Article archive">
-          <div class="section-heading">
-            <p class="eyebrow">LAST 7 DAYS</p>
-            <h2>Weekly Articles</h2>
+          <div class="archive-heading-row">
+            <div class="section-heading">
+              <p class="eyebrow">LAST 7 DAYS</p>
+              <h2>Weekly Articles</h2>
+            </div>
+            <div class="archive-controls" aria-label="Archive date filter">
+              <label class="date-picker">
+                <span>날짜 선택</span>
+                <input id="archiveDateInput" type="date" />
+              </label>
+              <button class="archive-clear" id="archiveClearButton" type="button">전체 보기</button>
+            </div>
           </div>
           <div class="archive-range" id="archiveRange">최근 7일 기사</div>
           <div class="news-list archive-list" id="archiveList"></div>
