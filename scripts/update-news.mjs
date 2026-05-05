@@ -52,7 +52,7 @@ async function fetchGoogleNews(feed) {
       .map((item) => ({
         category: feed.category,
         title: item.title,
-        summary: `${item.source}에서 보도한 한국어 최신 기사입니다.`,
+        summary: item.summary || `${item.source}에서 보도한 한국어 최신 기사입니다.`,
         source: item.source,
         publishedAt: item.publishedAt,
         url: item.url,
@@ -71,6 +71,7 @@ function parseRssItems(xml) {
       const title = stripGoogleNewsSource(decodeXml(readTag(item, "title")));
       const url = decodeXml(readTag(item, "link"));
       const source = decodeXml(readSource(item)) || "Google News";
+      const summary = cleanSummary(decodeXml(readTag(item, "description")), title, source);
       const pubDate = new Date(decodeXml(readTag(item, "pubDate")));
       const publishedAt = Number.isNaN(pubDate.getTime())
         ? getKoreaDate()
@@ -81,7 +82,7 @@ function parseRssItems(xml) {
             day: "2-digit",
           }).format(pubDate);
 
-      return { title, url, source, publishedAt };
+      return { title, url, source, publishedAt, summary };
     })
     .filter((item) => item.title && item.url);
 }
@@ -96,6 +97,19 @@ function readSource(item) {
 
 function stripGoogleNewsSource(title) {
   return title.replace(/\s+-\s+[^-]+$/, "").trim();
+}
+
+function cleanSummary(description, title, source) {
+  const text = description
+    .replace(/<[^>]+>/g, " ")
+    .replace(/\s+/g, " ")
+    .replace(title, "")
+    .replace(source, "")
+    .replace(/^[-–—\s]+/, "")
+    .trim();
+
+  if (!text) return "";
+  return text.length > 130 ? `${text.slice(0, 130).trim()}...` : text;
 }
 
 function decodeXml(value) {
