@@ -1,6 +1,7 @@
 const state = {
   filter: "all",
   query: "",
+  archiveQuery: "",
   selectedArchiveDate: "",
   news: { updatedAt: "", articles: [] },
   archive: [],
@@ -60,6 +61,7 @@ const views = {
 const updatedAt = document.querySelector("#updatedAt");
 const todayCount = document.querySelector("#todayCount");
 const searchInput = document.querySelector("#searchInput");
+const archiveSearchInput = document.querySelector("#archiveSearchInput");
 const chips = document.querySelectorAll(".chip");
 const navLinks = document.querySelectorAll("[data-view-link]");
 const archiveRange = document.querySelector("#archiveRange");
@@ -94,8 +96,7 @@ async function fetchJson(path, fallback) {
 function render() {
   const filtered = state.news.articles.filter((article) => {
     const matchesCategory = state.filter === "all" || article.category === state.filter;
-    const searchTarget = `${article.title} ${article.summary} ${article.source}`.toLowerCase();
-    return matchesCategory && searchTarget.includes(state.query.toLowerCase());
+    return matchesCategory && articleMatchesQuery(article, state.query);
   });
 
   renderList(lists.society, filtered.filter((article) => article.category === "society"), state.news.updatedAt);
@@ -127,14 +128,22 @@ function renderList(container, articles, updatedDate) {
 function renderArchive() {
   lists.archive.innerHTML = "";
 
-  const entries = state.selectedArchiveDate
+  const baseEntries = state.selectedArchiveDate
     ? state.archive.filter((entry) => entry.updatedAt === state.selectedArchiveDate)
     : state.archive;
+  const entries = baseEntries
+    .map((entry) => ({
+      ...entry,
+      articles: entry.articles.filter((article) => articleMatchesQuery(article, state.archiveQuery)),
+    }))
+    .filter((entry) => entry.articles.length);
 
   if (!entries.length) {
-    const message = state.selectedArchiveDate
-      ? `${formatDate(state.selectedArchiveDate)}에 올라온 기사 기록이 없습니다.`
-      : "최근 7일 기사 기록이 없습니다.";
+    const message = state.archiveQuery
+      ? "검색 결과가 없습니다."
+      : state.selectedArchiveDate
+        ? `${formatDate(state.selectedArchiveDate)}에 올라온 기사 기록이 없습니다.`
+        : "최근 7일 기사 기록이 없습니다.";
     lists.archive.innerHTML = `<div class="empty">${message}</div>`;
     archiveRange.textContent = state.selectedArchiveDate ? `${formatDate(state.selectedArchiveDate)} 기사` : "최근 7일 기사";
     return;
@@ -142,6 +151,8 @@ function renderArchive() {
 
   if (state.selectedArchiveDate) {
     archiveRange.textContent = `${formatDate(state.selectedArchiveDate)} 기사 ${countArticles(entries)}개`;
+  } else if (state.archiveQuery) {
+    archiveRange.textContent = `검색 결과 ${countArticles(entries)}개`;
   } else {
     const newest = entries[0]?.updatedAt;
     const oldest = entries[entries.length - 1]?.updatedAt;
@@ -197,6 +208,14 @@ function setupArchiveDatePicker() {
   const dates = state.archive.map((entry) => entry.updatedAt).sort();
   archiveDateInput.min = dates[0];
   archiveDateInput.max = dates[dates.length - 1];
+}
+
+function articleMatchesQuery(article, query) {
+  const normalizedQuery = query.trim().toLowerCase();
+  if (!normalizedQuery) return true;
+
+  const searchTarget = `${article.title} ${article.summary} ${article.source} ${article.category}`.toLowerCase();
+  return searchTarget.includes(normalizedQuery);
 }
 
 function countArticles(entries) {
@@ -258,6 +277,11 @@ chips.forEach((chip) => {
 searchInput.addEventListener("input", (event) => {
   state.query = event.target.value;
   render();
+});
+
+archiveSearchInput?.addEventListener("input", (event) => {
+  state.archiveQuery = event.target.value;
+  renderArchive();
 });
 
 archiveDateInput?.addEventListener("change", (event) => {
