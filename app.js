@@ -45,6 +45,8 @@ const fallbackNews = {
 };
 
 const lists = {
+  societySection: document.querySelector("#society"),
+  aiSection: document.querySelector("#ai"),
   society: document.querySelector("#societyList"),
   ai: document.querySelector("#aiList"),
   archive: document.querySelector("#archiveList"),
@@ -98,7 +100,15 @@ function render() {
 
   renderList(lists.society, filtered.filter((article) => article.category === "society"), state.news.updatedAt);
   renderList(lists.ai, filtered.filter((article) => article.category === "ai"), state.news.updatedAt);
+  toggleSectionVisibility();
   renderArchive();
+}
+
+function toggleSectionVisibility() {
+  lists.societySection.classList.toggle("hidden", state.filter === "ai");
+  lists.society.classList.toggle("hidden", state.filter === "ai");
+  lists.aiSection.classList.toggle("hidden", state.filter === "society");
+  lists.ai.classList.toggle("hidden", state.filter === "society");
 }
 
 function renderList(container, articles, updatedDate) {
