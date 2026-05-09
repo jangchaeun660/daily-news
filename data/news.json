@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-05-09",
+  "updatedAt": "2026-05-10",
   "articles": [
+    {
+      "category": "society",
+      "title": "경북도,‘2025년 청년정책평가’우수기관 선정...청년행복실현 가속화",
+      "summary": "&nbsp;&nbsp;",
+      "source": "김천신문",
+      "publishedAt": "2026-04-29",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YVHRJYmFxRUtUNWI2cTQycDJmZnoyRU1Sd1ludzQta3BvaVdYX2RDeEwxWWpOVFpfd0NyTFlZZEFpM1NITmZycmtsdXl4UFpGVjU0VQ?oc=5"
+    },
     {
       "category": "society",
       "title": "국민기초생활보장제도",
@@ -10,12 +18,12 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fOERKVGktSll3VE9YTU82am5XamFVRzc1UWM0ZjIxTmxxenJGWUxib19hWldzUUNSdmVYcUJXOW9kQ3pMVUt3SE5lVnpCcDJuUXFwY29KeFZMM0k?oc=5"
     },
     {
-      "category": "society",
-      "title": "부천형 기본사회 모델 시동... 주거·교육·돌봄 ‘행정 혁신’ 속도",
+      "category": "ai",
+      "title": "\"온디바이스 AI·반도체 설계… 데이터 처리 효율화 기술에 주목\"",
       "summary": "&nbsp;&nbsp;",
-      "source": "경기일보",
-      "publishedAt": "2026-02-26",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ibnJuYzd6VGFHUUoyUmppYnYzTFF3TTZrd3V0Szl1QW1wMW5yX3pBOWN2Tmh2b2VQN1F5QnlHVFhfSDdZNlNyeFJqOGdEODUydHFXbEp0OVhEbjg?oc=5"
+      "source": "유니콘팩토리",
+      "publishedAt": "2026-04-16",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbUNYNEFZZ0txcXRQalhtb1hiTEp6MnJjMlNiOHpNYzQtaXhBOXRRNmtITXFJdEJBWHF4ZU80RkRCNWJuYmJ5aGxVY3plckdZTTd1OHlxRjVmMlhGbnBlWnRXUzdsOXZCanBmVA?oc=5"
     },
     {
       "category": "ai",
@@ -24,14 +32,6 @@
       "source": "산업일보",
       "publishedAt": "2026-01-05",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5ySXRfMUc1bVhjQUVlR3VDOU9DWDl3cWU3VW9JM3pMTUpYLWJsZi1jcjAxdHlvcEMxUGtCbk5JUllzZDNL?oc=5"
-    },
-    {
-      "category": "ai",
-      "title": "나만의 초개인화 AI비서 나올까…서버 안거쳐 사생활보호",
-      "summary": "&nbsp;&nbsp;",
-      "source": "동아사이언스",
-      "publishedAt": "2026-03-17",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42UzBlRGNveWpTRldPTWNRR2tOeVJob2pqbm5RaWFGY0FwU29udVNvTnNoVEVzM1FPUkRyZ19RbWI2b09rWnAwX1pFWndxWW5MendQYQ?oc=5"
     }
   ]
 }
