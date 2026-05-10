@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10",
+  "updatedAt": "2026-05-11",
   "articles": [
     {
       "category": "society",
@@ -19,19 +19,19 @@
     },
     {
       "category": "ai",
-      "title": "\"온디바이스 AI·반도체 설계… 데이터 처리 효율화 기술에 주목\"",
-      "summary": "&nbsp;&nbsp;",
-      "source": "유니콘팩토리",
-      "publishedAt": "2026-04-16",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbUNYNEFZZ0txcXRQalhtb1hiTEp6MnJjMlNiOHpNYzQtaXhBOXRRNmtITXFJdEJBWHF4ZU80RkRCNWJuYmJ5aGxVY3plckdZTTd1OHlxRjVmMlhGbnBlWnRXUzdsOXZCanBmVA?oc=5"
-    },
-    {
-      "category": "ai",
       "title": "“온디바이스 AI 반도체로 데이터센터 부담↓”",
       "summary": "&nbsp;&nbsp;",
       "source": "산업일보",
       "publishedAt": "2026-01-05",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5ySXRfMUc1bVhjQUVlR3VDOU9DWDl3cWU3VW9JM3pMTUpYLWJsZi1jcjAxdHlvcEMxUGtCbk5JUllzZDNL?oc=5"
+    },
+    {
+      "category": "ai",
+      "title": "\"온디바이스 AI·반도체 설계… 데이터 처리 효율화 기술에 주목\"",
+      "summary": "&nbsp;&nbsp;",
+      "source": "유니콘팩토리",
+      "publishedAt": "2026-04-16",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbUNYNEFZZ0txcXRQalhtb1hiTEp6MnJjMlNiOHpNYzQtaXhBOXRRNmtITXFJdEJBWHF4ZU80RkRCNWJuYmJ5aGxVY3plckdZTTd1OHlxRjVmMlhGbnBlWnRXUzdsOXZCanBmVA?oc=5"
     }
   ]
 }

@@ -1,5 +1,42 @@
 [
   {
+    "updatedAt": "2026-05-11",
+    "articles": [
+      {
+        "category": "society",
+        "title": "경북도,‘2025년 청년정책평가’우수기관 선정...청년행복실현 가속화",
+        "summary": "&nbsp;&nbsp;",
+        "source": "김천신문",
+        "publishedAt": "2026-04-29",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YVHRJYmFxRUtUNWI2cTQycDJmZnoyRU1Sd1ludzQta3BvaVdYX2RDeEwxWWpOVFpfd0NyTFlZZEFpM1NITmZycmtsdXl4UFpGVjU0VQ?oc=5"
+      },
+      {
+        "category": "society",
+        "title": "국민기초생활보장제도",
+        "summary": "&nbsp;&nbsp;",
+        "source": "분야별정보",
+        "publishedAt": "2026-03-13",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fOERKVGktSll3VE9YTU82am5XamFVRzc1UWM0ZjIxTmxxenJGWUxib19hWldzUUNSdmVYcUJXOW9kQ3pMVUt3SE5lVnpCcDJuUXFwY29KeFZMM0k?oc=5"
+      },
+      {
+        "category": "ai",
+        "title": "“온디바이스 AI 반도체로 데이터센터 부담↓”",
+        "summary": "&nbsp;&nbsp;",
+        "source": "산업일보",
+        "publishedAt": "2026-01-05",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5ySXRfMUc1bVhjQUVlR3VDOU9DWDl3cWU3VW9JM3pMTUpYLWJsZi1jcjAxdHlvcEMxUGtCbk5JUllzZDNL?oc=5"
+      },
+      {
+        "category": "ai",
+        "title": "\"온디바이스 AI·반도체 설계… 데이터 처리 효율화 기술에 주목\"",
+        "summary": "&nbsp;&nbsp;",
+        "source": "유니콘팩토리",
+        "publishedAt": "2026-04-16",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbUNYNEFZZ0txcXRQalhtb1hiTEp6MnJjMlNiOHpNYzQtaXhBOXRRNmtITXFJdEJBWHF4ZU80RkRCNWJuYmJ5aGxVY3plckdZTTd1OHlxRjVmMlhGbnBlWnRXUzdsOXZCanBmVA?oc=5"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-05-10",
     "articles": [
       {
@@ -218,43 +255,6 @@
         "source": "유니콘팩토리",
         "publishedAt": "2026-04-16",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbUNYNEFZZ0txcXRQalhtb1hiTEp6MnJjMlNiOHpNYzQtaXhBOXRRNmtITXFJdEJBWHF4ZU80RkRCNWJuYmJ5aGxVY3plckdZTTd1OHlxRjVmMlhGbnBlWnRXUzdsOXZCanBmVA?oc=5"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-05-04",
-    "articles": [
-      {
-        "category": "society",
-        "title": "사회 안전망과 복지 정책을 둘러싼 논의가 이어지고 있습니다",
-        "summary": "정부와 지자체의 복지, 교육, 주거 정책 변화를 중심으로 시민 생활에 영향을 주는 이슈를 정리했습니다.",
-        "source": "Daily news",
-        "publishedAt": "2026-05-04",
-        "url": "https://news.google.com/search?q=%EC%82%AC%ED%9A%8C%20%EB%B3%B5%EC%A7%80%20%EC%A0%95%EC%B1%85&hl=ko&gl=KR&ceid=KR%3Ako"
-      },
-      {
-        "category": "society",
-        "title": "교육과 보육 지원 확대 관련 정책 뉴스가 주목받고 있습니다",
-        "summary": "유아 교육, 돌봄, 보육 지원 등 가정과 학교 현장에 연결되는 주요 사회 뉴스를 모았습니다.",
-        "source": "Daily news",
-        "publishedAt": "2026-05-04",
-        "url": "https://news.google.com/search?q=%EA%B5%90%EC%9C%A1%20%EB%B3%B4%EC%9C%A1%20%EC%A7%80%EC%9B%90&hl=ko&gl=KR&ceid=KR%3Ako"
-      },
-      {
-        "category": "ai",
-        "title": "AI 반도체와 데이터센터 경쟁이 빠르게 확대되고 있습니다",
-        "summary": "인공지능 서비스 확산으로 고성능 칩, 서버, 데이터센터 인프라 투자가 주요 기술 뉴스로 떠올랐습니다.",
-        "source": "Daily news",
-        "publishedAt": "2026-05-04",
-        "url": "https://news.google.com/search?q=AI%20%EB%B0%98%EB%8F%84%EC%B2%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0&hl=ko&gl=KR&ceid=KR%3Ako"
-      },
-      {
-        "category": "ai",
-        "title": "모바일 기기 안에서 실행되는 온디바이스 AI 기술이 확산되고 있습니다",
-        "summary": "스마트폰과 PC에서 개인정보를 보호하면서 빠르게 작동하는 AI 기능이 새로운 경쟁 포인트가 되고 있습니다.",
-        "source": "Daily news",
-        "publishedAt": "2026-05-04",
-        "url": "https://news.google.com/search?q=%EC%98%A8%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20AI&hl=ko&gl=KR&ceid=KR%3Ako"
       }
     ]
   }
