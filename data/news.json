@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-05-11",
+  "updatedAt": "2026-05-12",
   "articles": [
+    {
+      "category": "society",
+      "title": "“누구도 소외 없는 남동구”... 이병래 예비후보, ‘기본사회’ 정책협약 체결",
+      "summary": "&nbsp;&nbsp;",
+      "source": "복지투데이",
+      "publishedAt": "2026-05-11",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRY3B1QmZ0anBZUnNyN3VyRmFMN3hnSXpGd0l3UldnUDFJaEFMU1pzaXozMmp4eHc3Rk96eGpGck8yZk5MT2kyTTdTOFdZckNsR1ZqVXhEZDVxTDdPSTMwdGFLUjlBak11Z2phOA?oc=5"
+    },
     {
       "category": "society",
       "title": "경북도,‘2025년 청년정책평가’우수기관 선정...청년행복실현 가속화",
@@ -8,14 +16,6 @@
       "source": "김천신문",
       "publishedAt": "2026-04-29",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YVHRJYmFxRUtUNWI2cTQycDJmZnoyRU1Sd1ludzQta3BvaVdYX2RDeEwxWWpOVFpfd0NyTFlZZEFpM1NITmZycmtsdXl4UFpGVjU0VQ?oc=5"
-    },
-    {
-      "category": "society",
-      "title": "국민기초생활보장제도",
-      "summary": "&nbsp;&nbsp;",
-      "source": "분야별정보",
-      "publishedAt": "2026-03-13",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fOERKVGktSll3VE9YTU82am5XamFVRzc1UWM0ZjIxTmxxenJGWUxib19hWldzUUNSdmVYcUJXOW9kQ3pMVUt3SE5lVnpCcDJuUXFwY29KeFZMM0k?oc=5"
     },
     {
       "category": "ai",
