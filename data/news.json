@@ -1,14 +1,6 @@
 {
-  "updatedAt": "2026-05-14",
+  "updatedAt": "2026-05-15",
   "articles": [
-    {
-      "category": "society",
-      "title": "(사)기본사회인천본부, 인천지역 교육감·군구청장 후보들과 ‘기본사회 실현 정책협약’ 추진",
-      "summary": "&nbsp;&nbsp;",
-      "source": "데일리경제",
-      "publishedAt": "2026-05-12",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxYkFvdWgtVUV3VGV2OHVYSFV3YzBVRzdQMzRRY01hZGpMTVZreTR1cjdoQ0JoQnpudmJNaFJLaGNVbmx5Zjgtamd5Sjlfd2xLSi1YY1VuN0xzU3JVdFoyS1JPQXJjUDFIamlMcA?oc=5"
-    },
     {
       "category": "society",
       "title": "경북도,‘2025년 청년정책평가’우수기관 선정...청년행복실현 가속화",
@@ -18,12 +10,12 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YVHRJYmFxRUtUNWI2cTQycDJmZnoyRU1Sd1ludzQta3BvaVdYX2RDeEwxWWpOVFpfd0NyTFlZZEFpM1NITmZycmtsdXl4UFpGVjU0VQ?oc=5"
     },
     {
-      "category": "ai",
-      "title": "삼성전자 \"AI 데이터센터 시대, 메모리 수요 폭발할 것\"[KIW 2026]",
+      "category": "society",
+      "title": "국민기초생활보장제도",
       "summary": "&nbsp;&nbsp;",
-      "source": "한국경제",
-      "publishedAt": "2026-05-12",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aWk5kZUdfVy1xbWMwY0VxZGNtaWFtRG5hSzhTVTZSNllKOGNmZ1VUcTQxVElKWU5ENThyanlpODlDNVFYd3Fkd0sxaGZ1TVNBSXpPZ1N2SEw5d9IBVEFVX3lxTE5MTGZWVkI5WlhpVzdlMkxJQ2pWRi0wTEtBaF83ZWQybFJyUDVpV1ctel91ekRQN1JPUkM1V0JnZ29kc2FKRmFjbmJTU2xLc0tJcjRhZQ?oc=5"
+      "source": "분야별정보",
+      "publishedAt": "2026-03-13",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fOERKVGktSll3VE9YTU82am5XamFVRzc1UWM0ZjIxTmxxenJGWUxib19hWldzUUNSdmVYcUJXOW9kQ3pMVUt3SE5lVnpCcDJuUXFwY29KeFZMM0k?oc=5"
     },
     {
       "category": "ai",
@@ -32,6 +24,14 @@
       "source": "연합뉴스",
       "publishedAt": "2026-05-12",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wY3htdWV1bHZ2VV82STFiS0tGMjduR21FT25XQS15bUJYems2V0s2MmFya1ZWMUJubmlkWXJBclRzUFNxQmtwUThnRDhpd3I5NzlHbmtVS3V1LVXSAWBBVV95cUxOQnBBUjhnNzBSU3FVTjJHSnNrTzB6UTRORDhiTFMwZlo4MHJXN05LZTM4UDZSU0EtVUlFUkJ0VExhX2F1UDdPaEN0U3Z0Y2xjRVQtdGw5endCVjNxcFUwN00?oc=5"
+    },
+    {
+      "category": "ai",
+      "title": "삼성전자 \"AI 데이터센터 시대, 메모리 수요 폭발할 것\"[KIW 2026]",
+      "summary": "&nbsp;&nbsp;",
+      "source": "한국경제",
+      "publishedAt": "2026-05-12",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aWk5kZUdfVy1xbWMwY0VxZGNtaWFtRG5hSzhTVTZSNllKOGNmZ1VUcTQxVElKWU5ENThyanlpODlDNVFYd3Fkd0sxaGZ1TVNBSXpPZ1N2SEw5d9IBVEFVX3lxTE5MTGZWVkI5WlhpVzdlMkxJQ2pWRi0wTEtBaF83ZWQybFJyUDVpV1ctel91ekRQN1JPUkM1V0JnZ29kc2FKRmFjbmJTU2xLc0tJcjRhZQ?oc=5"
     }
   ]
 }
