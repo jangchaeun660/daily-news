@@ -1,5 +1,42 @@
 [
   {
+    "updatedAt": "2026-05-20",
+    "articles": [
+      {
+        "category": "society",
+        "title": "“더 촘촘한 복지 그물망”…시흥시, 제11기 지역사회보장협의체 회의 개최",
+        "summary": "&nbsp;&nbsp;",
+        "source": "경기일보",
+        "publishedAt": "2026-05-17",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xcy1FMHNveUszeFhjZlBsMF9XU2hPMmZGczFlWGVHcjByNEhqU1VmYjhmWnRBcGpiLUVHRTFwTWgzclFiM3RzM0N2TDFsT1liclliSzNLSUlLUGc?oc=5"
+      },
+      {
+        "category": "society",
+        "title": "[현장포커스] 이민근, '돌봄·교육·주거' 전면 제시…\"시작한 사람이 완성해야\"",
+        "summary": "&nbsp;&nbsp;",
+        "source": "오늘경제",
+        "publishedAt": "2026-05-15",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3VXRac3B1UGhRemtTNEJQeFBBdTE4QmZzYkJVNXprc0VyY3VTcGp0SVZVdkFnZUx5Mi1LODVkeV9DbFIxVFlrbjRSNW0tWEhrSGpYZFhOWGs4dW4tX2lodzcydFJudDl4bEJYWmctRk5pZHM?oc=5"
+      },
+      {
+        "category": "ai",
+        "title": "[이제는 전력반도체]⑦‘손 안의 AI 혁명’ 온디바이스 AI, 숨은 공신은 ‘전력반도체’였다",
+        "summary": "&nbsp;&nbsp;",
+        "source": "알파경제",
+        "publishedAt": "2026-05-19",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBSEU1T2ZGd3ZhRzk3UWRBbC15cHc5UHBuN0hHc0RqSTBHNDVqd3ZNNUhrZGRET25lbTlFM1Z2bjAzZnBLWUpDcnJGeEhRU2pheTMyY1dvN3lBNzc1TlE?oc=5"
+      },
+      {
+        "category": "ai",
+        "title": "[AI픽] 버터 안 녹는 AI칩까지…정부, 국산 온디바이스 반도체 점검",
+        "summary": "&nbsp;&nbsp;",
+        "source": "연합뉴스",
+        "publishedAt": "2026-05-12",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wY3htdWV1bHZ2VV82STFiS0tGMjduR21FT25XQS15bUJYems2V0s2MmFya1ZWMUJubmlkWXJBclRzUFNxQmtwUThnRDhpd3I5NzlHbmtVS3V1LVXSAWBBVV95cUxOQnBBUjhnNzBSU3FVTjJHSnNrTzB6UTRORDhiTFMwZlo4MHJXN05LZTM4UDZSU0EtVUlFUkJ0VExhX2F1UDdPaEN0U3Z0Y2xjRVQtdGw5endCVjNxcFUwN00?oc=5"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-05-19",
     "articles": [
       {
@@ -186,43 +223,6 @@
   },
   {
     "updatedAt": "2026-05-14",
-    "articles": [
-      {
-        "category": "society",
-        "title": "(사)기본사회인천본부, 인천지역 교육감·군구청장 후보들과 ‘기본사회 실현 정책협약’ 추진",
-        "summary": "&nbsp;&nbsp;",
-        "source": "데일리경제",
-        "publishedAt": "2026-05-12",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxYkFvdWgtVUV3VGV2OHVYSFV3YzBVRzdQMzRRY01hZGpMTVZreTR1cjdoQ0JoQnpudmJNaFJLaGNVbmx5Zjgtamd5Sjlfd2xLSi1YY1VuN0xzU3JVdFoyS1JPQXJjUDFIamlMcA?oc=5"
-      },
-      {
-        "category": "society",
-        "title": "경북도,‘2025년 청년정책평가’우수기관 선정...청년행복실현 가속화",
-        "summary": "&nbsp;&nbsp;",
-        "source": "김천신문",
-        "publishedAt": "2026-04-29",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YVHRJYmFxRUtUNWI2cTQycDJmZnoyRU1Sd1ludzQta3BvaVdYX2RDeEwxWWpOVFpfd0NyTFlZZEFpM1NITmZycmtsdXl4UFpGVjU0VQ?oc=5"
-      },
-      {
-        "category": "ai",
-        "title": "삼성전자 \"AI 데이터센터 시대, 메모리 수요 폭발할 것\"[KIW 2026]",
-        "summary": "&nbsp;&nbsp;",
-        "source": "한국경제",
-        "publishedAt": "2026-05-12",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aWk5kZUdfVy1xbWMwY0VxZGNtaWFtRG5hSzhTVTZSNllKOGNmZ1VUcTQxVElKWU5ENThyanlpODlDNVFYd3Fkd0sxaGZ1TVNBSXpPZ1N2SEw5d9IBVEFVX3lxTE5MTGZWVkI5WlhpVzdlMkxJQ2pWRi0wTEtBaF83ZWQybFJyUDVpV1ctel91ekRQN1JPUkM1V0JnZ29kc2FKRmFjbmJTU2xLc0tJcjRhZQ?oc=5"
-      },
-      {
-        "category": "ai",
-        "title": "[AI픽] 버터 안 녹는 AI칩까지…정부, 국산 온디바이스 반도체 점검",
-        "summary": "&nbsp;&nbsp;",
-        "source": "연합뉴스",
-        "publishedAt": "2026-05-12",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wY3htdWV1bHZ2VV82STFiS0tGMjduR21FT25XQS15bUJYems2V0s2MmFya1ZWMUJubmlkWXJBclRzUFNxQmtwUThnRDhpd3I5NzlHbmtVS3V1LVXSAWBBVV95cUxOQnBBUjhnNzBSU3FVTjJHSnNrTzB6UTRORDhiTFMwZlo4MHJXN05LZTM4UDZSU0EtVUlFUkJ0VExhX2F1UDdPaEN0U3Z0Y2xjRVQtdGw5endCVjNxcFUwN00?oc=5"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-05-13",
     "articles": [
       {
         "category": "society",
