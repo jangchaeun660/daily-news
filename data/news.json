@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-05-21",
+  "updatedAt": "2026-05-22",
   "articles": [
+    {
+      "category": "society",
+      "title": "영주시, 2027~2030 복지 청사진 그린다…시민 체감형 정책 재설계 착수",
+      "summary": "&nbsp;&nbsp;",
+      "source": "kyongbuk.co.kr",
+      "publishedAt": "2026-05-21",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mVDNPcDRhN2QxaTVER1BHczdpMi1GU3p3SF9xdWpHSnpza0xhcGJxdFdRYko4MUI5aWhfTnVsQXM3NmVZR1ktckxoZkxqUmhEUXZra0J2X2RzRmpHTnJhdllQdUpmZ2NqX3dwMXFMcw?oc=5"
+    },
     {
       "category": "society",
       "title": "“더 촘촘한 복지 그물망”…시흥시, 제11기 지역사회보장협의체 회의 개최",
@@ -10,12 +18,12 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xcy1FMHNveUszeFhjZlBsMF9XU2hPMmZGczFlWGVHcjByNEhqU1VmYjhmWnRBcGpiLUVHRTFwTWgzclFiM3RzM0N2TDFsT1liclliSzNLSUlLUGc?oc=5"
     },
     {
-      "category": "society",
-      "title": "영도구 봉래2동, 명예사회복지공무원 역량강화교육 실시",
+      "category": "ai",
+      "title": "하이퍼엑셀, 차세대 인공지능 칩 ‘카르멘’ 개발 착수",
       "summary": "&nbsp;&nbsp;",
-      "source": "부산일보",
-      "publishedAt": "2026-05-12",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pVXJTZ0F1X0RESTVGdGdwMnpKTkFFd1hSNXg4UXlveWlpSHJXaVNHNGQ1bFN6bF9ObzdrUTIxRmx6VVJrTEZyVGRISXJtbGxvTE9XTmw4Zl9aUkNBbWVfWFhma2dCMDhfQXJwT0ZxcncwTzBF?oc=5"
+      "source": "시사저널e",
+      "publishedAt": "2026-05-21",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBZEpkMjJvcUc1ME4yc2YtUU1FZ01tODBrZGU0enZ1bU5QTVNzZVp4MlNaX1Y4bjlJc1AzYzJqYXE0WVQ1RnJsQVhTV25Kd2thdGRSOHJhN1ozcVM4UjJTYjUxT3RMWGoyQUdKQmRUSl9TeF90d2fSAXZBVV95cUxQQWRKZDIyb3FHNTBOMnNmLVFNRWdNbTgwa2RlNHp2dW1OUE1Tc2VaeDJTWl9WOG45SXNQM2MyamFxNFlUNUZybEFYU1duSndrYXRkUjhyYTdaM3FTOFIyU2I1MU90TFhqMkFHSkJkVEpfU3hfdHdn?oc=5"
     },
     {
       "category": "ai",
@@ -24,14 +32,6 @@
       "source": "알파경제",
       "publishedAt": "2026-05-19",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBSEU1T2ZGd3ZhRzk3UWRBbC15cHc5UHBuN0hHc0RqSTBHNDVqd3ZNNUhrZGRET25lbTlFM1Z2bjAzZnBLWUpDcnJGeEhRU2pheTMyY1dvN3lBNzc1TlE?oc=5"
-    },
-    {
-      "category": "ai",
-      "title": "[AI픽] 버터 안 녹는 AI칩까지…정부, 국산 온디바이스 반도체 점검",
-      "summary": "&nbsp;&nbsp;",
-      "source": "연합뉴스",
-      "publishedAt": "2026-05-12",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wY3htdWV1bHZ2VV82STFiS0tGMjduR21FT25XQS15bUJYems2V0s2MmFya1ZWMUJubmlkWXJBclRzUFNxQmtwUThnRDhpd3I5NzlHbmtVS3V1LVXSAWBBVV95cUxOQnBBUjhnNzBSU3FVTjJHSnNrTzB6UTRORDhiTFMwZlo4MHJXN05LZTM4UDZSU0EtVUlFUkJ0VExhX2F1UDdPaEN0U3Z0Y2xjRVQtdGw5endCVjNxcFUwN00?oc=5"
     }
   ]
 }
