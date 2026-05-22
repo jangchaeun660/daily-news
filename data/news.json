@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-05-22",
-  "windowStart": "2026-05-20T22:00:00.000Z",
-  "windowEnd": "2026-05-21T22:00:00.000Z",
+  "updatedAt": "2026-05-23",
+  "windowStart": "2026-05-21T22:00:00.000Z",
+  "windowEnd": "2026-05-22T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "박찬우 국힘 천안시장 후보 ‘주거 빈곤·공공임대 확대’ 등 4대 주거권 정책 제안",
+      "summary": "“전월세 보증금 부담 완화 등이 가능한 주거복지 지원 조례를 검토하겠습니다.”박찬우 국민의힘 천안시장 후보는 복지세상을 열어가는 시민모임이 주최한 ‘집 걱정 없는 천안을 위한 시장 후보자 정책간담회’에 참석했다고 17일 밝혔다.이번 간담회는 주거권 정책 의제를 ...",
+      "source": "서울신문 on MSN",
+      "publishedAt": "2026-05-17",
+      "url": "https://www.msn.com/ko-kr/news/politics/%EB%B0%95%EC%B0%AC%EC%9A%B0-%EA%B5%AD%ED%9E%98-%EC%B2%9C%EC%95%88%EC%8B%9C%EC%9E%A5-%ED%9B%84%EB%B3%B4-%EC%A3%BC%EA%B1%B0-%EB%B9%88%EA%B3%A4-%EA%B3%B5%EA%B3%B5%EC%9E%84%EB%8C%80-%ED%99%95%EB%8C%80-%EB%93%B1-4%EB%8C%80-%EC%A3%BC%EA%B1%B0%EA%B6%8C-%EC%A0%95%EC%B1%85-%EC%A0%9C%EC%95%88/ar-AA23nrSt",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.6695620b5d71cdbc739348061891edf7&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "[테크M 이슈] \"사회공헌이 아니라 생존\"…4대 금융지주의 포용금융 홍보전 '사활'",
@@ -22,76 +31,40 @@
       "imageUrl": "https://www.bing.com/th?id=ONUT.Ouy90jvmrcAwHPG_103SYQ&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "society",
-      "title": "“노인정책 1순위는 일자리”…고령층, ‘사회적 역할’ 원해",
-      "summary": "【투데이신문 박효령 기자】고령자 10명 중 4명은 정부가 가장 우선적으로 추진해야 할 노인 정책으로 일자리 확대와 소득 보장을 꼽았다. 단순한 생계 지원을 넘어 노인의 사회 참여 욕구까지 반영할 수 있도록 노인일자리 사업에 사회활동 프로그램을 연계해 사회 기여 기반을 확대해야 한다는 목소리가 나온다.15일 노후희망유니온에 따르면 전날 서울 종로구 전태일기념 ...",
-      "source": "투데이신문",
-      "publishedAt": "2026-05-15",
-      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127082",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.2vycaezbKDP56Y7ptvPG5g&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[검색폭발 이슈키워드] 고유가 피해지원금",
-      "summary": "고유가 피해지원금은 미국·이란 전쟁으로 유류비가 상승하자 정부가 국민의 부담을 완화하기 위해 마련한 제도입니다. 신청 기간은 18일부터 오는 7월 3일까지입니다. 첫 주에는 출생 연도 끝자리별 요일제가 적용됩니다. 월요일(1, 6), 화요일(2, 7), 수요일(3, 8), 목요일(4, 9), 금요일(5, 0) 순으로 신청 가능합니다. 오는 23일부터는 요일 ...",
-      "source": "머니투데이 on MSN",
-      "publishedAt": "2026-05-18",
-      "url": "https://www.msn.com/ko-kr/news/national/%EA%B2%80%EC%83%89%ED%8F%AD%EB%B0%9C-%EC%9D%B4%EC%8A%88%ED%82%A4%EC%9B%8C%EB%93%9C-%EA%B3%A0%EC%9C%A0%EA%B0%80-%ED%94%BC%ED%95%B4%EC%A7%80%EC%9B%90%EA%B8%88/ar-AA23rroL",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.fb72a7a279cbd7942f5265fcecb94c38&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "군포시송부종합사회복지관, 어버이날 한우·떡 나눔 어르신 웃음꽃",
-      "summary": "[군포=글로벌뉴스통신]군포시송부종합사회복지관(관장 정창영)은 8일(금) 어버이날을 맞아 복지관 이용 어르신들을 위한 감사 행사를 열고 지역사회 봉사자들과 함께 따뜻한 나눔의 시간을 마련했다. 이날 행사에는 하모니카 재능기부 공연과 배식 봉사, 한우 특식 제공, 떡 나눔 등이 진행돼 복지관을 찾은 어르신들에게 특별한 하루를 선물했다. 특히 지역 봉사자들이 자 ...",
-      "source": "글로벌뉴스통신GNA",
-      "publishedAt": "2026-05-09",
-      "url": "https://www.globalnewsagency.kr/news/articleView.html?idxno=474836",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.gtXT6ZnbY6Psr9ieiAMKNg&pid=News&w=1200&h=675&c=14"
-    },
-    {
       "category": "ai",
-      "title": "신사업 늘리는 네이버 vs 계열사 파는 카카오",
-      "summary": "네이버와 카카오가 같은 듯 다른 사업 전략을 펼치고 있다. 두 회사 모두 올해 '에이전틱 인공지능(AI)'에 주력하는 가운데 네이버는 새로운 사업 확장을, 카카오는 비주력 계열사를 정리하며 선택과 집중에 나서는 모습이다. 네이버는 우버와 손잡고 국내 1위 배달앱인 '배달의 민족(배민)' 인수를 검토하고 있다. 현재 두나무와 합병을 위한 기업결합과 대주주 적 ...",
-      "source": "비즈워치",
+      "title": "“나를 세 문장으로 소개해줘”…인공지능과 대화하기 [.txt]",
+      "summary": "“인공지능이 등장하면서, 상담계는 정말 충격 그 자체입니다. 정신분석을 하는 저도 인공지능에 정신분석 요청을 해보는데요. 놀랍게도 인공지능이 꽤 잘합니다. 저는 요즘 ‘인간만이 할 수 있는 것은 무엇인가?’라는 질문에 사로잡혀 있어요.” 얼마 전 만난 정신분석가는 인공지능이 상담계에 미칠 파장에 고민이 깊어 보였습니다.",
+      "source": "한겨레 on MSN",
       "publishedAt": "2026-05-22",
-      "url": "https://news.bizwatch.co.kr/article/mobile/2026/05/21/0017",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.kWVYzw0BS_g5HR0Hgx5-TQ&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EB%82%98%EB%A5%BC-%EC%84%B8-%EB%AC%B8%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%86%8C%EA%B0%9C%ED%95%B4%EC%A4%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC-%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0-txt/ar-AA23Qupk",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.qrOw-PSbaS12wX4pplC6BA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "경북대 'AI 단과대학' 신설 추진…2027학년도부터 운영 목표",
-      "summary": "(대구=연합뉴스) 최수호 기자 = 대구 거점국립대학인 경북대는 인공지능(AI) 시대를 이끌 전문 인재 양성을 위해 단과대학 신설을 추진하고 있다고 22일 밝혔다. 대학에 따르면 전날 경북대 교수회는 회의를 열고 본부가 추진 중인 'AI 단과대학 신설안'을 심의·가결했다. 해당 안건은 기존 IT대학 소속 컴퓨터학부 전공들을 신설 예정인 AI대학으로 편입하고, ...",
-      "source": "연합뉴스",
+      "title": "AI 도입에서 AI 내재화로… ‘CAIO 시대’ 여는 기업들",
+      "summary": "인공지능(AI)이 기업의 생산성과 비용 구조를 근본적으로 재편함에 따라, 기업들의 관심은 이제 단순한 ‘도입 여부’를 넘어섰다. 시장의 경쟁 기준은 AI를 조직 전반과 의사결정 체계에 얼마나 깊이 내재화하느냐, 즉 ‘AI 네이티브(AI-Native)’ 전환의 완성도로 빠르게 이동하고 ...",
+      "source": "서울신문",
       "publishedAt": "2026-05-22",
-      "url": "https://www.yna.co.kr/view/AKR20260522049000053",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.eIfkbYpt0hsJXS4Gf5YyoQ&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.seoul.co.kr/news/economy/2026/05/22/20260522500131",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.beFgr3rFWajD9s4i7PcA7Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "'완성차 중 피지컬AI 가장 빠르다'...NH, 현대차 목표주가 86만원 제시",
-      "summary": "현대차 주가가 ‘피지컬 인공지능(AI)’ 흐름을 타고 추가 상승할 것이란 전망이 나왔다. 피지컬 AI는 AI 기술을 물리적 환경에서 구현하고 적용하는 것을 말한다. 보통 인간과 비슷한 형태의 휴머노이드 로봇이나 자율주행차 같은 실물 하드웨어에 탑재하는 AI이기도 하다. 하늘 NH투자증권 연구원은 22일 “현대차는 글로벌 완성차 업체 중 피지컬 AI로 전환하 ...",
-      "source": "비즈워치 on MSN",
+      "title": "‘소년공’ 출신 李대통령, ILO 사무총장 만나 “인공 지능 일자리 대체 화두될 것”",
+      "summary": "[헤럴드경제=서영상 기자] 이재명 대통령은 22일 오전 청와대에서 질베르 웅보 국제노동기구(ILO) 사무총장을 접견해 “인공지능에 의한 일자리 대체 문제가 큰 화두가 될 텐데, 역시 ILO의 역할이 매우 기대가 된다”고 밝혔다. 소년공 출신으로 평소 노동자 인권과 산업현장 안전의 중요성을 강조해온 이 대통령은 이날 웅보 사무총장을 만나 노동 존중 사회 구현 ...",
+      "source": "헤럴드경제 on MSN",
       "publishedAt": "2026-05-22",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%99%84%EC%84%B1%EC%B0%A8-%EC%A4%91-%ED%94%BC%EC%A7%80%EC%BB%ACai-%EA%B0%80%EC%9E%A5-%EB%B9%A0%EB%A5%B4%EB%8B%A4nh-%ED%98%84%EB%8C%80%EC%B0%A8-%EB%AA%A9%ED%91%9C%EC%A3%BC%EA%B0%80-86%EB%A7%8C%EC%9B%90-%EC%A0%9C%EC%8B%9C/ar-AA23LXQI",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.a27dc9eeb177754bf7a33fb19931ae70&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%EC%86%8C%EB%85%84%EA%B3%B5-%EC%B6%9C%EC%8B%A0-%E6%9D%8E%EB%8C%80%ED%86%B5%EB%A0%B9-ilo-%EC%82%AC%EB%AC%B4%EC%B4%9D%EC%9E%A5-%EB%A7%8C%EB%82%98-%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5-%EC%9D%BC%EC%9E%90%EB%A6%AC-%EB%8C%80%EC%B2%B4-%ED%99%94%EB%91%90%EB%90%A0-%EA%B2%83/ar-AA23N3fJ",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.CL9OW9CFo31sOvg9CkFBsQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[애널픽] 현대차, 피지컬 AI 선두주자...목표가 86만↑\"",
-      "summary": "현대차가 피지컬 인공지능(AI)의 선두주자로서 밸류에이션 리레이팅 국면에 진입 중이다. NH투자증권은 자율주행과 로보틱스 모두 상용화 시점이 가시권에 진입한 만큼 피어그룹 변경을 적용, 현대차에 대한 목표주가를 기존대비 43.3% 높인 86만원으로 상향했다.22일 하늘 NH투자증권 애널리스트는 `현대차는 글로벌 완성차 업체들 중에서도 피지컬 AI로의 전환 ...",
-      "source": "뷰어스",
+      "title": "축산업의 ‘데이터 경영’ 시대 임박! “AI가 출하 시점까지 예측”",
+      "summary": "국내 양돈산업이 단순 자동화를 넘어 인공지능(AI) 기반 의사결정 산업으로 빠르게 전환되고 있다. 축산물품질평가원은 최근 한국데이터산업진흥원의 ‘2026년 기업 데이터 연계·활용 지원사업’ 수행기관으로 선정되면서 AI 기술을 활용한 양돈기업 생산·수익 향상 서비스 개발에 착수했다고 밝혔다. 축산물품질평가원 빅데이터분석처 백종식 처장이 착수보고회에서 발표를 ...",
+      "source": "더바이어",
       "publishedAt": "2026-05-22",
-      "url": "https://theviewers.co.kr/View.aspx?No=4087138",
-      "imageUrl": "https://www.bing.com/th?id=ONUT._fpAwMQvIfr4BfaddDReJw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "엔비디아 1분기 매출 ‘122조원’ 또 사상 최대…주가는 하락",
-      "summary": "전세계 ‘인공지능 칩’ 시장을 주도하고 있는 미국 엔비디아가 1분기 역대 최고 실적을 달성했다. 엔비디아는 2027회계연도 1분기(올해 2~4월) 매출액이 816억2천만달러(약 122조원)로 지난해 같은 기간에 견줘 85% 늘었다고 20일(현지시각) 공시했다. 직전 분 ...",
-      "source": "한겨레",
-      "publishedAt": "2026-05-21",
-      "url": "https://www.hani.co.kr/arti/economy/marketing/1259786.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.zeeutiM5yOYX6NqBHo2rHw&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.withbuyer.com/news/articleView.html?idxno=32422",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.KprDPAdra5J6jF1HqF1beg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }

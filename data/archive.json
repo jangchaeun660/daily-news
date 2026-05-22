@@ -1,5 +1,75 @@
 [
   {
+    "updatedAt": "2026-05-23",
+    "windowStart": "2026-05-21T22:00:00.000Z",
+    "windowEnd": "2026-05-22T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "박찬우 국힘 천안시장 후보 ‘주거 빈곤·공공임대 확대’ 등 4대 주거권 정책 제안",
+        "summary": "“전월세 보증금 부담 완화 등이 가능한 주거복지 지원 조례를 검토하겠습니다.”박찬우 국민의힘 천안시장 후보는 복지세상을 열어가는 시민모임이 주최한 ‘집 걱정 없는 천안을 위한 시장 후보자 정책간담회’에 참석했다고 17일 밝혔다.이번 간담회는 주거권 정책 의제를 ...",
+        "source": "서울신문 on MSN",
+        "publishedAt": "2026-05-17",
+        "url": "https://www.msn.com/ko-kr/news/politics/%EB%B0%95%EC%B0%AC%EC%9A%B0-%EA%B5%AD%ED%9E%98-%EC%B2%9C%EC%95%88%EC%8B%9C%EC%9E%A5-%ED%9B%84%EB%B3%B4-%EC%A3%BC%EA%B1%B0-%EB%B9%88%EA%B3%A4-%EA%B3%B5%EA%B3%B5%EC%9E%84%EB%8C%80-%ED%99%95%EB%8C%80-%EB%93%B1-4%EB%8C%80-%EC%A3%BC%EA%B1%B0%EA%B6%8C-%EC%A0%95%EC%B1%85-%EC%A0%9C%EC%95%88/ar-AA23nrSt",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.6695620b5d71cdbc739348061891edf7&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[테크M 이슈] \"사회공헌이 아니라 생존\"…4대 금융지주의 포용금융 홍보전 '사활'",
+        "summary": "4대 금융지주가 역대급 실적을 내는 동시에 역대급 규모의 사회 기여 경쟁을 벌이고 있다. 하나금융이 소외지역 어르신을 찾아가는 이동형 금융 버스를 운영하고 사회혁신기업 인턴십으로 고용 취약계층을 연결하는가 하면, 우리금융은 개인신용대출에 금리 상한선을 긋고 장애인 고용사업장을 영업점 안에 들였다. KB금융은 제2금융권 차주를 은행으로 끌어들이는 대환 전용 ...",
+        "source": "테크M on MSN",
+        "publishedAt": "2026-05-19",
+        "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%ED%85%8C%ED%81%ACm-%EC%9D%B4%EC%8A%88-%EC%82%AC%ED%9A%8C%EA%B3%B5%ED%97%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%83%9D%EC%A1%B4-4%EB%8C%80-%EA%B8%88%EC%9C%B5%EC%A7%80%EC%A3%BC%EC%9D%98-%ED%8F%AC%EC%9A%A9%EA%B8%88%EC%9C%B5-%ED%99%8D%EB%B3%B4%EC%A0%84-%EC%82%AC%ED%99%9C/ar-AA23vMyD",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.RbBEeoqtaUGHCSy3-996uQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[검색폭발 이슈키워드] 긴급조정권",
+        "summary": "긴급조정권은 노동조합의 파업이나 쟁의가 국민경제에 중대한 영향을 미칠 우려가 있을 때 정부(고용노동부 장관)가 발동할 수 있는 조치입니다. 이번 합의 결렬로 노조는 파업을 강행할 계획이지만, 정부는 파업만은 막아야 한다는 입장입니다.",
+        "source": "머니투데이",
+        "publishedAt": "2026-05-20",
+        "url": "https://www.mt.co.kr/society/2026/05/20/2026052015424463798",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Ouy90jvmrcAwHPG_103SYQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "“나를 세 문장으로 소개해줘”…인공지능과 대화하기 [.txt]",
+        "summary": "“인공지능이 등장하면서, 상담계는 정말 충격 그 자체입니다. 정신분석을 하는 저도 인공지능에 정신분석 요청을 해보는데요. 놀랍게도 인공지능이 꽤 잘합니다. 저는 요즘 ‘인간만이 할 수 있는 것은 무엇인가?’라는 질문에 사로잡혀 있어요.” 얼마 전 만난 정신분석가는 인공지능이 상담계에 미칠 파장에 고민이 깊어 보였습니다.",
+        "source": "한겨레 on MSN",
+        "publishedAt": "2026-05-22",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EB%82%98%EB%A5%BC-%EC%84%B8-%EB%AC%B8%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%86%8C%EA%B0%9C%ED%95%B4%EC%A4%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC-%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0-txt/ar-AA23Qupk",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.qrOw-PSbaS12wX4pplC6BA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI 도입에서 AI 내재화로… ‘CAIO 시대’ 여는 기업들",
+        "summary": "인공지능(AI)이 기업의 생산성과 비용 구조를 근본적으로 재편함에 따라, 기업들의 관심은 이제 단순한 ‘도입 여부’를 넘어섰다. 시장의 경쟁 기준은 AI를 조직 전반과 의사결정 체계에 얼마나 깊이 내재화하느냐, 즉 ‘AI 네이티브(AI-Native)’ 전환의 완성도로 빠르게 이동하고 ...",
+        "source": "서울신문",
+        "publishedAt": "2026-05-22",
+        "url": "https://www.seoul.co.kr/news/economy/2026/05/22/20260522500131",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.beFgr3rFWajD9s4i7PcA7Q&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "‘소년공’ 출신 李대통령, ILO 사무총장 만나 “인공 지능 일자리 대체 화두될 것”",
+        "summary": "[헤럴드경제=서영상 기자] 이재명 대통령은 22일 오전 청와대에서 질베르 웅보 국제노동기구(ILO) 사무총장을 접견해 “인공지능에 의한 일자리 대체 문제가 큰 화두가 될 텐데, 역시 ILO의 역할이 매우 기대가 된다”고 밝혔다. 소년공 출신으로 평소 노동자 인권과 산업현장 안전의 중요성을 강조해온 이 대통령은 이날 웅보 사무총장을 만나 노동 존중 사회 구현 ...",
+        "source": "헤럴드경제 on MSN",
+        "publishedAt": "2026-05-22",
+        "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%EC%86%8C%EB%85%84%EA%B3%B5-%EC%B6%9C%EC%8B%A0-%E6%9D%8E%EB%8C%80%ED%86%B5%EB%A0%B9-ilo-%EC%82%AC%EB%AC%B4%EC%B4%9D%EC%9E%A5-%EB%A7%8C%EB%82%98-%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5-%EC%9D%BC%EC%9E%90%EB%A6%AC-%EB%8C%80%EC%B2%B4-%ED%99%94%EB%91%90%EB%90%A0-%EA%B2%83/ar-AA23N3fJ",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.CL9OW9CFo31sOvg9CkFBsQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "축산업의 ‘데이터 경영’ 시대 임박! “AI가 출하 시점까지 예측”",
+        "summary": "국내 양돈산업이 단순 자동화를 넘어 인공지능(AI) 기반 의사결정 산업으로 빠르게 전환되고 있다. 축산물품질평가원은 최근 한국데이터산업진흥원의 ‘2026년 기업 데이터 연계·활용 지원사업’ 수행기관으로 선정되면서 AI 기술을 활용한 양돈기업 생산·수익 향상 서비스 개발에 착수했다고 밝혔다. 축산물품질평가원 빅데이터분석처 백종식 처장이 착수보고회에서 발표를 ...",
+        "source": "더바이어",
+        "publishedAt": "2026-05-22",
+        "url": "https://www.withbuyer.com/news/articleView.html?idxno=32422",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.KprDPAdra5J6jF1HqF1beg&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-05-22",
     "windowStart": "2026-05-20T22:00:00.000Z",
     "windowEnd": "2026-05-21T22:00:00.000Z",
