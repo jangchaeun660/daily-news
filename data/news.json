@@ -1,37 +1,97 @@
 {
   "updatedAt": "2026-05-22",
+  "windowStart": "2026-05-20T22:00:00.000Z",
+  "windowEnd": "2026-05-21T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "영주시, 2027~2030 복지 청사진 그린다…시민 체감형 정책 재설계 착수",
-      "summary": "&nbsp;&nbsp;",
-      "source": "kyongbuk.co.kr",
-      "publishedAt": "2026-05-21",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mVDNPcDRhN2QxaTVER1BHczdpMi1GU3p3SF9xdWpHSnpza0xhcGJxdFdRYko4MUI5aWhfTnVsQXM3NmVZR1ktckxoZkxqUmhEUXZra0J2X2RzRmpHTnJhdllQdUpmZ2NqX3dwMXFMcw?oc=5"
+      "title": "[테크M 이슈] \"사회공헌이 아니라 생존\"…4대 금융지주의 포용금융 홍보전 '사활'",
+      "summary": "4대 금융지주가 역대급 실적을 내는 동시에 역대급 규모의 사회 기여 경쟁을 벌이고 있다. 하나금융이 소외지역 어르신을 찾아가는 이동형 금융 버스를 운영하고 사회혁신기업 인턴십으로 고용 취약계층을 연결하는가 하면, 우리금융은 개인신용대출에 금리 상한선을 긋고 장애인 고용사업장을 영업점 안에 들였다. KB금융은 제2금융권 차주를 은행으로 끌어들이는 대환 전용 ...",
+      "source": "테크M on MSN",
+      "publishedAt": "2026-05-19",
+      "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%ED%85%8C%ED%81%ACm-%EC%9D%B4%EC%8A%88-%EC%82%AC%ED%9A%8C%EA%B3%B5%ED%97%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%83%9D%EC%A1%B4-4%EB%8C%80-%EA%B8%88%EC%9C%B5%EC%A7%80%EC%A3%BC%EC%9D%98-%ED%8F%AC%EC%9A%A9%EA%B8%88%EC%9C%B5-%ED%99%8D%EB%B3%B4%EC%A0%84-%EC%82%AC%ED%99%9C/ar-AA23vMyD",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.RbBEeoqtaUGHCSy3-996uQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "“더 촘촘한 복지 그물망”…시흥시, 제11기 지역사회보장협의체 회의 개최",
-      "summary": "&nbsp;&nbsp;",
-      "source": "경기일보",
-      "publishedAt": "2026-05-17",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xcy1FMHNveUszeFhjZlBsMF9XU2hPMmZGczFlWGVHcjByNEhqU1VmYjhmWnRBcGpiLUVHRTFwTWgzclFiM3RzM0N2TDFsT1liclliSzNLSUlLUGc?oc=5"
+      "title": "[검색폭발 이슈키워드] 긴급조정권",
+      "summary": "긴급조정권은 노동조합의 파업이나 쟁의가 국민경제에 중대한 영향을 미칠 우려가 있을 때 정부(고용노동부 장관)가 발동할 수 있는 조치입니다. 이번 합의 결렬로 노조는 파업을 강행할 계획이지만, 정부는 파업만은 막아야 한다는 입장입니다.",
+      "source": "머니투데이",
+      "publishedAt": "2026-05-20",
+      "url": "https://www.mt.co.kr/society/2026/05/20/2026052015424463798",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Ouy90jvmrcAwHPG_103SYQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "“노인정책 1순위는 일자리”…고령층, ‘사회적 역할’ 원해",
+      "summary": "【투데이신문 박효령 기자】고령자 10명 중 4명은 정부가 가장 우선적으로 추진해야 할 노인 정책으로 일자리 확대와 소득 보장을 꼽았다. 단순한 생계 지원을 넘어 노인의 사회 참여 욕구까지 반영할 수 있도록 노인일자리 사업에 사회활동 프로그램을 연계해 사회 기여 기반을 확대해야 한다는 목소리가 나온다.15일 노후희망유니온에 따르면 전날 서울 종로구 전태일기념 ...",
+      "source": "투데이신문",
+      "publishedAt": "2026-05-15",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127082",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.2vycaezbKDP56Y7ptvPG5g&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[검색폭발 이슈키워드] 고유가 피해지원금",
+      "summary": "고유가 피해지원금은 미국·이란 전쟁으로 유류비가 상승하자 정부가 국민의 부담을 완화하기 위해 마련한 제도입니다. 신청 기간은 18일부터 오는 7월 3일까지입니다. 첫 주에는 출생 연도 끝자리별 요일제가 적용됩니다. 월요일(1, 6), 화요일(2, 7), 수요일(3, 8), 목요일(4, 9), 금요일(5, 0) 순으로 신청 가능합니다. 오는 23일부터는 요일 ...",
+      "source": "머니투데이 on MSN",
+      "publishedAt": "2026-05-18",
+      "url": "https://www.msn.com/ko-kr/news/national/%EA%B2%80%EC%83%89%ED%8F%AD%EB%B0%9C-%EC%9D%B4%EC%8A%88%ED%82%A4%EC%9B%8C%EB%93%9C-%EA%B3%A0%EC%9C%A0%EA%B0%80-%ED%94%BC%ED%95%B4%EC%A7%80%EC%9B%90%EA%B8%88/ar-AA23rroL",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.fb72a7a279cbd7942f5265fcecb94c38&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "군포시송부종합사회복지관, 어버이날 한우·떡 나눔 어르신 웃음꽃",
+      "summary": "[군포=글로벌뉴스통신]군포시송부종합사회복지관(관장 정창영)은 8일(금) 어버이날을 맞아 복지관 이용 어르신들을 위한 감사 행사를 열고 지역사회 봉사자들과 함께 따뜻한 나눔의 시간을 마련했다. 이날 행사에는 하모니카 재능기부 공연과 배식 봉사, 한우 특식 제공, 떡 나눔 등이 진행돼 복지관을 찾은 어르신들에게 특별한 하루를 선물했다. 특히 지역 봉사자들이 자 ...",
+      "source": "글로벌뉴스통신GNA",
+      "publishedAt": "2026-05-09",
+      "url": "https://www.globalnewsagency.kr/news/articleView.html?idxno=474836",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.gtXT6ZnbY6Psr9ieiAMKNg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "하이퍼엑셀, 차세대 인공지능 칩 ‘카르멘’ 개발 착수",
-      "summary": "&nbsp;&nbsp;",
-      "source": "시사저널e",
+      "title": "신사업 늘리는 네이버 vs 계열사 파는 카카오",
+      "summary": "네이버와 카카오가 같은 듯 다른 사업 전략을 펼치고 있다. 두 회사 모두 올해 '에이전틱 인공지능(AI)'에 주력하는 가운데 네이버는 새로운 사업 확장을, 카카오는 비주력 계열사를 정리하며 선택과 집중에 나서는 모습이다. 네이버는 우버와 손잡고 국내 1위 배달앱인 '배달의 민족(배민)' 인수를 검토하고 있다. 현재 두나무와 합병을 위한 기업결합과 대주주 적 ...",
+      "source": "비즈워치",
+      "publishedAt": "2026-05-22",
+      "url": "https://news.bizwatch.co.kr/article/mobile/2026/05/21/0017",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.kWVYzw0BS_g5HR0Hgx5-TQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "경북대 'AI 단과대학' 신설 추진…2027학년도부터 운영 목표",
+      "summary": "(대구=연합뉴스) 최수호 기자 = 대구 거점국립대학인 경북대는 인공지능(AI) 시대를 이끌 전문 인재 양성을 위해 단과대학 신설을 추진하고 있다고 22일 밝혔다. 대학에 따르면 전날 경북대 교수회는 회의를 열고 본부가 추진 중인 'AI 단과대학 신설안'을 심의·가결했다. 해당 안건은 기존 IT대학 소속 컴퓨터학부 전공들을 신설 예정인 AI대학으로 편입하고, ...",
+      "source": "연합뉴스",
+      "publishedAt": "2026-05-22",
+      "url": "https://www.yna.co.kr/view/AKR20260522049000053",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.eIfkbYpt0hsJXS4Gf5YyoQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "'완성차 중 피지컬AI 가장 빠르다'...NH, 현대차 목표주가 86만원 제시",
+      "summary": "현대차 주가가 ‘피지컬 인공지능(AI)’ 흐름을 타고 추가 상승할 것이란 전망이 나왔다. 피지컬 AI는 AI 기술을 물리적 환경에서 구현하고 적용하는 것을 말한다. 보통 인간과 비슷한 형태의 휴머노이드 로봇이나 자율주행차 같은 실물 하드웨어에 탑재하는 AI이기도 하다. 하늘 NH투자증권 연구원은 22일 “현대차는 글로벌 완성차 업체 중 피지컬 AI로 전환하 ...",
+      "source": "비즈워치 on MSN",
+      "publishedAt": "2026-05-22",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%99%84%EC%84%B1%EC%B0%A8-%EC%A4%91-%ED%94%BC%EC%A7%80%EC%BB%ACai-%EA%B0%80%EC%9E%A5-%EB%B9%A0%EB%A5%B4%EB%8B%A4nh-%ED%98%84%EB%8C%80%EC%B0%A8-%EB%AA%A9%ED%91%9C%EC%A3%BC%EA%B0%80-86%EB%A7%8C%EC%9B%90-%EC%A0%9C%EC%8B%9C/ar-AA23LXQI",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.a27dc9eeb177754bf7a33fb19931ae70&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "[애널픽] 현대차, 피지컬 AI 선두주자...목표가 86만↑\"",
+      "summary": "현대차가 피지컬 인공지능(AI)의 선두주자로서 밸류에이션 리레이팅 국면에 진입 중이다. NH투자증권은 자율주행과 로보틱스 모두 상용화 시점이 가시권에 진입한 만큼 피어그룹 변경을 적용, 현대차에 대한 목표주가를 기존대비 43.3% 높인 86만원으로 상향했다.22일 하늘 NH투자증권 애널리스트는 `현대차는 글로벌 완성차 업체들 중에서도 피지컬 AI로의 전환 ...",
+      "source": "뷰어스",
+      "publishedAt": "2026-05-22",
+      "url": "https://theviewers.co.kr/View.aspx?No=4087138",
+      "imageUrl": "https://www.bing.com/th?id=ONUT._fpAwMQvIfr4BfaddDReJw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "엔비디아 1분기 매출 ‘122조원’ 또 사상 최대…주가는 하락",
+      "summary": "전세계 ‘인공지능 칩’ 시장을 주도하고 있는 미국 엔비디아가 1분기 역대 최고 실적을 달성했다. 엔비디아는 2027회계연도 1분기(올해 2~4월) 매출액이 816억2천만달러(약 122조원)로 지난해 같은 기간에 견줘 85% 늘었다고 20일(현지시각) 공시했다. 직전 분 ...",
+      "source": "한겨레",
       "publishedAt": "2026-05-21",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBZEpkMjJvcUc1ME4yc2YtUU1FZ01tODBrZGU0enZ1bU5QTVNzZVp4MlNaX1Y4bjlJc1AzYzJqYXE0WVQ1RnJsQVhTV25Kd2thdGRSOHJhN1ozcVM4UjJTYjUxT3RMWGoyQUdKQmRUSl9TeF90d2fSAXZBVV95cUxQQWRKZDIyb3FHNTBOMnNmLVFNRWdNbTgwa2RlNHp2dW1OUE1Tc2VaeDJTWl9WOG45SXNQM2MyamFxNFlUNUZybEFYU1duSndrYXRkUjhyYTdaM3FTOFIyU2I1MU90TFhqMkFHSkJkVEpfU3hfdHdn?oc=5"
-    },
-    {
-      "category": "ai",
-      "title": "[이제는 전력반도체]⑦‘손 안의 AI 혁명’ 온디바이스 AI, 숨은 공신은 ‘전력반도체’였다",
-      "summary": "&nbsp;&nbsp;",
-      "source": "알파경제",
-      "publishedAt": "2026-05-19",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBSEU1T2ZGd3ZhRzk3UWRBbC15cHc5UHBuN0hHc0RqSTBHNDVqd3ZNNUhrZGRET25lbTlFM1Z2bjAzZnBLWUpDcnJGeEhRU2pheTMyY1dvN3lBNzc1TlE?oc=5"
+      "url": "https://www.hani.co.kr/arti/economy/marketing/1259786.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.zeeutiM5yOYX6NqBHo2rHw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }

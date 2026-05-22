@@ -17,6 +17,7 @@
         <div class="nav-links">
           <a class="nav-link active" href="#home" data-view-link="home">Home</a>
           <a class="nav-link" href="#article" data-view-link="article">Article</a>
+          <a class="nav-link" href="#display" data-view-link="display">Display</a>
         </div>
       </nav>
     </header>
@@ -26,7 +27,7 @@
         <section class="hero" id="home">
           <p class="eyebrow">LATEST BRIEFING</p>
           <h1>Daily news</h1>
-          <p class="hero-copy">사회 이슈와 AI 트렌드를 매일 2개씩 엄선해 보여주는 뉴스 보드</p>
+          <p class="hero-copy">매일 오전 7시, 지난 24시간 동안 올라온 사회 이슈와 AI 뉴스를 골라 보여주는 뉴스 보드</p>
         </section>
 
         <section class="toolbar" aria-label="News filters">
@@ -46,21 +47,25 @@
         <section class="summary" aria-label="Today summary">
           <article>
             <span class="summary-label">TODAY</span>
-            <strong id="todayCount">4 updates</strong>
+            <strong id="todayCount">0 updates</strong>
+            <p>사회 뉴스와 AI 뉴스를 각각 3~5개씩 모아 빠르게 확인합니다.</p>
           </article>
           <article>
-            <span class="summary-label">UPDATED</span>
+            <span class="summary-label">WINDOW</span>
             <strong id="updatedAt">-</strong>
+            <p id="newsWindow">업데이트 기준 직전 24시간의 기사만 보여줍니다.</p>
           </article>
         </section>
 
         <section class="news-board" aria-live="polite">
           <div class="section-heading" id="society">
+            <p class="eyebrow">SOCIAL ISSUES</p>
             <h2>Society News</h2>
           </div>
           <div class="news-list" id="societyList"></div>
 
           <div class="section-heading" id="ai">
+            <p class="eyebrow">ARTIFICIAL INTELLIGENCE</p>
             <h2>AI News</h2>
           </div>
           <div class="news-list" id="aiList"></div>
@@ -79,13 +84,7 @@
               <p class="eyebrow">LAST 7 DAYS</p>
               <h2>Weekly Articles</h2>
             </div>
-            <div class="archive-controls" aria-label="Archive filters">
-              <label class="search archive-search">
-                <svg aria-hidden="true" viewBox="0 0 24 24">
-                  <path d="m21 21-4.3-4.3m1.3-5.2a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0Z" />
-                </svg>
-                <input id="archiveSearchInput" type="search" placeholder="Search news..." />
-              </label>
+            <div class="archive-controls" aria-label="Archive date filter">
               <label class="date-picker">
                 <span>날짜 선택</span>
                 <input id="archiveDateInput" type="date" />
@@ -95,6 +94,23 @@
           </div>
           <div class="archive-range" id="archiveRange">최근 7일 기사</div>
           <div class="news-list archive-list" id="archiveList"></div>
+        </section>
+      </div>
+
+      <div id="displayView" class="view hidden">
+        <section class="display-stage" aria-live="polite">
+          <div class="display-media" id="displayMedia"></div>
+          <div class="display-copy">
+            <div class="display-topline">
+              <span class="tag" id="displayTag">News</span>
+              <span id="displayCounter">1 / 1</span>
+            </div>
+            <h1 id="displayTitle">Daily news</h1>
+            <p id="displaySummary">뉴스를 불러오는 중입니다.</p>
+            <div class="display-meta" id="displayMeta"></div>
+            <a class="display-link" id="displayLink" href="#" target="_blank" rel="noreferrer">Read article</a>
+          </div>
+          <div class="display-dots" id="displayDots" aria-hidden="true"></div>
         </section>
       </div>
     </main>

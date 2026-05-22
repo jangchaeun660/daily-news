@@ -3,44 +3,41 @@ const state = {
   query: "",
   archiveQuery: "",
   selectedArchiveDate: "",
-  news: { updatedAt: "", articles: [] },
+  displayIndex: 0,
+  displayTimer: null,
+  news: { updatedAt: "", windowStart: "", windowEnd: "", articles: [] },
   archive: [],
 };
 
+const placeholderImages = {
+  society:
+    "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 700'%3E%3Crect width='1200' height='700' fill='%23eaf3f7'/%3E%3Cpath d='M90 535h1020' stroke='%23003f9e' stroke-width='18' stroke-linecap='round' opacity='.18'/%3E%3Ccircle cx='260' cy='250' r='118' fill='%230064c8' opacity='.18'/%3E%3Crect x='430' y='180' width='520' height='64' rx='32' fill='%23001c55' opacity='.2'/%3E%3Crect x='430' y='286' width='390' height='44' rx='22' fill='%23003f9e' opacity='.18'/%3E%3Crect x='430' y='366' width='470' height='44' rx='22' fill='%23003f9e' opacity='.12'/%3E%3C/svg%3E",
+  ai:
+    "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 700'%3E%3Crect width='1200' height='700' fill='%23eef5ff'/%3E%3Crect x='335' y='155' width='530' height='390' rx='58' fill='%23003f9e' opacity='.16'/%3E%3Cpath d='M470 350h260M600 220v260M470 260h260M470 440h260' stroke='%23001c55' stroke-width='24' stroke-linecap='round' opacity='.28'/%3E%3Ccircle cx='430' cy='350' r='34' fill='%230064c8' opacity='.35'/%3E%3Ccircle cx='770' cy='350' r='34' fill='%230064c8' opacity='.35'/%3E%3C/svg%3E",
+};
+
 const fallbackNews = {
-  updatedAt: "2026-05-04",
+  updatedAt: "2026-05-19",
+  windowStart: "2026-05-18T22:00:00.000Z",
+  windowEnd: "2026-05-19T22:00:00.000Z",
   articles: [
     {
       category: "society",
-      title: "사회 안전망과 복지 정책을 둘러싼 논의가 이어지고 있습니다",
-      summary: "정부와 지자체의 복지, 교육, 주거 정책 변화를 중심으로 시민 생활에 영향을 주는 이슈를 정리했습니다.",
+      title: "최근 24시간 사회 주요 뉴스를 불러오는 중입니다",
+      summary: "자동 업데이트가 실행되면 전날 오전 7시 이후부터 오늘 오전 7시까지 올라온 사회 뉴스가 표시됩니다.",
       source: "Daily news",
-      publishedAt: "2026-05-04",
-      url: "https://news.google.com/search?q=%EC%82%AC%ED%9A%8C%20%EB%B3%B5%EC%A7%80%20%EC%A0%95%EC%B1%85&hl=ko&gl=KR&ceid=KR%3Ako",
-    },
-    {
-      category: "society",
-      title: "교육과 보육 지원 확대 관련 정책 뉴스가 주목받고 있습니다",
-      summary: "유아 교육, 돌봄, 보육 지원 등 가정과 학교 현장에 연결되는 주요 사회 뉴스를 모았습니다.",
-      source: "Daily news",
-      publishedAt: "2026-05-04",
-      url: "https://news.google.com/search?q=%EA%B5%90%EC%9C%A1%20%EB%B3%B4%EC%9C%A1%20%EC%A7%80%EC%9B%90&hl=ko&gl=KR&ceid=KR%3Ako",
+      publishedAt: "2026-05-19",
+      url: "https://news.google.com/search?q=%EC%82%AC%ED%9A%8C%20%EC%9D%B4%EC%8A%88&hl=ko&gl=KR&ceid=KR%3Ako",
+      imageUrl: placeholderImages.society,
     },
     {
       category: "ai",
-      title: "AI 반도체와 데이터센터 경쟁이 빠르게 확대되고 있습니다",
-      summary: "인공지능 서비스 확산으로 고성능 칩, 서버, 데이터센터 인프라 투자가 주요 기술 뉴스로 떠올랐습니다.",
+      title: "최근 24시간 AI 주요 뉴스를 불러오는 중입니다",
+      summary: "자동 업데이트가 실행되면 전날 오전 7시 이후부터 오늘 오전 7시까지 올라온 AI 뉴스가 표시됩니다.",
       source: "Daily news",
-      publishedAt: "2026-05-04",
-      url: "https://news.google.com/search?q=AI%20%EB%B0%98%EB%8F%84%EC%B2%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0&hl=ko&gl=KR&ceid=KR%3Ako",
-    },
-    {
-      category: "ai",
-      title: "모바일 기기 안에서 실행되는 온디바이스 AI 기술이 확산되고 있습니다",
-      summary: "스마트폰과 PC에서 개인정보를 보호하면서 빠르게 작동하는 AI 기능이 새로운 경쟁 포인트가 되고 있습니다.",
-      source: "Daily news",
-      publishedAt: "2026-05-04",
-      url: "https://news.google.com/search?q=%EC%98%A8%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20AI&hl=ko&gl=KR&ceid=KR%3Ako",
+      publishedAt: "2026-05-19",
+      url: "https://news.google.com/search?q=AI%20%EC%9D%B4%EC%8A%88&hl=ko&gl=KR&ceid=KR%3Ako",
+      imageUrl: placeholderImages.ai,
     },
   ],
 };
@@ -56,10 +53,12 @@ const lists = {
 const views = {
   home: document.querySelector("#homeView"),
   article: document.querySelector("#articleView"),
+  display: document.querySelector("#displayView"),
 };
 
 const updatedAt = document.querySelector("#updatedAt");
 const todayCount = document.querySelector("#todayCount");
+const newsWindow = document.querySelector("#newsWindow");
 const searchInput = document.querySelector("#searchInput");
 const archiveSearchInput = document.querySelector("#archiveSearchInput");
 const chips = document.querySelectorAll(".chip");
@@ -67,6 +66,14 @@ const navLinks = document.querySelectorAll("[data-view-link]");
 const archiveRange = document.querySelector("#archiveRange");
 const archiveDateInput = document.querySelector("#archiveDateInput");
 const archiveClearButton = document.querySelector("#archiveClearButton");
+const displayMedia = document.querySelector("#displayMedia");
+const displayTag = document.querySelector("#displayTag");
+const displayCounter = document.querySelector("#displayCounter");
+const displayTitle = document.querySelector("#displayTitle");
+const displaySummary = document.querySelector("#displaySummary");
+const displayMeta = document.querySelector("#displayMeta");
+const displayLink = document.querySelector("#displayLink");
+const displayDots = document.querySelector("#displayDots");
 
 async function loadNews() {
   state.news = await fetchJson("data/news.json", fallbackNews);
@@ -79,6 +86,7 @@ async function loadNews() {
   setupArchiveDatePicker();
   updatedAt.textContent = formatDate(state.news.updatedAt);
   todayCount.textContent = `${state.news.articles.length} updates`;
+  newsWindow.textContent = formatWindow(state.news.windowStart, state.news.windowEnd);
   render();
   route();
 }
@@ -103,6 +111,7 @@ function render() {
   renderList(lists.ai, filtered.filter((article) => article.category === "ai"), state.news.updatedAt);
   toggleSectionVisibility();
   renderArchive();
+  renderDisplay();
 }
 
 function toggleSectionVisibility() {
@@ -175,13 +184,12 @@ function renderArchive() {
 function createCard(article, updatedDate) {
   const card = document.createElement("article");
   card.className = "news-card";
-
-  const label = article.category === "ai" ? "AI" : "Society";
+  const imageUrl = getArticleImage(article);
 
   card.innerHTML = `
-    <div class="date-badge">${formatShortDate(updatedDate)}</div>
+    <img class="news-thumb" src="${escapeAttribute(imageUrl)}" alt="" loading="lazy" />
     <div>
-      <span class="tag ${article.category}">${label}</span>
+      <span class="tag ${article.category}">${getCategoryLabel(article.category)}</span>
       <h3>${escapeHtml(article.title)}</h3>
       <p>${escapeHtml(article.summary)}</p>
       <div class="meta">
@@ -190,16 +198,71 @@ function createCard(article, updatedDate) {
         <span>${escapeHtml(article.source)}</span>
       </div>
     </div>
-    <a class="read-link" href="${article.url}" target="_blank" rel="noreferrer">Read</a>
+    <a class="read-link" href="${escapeAttribute(article.url)}" target="_blank" rel="noreferrer">Read</a>
   `;
+
+  const image = card.querySelector(".news-thumb");
+  image.addEventListener("error", () => {
+    image.src = placeholderImages[article.category] || placeholderImages.society;
+  });
 
   return card;
 }
 
+function renderDisplay() {
+  const articles = state.news.articles;
+  if (!articles.length) return;
+  if (state.displayIndex >= articles.length) state.displayIndex = 0;
+
+  const article = articles[state.displayIndex];
+  const imageUrl = getArticleImage(article);
+  displayMedia.style.backgroundImage = `linear-gradient(90deg, rgba(0, 19, 53, 0.24), rgba(0, 19, 53, 0.86)), url("${imageUrl}")`;
+  displayTag.className = `tag ${article.category}`;
+  displayTag.textContent = getCategoryLabel(article.category);
+  displayCounter.textContent = `${state.displayIndex + 1} / ${articles.length}`;
+  displayTitle.textContent = article.title;
+  displaySummary.textContent = article.summary;
+  displayMeta.textContent = `${article.source} · ${formatDate(article.publishedAt)} · ${formatWindow(state.news.windowStart, state.news.windowEnd)}`;
+  displayLink.href = article.url;
+  displayDots.innerHTML = articles
+    .map((_, index) => `<span class="${index === state.displayIndex ? "active" : ""}"></span>`)
+    .join("");
+
+  const image = new Image();
+  image.onerror = () => {
+    displayMedia.style.backgroundImage = `linear-gradient(90deg, rgba(0, 19, 53, 0.24), rgba(0, 19, 53, 0.86)), url("${placeholderImages[article.category] || placeholderImages.society}")`;
+  };
+  image.src = imageUrl;
+}
+
 function route() {
-  const target = window.location.hash === "#article" ? "article" : "home";
+  const target = window.location.hash === "#article" ? "article" : window.location.hash === "#display" ? "display" : "home";
   Object.entries(views).forEach(([name, element]) => element.classList.toggle("hidden", name !== target));
   navLinks.forEach((link) => link.classList.toggle("active", link.dataset.viewLink === target));
+  document.body.classList.toggle("display-mode", target === "display");
+
+  if (target === "display") {
+    startDisplayRotation();
+  } else {
+    stopDisplayRotation();
+  }
+}
+
+function startDisplayRotation() {
+  stopDisplayRotation();
+  if (!state.news.articles.length) return;
+  renderDisplay();
+  state.displayTimer = window.setInterval(() => {
+    state.displayIndex = (state.displayIndex + 1) % state.news.articles.length;
+    renderDisplay();
+  }, 10000);
+}
+
+function stopDisplayRotation() {
+  if (state.displayTimer) {
+    window.clearInterval(state.displayTimer);
+    state.displayTimer = null;
+  }
 }
 
 function setupArchiveDatePicker() {
@@ -222,6 +285,34 @@ function countArticles(entries) {
   return entries.reduce((total, entry) => total + entry.articles.length, 0);
 }
 
+function getArticleImage(article) {
+  const imageUrl = article.imageUrl || "";
+  const looksLikeSourceIcon = imageUrl.includes("lh3.googleusercontent.com") && imageUrl.includes("s0-w300");
+  return looksLikeSourceIcon ? placeholderImages[article.category] : imageUrl || placeholderImages[article.category] || placeholderImages.society;
+}
+
+function getCategoryLabel(category) {
+  return category === "ai" ? "AI" : "Society";
+}
+
+function formatWindow(startValue, endValue) {
+  if (!startValue || !endValue) return "업데이트 기준 직전 24시간";
+
+  const start = new Date(startValue);
+  const end = new Date(endValue);
+  if (Number.isNaN(start.getTime()) || Number.isNaN(end.getTime())) return "업데이트 기준 직전 24시간";
+
+  const formatter = new Intl.DateTimeFormat("ko-KR", {
+    timeZone: "Asia/Seoul",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+  });
+
+  return `${formatter.format(start)} - ${formatter.format(end)}`;
+}
+
 function formatDate(value) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return value;
@@ -230,12 +321,6 @@ function formatDate(value) {
     month: "2-digit",
     day: "2-digit",
   }).format(date);
-}
-
-function formatShortDate(value) {
-  const date = new Date(value);
-  if (Number.isNaN(date.getTime())) return "NEW";
-  return `${date.getMonth() + 1}/${date.getDate()}`;
 }
 
 function getRecentArchive(entries) {
@@ -263,6 +348,10 @@ function escapeHtml(value) {
     };
     return entities[character];
   });
+}
+
+function escapeAttribute(value) {
+  return escapeHtml(value).replace(/`/g, "&#96;");
 }
 
 chips.forEach((chip) => {
