@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-05-24",
-  "windowStart": "2026-05-22T22:00:00.000Z",
-  "windowEnd": "2026-05-23T22:00:00.000Z",
+  "updatedAt": "2026-05-25",
+  "windowStart": "2026-05-23T22:00:00.000Z",
+  "windowEnd": "2026-05-24T22:00:00.000Z",
   "articles": [
-    {
-      "category": "society",
-      "title": "한국전쟁 당시 형 3명 군경에 학살당한 유족에 1억원 국가 배상",
-      "summary": "(서울=연합뉴스) 김빛나 기자 = 한국전쟁 발발 직후 충남 지역에서 군경에 가족을 잃은 민간인 유족에게 국가가 1억여원을 배상해야 한다는 법원 판단이 나왔다. 24일 법조계에 따르면 서울중앙지법 민사단독70 박재민 판사는 최근 A씨가 국가를 상대로 낸 손해배상 소송에서 \"1억500여만원을 지급하라\"고 판결했다. 재판부는 ...",
-      "source": "연합뉴스 on MSN",
-      "publishedAt": "2026-05-23",
-      "url": "https://www.msn.com/ko-kr/news/national/%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9F%81-%EB%8B%B9%EC%8B%9C-%ED%98%95-3%EB%AA%85-%EA%B5%B0%EA%B2%BD%EC%97%90-%ED%95%99%EC%82%B4%EB%8B%B9%ED%95%9C-%EC%9C%A0%EC%A1%B1%EC%97%90-1%EC%96%B5%EC%9B%90-%EA%B5%AD%EA%B0%80-%EB%B0%B0%EC%83%81/ar-AA23UnY5",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.UbtZpGsxV71JglnqSjgjAA&pid=News&w=1200&h=675&c=14"
-    },
     {
       "category": "society",
       "title": "[이슈] 삼전 사태 후 정부, AI시대 대응...AI 노사상생위 출범·국제 AI협력체계 구축…李 \"AI일자리 화두\"",
@@ -20,15 +11,6 @@
       "publishedAt": "2026-05-22",
       "url": "https://www.polinews.co.kr/news/articleView.html?idxno=732064",
       "imageUrl": "https://www.bing.com/th?id=ONUT.BgqoAFxcF2yPTh2xJKE_jw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[테크M 이슈] \"사회공헌이 아니라 생존\"…4대 금융지주의 포용금융 홍보전 '사활'",
-      "summary": "4대 금융지주가 역대급 실적을 내는 동시에 역대급 규모의 사회 기여 경쟁을 벌이고 있다. 하나금융이 소외지역 어르신을 찾아가는 이동형 금융 버스를 운영하고 사회혁신기업 인턴십으로 고용 취약계층을 연결하는가 하면, 우리금융은 개인신용대출에 금리 상한선을 긋고 장애인 고용사업장을 영업점 안에 들였다. KB금융은 제2금융권 차주를 은행으로 끌어들이는 대환 전용 ...",
-      "source": "테크M on MSN",
-      "publishedAt": "2026-05-19",
-      "url": "https://www.msn.com/ko-kr/money/other/%ED%85%8C%ED%81%ACm-%EC%9D%B4%EC%8A%88-%EC%82%AC%ED%9A%8C%EA%B3%B5%ED%97%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%83%9D%EC%A1%B4-4%EB%8C%80-%EA%B8%88%EC%9C%B5%EC%A7%80%EC%A3%BC%EC%9D%98-%ED%8F%AC%EC%9A%A9%EA%B8%88%EC%9C%B5-%ED%99%8D%EB%B3%B4%EC%A0%84-%EC%82%AC%ED%99%9C/ar-AA23vMyD",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.RbBEeoqtaUGHCSy3-996uQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -41,30 +23,48 @@
     },
     {
       "category": "society",
-      "title": "“노인정책 1순위는 일자리”…고령층, ‘사회적 역할’ 원해",
-      "summary": "【투데이신문 박효령 기자】고령자 10명 중 4명은 정부가 가장 우선적으로 추진해야 할 노인 정책으로 일자리 확대와 소득 보장을 꼽았다. 단순한 생계 지원을 넘어 노인의 사회 참여 욕구까지 반영할 수 있도록 노인일자리 사업에 사회활동 프로그램을 연계해 사회 기여 기반을 확대해야 한다는 목소리가 나온다.15일 노후희망유니온에 따르면 전날 서울 종로구 전태일기념 ...",
+      "title": "[이슈 플러스] 청소년 SNS 규제, 연령 제한·플랫폼 책임 등 다각적 논의 시작할 때",
+      "summary": "세계 각국이 청소년 사회관계망서비스(SNS) 이용 금지 법안을 추진하면서 한국에서도 규제 도입 논의를 본격화해야 한다는 공감대가 형성되고 있다. SNS 이용을 금지하는 법안을 도입해야 한다는 주장이 아니라 어느 선이 적정하고 누가 관리해야 할지 등에 대한 심도 깊은 논의를 우리 현실에 맞게 시작해야 한다는 지적이다. 세계 각국은 청소년 SNS 중독을 예방하 ...",
+      "source": "전자신문 on MSN",
+      "publishedAt": "2026-05-24",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EC%9D%B4%EC%8A%88-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%B2%AD%EC%86%8C%EB%85%84-sns-%EA%B7%9C%EC%A0%9C-%EC%97%B0%EB%A0%B9-%EC%A0%9C%ED%95%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%B1%85%EC%9E%84-%EB%93%B1-%EB%8B%A4%EA%B0%81%EC%A0%81-%EB%85%BC%EC%9D%98-%EC%8B%9C%EC%9E%91%ED%95%A0-%EB%95%8C/ar-AA23UtF4",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.bu7MF4oFZFqZuFRos77mkw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "2070년 청소년 절반으로 ‘뚝’ 전망…다문화 전환은 가속",
+      "summary": "【투데이신문 권신영 기자】5월 청소년의 달을 맞아 매년 발표되는 청소년 지표가 올해도 공개됐다. 이번 통계는 급격히 감소하는 청소년 인구를 통해 한국 사회의 저출생·고령화 문제를 다시금 드러내는 동시에 다문화 사회로의 전환이 본격화하고 있음을 보여줬다.22일 성평등가족부가 작성·발표한 ‘2026년 청소년 통계’에 따르면 올해 9~24세 청소년 인구는 총 7 ...",
       "source": "투데이신문",
-      "publishedAt": "2026-05-15",
-      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127082",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.2vycaezbKDP56Y7ptvPG5g&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-05-22",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127225",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.TW9Dahl-Kuzeoqo3C6CsXA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "전주·광주에서 ‘ 교회와 시대 이슈 아카데미’ 열린다",
+      "summary": "‘2026 교회와 시대 이슈 아카데미’가 전라북도 전주와 광주광역시에서 차례로 열린다. 먼저 오는 28일 오전 10시 30분 전주장동교회(담임 김태영 목사)에서 열리는 아카데미는 ‘차별금지법·젠더·페미니즘 그리고 교회’라는 주제로 교회가 진리를 바로 세우고 다음세대를 지키기 위한 방안을 모색한다.",
+      "source": "기독일보",
+      "publishedAt": "2026-05-23",
+      "url": "https://www.christiandaily.co.kr/news/160264",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.jnHIJbd0fbOhgy3SbXaw4A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[공약비교:제주] 미래 성장전략 \"인공지능 대전환\" vs \"제주투자청 설치\"",
-      "summary": "제2공항 놓고 \"주민투표·공론조사 등 실시\" vs \"전문가 검증 기반 결론\" (제주=연합뉴스) 전지혜 기자 = 제9회 전국동시지방선거 제주지사 후보들은 제주 경제가 위기 상황이고 구조적 개선이 필요하다는 데는 인식을 같이하지만, 미래 성장 전략으로는 저마다 다른 구상을 내놓고 있다. 더불어민주당 위성곤 후보는 대표 ...",
-      "source": "연합뉴스 on MSN",
-      "publishedAt": "2026-05-23",
-      "url": "https://www.msn.com/ko-kr/news/politics/%EA%B3%B5%EC%95%BD%EB%B9%84%EA%B5%90%EC%A0%9C%EC%A3%BC-%EB%AF%B8%EB%9E%98-%EC%84%B1%EC%9E%A5%EC%A0%84%EB%9E%B5-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8C%80%EC%A0%84%ED%99%98-vs-%EC%A0%9C%EC%A3%BC%ED%88%AC%EC%9E%90%EC%B2%AD-%EC%84%A4%EC%B9%98/ar-AA23UsLR",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.PRbV8B7Vuk5qGiEL5jexeA&pid=News&w=1200&h=675&c=14"
+      "title": "스마트폰 이어 인공지능 글라스 … 삼성·애플, 차세대 기기 승부수",
+      "summary": "삼성전자와 애플은 올해 하반기에 인공지능(AI)을 중심으로 한 새로운 기기 형태로 경쟁에 나선다. 삼성은 7월 22일 영국 런던에서 '갤럭시 언팩' 행사에서 갤럭시 Z 폴드8과 폴더블 아이폰에 대응하기 위한 신제품을 공개할 예정이며, AI 스마트 글라스도 선보일 계획이다. 반면 애플은 6월 8일부터 12일까지 세계개발자회의(WWDC)에서 차세대 운영체제와 ...",
+      "source": "매일경제 on MSN",
+      "publishedAt": "2026-05-24",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EB%B0%8F-%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0-%EC%9D%B4%EC%96%B4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B8%80%EB%9D%BC%EC%8A%A4-%EC%82%BC%EC%84%B1-%EC%95%A0%ED%94%8C-%EC%B0%A8%EC%84%B8%EB%8C%80-%EA%B8%B0%EA%B8%B0-%EC%8A%B9%EB%B6%80%EC%88%98/ar-AA23W3RA",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Jr0ywFjDUMVzLOho54l0zw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "엔비디아·앤트로픽 ‘폭풍 성장’…AI 열풍에 실적·기업가치 동반 급등",
-      "summary": "인공지능(AI) 산업 확산이 글로벌 기술 기업들의 실적과 기업가치를 폭발적으로 끌어올리고 있다. AI 반도체 시장의 핵심 기업인 NVIDIA는 사상 최대 실적을 새로 썼고, 생성형 AI 스타트업 Anthropic은 예상보다 빠른 흑자 전환 가능성을 보여주며 시장의 주목을 받고 있다.미국 월스트리트저널(WSJ)에 따르면 엔비디아는 20일(현지시간) 발표한 실 ...",
-      "source": "뉴스비전미디어",
-      "publishedAt": "2026-05-23",
-      "url": "http://www.nvp.co.kr/news/articleView.html?idxno=318219",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.AqspoWNIRqgwtZMt7BswFA&pid=News&w=1200&h=675&c=14"
+      "title": "[김병필의 인공지능 개척시대] AI 직원과 함께 일할 준비",
+      "summary": "사무실의 풍경이 빠르게 바뀌고 있다. 인공지능(AI)이 사업 계획을 세우고, 제품 홍보 전략을 짠다. 이제 고객 응대나 장부 작성까지 수행한다. 이처럼 여러 일을 처리해 내는 능력은 작은 조직에 특히 요긴하다. 스타트업이나 소상공인은 늘 일손이 모자라기 때문이다.",
+      "source": "중앙일보",
+      "publishedAt": "2026-05-24",
+      "url": "https://www.koreadaily.com/article/20260524080840263",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.pOrKvrlLSC7W0o2z3dJN4A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
