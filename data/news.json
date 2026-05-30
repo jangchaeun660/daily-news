@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-30",
-  "windowStart": "2026-05-28T22:00:00.000Z",
-  "windowEnd": "2026-05-29T22:00:00.000Z",
+  "updatedAt": "2026-05-31",
+  "windowStart": "2026-05-29T22:00:00.000Z",
+  "windowEnd": "2026-05-30T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
@@ -11,15 +11,6 @@
       "publishedAt": "2026-05-25",
       "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4%EC%8A%88-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%97%B0%EB%A0%B9-%EC%A0%9C%ED%95%9C-%EA%B8%88%EC%A7%80-%EB%B2%94%EC%9C%84-%EC%A0%9C%EA%B0%81%EA%B0%81-%EC%82%AC%ED%9A%8C%EC%A0%81-%EA%B3%B5%EA%B0%90%EB%8C%80-%EC%8B%A4%ED%9A%A8%EC%84%B1-%EB%86%92%EC%97%AC%EC%95%BC/ar-AA23UtF4",
       "imageUrl": "https://www.bing.com/th?id=ORMS.fae895b743b7ee5ea2b2cbf22b337eac&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[테크M 이슈] \"사회공헌이 아니라 생존\"…4대 금융지주의 포용금융 홍보전 '사활'",
-      "summary": "4대 금융지주가 역대급 실적을 내는 동시에 역대급 규모의 사회 기여 경쟁을 벌이고 있다. 하나금융이 소외지역 어르신을 찾아가는 이동형 금융 버스를 운영하고 사회혁신기업 인턴십으로 고용 취약계층을 연결하는가 하면, 우리금융은 개인신용대출에 금리 상한선을 긋고 장애인 고용사업장을 영업점 안에 들였다. KB금융은 제2금융권 차주를 은행으로 끌어들이는 대환 전용 ...",
-      "source": "테크M on MSN",
-      "publishedAt": "2026-05-19",
-      "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%ED%85%8C%ED%81%ACm-%EC%9D%B4%EC%8A%88-%EC%82%AC%ED%9A%8C%EA%B3%B5%ED%97%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%83%9D%EC%A1%B4-4%EB%8C%80-%EA%B8%88%EC%9C%B5%EC%A7%80%EC%A3%BC%EC%9D%98-%ED%8F%AC%EC%9A%A9%EA%B8%88%EC%9C%B5-%ED%99%8D%EB%B3%B4%EC%A0%84-%EC%82%AC%ED%99%9C/ar-AA23vMyD",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.RbBEeoqtaUGHCSy3-996uQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -49,6 +40,24 @@
       "imageUrl": "https://www.bing.com/th?id=ONUT.CByKbgbAxnp6hXLQsz0CnA&pid=News&w=1200&h=675&c=14"
     },
     {
+      "category": "society",
+      "title": "[테크M 이슈] \"사회공헌이 아니라 생존\"…4대 금융지주의 포용금융 홍보전 '사활'",
+      "summary": "4대 금융지주가 역대급 실적을 내는 동시에 역대급 규모의 사회 기여 경쟁을 벌이고 있다. 하나금융이 소외지역 어르신을 찾아가는 이동형 금융 버스를 운영하고 사회혁신기업 인턴십으로 고용 취약계층을 연결하는가 하면, 우리금융은 개인신용대출에 금리 상한선을 긋고 장애인 고용사업장을 영업점 안에 들였다. KB금융은 제2금융권 차주를 은행으로 끌어들이는 대환 전용 ...",
+      "source": "테크M on MSN",
+      "publishedAt": "2026-05-19",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%85%8C%ED%81%ACm-%EC%9D%B4%EC%8A%88-%EC%82%AC%ED%9A%8C%EA%B3%B5%ED%97%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%83%9D%EC%A1%B4-4%EB%8C%80-%EA%B8%88%EC%9C%B5%EC%A7%80%EC%A3%BC%EC%9D%98-%ED%8F%AC%EC%9A%A9%EA%B8%88%EC%9C%B5-%ED%99%8D%EB%B3%B4%EC%A0%84-%EC%82%AC%ED%99%9C/ar-AA23vMyD",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.RbBEeoqtaUGHCSy3-996uQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "신약 개발부터 생산까지…AI가 재편하는 중국 바이오산업",
+      "summary": "[선데이 모닝 인사이트] 中 바이오 산업 트럼프 2기 출범, AI의 발달, 기후변화 등 글로벌 사회의 불확실성이 커졌습니다. 는 매주 일요일 오전, 깊이 있는 시각과 예리한 분석으로 불확실성 커진 세상을 헤쳐나갈 지혜를 전달합니다. 최근 중국 바이오 기업들이 신약 개발에 인공지능(AI)을 접목시키면서 중국 바이오산업이 반도체·첨단 제조업과 유사한 구조로 바 ...",
+      "source": "머니투데이 on MSN",
+      "publishedAt": "2026-05-30",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%8B%A0%EC%95%BD-%EA%B0%9C%EB%B0%9C%EB%B6%80%ED%84%B0-%EC%83%9D%EC%82%B0%EA%B9%8C%EC%A7%80-ai%EA%B0%80-%EC%9E%AC%ED%8E%B8%ED%95%98%EB%8A%94-%EC%A4%91%EA%B5%AD-%EB%B0%94%EC%9D%B4%EC%98%A4%EC%82%B0%EC%97%85/ar-AA24s9p7",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.1G2qYEQg83aW___pWBszjg&pid=News&w=1200&h=675&c=14"
+    },
+    {
       "category": "ai",
       "title": "인공지능 시대 정의의 재설계... '마지막 퍼즐'은 인간의 몫",
       "summary": "[앵커] YTN은 인공지능 도입으로 인한 법조계의 변화와 명암을 살펴보는 기획 보도를 전해드리고 있습니다. 마지막으로, 인공지능 시대에 법률가들의 '새로운 생존 조건'과 미래 사법 시스템의 과제를 짚어봤습니다. 이준엽 기자가 취재했습니다. [기자] 변호사 윤세환 씨는 상용 인공지능 서비스와 법률 특화 서비스를 능숙하게 ...",
@@ -56,6 +65,15 @@
       "publishedAt": "2026-05-28",
       "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%8B%9C%EB%8C%80-%EC%A0%95%EC%9D%98%EC%9D%98-%EC%9E%AC%EC%84%A4%EA%B3%84-%EB%A7%88%EC%A7%80%EB%A7%89-%ED%8D%BC%EC%A6%90-%EC%9D%80-%EC%9D%B8%EA%B0%84%EC%9D%98-%EB%AA%AB/ar-AA24i9Ma",
       "imageUrl": "https://www.bing.com/th?id=ONUT.EwY5KjqueGhjDv_dgrSKKw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "법무법인 광장, 정보통신법학회·데이터인공지능법정책학회·정보통신정책연구원과 6월 5일 ‘AI법정책포럼’",
+      "summary": "법무법인(유) 광장(대표변호사 김상곤)이 한국정보통신법학회, 한국데이터인공지능법정책학회, 정보통신정책연구원(KISDI)과 오는 6월 5일(금) 오후 2시 서울 중구 남대문로 63 한진빌딩 본관 26층 강당(Grand Hall)에서 ‘AX 시대 국가 혁신 기반 구축을 위한 법정책적 과제’를 주제로 ‘제2회 AI법정책포럼’을 개최한다. 이번 포럼은 인공지능기본 ...",
+      "source": "중앙일보",
+      "publishedAt": "2026-05-26",
+      "url": "https://www.joongang.co.kr/article/25431273",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.xj7c0N3nSgvzeL7e2IV6UA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
@@ -74,24 +92,6 @@
       "publishedAt": "2026-05-28",
       "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1710479",
       "imageUrl": "https://www.bing.com/th?id=ONUT.5GRkcnUfEsJQ1UVW_E2BMg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "법무법인 광장, 정보통신법학회·데이터인공지능법정책학회·정보통신정책연구원과 6월 5일 ‘AI법정책포럼’",
-      "summary": "법무법인(유) 광장(대표변호사 김상곤)이 한국정보통신법학회, 한국데이터인공지능법정책학회, 정보통신정책연구원(KISDI)과 오는 6월 5일(금) 오후 2시 서울 중구 남대문로 63 한진빌딩 본관 26층 강당(Grand Hall)에서 ‘AX 시대 국가 혁신 기반 구축을 위한 법정책적 과제’를 주제로 ‘제2회 AI법정책포럼’을 개최한다. 이번 포럼은 인공지능기본 ...",
-      "source": "중앙일보",
-      "publishedAt": "2026-05-26",
-      "url": "https://www.joongang.co.kr/article/25431273",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.xj7c0N3nSgvzeL7e2IV6UA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "시흥시 ‘인공지능 스마트 일자리 상담창구’ 운영",
-      "summary": "[이뉴스투데이 경기2취재본부 안상철 기자] 시흥시가 제공하는 인공지능을 기반으로 하는 일자리 매칭 시스템이 신속한 채용정보로 구직자들에게 큰 도움이 되고 있다.시흥시는 지난 5월 11일부터 ‘인공지능(AI) 스마트 일자리 상담창구’를 운영하고 있다.시흥시 종합일자리센터와 북부중장년센터 ...",
-      "source": "이뉴스투데이",
-      "publishedAt": "2026-05-29",
-      "url": "https://www.enewstoday.co.kr/news/articleView.html?idxno=2434121",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.76dcLB-uu1eL_l7-UJrOlw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
