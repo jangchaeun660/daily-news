@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-31",
-  "windowStart": "2026-05-29T22:00:00.000Z",
-  "windowEnd": "2026-05-30T22:00:00.000Z",
+  "updatedAt": "2026-06-01",
+  "windowStart": "2026-05-30T22:00:00.000Z",
+  "windowEnd": "2026-05-31T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
@@ -14,30 +14,12 @@
     },
     {
       "category": "society",
-      "title": "[이슈] 삼전 사태 후 정부, AI시대 대응...AI 노사상생위 출범·국제 AI협력체계 구축…李 \"AI일자리 화두\"",
-      "summary": "삼성전자 노사가 지난 20일 임금협상 잠정 합의안을 도출하면서 총파업이 유보됐다. 이번 노사 갈등은 인공지능(AI) 시대 급격한 생산성 증대로 발생한 이윤을 어떻게 재분배할 것인가에 대한 논의의 문을 열었다는 분석이 나온다. 이러한 논의가 필요한 이유는 AI시대가 본격화되면 청년층의 일자리 소멸이 현실화될 가능성이 높기 때문이다. 즉, AI 산업으로 발생한 ...",
+      "title": "[이슈] 공직·시민사회, 역사왜곡 '스벅' 손절·불매·배달거부 확산…'탱크데이' 국민분노에도 극우는 '보수우파 아지트' 옹호",
+      "summary": "스타벅스코리아(신세계 그룹 정용진 회장)가 5·18 탱크데이 이벤트와 박종철 열사 고문치사 사건 희화화, 4·16 세월호까지 그동안 계속되는 역사왜곡과 조롱, 국가폭력을 정당화하고 있다는 국민적 비난이 폭발하면서 스타벅스 불매운동이 정부와 정치권으로 확대되고 있다.스타벅스코리아는 지난 18일 5·18 민주화운동 기념일 당일 '탱크데이' 프로모션을 진행했다.",
       "source": "폴리뉴스",
       "publishedAt": "2026-05-22",
-      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=732064",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.BgqoAFxcF2yPTh2xJKE_jw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[포커스] 돌봄서비스 시장도 바뀐다…'생활동반자법' 논의에 긴장하는 아웃소싱 업계",
-      "summary": "[아웃소싱타임스 김민수 기자] 초고령사회 진입과 함께 독거노인 문제가 구조적 위험으로 번지자, 혈연과 혼인 중심의 기존 가족제도를 넘어 ‘생활동반자법(안)’ 제정을 통해 비혈연 돌봄 관계까지 제도권 안으로 편입해야 한다는 논의가 힘을 얻고 있다. 병원 보호자 지정, 응급상황 대응, 임차권 승계, 가족돌봄휴가 사용 같은 핵심 권한이 여전히 법적 가족 중심으로 ...",
-      "source": "아웃소싱타임스",
-      "publishedAt": "2026-05-25",
-      "url": "https://www.outsourcing.co.kr/news/articleView.html?idxno=202702",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.rWmnioMKITJDbJqLMizj7A&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "호남 교계, 차별금지법 및 젠더 이슈 성경적 대응 모색",
-      "summary": "전주와 광주 등 호남 지역 교계가 급변하는 시대적 이슈를 성경적 관점으로 조명하고 다음 세대를 보호하기 위한 전략 마련에 나선다. ‘2026 교회와 시대 이슈 아카데미’가 전주장동교회와 광주겨자씨교회에서 잇따라 열린다. 오는 28일 오전 10시 30분 전주장동교회(담임 김태영 목사)에서 진행되는 아카데미는 ‘차별금지법·젠더·페미니즘 그리고 교회’를 주제로 ...",
-      "source": "크리스천투데이",
-      "publishedAt": "2026-05-26",
-      "url": "https://www.christiantoday.co.kr/news/375307",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.CByKbgbAxnp6hXLQsz0CnA&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=732045",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.tWRveQap17TO73EVRQpxCw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -45,17 +27,44 @@
       "summary": "4대 금융지주가 역대급 실적을 내는 동시에 역대급 규모의 사회 기여 경쟁을 벌이고 있다. 하나금융이 소외지역 어르신을 찾아가는 이동형 금융 버스를 운영하고 사회혁신기업 인턴십으로 고용 취약계층을 연결하는가 하면, 우리금융은 개인신용대출에 금리 상한선을 긋고 장애인 고용사업장을 영업점 안에 들였다. KB금융은 제2금융권 차주를 은행으로 끌어들이는 대환 전용 ...",
       "source": "테크M on MSN",
       "publishedAt": "2026-05-19",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%85%8C%ED%81%ACm-%EC%9D%B4%EC%8A%88-%EC%82%AC%ED%9A%8C%EA%B3%B5%ED%97%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%83%9D%EC%A1%B4-4%EB%8C%80-%EA%B8%88%EC%9C%B5%EC%A7%80%EC%A3%BC%EC%9D%98-%ED%8F%AC%EC%9A%A9%EA%B8%88%EC%9C%B5-%ED%99%8D%EB%B3%B4%EC%A0%84-%EC%82%AC%ED%99%9C/ar-AA23vMyD",
+      "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%ED%85%8C%ED%81%ACm-%EC%9D%B4%EC%8A%88-%EC%82%AC%ED%9A%8C%EA%B3%B5%ED%97%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%83%9D%EC%A1%B4-4%EB%8C%80-%EA%B8%88%EC%9C%B5%EC%A7%80%EC%A3%BC%EC%9D%98-%ED%8F%AC%EC%9A%A9%EA%B8%88%EC%9C%B5-%ED%99%8D%EB%B3%B4%EC%A0%84-%EC%82%AC%ED%99%9C/ar-AA23vMyD",
       "imageUrl": "https://www.bing.com/th?id=ONUT.RbBEeoqtaUGHCSy3-996uQ&pid=News&w=1200&h=675&c=14"
     },
     {
+      "category": "society",
+      "title": "[브라보 문화 이슈] 65세 이상만 입장, '봉주르빵집'은 뭐가 다를까?",
+      "summary": "복지부, 국무회의서 ‘복지안전매트 강화 방안’ 보고 위기가구 조기 발굴·직권신청 확대 추진 장기요양 가족휴가·단기보호 확대로 돌봄 공백 해소 #. 올해 3월에는 3인 가구 (90대 치매 노모·60대 아들·손자)에서 노모를 장기간 간병 중이던 60대 아들이 노모와 함께 극단적 선택을 시도하는 일이 발생했다. 이들은 다음 날 정신건강복지센터 상담을 받았지만, ...",
+      "source": "브라보 마이 라이프",
+      "publishedAt": "2001-01-01",
+      "url": "https://bravo.etoday.co.kr/main.php",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.UNqVUJschVFCBLOJsd9o2w&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "지방선거 정책 사라지고 공방만 눈길…복지 수준이 도시경쟁력",
+      "summary": "[울산저널]이승진 기자= 선거 때마다 개발 공약과 지역 성장 사업이 쏟아진다. 일상에서 체감하는 돌봄·의료·주거·빈곤 문제는 크게 달라지지 않는다. 지방선거가 지역 미래를 결정하는 정치 과정임에도 복지정책은 중심 의제가 되지 못한다. 지방선거 공약을 살펴보면 산업단지 유치, 교통망 확충, 관광사업, 대규모 건설사업 같은 개발 중심 공약으로 넘쳐난다. 초고령 ...",
+      "source": "울산저널i",
+      "publishedAt": "2026-05-28",
+      "url": "https://www.usjournal.kr/news/newsview.php?ncode=1065591104304175",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.5MJBiP4gPEHdgsSDVHLq8Q&pid=News&w=1200&h=675&c=14"
+    },
+    {
       "category": "ai",
-      "title": "신약 개발부터 생산까지…AI가 재편하는 중국 바이오산업",
-      "summary": "[선데이 모닝 인사이트] 中 바이오 산업 트럼프 2기 출범, AI의 발달, 기후변화 등 글로벌 사회의 불확실성이 커졌습니다. 는 매주 일요일 오전, 깊이 있는 시각과 예리한 분석으로 불확실성 커진 세상을 헤쳐나갈 지혜를 전달합니다. 최근 중국 바이오 기업들이 신약 개발에 인공지능(AI)을 접목시키면서 중국 바이오산업이 반도체·첨단 제조업과 유사한 구조로 바 ...",
-      "source": "머니투데이 on MSN",
-      "publishedAt": "2026-05-30",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%8B%A0%EC%95%BD-%EA%B0%9C%EB%B0%9C%EB%B6%80%ED%84%B0-%EC%83%9D%EC%82%B0%EA%B9%8C%EC%A7%80-ai%EA%B0%80-%EC%9E%AC%ED%8E%B8%ED%95%98%EB%8A%94-%EC%A4%91%EA%B5%AD-%EB%B0%94%EC%9D%B4%EC%98%A4%EC%82%B0%EC%97%85/ar-AA24s9p7",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.1G2qYEQg83aW___pWBszjg&pid=News&w=1200&h=675&c=14"
+      "title": "일자리 덮치는 AI 물결… “최악 상황 가정해 ‘사회적 대화’ 서둘러야”",
+      "summary": "‘사람이 필요 없는 일’의 종류가 빠르게 확산하고 있다. 국내 일자리의 절반 이상(51%)이 인공지능 도입의 영향을 받으며, 27%는 아예 대체되거나 소득이 감소할 가능성이 크다는 것이 한국은행의 진단이다(2025년 2월 ‘에이아이와 한국경제’). 하지만 현실의 변화 ...",
+      "source": "한겨레",
+      "publishedAt": "2026-05-31",
+      "url": "https://www.hani.co.kr/arti/economy/it/1261284.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.SNW8M9QCQFFwlZwO6xz2Ag&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "스마트건설 기준 만들겠다 IPARK현대산업개발, 첨단기술 기반으로 안전체계 고도화",
+      "summary": "아시아투데이 이수일 기자 = IPARK현대산업개발이 디지털 전환 흐름에 맞춰 드론과 폐쇄회로(CC)TV 통합관제센터 기능 확대 등 스마트 건설혁신에 속도를 내고 있다. 인공지능(AI)·디지털전환(DX) 기술을 활용한 품질·안전 관리 체계를 고도화하는 동시에, 경영진 현 ...",
+      "source": "아시아투데이 on MSN",
+      "publishedAt": "2026-05-31",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%BC%EB%B0%98/%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B1%B4%EC%84%A4-%EA%B8%B0%EC%A4%80-%EB%A7%8C%EB%93%A4%EA%B2%A0%EB%8B%A4-ipark%ED%98%84%EB%8C%80%EC%82%B0%EC%97%85%EA%B0%9C%EB%B0%9C-%EC%B2%A8%EB%8B%A8%EA%B8%B0%EC%88%A0-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-%EC%95%88%EC%A0%84%EC%B2%B4%EA%B3%84-%EA%B3%A0%EB%8F%84%ED%99%94/ar-AA24veQ2",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.KsaPrbrl6p4l8B1AjhSEiw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
@@ -68,30 +77,21 @@
     },
     {
       "category": "ai",
-      "title": "법무법인 광장, 정보통신법학회·데이터인공지능법정책학회·정보통신정책연구원과 6월 5일 ‘AI법정책포럼’",
-      "summary": "법무법인(유) 광장(대표변호사 김상곤)이 한국정보통신법학회, 한국데이터인공지능법정책학회, 정보통신정책연구원(KISDI)과 오는 6월 5일(금) 오후 2시 서울 중구 남대문로 63 한진빌딩 본관 26층 강당(Grand Hall)에서 ‘AX 시대 국가 혁신 기반 구축을 위한 법정책적 과제’를 주제로 ‘제2회 AI법정책포럼’을 개최한다. 이번 포럼은 인공지능기본 ...",
-      "source": "중앙일보",
-      "publishedAt": "2026-05-26",
-      "url": "https://www.joongang.co.kr/article/25431273",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.xj7c0N3nSgvzeL7e2IV6UA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "행동하는 AI의 시대…AI 에이전트의 구조, 발전, 그리고 미래",
-      "summary": "(지디넷코리아=윤창희 한국지능정보사회진흥원 수석연구원)인공지능(AI) 에이전트는 다양한 환경에서 자율적으로 행동하며 복합적인 의사결정을 수행하는 지능형 소프트웨어 시스템을 의미한다. 최근에는 단순한 자동화 도구를 넘어, 스스로 목표를 설정하고 계획을 수립하며 외부 도구와 연동해 실행까지 수행하는 차세대 AI 기술로 주목받고 있다. 특히 생성형 AI와 대규모 ...",
-      "source": "지디넷코리아 on MSN",
-      "publishedAt": "2026-05-29",
-      "url": "https://www.msn.com/ko-kr/news/techandscience/%ED%96%89%EB%8F%99%ED%95%98%EB%8A%94-ai%EC%9D%98-%EC%8B%9C%EB%8C%80-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9D%98-%EA%B5%AC%EC%A1%B0-%EB%B0%9C%EC%A0%84-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%AF%B8%EB%9E%98/ar-AA24jazQ",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.MmHSEoyws2ViazzzGrU9AA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
       "title": "메모리 다음 타자 '배터리'…인공지능 랠리 종착역은 '피지컬 AI'",
       "summary": "인공지능(AI) 열풍이 데이터센터·반도체 중심 투자 사이클을 이끌고 있는 가운데, 다음 투자 행선지로 ‘배터리’가 주목받고 있다. AI 산업의 최종 지향점이 피지컬 AI로 향하는 만큼, 이를 실제 구동할 핵심 기술인 배터리가 새로운 투자 테마로 부상하고 있는 것이다. 29일 한국거래소에 따르면 최근 외국인 자금이 국내 2차전지 업종으로 이동하는 흐름이 나타 ...",
       "source": "EBN",
       "publishedAt": "2026-05-28",
       "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1710479",
       "imageUrl": "https://www.bing.com/th?id=ONUT.5GRkcnUfEsJQ1UVW_E2BMg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "[속보] 3년 전 젠슨 황의 '큰 그림'…\"AI가 밖에 나온다\" 기대감 폭발 [빈난새의 빈틈없이월가]",
+      "summary": "과열 우려가 팽배한 와중에도 5월 증시를 끌고 간 건 역시 인공지능(AI)이었습니다. 끝날 듯 끝나지 않는 이란 전쟁과 풀리지 않는 호르무즈 해협 상황, 유가와 금리 부담에도 미국 증시는 사상 최고치를 기록했고, 주도주는 여전히 AI였습니다. 다만 AI 랠리에 대한 시장의 질문은 미묘하게 달라지고 있습니다. 이제까지는 ‘AI를 더 크게 돌리기 위해 무엇이 ...",
+      "source": "한국경제 on MSN",
+      "publishedAt": "2026-05-30",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%86%8D%EB%B3%B4-3%EB%85%84-%EC%A0%84-%EC%A0%A0%EC%8A%A8-%ED%99%A9%EC%9D%98-%ED%81%B0-%EA%B7%B8%EB%A6%BC-ai%EA%B0%80-%EB%B0%96%EC%97%90-%EB%82%98%EC%98%A8%EB%8B%A4-%EA%B8%B0%EB%8C%80%EA%B0%90-%ED%8F%AD%EB%B0%9C-%EB%B9%88%EB%82%9C%EC%83%88%EC%9D%98-%EB%B9%88%ED%8B%88%EC%97%86%EC%9D%B4%EC%9B%94%EA%B0%80/ar-AA24shag",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.0lgplwczGyqJ7F2tND8oKw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
