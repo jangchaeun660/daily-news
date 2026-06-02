@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-02",
-  "windowStart": "2026-05-31T22:00:00.000Z",
-  "windowEnd": "2026-06-01T22:00:00.000Z",
+  "updatedAt": "2026-06-03",
+  "windowStart": "2026-06-01T22:00:00.000Z",
+  "windowEnd": "2026-06-02T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "커피 한 잔에 담긴 ‘무거운’ 사회적 신뢰",
-      "summary": "시사위크=박설민 기자 “함께 마신 커피는 40년 신뢰로 이어진다.” 커피를 사랑하는 국가 튀르키예의 유명한 속담이다. 같은 자리에 앉아 한 잔의 커피를 나누는 것은 인간적인 교감, 생각의 공유로 이어질 수 있다. 전 세계에서 가장 많은 커피를 소비하는 한국 역시 마찬가지다. 전국의 커피숍은 점심 시간만 되면 자리가 가득 차곤 한다. 그 중심에는 신세계그룹이 ...",
-      "source": "시사위크 on MSN",
-      "publishedAt": "2026-05-28",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%BB%A4%ED%94%BC-%ED%95%9C-%EC%9E%94%EC%97%90-%EB%8B%B4%EA%B8%B4-%EB%AC%B4%EA%B1%B0%EC%9A%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%8B%A0%EB%A2%B0/ar-AA24flkT",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.9ba148bd0291dfc6abf3d541f2e60196&pid=News&w=1200&h=675&c=14"
+      "title": "[복지뉴스] “선입금 요구하면 바로 확인하세요”... 한국사회보장정보원 '직원 확인 서비스' 시행 外",
+      "summary": "【베이비뉴스 최규삼 기자】아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 정책과 아동·가족 복지 제도, 취약계층 지원 사업 등 다양한 소식 가운 ...",
+      "source": "베이비뉴스 on MSN",
+      "publishedAt": "2026-06-02",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-%EC%84%A0%EC%9E%85%EA%B8%88-%EC%9A%94%EA%B5%AC%ED%95%98%EB%A9%B4-%EB%B0%94%EB%A1%9C-%ED%99%95%EC%9D%B8%ED%95%98%EC%84%B8%EC%9A%94-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EC%A7%81%EC%9B%90-%ED%99%95%EC%9D%B8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%8B%9C%ED%96%89-%E5%A4%96/ar-AA24BZ5A",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.l_k3bZTMFEEA2qhoum9tvA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -23,21 +23,21 @@
     },
     {
       "category": "society",
-      "title": "[테크M 이슈] \"사회공헌이 아니라 생존\"…4대 금융지주의 포용금융 홍보전 '사활'",
-      "summary": "4대 금융지주가 역대급 실적을 내는 동시에 역대급 규모의 사회 기여 경쟁을 벌이고 있다. 하나금융이 소외지역 어르신을 찾아가는 이동형 금융 버스를 운영하고 사회혁신기업 인턴십으로 고용 취약계층을 연결하는가 하면, 우리금융은 개인신용대출에 금리 상한선을 긋고 장애인 고용사업장을 영업점 안에 들였다. KB금융은 제2금융권 차주를 은행으로 끌어들이는 대환 전용 ...",
-      "source": "테크M on MSN",
-      "publishedAt": "2026-05-19",
-      "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%ED%85%8C%ED%81%ACm-%EC%9D%B4%EC%8A%88-%EC%82%AC%ED%9A%8C%EA%B3%B5%ED%97%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%83%9D%EC%A1%B4-4%EB%8C%80-%EA%B8%88%EC%9C%B5%EC%A7%80%EC%A3%BC%EC%9D%98-%ED%8F%AC%EC%9A%A9%EA%B8%88%EC%9C%B5-%ED%99%8D%EB%B3%B4%EC%A0%84-%EC%82%AC%ED%99%9C/ar-AA23vMyD",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.RbBEeoqtaUGHCSy3-996uQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
       "title": "[이슈 플러스] 연령 제한·금지 범위 제각각…사회적 공감대·실효성 높여야",
       "summary": "세계 각국이 청소년 사회관계망서비스(SNS) 이용 금지 법안을 추진하면서 한국에서도 규제 도입 논의를 본격화해야 한다는 공감대가 형성되고 있다. SNS 이용을 금지하는 법안을 도입해야 한다는 주장이 아니라 어느 선이 적정하고 누가 관리해야 할지 등에 대한 심도 깊은 논의를 우리 현실에 맞게 시작해야 한다는 지적이다. 세계 각국은 청소년 SNS 중독을 예방하 ...",
       "source": "전자신문 on MSN",
       "publishedAt": "2026-05-25",
       "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4%EC%8A%88-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%97%B0%EB%A0%B9-%EC%A0%9C%ED%95%9C-%EA%B8%88%EC%A7%80-%EB%B2%94%EC%9C%84-%EC%A0%9C%EA%B0%81%EA%B0%81-%EC%82%AC%ED%9A%8C%EC%A0%81-%EA%B3%B5%EA%B0%90%EB%8C%80-%EC%8B%A4%ED%9A%A8%EC%84%B1-%EB%86%92%EC%97%AC%EC%95%BC/ar-AA23UtF4",
       "imageUrl": "https://www.bing.com/th?id=ORMS.fae895b743b7ee5ea2b2cbf22b337eac&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "커피 한 잔에 담긴 ‘무거운’ 사회적 신뢰",
+      "summary": "시사위크=박설민 기자 “함께 마신 커피는 40년 신뢰로 이어진다.” 커피를 사랑하는 국가 튀르키예의 유명한 속담이다. 같은 자리에 앉아 한 잔의 커피를 나누는 것은 인간적인 교감, 생각의 공유로 이어질 수 있다. 전 세계에서 가장 많은 커피를 소비하는 한국 역시 마찬가지다. 전국의 커피숍은 점심 시간만 되면 자리가 가득 차곤 한다. 그 중심에는 신세계그룹이 ...",
+      "source": "시사위크 on MSN",
+      "publishedAt": "2026-05-28",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%BB%A4%ED%94%BC-%ED%95%9C-%EC%9E%94%EC%97%90-%EB%8B%B4%EA%B8%B4-%EB%AC%B4%EA%B1%B0%EC%9A%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%8B%A0%EB%A2%B0/ar-AA24flkT",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.9ba148bd0291dfc6abf3d541f2e60196&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -50,48 +50,48 @@
     },
     {
       "category": "ai",
-      "title": "앤트로픽, 기업공개 신청…올해 가을 상장 추진",
-      "summary": "인공지능 업계의 새로운 공룡인 앤트로픽이 비공개로 기업공개 신청을 했다고 공식 발표했다. 앤트로픽은 1일 비공개로 기업공개(IPO) 신청서를 제출했다고 밝혀, 클로드(Claude) 인공지능 모델을 기반으로 올해 가을 상장을 추진할 수 있는 길이 열리게 된다. 앤트로픽은 ...",
-      "source": "한겨레",
+      "title": "아티크론, ‘PIM 인공지능반도체 핵심기술개발사업’ 신규 과제 선정",
+      "summary": "AI 반도체 설계 전문기업 아티크론이 과학기술정보통신부와 정보통신기획평가원(IITP)이 추진하는 ‘PIM 인공지능반도체 핵심기술개발사업’ 신규 과제에 선정되며 차세대 온디바이스 AI 플랫폼 개발에 착수했다. 최근 생성형 AI 확산으로 스마트폰과 웨어러블 기기, 로봇, ...",
+      "source": "중앙일보",
       "publishedAt": "2026-06-02",
-      "url": "https://www.hani.co.kr/arti/international/international_general/1261472.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.c3nUb61ygRIS9LkoHWkuSQ&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.koreadaily.com/article/20260602001039615",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.TS5Vsb3-v28w3uf6-z-EXA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "“인공지능 기술역량 한자리에”...동서발전, 인공지능 혁신 가속화",
-      "summary": "한국동서발전은 AI 혁신을 가속화하기 위해 ‘전사 발전분야 AI 추진 워크숍’을 개최했다. 워크숍에서는 AI 우수 사례 공유와 맞춤형 기술지원 방안, 발전설비 진단 알고리즘 정밀화 방안이 논의되었으며, 각 사업소의 현장 노하우와 기술 역량을 연계하여 통합 운영체계 구축에도 노력할 계획이다. 동서발전 관계자는 인공지능을 활용하여 안전과 발전 효율을 최적화하고 ...",
-      "source": "매일경제 on MSN",
-      "publishedAt": "2026-06-01",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B8%B0%EC%88%A0%EC%97%AD%EB%9F%89-%ED%95%9C%EC%9E%90%EB%A6%AC%EC%97%90-%EB%8F%99%EC%84%9C%EB%B0%9C%EC%A0%84-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%98%81%EC%8B%A0-%EA%B0%80%EC%86%8D%ED%99%94/ar-AA24x0Fd",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.hAilLMjQAyyenOLhC0mSBQ&pid=News&w=1200&h=675&c=14"
+      "title": "삼성전자 ‘비스포크 AI 스팀’ 로봇청소기 월간 판매량 첫 2만 대 돌파, 인공지능 가전 시장 정조준",
+      "summary": "더 이상 바보같이 벽에 머리를 계속 부딪혀대는 로봇청소기는 없다. 구석을 놓치고 편한 곳만 청소하는 로봇청소기도 없다. 가정의 가장 깊숙한 곳으로 인공지능이 들어오고 있다. 삼성전자가 로봇청소기 월간 첫 판매량 2만 대 돌파를 계기로 인공지능(AI) 가전 시장에서 입지를 더욱 확대하겠다는 방침을 세웠다. 삼성전자는 ‘비스포크 AI 스팀’ 로봇청소기 월간 판 ...",
+      "source": "허프포스트코리아 on MSN",
+      "publishedAt": "2026-06-02",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EB%B9%84%EC%8A%A4%ED%8F%AC%ED%81%AC-ai-%EC%8A%A4%ED%8C%80-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0-%EC%9B%94%EA%B0%84-%ED%8C%90%EB%A7%A4%EB%9F%89-%EC%B2%AB-2%EB%A7%8C-%EB%8C%80-%EB%8F%8C%ED%8C%8C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B0%80%EC%A0%84-%EC%8B%9C%EC%9E%A5-%EC%A0%95%EC%A1%B0%EC%A4%80/ar-AA24CZj3",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.diw76zQ7QDCIcw_CCjDjdQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "한국 AI 도입 증가폭 세계 1위…‘피지컬 AI’ 강점",
-      "summary": "스탠포드대 ‘AI 인덱스’ ...",
-      "source": "한겨레 on MSN",
-      "publishedAt": "2026-06-01",
-      "url": "https://www.msn.com/ko-kr/money/topstories/%ED%95%9C%EA%B5%AD-ai-%EB%8F%84%EC%9E%85-%EC%A6%9D%EA%B0%80%ED%8F%AD-%EC%84%B8%EA%B3%84-1%EC%9C%84-%ED%94%BC%EC%A7%80%EC%BB%AC-ai-%EA%B0%95%EC%A0%90/ar-AA24wDji",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.904e000836590899067e46f2ed5d18d5&pid=News&w=1200&h=675&c=14"
+      "title": "[김경진의 AI전략노트]〈29〉중국의 인공지능 발전, 대한민국은 어디 있는가",
+      "summary": "2026년 5월 28일, 중국 톈진(天津). 남개대 류강(??) 교수가 무대에 올랐습니다. “인공지능(AI)의 심층 응용이 '지능경제 신형태(智能?济新形?)'를 탄생시키고 있다.” 그가 발표한 '중국 신세대 인공지능 과학기술 산업 발전 보고서 2026'의 결론입니다. 비슷한 시각 서울에서는 과기정통부가 GPU 1만5000장 추가 확보를 위한 2조원대 사업을 ...",
+      "source": "전자신문",
+      "publishedAt": "2026-06-02",
+      "url": "https://www.etnews.com/20260602000194",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.alVlNA89VXjjRWd8PMrUnw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "퀄컴, 데이터센터 AI 진출…신규 브랜드 '드래곤플라이' 공개",
-      "summary": "모바일 및 에지 AI 시장의 강자 퀄컴이 데이터센터 AI 시장 진입을 공식화했다. 데이터센터용 신규 브랜드 '드래곤플라이(Dragonfly)'를 발표하며 종합 AI 플랫폼 기업으로의 전환을 선언했다. 크리스티아노 아몬 퀄컴 최고경영자(CEO)는 1일(현지시간) 대만 타이베이에서 열린 '컴퓨텍스 2026' 기조연설에서 “드래곤플라이를 대형 클라우드 서비스 업 ...",
-      "source": "전자신문 on MSN",
-      "publishedAt": "2026-06-01",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%80%84%EC%BB%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-ai-%EC%A7%84%EC%B6%9C-%EC%8B%A0%EA%B7%9C-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%93%9C%EB%9E%98%EA%B3%A4%ED%94%8C%EB%9D%BC%EC%9D%B4-%EA%B3%B5%EA%B0%9C/ar-AA24yoUx",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.4sS52Eg2aBbONuLizF0R1w&pid=News&w=1200&h=675&c=14"
+      "title": "[유재수의 특이점(Singularity) 시대]〈10〉AI 시대, 인간의 가치는 어디에 있는가?",
+      "summary": "최근 몇 년간 급격한 인공지능(AI)의 발전은 “인간은 얼마나 유용한가?”라는 질문을 키우고 있다. 특히 글쓰기, 분석, 사고, 지적 노동처럼 주로 머리로 하는 일을 하는 사람들은 AI 앞에서 자신의 쓸모를 의심하게 된다. 실제로 육체노동자보다 지적 노동자들이 향후 AI로 더 심각하게 타격을 받을 것이라는 전망이 줄을 잇고 있다. 과거 산업혁명이 인간의 노 ...",
+      "source": "전자신문",
+      "publishedAt": "2026-06-02",
+      "url": "https://www.etnews.com/20260602000053",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.STwsDGCZghsBlbuOq2BlWw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "카이스트, AI대학 비전선포 \"AI와 더 깊게 생각해 연구·산업·사회 플랫폼 구실\"",
-      "summary": "카이스트가 AI대학 비전선포식을 개최했다. AI대학은 AI원천기술, AI시스템, AI+X 융합, AI 미래설계를 통해 교육·연구·산업·사회를 연결하는 체계 전환을 이끄는 교육이 목표다.카이스트(총장 이광형)는 1일 오전 배경훈 부총리 겸 과학기술정보통신부 장관, 국내 주요 AI·ICT 기업 및 연구기관 관계자, 학생 등이 참석한 가운데 '카이스트 AI대학 ...",
-      "source": "대전일보 on MSN",
-      "publishedAt": "2026-06-01",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%B9%B4%EC%9D%B4%EC%8A%A4%ED%8A%B8-ai%EB%8C%80%ED%95%99-%EB%B9%84%EC%A0%84%EC%84%A0%ED%8F%AC-ai%EC%99%80-%EB%8D%94-%EA%B9%8A%EA%B2%8C-%EC%83%9D%EA%B0%81%ED%95%B4-%EC%97%B0%EA%B5%AC-%EC%82%B0%EC%97%85-%EC%82%AC%ED%9A%8C-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B5%AC%EC%8B%A4/ar-AA24wq1L",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.hj5MTjEnretxOY493shF7g&pid=News&w=1200&h=675&c=14"
+      "title": "소프트뱅크 노림수는 전력..AI, 반도체 넘어 전력 확보전으로",
+      "summary": "【파이낸셜뉴스 도쿄=서혜진 특파원】소프트뱅크그룹(SBG)이 프랑스에 대규모 AI 데이터센터를 건설한다고 발표한 가운데 인공지능(AI) 산업의 핵심 경쟁력이 반도체를 넘어 전력 확보로 이동하면서 전력 인프라를 중심으로 사업 확장에 나섰다는 평가가 나오고 있다고 ...",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-06-02",
+      "url": "https://www.fnnews.com/news/202606021511204153",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ROu5SwSRawgFQZbZO4HL4w&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
