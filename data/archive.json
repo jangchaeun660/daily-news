@@ -1,5 +1,75 @@
 [
   {
+    "updatedAt": "2026-06-04",
+    "windowStart": "2026-06-02T22:00:00.000Z",
+    "windowEnd": "2026-06-03T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[복지뉴스] “선입금 요구하면 바로 확인하세요”... 한국사회보장정보원 '직원 확인 서비스' 시행 外",
+        "summary": "【베이비뉴스 최규삼 기자】아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 정책과 아동·가족 복지 제도, 취약계층 지원 사업 등 다양한 소식 가운 ...",
+        "source": "베이비뉴스 on MSN",
+        "publishedAt": "2026-06-02",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-%EC%84%A0%EC%9E%85%EA%B8%88-%EC%9A%94%EA%B5%AC%ED%95%98%EB%A9%B4-%EB%B0%94%EB%A1%9C-%ED%99%95%EC%9D%B8%ED%95%98%EC%84%B8%EC%9A%94-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EC%A7%81%EC%9B%90-%ED%99%95%EC%9D%B8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%8B%9C%ED%96%89-%E5%A4%96/ar-AA24BZ5A",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.l_k3bZTMFEEA2qhoum9tvA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈] 국세청, 상속·증여세 오해 바로잡기 나서…\"생활비 메모만으론 비과세 안 돼\"",
+        "summary": "국세청이 유튜브와 사회관계망서비스(SNS)를 통해 확산되고 있는 상속·증여세 관련 허위·과장 정보를 바로잡기 위해 '상속·증여세 오해 그리고 진실' 자료를 공개했다.1일 국세청에 따르면 최근 일부 유튜버들이 \"매달 100만~200만원을 자녀에게 송금하면서 '생활비'라고 메모하면 증여세를 내지 않는다\"고 주장하고 있으나 이는 사실과 다르다.국세청은 생활비 비 ...",
+        "source": "폴리뉴스",
+        "publishedAt": "2026-06-01",
+        "url": "https://www.polinews.co.kr/news/articleView.html?idxno=732720",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.AQQnsAZVHwaSMFDUGL8Ixg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈 플러스] 연령 제한·금지 범위 제각각…사회적 공감대·실효성 높여야",
+        "summary": "세계 각국이 청소년 사회관계망서비스(SNS) 이용 금지 법안을 추진하면서 한국에서도 규제 도입 논의를 본격화해야 한다는 공감대가 형성되고 있다. SNS 이용을 금지하는 법안을 도입해야 한다는 주장이 아니라 어느 선이 적정하고 누가 관리해야 할지 등에 대한 심도 깊은 논의를 우리 현실에 맞게 시작해야 한다는 지적이다. 세계 각국은 청소년 SNS 중독을 예방하 ...",
+        "source": "전자신문 on MSN",
+        "publishedAt": "2026-05-25",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4%EC%8A%88-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%97%B0%EB%A0%B9-%EC%A0%9C%ED%95%9C-%EA%B8%88%EC%A7%80-%EB%B2%94%EC%9C%84-%EC%A0%9C%EA%B0%81%EA%B0%81-%EC%82%AC%ED%9A%8C%EC%A0%81-%EA%B3%B5%EA%B0%90%EB%8C%80-%EC%8B%A4%ED%9A%A8%EC%84%B1-%EB%86%92%EC%97%AC%EC%95%BC/ar-AA23UtF4",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.fae895b743b7ee5ea2b2cbf22b337eac&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[美특징주] 메타, 인공지능 에이전트 유료화 계획에 강세",
+        "summary": "[이데일리 안혜신 기자] 메타(META)가 기업들에게 인공지능(AI) 에이전트 서비스 유료화에 나선다는 소식에 상승 중이다. 3일(현지시간) 오후 12시16분 현재 메타는 전 거래일 대비 2.56%(15.",
+        "source": "이데일리 on MSN",
+        "publishedAt": "2026-06-03",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%E7%BE%8E%ED%8A%B9%EC%A7%95%EC%A3%BC-%EB%A9%94%ED%83%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9C%A0%EB%A3%8C%ED%99%94-%EA%B3%84%ED%9A%8D%EC%97%90-%EA%B0%95%EC%84%B8/ar-AA24KsRK",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.-Z6AGhb6sAbF-A2XMOggow&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI가 몸을 얻자 자본의 시선이 바뀌었다",
+        "summary": "여의도와 월스트리트는 지금, 화면 속에서 텍스트를 생성하던 인공지능이 철과 모터를 갖춘 몸으로 현실 세계에 들어오는 순간에 프리미엄을 부여하고 있다. 공장의 로봇 팔이 정해진 환경에서 반복 작업을 수행하는 ‘온실형 기계’라면, 미래의 휴머노이드는 아이가 장난감을 어질러 놓은 거실이라는 야생 속으로 들어가야 한다. 텍스트를 다루는 영리함을 넘어, 현실의 충격 ...",
+        "source": "중앙일보",
+        "publishedAt": "2026-06-03",
+        "url": "https://www.joongang.co.kr/article/25433746",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.sJq4Bx3hZl9MApFCa1oSVg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "“우주 어느 천년에 갈래? 바다부터 와”…데이터센터 손뻗는 삼성重",
+        "summary": "글로벌 선주사와 선급, 인공지능 (AI) 서버 기업까지 잇달아 협력 체계를 구축하며 새로운 성장동력 확보에 나선 모습이다. 삼성중공업은 5일까지 그리스 아테네에서 열리는 세계 최대 선박 박람회인 포시도니아 2026에서 그리스 선주사 캐피털, 영국 로이드선급과 부유식 데이터센터 3자 사업 협력을 체결했다고 3일 밝혔다.",
+        "source": "매일경제",
+        "publishedAt": "2026-06-04",
+        "url": "https://www.mk.co.kr/news/business/12065481",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.wEDlhJbeaQDD-MaqMPEO2A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "돌봄AI ‘윤리적 가이드라인’ 고민할 때 [현장메모]",
+        "summary": "“일본은 돌봄 인공지능(AI)과 관련된 윤리적 가이드를 만들었지만 우리는 지침조차 없이 도입돼 성적인 발언이 문제가 됐습니다. 일본은 여기에 국내 논란을 다시 소개하며 가이드라인을 더 세세하게 개선했습니다. ” 봉제인형 형태 돌봄 AI에 관심을 가지게 된 건 토론회에서 만난 연구원과의 이러한 대화 내용이 계기였다.",
+        "source": "세계일보",
+        "publishedAt": "2026-06-03",
+        "url": "https://www.segye.com/newsView/20260603510222",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.drFUEZo_xIj6z-7MEUa-GQ&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-06-03",
     "windowStart": "2026-06-01T22:00:00.000Z",
     "windowEnd": "2026-06-02T22:00:00.000Z",
@@ -578,103 +648,6 @@
         "publishedAt": "2026-05-28",
         "url": "https://www.opinionnews.co.kr/news/articleView.html?idxno=139183",
         "imageUrl": "https://www.bing.com/th?id=ONUT.8KbObaZP4nOUSdixHoA3aA&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-05-28",
-    "windowStart": "2026-05-26T22:00:00.000Z",
-    "windowEnd": "2026-05-27T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "데이터처, '한국 사회 현안' 진단 포럼 개최…\"주택·교육·노동 문제 논의\"",
-        "summary": "국가데이터처가 고령층 빈곤, 사교육비 증가, 고령운전자 사고 등 한국 사회 주요 현안을 데이터로 진단하는 공개 포럼을 연다. 데이터처는 27일 '데이터로 본 한국사회, 현안과 비전'을 주제로 '제6회 한국의 사회동향 포럼'을 개최한다고 밝혔다. 이번 포럼은 국가데이터처 국가데이터연구원이 지난해 12월 발간한 '한국의 사회동향' 보고서 주요 내용을 공유하고 ...",
-        "source": "뉴시스 on MSN",
-        "publishedAt": "2026-05-27",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%98-%ED%95%9C%EA%B5%AD-%EC%82%AC%ED%9A%8C-%ED%98%84%EC%95%88-%EC%A7%84%EB%8B%A8-%ED%8F%AC%EB%9F%BC-%EA%B0%9C%EC%B5%9C-%EC%A3%BC%ED%83%9D-%EA%B5%90%EC%9C%A1-%EB%85%B8%EB%8F%99-%EB%AC%B8%EC%A0%9C-%EB%85%BC%EC%9D%98/ar-AA248Yhx",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.83pf03EPJbllRoK7bhWJGw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "시민단체, 한국남동발전 감사원 공익감사 청구",
-        "summary": "15개 시민사회단체가 강기윤(국민의힘) 창원시장 후보가 재직했던 한국남동발전 예산 집행 의혹을 밝혀달라며 감사원에 공익감사를 청구했다. 최근 선거관리위원회는 한국남동발전이 당시 사장이던 강 후보의 다가올 선거를 돕기 위해 조직적으로 기부행위를 했는지 여부를 검찰에 수사의뢰한 바 있다. ‘공정선거 확립을 위한 창원시민사회 공동 고발단’(이하 공동 고발단)은 ...",
-        "source": "경남도민일보",
-        "publishedAt": "2026-05-27",
-        "url": "https://www.idomin.com/news/articleView.html?idxno=2006656",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.LnvIGQ_cIa2aWifHYeqwCw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈 플러스] 연령 제한·금지 범위 제각각…사회적 공감대·실효성 높여야",
-        "summary": "세계 각국이 청소년 사회관계망서비스(SNS) 이용 금지 법안을 추진하면서 한국에서도 규제 도입 논의를 본격화해야 한다는 공감대가 형성되고 있다. SNS 이용을 금지하는 법안을 도입해야 한다는 주장이 아니라 어느 선이 적정하고 누가 관리해야 할지 등에 대한 심도 깊은 논의를 우리 현실에 맞게 시작해야 한다는 지적이다. 세계 각국은 청소년 SNS 중독을 예방하 ...",
-        "source": "전자신문 on MSN",
-        "publishedAt": "2026-05-25",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4%EC%8A%88-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%97%B0%EB%A0%B9-%EC%A0%9C%ED%95%9C-%EA%B8%88%EC%A7%80-%EB%B2%94%EC%9C%84-%EC%A0%9C%EA%B0%81%EA%B0%81-%EC%82%AC%ED%9A%8C%EC%A0%81-%EA%B3%B5%EA%B0%90%EB%8C%80-%EC%8B%A4%ED%9A%A8%EC%84%B1-%EB%86%92%EC%97%AC%EC%95%BC/ar-AA23UtF4",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.fae895b743b7ee5ea2b2cbf22b337eac&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "호남 교계, 차별금지법 및 젠더 이슈 성경적 대응 모색",
-        "summary": "전주와 광주 등 호남 지역 교계가 급변하는 시대적 이슈를 성경적 관점으로 조명하고 다음 세대를 보호하기 위한 전략 마련에 나선다. ‘2026 교회와 시대 이슈 아카데미’가 전주장동교회와 광주겨자씨교회에서 잇따라 열린다. 오는 28일 오전 10시 30분 전주장동교회(담임 김태영 목사)에서 진행되는 아카데미는 ‘차별금지법·젠더·페미니즘 그리고 교회’를 주제로 ...",
-        "source": "크리스천투데이",
-        "publishedAt": "2026-05-26",
-        "url": "https://www.christiantoday.co.kr/news/375307",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.CByKbgbAxnp6hXLQsz0CnA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[포커스] 돌봄서비스 시장도 바뀐다…'생활동반자법' 논의에 긴장하는 아웃소싱 업계",
-        "summary": "[아웃소싱타임스 김민수 기자] 초고령사회 진입과 함께 독거노인 문제가 구조적 위험으로 번지자, 혈연과 혼인 중심의 기존 가족제도를 넘어 ‘생활동반자법(안)’ 제정을 통해 비혈연 돌봄 관계까지 제도권 안으로 편입해야 한다는 논의가 힘을 얻고 있다. 병원 보호자 지정, 응급상황 대응, 임차권 승계, 가족돌봄휴가 사용 같은 핵심 권한이 여전히 법적 가족 중심으로 ...",
-        "source": "아웃소싱타임스",
-        "publishedAt": "2026-05-25",
-        "url": "https://www.outsourcing.co.kr/news/articleView.html?idxno=202702",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.rWmnioMKITJDbJqLMizj7A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "AI 데이터센터 몰려오는데… 전력·용수 대책은 있나요",
-        "summary": "Q. 전기·물 먹는 AI 데이터센터, 이렇게 마구 늘려도 괜찮은 걸까요? “챗지피티에게 질문 한 번 할 때마다 생수 한 병이 사라진다” “챗지피티에게 ‘감사합니다’라고 답만 해도 온실가스가 배출된다” 생성형 인공지능(AI) 시대를 설명할 때 자주 등장하는 말입니다. 생 ...",
-        "source": "한겨레",
-        "publishedAt": "2026-05-27",
-        "url": "https://www.hani.co.kr/arti/society/environment/1260724.html",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.4DPa9E7shSw0POjMvXLtiw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "백석대, 인공지능 시대 '인간지성' 찾는다…사람 챙기는 간호·관광 교육 집중",
-        "summary": "학령인구 감소와 인공지능(AI) 확산으로 대학의 존재 이유가 다시 시험대에 오른 가운데 백석대학교가 ‘사람을 세우는 미래교육’을 앞세워 대학 경쟁력 강화에 나섰다. 단순 취업률 경쟁을 넘어 인성 및 실무교육, 글로벌 역량을 결합한 특성화 전략으로 지역과 세계를 연결하는 교육 모델 구축에 속도를 내고 있다.◇관광·간호 중심 특성화백석대는 건학 50주년을 앞두 ...",
-        "source": "한국경제 on MSN",
-        "publishedAt": "2026-05-27",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EB%B0%B1%EC%84%9D%EB%8C%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%8B%9C%EB%8C%80-%EC%9D%B8%EA%B0%84%EC%A7%80%EC%84%B1-%EC%B0%BE%EB%8A%94%EB%8B%A4-%EC%82%AC%EB%9E%8C-%EC%B1%99%EA%B8%B0%EB%8A%94-%EA%B0%84%ED%98%B8-%EA%B4%80%EA%B4%91-%EA%B5%90%EC%9C%A1-%EC%A7%91%EC%A4%91/ar-AA249Zvy",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.NlfCmugOjFAYgDaDhTuM3g&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "김정철 “서울시, 인공지능 기반 행정으로 혁신하겠다”",
-        "summary": "“빨간색 아니면 파란색을 선택해야 하는 거대 양당 구조 속에 합리적인 상식과 조용한 다수를 대변하는 제3의 선택지를 선택해달라.” 6·3 지방선거 김정철 개혁신당 서울시장 후보는 27일 한겨레와의 전화 인터뷰에서 “서울은 정체되어 있다. 기존 정치권 방식으로는 정치·행 ...",
-        "source": "한겨레",
-        "publishedAt": "2026-05-27",
-        "url": "https://www.hani.co.kr/arti/politics/politics_general/1260674.html",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.UC_nhXaGIlQfSY985Vjpqg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "데이터센터 폐열, 난방에너지로 활용…첫 발전소 해남에 들어서나",
-        "summary": "지역난방공사, 반도체 공정 폐열 활용 시범사업 진행 중에너지 효율화 차원…인구 5만 솔라시도, 후보지 부상 (나주=뉴스1) 박영래 기자 = 데이터센터에서 배출하는 막대한 양의 폐열을 지역난방에 활용하는 방안이 현실화할 전망이다. 첫 발전소가 들어설 장소는 전남 해남 솔라시도가 유력하게 검토되고 있다. 28일 ...",
-        "source": "뉴스1 on MSN",
-        "publishedAt": "2026-05-27",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%ED%8F%90%EC%97%B4-%EB%82%9C%EB%B0%A9%EC%97%90%EB%84%88%EC%A7%80%EB%A1%9C-%ED%99%9C%EC%9A%A9-%EC%B2%AB-%EB%B0%9C%EC%A0%84%EC%86%8C-%ED%95%B4%EB%82%A8%EC%97%90-%EB%93%A4%EC%96%B4%EC%84%9C%EB%82%98/ar-AA24dp8a",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.XDhVdL-PTkbkTgRjmf5NFw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "AI가 산업재해 막는다…중기부, 안전기술 개발에 최대 6.6억 지원",
-        "summary": "50인 미만 사업장 맞춤형 산재예방 기술개발 추진 (서울=뉴스1) 이재상 기자 = 정부가 산업재해에 취약한 중소사업장의 안전 사각지대 해소를 위해 디지털·인공지능(AI) 기반 안전기술 개발 지원에 나선다. 작업자 행동 감지부터 AI 기반 위험 관리까지 산업현장 맞춤형 기술개발을 지원하고, 기존 제조업 중심에서 건설업을 ...",
-        "source": "뉴스1 on MSN",
-        "publishedAt": "2026-05-27",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/ai%EA%B0%80-%EC%82%B0%EC%97%85%EC%9E%AC%ED%95%B4-%EB%A7%89%EB%8A%94%EB%8B%A4-%EC%A4%91%EA%B8%B0%EB%B6%80-%EC%95%88%EC%A0%84%EA%B8%B0%EC%88%A0-%EA%B0%9C%EB%B0%9C%EC%97%90-%EC%B5%9C%EB%8C%80-6-6%EC%96%B5-%EC%A7%80%EC%9B%90/ar-AA24dBzr",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ZSFfRNHpJsiDasMrajSJsw&pid=News&w=1200&h=675&c=14"
       }
     ]
   }

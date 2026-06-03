@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-03",
-  "windowStart": "2026-06-01T22:00:00.000Z",
-  "windowEnd": "2026-06-02T22:00:00.000Z",
+  "updatedAt": "2026-06-04",
+  "windowStart": "2026-06-02T22:00:00.000Z",
+  "windowEnd": "2026-06-03T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
@@ -31,67 +31,40 @@
       "imageUrl": "https://www.bing.com/th?id=ORMS.fae895b743b7ee5ea2b2cbf22b337eac&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "society",
-      "title": "커피 한 잔에 담긴 ‘무거운’ 사회적 신뢰",
-      "summary": "시사위크=박설민 기자 “함께 마신 커피는 40년 신뢰로 이어진다.” 커피를 사랑하는 국가 튀르키예의 유명한 속담이다. 같은 자리에 앉아 한 잔의 커피를 나누는 것은 인간적인 교감, 생각의 공유로 이어질 수 있다. 전 세계에서 가장 많은 커피를 소비하는 한국 역시 마찬가지다. 전국의 커피숍은 점심 시간만 되면 자리가 가득 차곤 한다. 그 중심에는 신세계그룹이 ...",
-      "source": "시사위크 on MSN",
-      "publishedAt": "2026-05-28",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%BB%A4%ED%94%BC-%ED%95%9C-%EC%9E%94%EC%97%90-%EB%8B%B4%EA%B8%B4-%EB%AC%B4%EA%B1%B0%EC%9A%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%8B%A0%EB%A2%B0/ar-AA24flkT",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.9ba148bd0291dfc6abf3d541f2e60196&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[브라보 문화 이슈] 65세 이상만 입장, '봉주르빵집'은 뭐가 다를까?",
-      "summary": "복지부, 국무회의서 ‘복지안전매트 강화 방안’ 보고 위기가구 조기 발굴·직권신청 확대 추진 장기요양 가족휴가·단기보호 확대로 돌봄 공백 해소 #. 올해 3월에는 3인 가구 (90대 치매 노모·60대 아들·손자)에서 노모를 장기간 간병 중이던 60대 아들이 노모와 함께 극단적 선택을 시도하는 일이 발생했다. 이들은 다음 날 정신건강복지센터 상담을 받았지만, ...",
-      "source": "브라보 마이 라이프",
-      "publishedAt": "2001-01-01",
-      "url": "https://bravo.etoday.co.kr/main.php",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.UNqVUJschVFCBLOJsd9o2w&pid=News&w=1200&h=675&c=14"
+      "category": "ai",
+      "title": "[美특징주] 메타, 인공지능 에이전트 유료화 계획에 강세",
+      "summary": "[이데일리 안혜신 기자] 메타(META)가 기업들에게 인공지능(AI) 에이전트 서비스 유료화에 나선다는 소식에 상승 중이다. 3일(현지시간) 오후 12시16분 현재 메타는 전 거래일 대비 2.56%(15.",
+      "source": "이데일리 on MSN",
+      "publishedAt": "2026-06-03",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%E7%BE%8E%ED%8A%B9%EC%A7%95%EC%A3%BC-%EB%A9%94%ED%83%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9C%A0%EB%A3%8C%ED%99%94-%EA%B3%84%ED%9A%8D%EC%97%90-%EA%B0%95%EC%84%B8/ar-AA24KsRK",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-Z6AGhb6sAbF-A2XMOggow&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "아티크론, ‘PIM 인공지능반도체 핵심기술개발사업’ 신규 과제 선정",
-      "summary": "AI 반도체 설계 전문기업 아티크론이 과학기술정보통신부와 정보통신기획평가원(IITP)이 추진하는 ‘PIM 인공지능반도체 핵심기술개발사업’ 신규 과제에 선정되며 차세대 온디바이스 AI 플랫폼 개발에 착수했다. 최근 생성형 AI 확산으로 스마트폰과 웨어러블 기기, 로봇, ...",
+      "title": "AI가 몸을 얻자 자본의 시선이 바뀌었다",
+      "summary": "여의도와 월스트리트는 지금, 화면 속에서 텍스트를 생성하던 인공지능이 철과 모터를 갖춘 몸으로 현실 세계에 들어오는 순간에 프리미엄을 부여하고 있다. 공장의 로봇 팔이 정해진 환경에서 반복 작업을 수행하는 ‘온실형 기계’라면, 미래의 휴머노이드는 아이가 장난감을 어질러 놓은 거실이라는 야생 속으로 들어가야 한다. 텍스트를 다루는 영리함을 넘어, 현실의 충격 ...",
       "source": "중앙일보",
-      "publishedAt": "2026-06-02",
-      "url": "https://www.koreadaily.com/article/20260602001039615",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.TS5Vsb3-v28w3uf6-z-EXA&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-06-03",
+      "url": "https://www.joongang.co.kr/article/25433746",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.sJq4Bx3hZl9MApFCa1oSVg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "삼성전자 ‘비스포크 AI 스팀’ 로봇청소기 월간 판매량 첫 2만 대 돌파, 인공지능 가전 시장 정조준",
-      "summary": "더 이상 바보같이 벽에 머리를 계속 부딪혀대는 로봇청소기는 없다. 구석을 놓치고 편한 곳만 청소하는 로봇청소기도 없다. 가정의 가장 깊숙한 곳으로 인공지능이 들어오고 있다. 삼성전자가 로봇청소기 월간 첫 판매량 2만 대 돌파를 계기로 인공지능(AI) 가전 시장에서 입지를 더욱 확대하겠다는 방침을 세웠다. 삼성전자는 ‘비스포크 AI 스팀’ 로봇청소기 월간 판 ...",
-      "source": "허프포스트코리아 on MSN",
-      "publishedAt": "2026-06-02",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EB%B9%84%EC%8A%A4%ED%8F%AC%ED%81%AC-ai-%EC%8A%A4%ED%8C%80-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0-%EC%9B%94%EA%B0%84-%ED%8C%90%EB%A7%A4%EB%9F%89-%EC%B2%AB-2%EB%A7%8C-%EB%8C%80-%EB%8F%8C%ED%8C%8C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B0%80%EC%A0%84-%EC%8B%9C%EC%9E%A5-%EC%A0%95%EC%A1%B0%EC%A4%80/ar-AA24CZj3",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.diw76zQ7QDCIcw_CCjDjdQ&pid=News&w=1200&h=675&c=14"
+      "title": "“우주 어느 천년에 갈래? 바다부터 와”…데이터센터 손뻗는 삼성重",
+      "summary": "글로벌 선주사와 선급, 인공지능 (AI) 서버 기업까지 잇달아 협력 체계를 구축하며 새로운 성장동력 확보에 나선 모습이다. 삼성중공업은 5일까지 그리스 아테네에서 열리는 세계 최대 선박 박람회인 포시도니아 2026에서 그리스 선주사 캐피털, 영국 로이드선급과 부유식 데이터센터 3자 사업 협력을 체결했다고 3일 밝혔다.",
+      "source": "매일경제",
+      "publishedAt": "2026-06-04",
+      "url": "https://www.mk.co.kr/news/business/12065481",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.wEDlhJbeaQDD-MaqMPEO2A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[김경진의 AI전략노트]〈29〉중국의 인공지능 발전, 대한민국은 어디 있는가",
-      "summary": "2026년 5월 28일, 중국 톈진(天津). 남개대 류강(??) 교수가 무대에 올랐습니다. “인공지능(AI)의 심층 응용이 '지능경제 신형태(智能?济新形?)'를 탄생시키고 있다.” 그가 발표한 '중국 신세대 인공지능 과학기술 산업 발전 보고서 2026'의 결론입니다. 비슷한 시각 서울에서는 과기정통부가 GPU 1만5000장 추가 확보를 위한 2조원대 사업을 ...",
-      "source": "전자신문",
-      "publishedAt": "2026-06-02",
-      "url": "https://www.etnews.com/20260602000194",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.alVlNA89VXjjRWd8PMrUnw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[유재수의 특이점(Singularity) 시대]〈10〉AI 시대, 인간의 가치는 어디에 있는가?",
-      "summary": "최근 몇 년간 급격한 인공지능(AI)의 발전은 “인간은 얼마나 유용한가?”라는 질문을 키우고 있다. 특히 글쓰기, 분석, 사고, 지적 노동처럼 주로 머리로 하는 일을 하는 사람들은 AI 앞에서 자신의 쓸모를 의심하게 된다. 실제로 육체노동자보다 지적 노동자들이 향후 AI로 더 심각하게 타격을 받을 것이라는 전망이 줄을 잇고 있다. 과거 산업혁명이 인간의 노 ...",
-      "source": "전자신문",
-      "publishedAt": "2026-06-02",
-      "url": "https://www.etnews.com/20260602000053",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.STwsDGCZghsBlbuOq2BlWw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "소프트뱅크 노림수는 전력..AI, 반도체 넘어 전력 확보전으로",
-      "summary": "【파이낸셜뉴스 도쿄=서혜진 특파원】소프트뱅크그룹(SBG)이 프랑스에 대규모 AI 데이터센터를 건설한다고 발표한 가운데 인공지능(AI) 산업의 핵심 경쟁력이 반도체를 넘어 전력 확보로 이동하면서 전력 인프라를 중심으로 사업 확장에 나섰다는 평가가 나오고 있다고 ...",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-06-02",
-      "url": "https://www.fnnews.com/news/202606021511204153",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ROu5SwSRawgFQZbZO4HL4w&pid=News&w=1200&h=675&c=14"
+      "title": "돌봄AI ‘윤리적 가이드라인’ 고민할 때 [현장메모]",
+      "summary": "“일본은 돌봄 인공지능(AI)과 관련된 윤리적 가이드를 만들었지만 우리는 지침조차 없이 도입돼 성적인 발언이 문제가 됐습니다. 일본은 여기에 국내 논란을 다시 소개하며 가이드라인을 더 세세하게 개선했습니다. ” 봉제인형 형태 돌봄 AI에 관심을 가지게 된 건 토론회에서 만난 연구원과의 이러한 대화 내용이 계기였다.",
+      "source": "세계일보",
+      "publishedAt": "2026-06-03",
+      "url": "https://www.segye.com/newsView/20260603510222",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.drFUEZo_xIj6z-7MEUa-GQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
