@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-06-04",
-  "windowStart": "2026-06-02T22:00:00.000Z",
-  "windowEnd": "2026-06-03T22:00:00.000Z",
+  "updatedAt": "2026-06-05",
+  "windowStart": "2026-06-03T22:00:00.000Z",
+  "windowEnd": "2026-06-04T22:00:00.000Z",
   "articles": [
-    {
-      "category": "society",
-      "title": "[복지뉴스] “선입금 요구하면 바로 확인하세요”... 한국사회보장정보원 '직원 확인 서비스' 시행 外",
-      "summary": "【베이비뉴스 최규삼 기자】아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 정책과 아동·가족 복지 제도, 취약계층 지원 사업 등 다양한 소식 가운 ...",
-      "source": "베이비뉴스 on MSN",
-      "publishedAt": "2026-06-02",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-%EC%84%A0%EC%9E%85%EA%B8%88-%EC%9A%94%EA%B5%AC%ED%95%98%EB%A9%B4-%EB%B0%94%EB%A1%9C-%ED%99%95%EC%9D%B8%ED%95%98%EC%84%B8%EC%9A%94-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EC%A7%81%EC%9B%90-%ED%99%95%EC%9D%B8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%8B%9C%ED%96%89-%E5%A4%96/ar-AA24BZ5A",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.l_k3bZTMFEEA2qhoum9tvA&pid=News&w=1200&h=675&c=14"
-    },
     {
       "category": "society",
       "title": "[이슈] 국세청, 상속·증여세 오해 바로잡기 나서…\"생활비 메모만으론 비과세 안 돼\"",
@@ -23,6 +14,15 @@
     },
     {
       "category": "society",
+      "title": "커피 한 잔에 담긴 ‘무거운’ 사회적 신뢰",
+      "summary": "시사위크=박설민 기자 “함께 마신 커피는 40년 신뢰로 이어진다.” 커피를 사랑하는 국가 튀르키예의 유명한 속담이다. 같은 자리에 앉아 한 잔의 커피를 나누는 것은 인간적인 교감, 생각의 공유로 이어질 수 있다. 전 세계에서 가장 많은 커피를 소비하는 한국 역시 마찬가지다. 전국의 커피숍은 점심 시간만 되면 자리가 가득 차곤 한다. 그 중심에는 신세계그룹이 ...",
+      "source": "시사위크 on MSN",
+      "publishedAt": "2026-05-28",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%BB%A4%ED%94%BC-%ED%95%9C-%EC%9E%94%EC%97%90-%EB%8B%B4%EA%B8%B4-%EB%AC%B4%EA%B1%B0%EC%9A%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%8B%A0%EB%A2%B0/ar-AA24flkT",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.9ba148bd0291dfc6abf3d541f2e60196&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
       "title": "[이슈 플러스] 연령 제한·금지 범위 제각각…사회적 공감대·실효성 높여야",
       "summary": "세계 각국이 청소년 사회관계망서비스(SNS) 이용 금지 법안을 추진하면서 한국에서도 규제 도입 논의를 본격화해야 한다는 공감대가 형성되고 있다. SNS 이용을 금지하는 법안을 도입해야 한다는 주장이 아니라 어느 선이 적정하고 누가 관리해야 할지 등에 대한 심도 깊은 논의를 우리 현실에 맞게 시작해야 한다는 지적이다. 세계 각국은 청소년 SNS 중독을 예방하 ...",
       "source": "전자신문 on MSN",
@@ -31,40 +31,67 @@
       "imageUrl": "https://www.bing.com/th?id=ORMS.fae895b743b7ee5ea2b2cbf22b337eac&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "ai",
-      "title": "[美특징주] 메타, 인공지능 에이전트 유료화 계획에 강세",
-      "summary": "[이데일리 안혜신 기자] 메타(META)가 기업들에게 인공지능(AI) 에이전트 서비스 유료화에 나선다는 소식에 상승 중이다. 3일(현지시간) 오후 12시16분 현재 메타는 전 거래일 대비 2.56%(15.",
-      "source": "이데일리 on MSN",
-      "publishedAt": "2026-06-03",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%E7%BE%8E%ED%8A%B9%EC%A7%95%EC%A3%BC-%EB%A9%94%ED%83%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9C%A0%EB%A3%8C%ED%99%94-%EA%B3%84%ED%9A%8D%EC%97%90-%EA%B0%95%EC%84%B8/ar-AA24KsRK",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.-Z6AGhb6sAbF-A2XMOggow&pid=News&w=1200&h=675&c=14"
+      "category": "society",
+      "title": "[브라보 문화 이슈] 65세 이상만 입장, '봉주르빵집'은 뭐가 다를까?",
+      "summary": "복지부, 국무회의서 ‘복지안전매트 강화 방안’ 보고 위기가구 조기 발굴·직권신청 확대 추진 장기요양 가족휴가·단기보호 확대로 돌봄 공백 해소 #. 올해 3월에는 3인 가구 (90대 치매 노모·60대 아들·손자)에서 노모를 장기간 간병 중이던 60대 아들이 노모와 함께 극단적 선택을 시도하는 일이 발생했다. 이들은 다음 날 정신건강복지센터 상담을 받았지만, ...",
+      "source": "브라보 마이 라이프",
+      "publishedAt": "2001-01-01",
+      "url": "https://bravo.etoday.co.kr/main.php",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.UNqVUJschVFCBLOJsd9o2w&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "지방선거 정책 사라지고 공방만 눈길…복지 수준이 도시경쟁력",
+      "summary": "[울산저널]이승진 기자= 선거 때마다 개발 공약과 지역 성장 사업이 쏟아진다. 일상에서 체감하는 돌봄·의료·주거·빈곤 문제는 크게 달라지지 않는다. 지방선거가 지역 미래를 결정하는 정치 과정임에도 복지정책은 중심 의제가 되지 못한다. 지방선거 공약을 살펴보면 산업단지 유치, 교통망 확충, 관광사업, 대규모 건설사업 같은 개발 중심 공약으로 넘쳐난다. 초고령 ...",
+      "source": "울산저널i",
+      "publishedAt": "2026-05-28",
+      "url": "https://www.usjournal.kr/news/newsview.php?ncode=1065591104304175",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.5MJBiP4gPEHdgsSDVHLq8Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "AI가 몸을 얻자 자본의 시선이 바뀌었다",
-      "summary": "여의도와 월스트리트는 지금, 화면 속에서 텍스트를 생성하던 인공지능이 철과 모터를 갖춘 몸으로 현실 세계에 들어오는 순간에 프리미엄을 부여하고 있다. 공장의 로봇 팔이 정해진 환경에서 반복 작업을 수행하는 ‘온실형 기계’라면, 미래의 휴머노이드는 아이가 장난감을 어질러 놓은 거실이라는 야생 속으로 들어가야 한다. 텍스트를 다루는 영리함을 넘어, 현실의 충격 ...",
-      "source": "중앙일보",
-      "publishedAt": "2026-06-03",
-      "url": "https://www.joongang.co.kr/article/25433746",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.sJq4Bx3hZl9MApFCa1oSVg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "“우주 어느 천년에 갈래? 바다부터 와”…데이터센터 손뻗는 삼성重",
-      "summary": "글로벌 선주사와 선급, 인공지능 (AI) 서버 기업까지 잇달아 협력 체계를 구축하며 새로운 성장동력 확보에 나선 모습이다. 삼성중공업은 5일까지 그리스 아테네에서 열리는 세계 최대 선박 박람회인 포시도니아 2026에서 그리스 선주사 캐피털, 영국 로이드선급과 부유식 데이터센터 3자 사업 협력을 체결했다고 3일 밝혔다.",
-      "source": "매일경제",
+      "title": "충북교육청, '충북형 인공지능 윤리기준 가이드라인' 보급",
+      "summary": "충북교육청 제공 충청북도교육청은 '충북형 인공지능(AI) 윤리기준 설명 자료집'과 '충북형 AI 윤리 가이드라인'을 개발해 도내 각 교육기관과 학교에 보급했다고 4일 밝혔다. 자료집은 '프라이버시 보호', '안전성·보안', '위험예방 및 대응체계 ', '비편향성', 'AI 리터러시', '지속가능성' 등 12개 실천 ...",
+      "source": "노컷뉴스 on MSN",
       "publishedAt": "2026-06-04",
-      "url": "https://www.mk.co.kr/news/business/12065481",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.wEDlhJbeaQDD-MaqMPEO2A&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%B6%A9%EB%B6%81%EA%B5%90%EC%9C%A1%EC%B2%AD-%EC%B6%A9%EB%B6%81%ED%98%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9C%A4%EB%A6%AC%EA%B8%B0%EC%A4%80-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EB%B3%B4%EA%B8%89/ar-AA24Pf4a",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.b5qtwbhn3xsVz50o5U-yfg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "돌봄AI ‘윤리적 가이드라인’ 고민할 때 [현장메모]",
-      "summary": "“일본은 돌봄 인공지능(AI)과 관련된 윤리적 가이드를 만들었지만 우리는 지침조차 없이 도입돼 성적인 발언이 문제가 됐습니다. 일본은 여기에 국내 논란을 다시 소개하며 가이드라인을 더 세세하게 개선했습니다. ” 봉제인형 형태 돌봄 AI에 관심을 가지게 된 건 토론회에서 만난 연구원과의 이러한 대화 내용이 계기였다.",
-      "source": "세계일보",
-      "publishedAt": "2026-06-03",
-      "url": "https://www.segye.com/newsView/20260603510222",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.drFUEZo_xIj6z-7MEUa-GQ&pid=News&w=1200&h=675&c=14"
+      "title": "인공지능이 대신 할 수 없는, 사람과 사람을 잇는 노동 [.txt]",
+      "summary": "타인의 감정·생각 읽고 되돌려주는 ‘연결노동’ 보건·교육·상담 전문가 100여명 인터뷰 “연결노동 축소·자동화, 큰 대가 치를 것” ...",
+      "source": "한겨레 on MSN",
+      "publishedAt": "2026-06-04",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4-%EB%8C%80%EC%8B%A0-%ED%95%A0-%EC%88%98-%EC%97%86%EB%8A%94-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%82%AC%EB%9E%8C%EC%9D%84-%EC%9E%87%EB%8A%94-%EB%85%B8%EB%8F%99-txt/ar-AA24QQUg",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.NE-fIFKqvQ8Zd6e9WJH3cg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "[게시판] 인공지능산업법학회-사이버보안융합학회 공동학술대회",
+      "summary": "▲ 한국인공지능산업법학회 (회장 손형섭)와 사이버보안신기술융합학회 (회장 이재우)는 오는 13일 서울 동국대 문화관에서 '인공지능 (AI)과 사이버보안'을 주제로 한 2026년 하계 공동 학술대회를 연다고 4일 밝혔다. 첫 세션은 'AI 거버넌스의 진화와 디지털 입헌주의의 국가 사이버 보안까지'를 주제로 발표와 토론이 진행되고, 2세션은 'AI융합드론·로봇 ...",
+      "source": "연합뉴스",
+      "publishedAt": "2026-06-04",
+      "url": "https://www.yna.co.kr/view/AKR20260604172700004",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.shadvkIlRI-_KlQ7C_jirA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "SAPPHIRE, COMPUTEX 2026서 게이밍 콘텐츠 제작 엣지 AI 아우르는 하드웨어 솔루션 공개",
+      "summary": "㈜이엠텍아이엔씨(대표 서영식, 이하 이엠텍)가 국내에 공식 유통하는 SAPPHIRE는 COMPUTEX 2026이 열린 대만 타이베이에서 차세대 컴퓨팅 환경을 겨냥한 다양한 제품과 ...",
+      "source": "케이벤치 on MSN",
+      "publishedAt": "2026-06-04",
+      "url": "https://www.msn.com/ko-kr/news/other/sapphire-computex-2026%EC%84%9C-%EA%B2%8C%EC%9D%B4%EB%B0%8D-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%A0%9C%EC%9E%91-%EC%97%A3%EC%A7%80-ai-%EC%95%84%EC%9A%B0%EB%A5%B4%EB%8A%94-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B3%B5%EA%B0%9C/ar-AA24OJvU",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.TKvoZEvggfGCkfPYL9l-RA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "한국, AI 혁신 국가로 글로벌 산업내 존재감 드러내",
+      "summary": "한국이 중국과 미국에 이어 인공지능(AI) 발명 분야를 선도하는 글로벌 조직을 다수 보유한 세번째 국가에 이름을 올렸다. 주요 AI 혁신 국가 중 하나로 이름을 올리며 글로벌 AI 산업 내 존재감을 드러내고 있다. 글로벌 혁신 인텔리전스 기업 클래리베이트(Clarivate)는 최근 데이터 기반 벤치마크 '클래리베이트 AI50(Clarivate AI50)'을 ...",
+      "source": "전자신문 on MSN",
+      "publishedAt": "2026-06-04",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD-ai-%ED%98%81%EC%8B%A0-%EA%B5%AD%EA%B0%80%EB%A1%9C-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%82%B0%EC%97%85%EB%82%B4-%EC%A1%B4%EC%9E%AC%EA%B0%90-%EB%93%9C%EB%9F%AC%EB%82%B4/ar-AA24OwDH",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.67c20e5e628d6a589cc99307a9c5c113&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
