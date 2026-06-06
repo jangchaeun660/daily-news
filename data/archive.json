@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-06-07",
+    "windowStart": "2026-06-05T22:00:00.000Z",
+    "windowEnd": "2026-06-06T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[인천일보 경기본사 시민편집위원회] “사회 이슈 기획 '호평'…저작권 제도 해석 못 담아 아쉬워”",
+        "summary": "인천일보 경기본사의 보도 내용을 평가하고 건전한 대안을 제시하는 '제4기 인천일보 경기본사 시민편집위원회'가 5월 인천일보 보도에 대해 의견을 제시했다.이달에는 청소년 도박 문제와 불법 웹툰 공유 사이트의 현실 등 사회적으로 주요한 이슈들을 기획을 통해 입체적으로 보여준 점 등을 높게 평가했다. 다만 학교 운동회 소음 문제에 대해 시민 의식을 전환할 수 있 ...",
+        "source": "인천일보 on MSN",
+        "publishedAt": "2026-05-26",
+        "url": "https://www.msn.com/ko-kr/%EC%82%AC%ED%9A%8C-%EB%AC%B8%ED%99%94-%EB%B0%8F-%EC%97%AD%EC%82%AC/%EC%86%8C%EC%85%9C-%EB%AC%B8%EC%A0%9C/%EC%9D%B8%EC%B2%9C%EC%9D%BC%EB%B3%B4-%EA%B2%BD%EA%B8%B0%EB%B3%B8%EC%82%AC-%EC%8B%9C%EB%AF%BC%ED%8E%B8%EC%A7%91%EC%9C%84%EC%9B%90%ED%9A%8C-%EC%82%AC%ED%9A%8C-%EC%9D%B4%EC%8A%88-%EA%B8%B0%ED%9A%8D-%ED%98%B8%ED%8F%89-%EC%A0%80%EC%9E%91%EA%B6%8C-%EC%A0%9C%EB%8F%84-%ED%95%B4%EC%84%9D-%EB%AA%BB-%EB%8B%B4%EC%95%84-%EC%95%84%EC%89%AC%EC%9B%8C/ar-AA244RUI",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.EIhDYgxGhSfJAR9M_gzK9A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈 플러스] 연령 제한·금지 범위 제각각…사회적 공감대·실효성 높여야",
+        "summary": "세계 각국이 청소년 사회관계망서비스(SNS) 이용 금지 법안을 추진하면서 한국에서도 규제 도입 논의를 본격화해야 한다는 공감대가 형성되고 있다. SNS 이용을 금지하는 법안을 도입해야 한다는 주장이 아니라 어느 선이 적정하고 누가 관리해야 할지 등에 대한 심도 깊은 논의를 우리 현실에 맞게 시작해야 한다는 지적이다. 세계 각국은 청소년 SNS 중독을 예방하 ...",
+        "source": "전자신문 on MSN",
+        "publishedAt": "2026-05-25",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4%EC%8A%88-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%97%B0%EB%A0%B9-%EC%A0%9C%ED%95%9C-%EA%B8%88%EC%A7%80-%EB%B2%94%EC%9C%84-%EC%A0%9C%EA%B0%81%EA%B0%81-%EC%82%AC%ED%9A%8C%EC%A0%81-%EA%B3%B5%EA%B0%90%EB%8C%80-%EC%8B%A4%ED%9A%A8%EC%84%B1-%EB%86%92%EC%97%AC%EC%95%BC/ar-AA23UtF4",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.fae895b743b7ee5ea2b2cbf22b337eac&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[브라보 문화 이슈] 65세 이상만 입장, '봉주르빵집'은 뭐가 다를까?",
+        "summary": "복지부, 국무회의서 ‘복지안전매트 강화 방안’ 보고 위기가구 조기 발굴·직권신청 확대 추진 장기요양 가족휴가·단기보호 확대로 돌봄 공백 해소 #. 올해 3월에는 3인 가구 (90대 치매 노모·60대 아들·손자)에서 노모를 장기간 간병 중이던 60대 아들이 노모와 함께 극단적 선택을 시도하는 일이 발생했다. 이들은 다음 날 정신건강복지센터 상담을 받았지만, ...",
+        "source": "브라보 마이 라이프",
+        "publishedAt": "2001-01-01",
+        "url": "https://bravo.etoday.co.kr/main.php",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.UNqVUJschVFCBLOJsd9o2w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈&팩트(267)] 에볼라 바이러스, 공기 중으로 전파된다?",
+        "summary": "시사위크=박설민 기자 콩고 민주공화국을 중심으로 한 ‘에볼라 바이러스(Ebola virus)’의 공포가 아프리카 전역으로 퍼지고 있다. 지난 25일 세계보건기수(WHO)에 따르면 에볼라 바이러스 전파 속도는 방역당국 대응 속도를 능가한 상태다. 사망자는 220명, 의심 환자는 900명에 달한다.단순 수치만 보면 ‘코로나19(Covid 19)’나 독감 ‘인플 ...",
+        "source": "시사위크",
+        "publishedAt": "2026-05-29",
+        "url": "https://www.sisaweek.com/news/articleView.html?idxno=235808",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.LGVR8Vt5bQWZ9I8gXycJyA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "커피 한 잔에 담긴 ‘무거운’ 사회적 신뢰",
+        "summary": "시사위크=박설민 기자 “함께 마신 커피는 40년 신뢰로 이어진다.” 커피를 사랑하는 국가 튀르키예의 유명한 속담이다. 같은 자리에 앉아 한 잔의 커피를 나누는 것은 인간적인 교감, 생각의 공유로 이어질 수 있다. 전 세계에서 가장 많은 커피를 소비하는 한국 역시 마찬가지다. 전국의 커피숍은 점심 시간만 되면 자리가 가득 차곤 한다. 그 중심에는 신세계그룹이 ...",
+        "source": "시사위크 on MSN",
+        "publishedAt": "2026-05-28",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%BB%A4%ED%94%BC-%ED%95%9C-%EC%9E%94%EC%97%90-%EB%8B%B4%EA%B8%B4-%EB%AC%B4%EA%B1%B0%EC%9A%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%8B%A0%EB%A2%B0/ar-AA24flkT",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.9ba148bd0291dfc6abf3d541f2e60196&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "범용에서 산업으로… '중국판 CES'가 보여준 중국 AI의 방향 전환",
+        "summary": "[선데이 모닝 인사이트] 中 AI산업 트럼프 2기 출범, AI의 발달, 기후변화 등 글로벌 사회의 불확실성이 커졌습니다. 는 매주 일요일 오전, 깊이 있는 시각과 예리한 분석으로 불확실성 커진 세상을 헤쳐나갈 지혜를 전달합니다. 중국이 산업 AI(인공지능) 생태계 구축에 나서고 있다. 세계 최대 규모의 제조업에서 나오는 방대한 산업 데이터를 기반으로 산업 ...",
+        "source": "머니투데이 on MSN",
+        "publishedAt": "2026-06-06",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%B2%94%EC%9A%A9%EC%97%90%EC%84%9C-%EC%82%B0%EC%97%85%EC%9C%BC%EB%A1%9C-%EC%A4%91%EA%B5%AD%ED%8C%90-ces%EA%B0%80-%EB%B3%B4%EC%97%AC%EC%A4%80-%EC%A4%91%EA%B5%AD-ai%EC%9D%98-%EB%B0%A9%ED%96%A5-%EC%A0%84%ED%99%98/ar-AA250B7W",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.1607085d3725db57dbb99b68d546f0e1&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI 데이터센터發 반도체 슈퍼사이클…4년 만에 10배 성장 전망",
+        "summary": "인공지능(AI) 데이터센터 투자가 폭증하면서 반도체 매출 증가세 역시 가팔라지고 있다. 3일 미국 반도체산업협회(SIA)는 딜로이트와 공동 발표한 'AI 동력: 데이터센터의 기반이 되는 반도체 생태계' 보고서에서 AI 데이터센터용 반도체 연간 매출이 2028년 1조2000억달러(약 1800조원)에 이를 것으로 내다봤다. 이는 4년 만에 10배 가까이 성장하 ...",
+        "source": "전자신문 on MSN",
+        "publishedAt": "2026-06-03",
+        "url": "https://www.msn.com/ko-kr/news/other/ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%E7%99%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%8A%88%ED%8D%BC%EC%82%AC%EC%9D%B4%ED%81%B4-4%EB%85%84-%EB%A7%8C%EC%97%90-10%EB%B0%B0-%EC%84%B1%EC%9E%A5-%EC%A0%84%EB%A7%9D/ar-AA24Grfn",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.GVf3K-2m9ZhxUPBSEcFHwA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "\"AI 데이터센터 잡아라\"… 동박3사 속도전",
+        "summary": "국내 동박업계는 수익성이 낮은 전기차용 동박 생산을 줄이고, 에너지저장장치(ESS) 및 AI 데이터센터 관련 고부가가치 제품 중심으로 사업 포트폴리오를 재편하고 있다. 특히 SK넥실리스는 ESS용 동박의 판매량이 올해 1분기 전기차용을 초과하는 등 북미 시장 성장에 힘입어 안정적인 수익 구조를 마련하고 있다. 롯데에너지머티리얼즈는 데이터센터용 회로박 공급 ...",
+        "source": "매일경제 on MSN",
+        "publishedAt": "2026-06-03",
+        "url": "https://www.msn.com/ko-kr/news/other/ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%9E%A1%EC%95%84%EB%9D%BC-%EB%8F%99%EB%B0%953%EC%82%AC-%EC%86%8D%EB%8F%84%EC%A0%84/ar-AA24J5lT",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.fa7f83c74f328b9cb811f39ad31e6ae8&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "“AI데이터센터 우리 없으면 못짓습니다”…전기차 갈아타는 이 업종",
+        "summary": "국내 동박업계가 전기차용 생산을 줄이고 ESS와 AI 데이터센터, 반도체 패키징 등 고부가가치 제품으로 사업 재편에 나서고 있다. 특히 SK넥실리스는 ESS용 동박의 판매가 전기차용을 처음으로 넘어서는 성과를 보였으며, 롯데에너지머티리얼즈는 AI 서버와 데이터센터 수요 증가에 발맞춰 회로박 공급을 확대하고 있다. 그럼에도 불구하고 각 업체는 특허 분쟁 등 ...",
+        "source": "매일경제 on MSN",
+        "publishedAt": "2026-06-03",
+        "url": "https://www.msn.com/ko-kr/news/other/ai%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%9A%B0%EB%A6%AC-%EC%97%86%EC%9C%BC%EB%A9%B4-%EB%AA%BB%EC%A7%93%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A0%84%EA%B8%B0%EC%B0%A8-%EA%B0%88%EC%95%84%ED%83%80%EB%8A%94-%EC%9D%B4-%EC%97%85%EC%A2%85/ar-AA24LwuU",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.071e09226310adf8c59b64887b3c8691&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "피플바이오, 삼성동 AI 엣지 데이터센터 사업 본격화…150억 원 자금조달 확보",
+        "summary": "피플바이오는 삼성동 국제업무지구 내 AI 엣지 데이터센터 신축사업 공동협약사인 리얼리티젠이 한국투자리얼에셋운용으로부터 사업자금 150억 원을 조달했다고 2일 밝혔다. 이번 자금 조달을 계기로 양측은 향후 본 프로젝트파이낸싱(PF) 금융 주선 과정에서도 협력 범위를 확대할 계획이다.회사 측은 이번 자금 조달이 국내 AI 엣지 데이터센터 시장 선점을 위한 기반 ...",
+        "source": "뉴스타운",
+        "publishedAt": "2026-06-02",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=705091",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.96hfY34Q_7KpQOHi6X57BA&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-06-06",
     "windowStart": "2026-06-04T22:00:00.000Z",
     "windowEnd": "2026-06-05T22:00:00.000Z",
@@ -551,103 +648,6 @@
         "publishedAt": "2026-05-30",
         "url": "https://www.msn.com/ko-kr/news/other/%EC%86%8D%EB%B3%B4-3%EB%85%84-%EC%A0%84-%EC%A0%A0%EC%8A%A8-%ED%99%A9%EC%9D%98-%ED%81%B0-%EA%B7%B8%EB%A6%BC-ai%EA%B0%80-%EB%B0%96%EC%97%90-%EB%82%98%EC%98%A8%EB%8B%A4-%EA%B8%B0%EB%8C%80%EA%B0%90-%ED%8F%AD%EB%B0%9C-%EB%B9%88%EB%82%9C%EC%83%88%EC%9D%98-%EB%B9%88%ED%8B%88%EC%97%86%EC%9D%B4%EC%9B%94%EA%B0%80/ar-AA24shag",
         "imageUrl": "https://www.bing.com/th?id=ONUT.0lgplwczGyqJ7F2tND8oKw&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-05-31",
-    "windowStart": "2026-05-29T22:00:00.000Z",
-    "windowEnd": "2026-05-30T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "[이슈 플러스] 연령 제한·금지 범위 제각각…사회적 공감대·실효성 높여야",
-        "summary": "세계 각국이 청소년 사회관계망서비스(SNS) 이용 금지 법안을 추진하면서 한국에서도 규제 도입 논의를 본격화해야 한다는 공감대가 형성되고 있다. SNS 이용을 금지하는 법안을 도입해야 한다는 주장이 아니라 어느 선이 적정하고 누가 관리해야 할지 등에 대한 심도 깊은 논의를 우리 현실에 맞게 시작해야 한다는 지적이다. 세계 각국은 청소년 SNS 중독을 예방하 ...",
-        "source": "전자신문 on MSN",
-        "publishedAt": "2026-05-25",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4%EC%8A%88-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%97%B0%EB%A0%B9-%EC%A0%9C%ED%95%9C-%EA%B8%88%EC%A7%80-%EB%B2%94%EC%9C%84-%EC%A0%9C%EA%B0%81%EA%B0%81-%EC%82%AC%ED%9A%8C%EC%A0%81-%EA%B3%B5%EA%B0%90%EB%8C%80-%EC%8B%A4%ED%9A%A8%EC%84%B1-%EB%86%92%EC%97%AC%EC%95%BC/ar-AA23UtF4",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.fae895b743b7ee5ea2b2cbf22b337eac&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈] 삼전 사태 후 정부, AI시대 대응...AI 노사상생위 출범·국제 AI협력체계 구축…李 \"AI일자리 화두\"",
-        "summary": "삼성전자 노사가 지난 20일 임금협상 잠정 합의안을 도출하면서 총파업이 유보됐다. 이번 노사 갈등은 인공지능(AI) 시대 급격한 생산성 증대로 발생한 이윤을 어떻게 재분배할 것인가에 대한 논의의 문을 열었다는 분석이 나온다. 이러한 논의가 필요한 이유는 AI시대가 본격화되면 청년층의 일자리 소멸이 현실화될 가능성이 높기 때문이다. 즉, AI 산업으로 발생한 ...",
-        "source": "폴리뉴스",
-        "publishedAt": "2026-05-22",
-        "url": "https://www.polinews.co.kr/news/articleView.html?idxno=732064",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.BgqoAFxcF2yPTh2xJKE_jw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[포커스] 돌봄서비스 시장도 바뀐다…'생활동반자법' 논의에 긴장하는 아웃소싱 업계",
-        "summary": "[아웃소싱타임스 김민수 기자] 초고령사회 진입과 함께 독거노인 문제가 구조적 위험으로 번지자, 혈연과 혼인 중심의 기존 가족제도를 넘어 ‘생활동반자법(안)’ 제정을 통해 비혈연 돌봄 관계까지 제도권 안으로 편입해야 한다는 논의가 힘을 얻고 있다. 병원 보호자 지정, 응급상황 대응, 임차권 승계, 가족돌봄휴가 사용 같은 핵심 권한이 여전히 법적 가족 중심으로 ...",
-        "source": "아웃소싱타임스",
-        "publishedAt": "2026-05-25",
-        "url": "https://www.outsourcing.co.kr/news/articleView.html?idxno=202702",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.rWmnioMKITJDbJqLMizj7A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "호남 교계, 차별금지법 및 젠더 이슈 성경적 대응 모색",
-        "summary": "전주와 광주 등 호남 지역 교계가 급변하는 시대적 이슈를 성경적 관점으로 조명하고 다음 세대를 보호하기 위한 전략 마련에 나선다. ‘2026 교회와 시대 이슈 아카데미’가 전주장동교회와 광주겨자씨교회에서 잇따라 열린다. 오는 28일 오전 10시 30분 전주장동교회(담임 김태영 목사)에서 진행되는 아카데미는 ‘차별금지법·젠더·페미니즘 그리고 교회’를 주제로 ...",
-        "source": "크리스천투데이",
-        "publishedAt": "2026-05-26",
-        "url": "https://www.christiantoday.co.kr/news/375307",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.CByKbgbAxnp6hXLQsz0CnA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[테크M 이슈] \"사회공헌이 아니라 생존\"…4대 금융지주의 포용금융 홍보전 '사활'",
-        "summary": "4대 금융지주가 역대급 실적을 내는 동시에 역대급 규모의 사회 기여 경쟁을 벌이고 있다. 하나금융이 소외지역 어르신을 찾아가는 이동형 금융 버스를 운영하고 사회혁신기업 인턴십으로 고용 취약계층을 연결하는가 하면, 우리금융은 개인신용대출에 금리 상한선을 긋고 장애인 고용사업장을 영업점 안에 들였다. KB금융은 제2금융권 차주를 은행으로 끌어들이는 대환 전용 ...",
-        "source": "테크M on MSN",
-        "publishedAt": "2026-05-19",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%85%8C%ED%81%ACm-%EC%9D%B4%EC%8A%88-%EC%82%AC%ED%9A%8C%EA%B3%B5%ED%97%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%83%9D%EC%A1%B4-4%EB%8C%80-%EA%B8%88%EC%9C%B5%EC%A7%80%EC%A3%BC%EC%9D%98-%ED%8F%AC%EC%9A%A9%EA%B8%88%EC%9C%B5-%ED%99%8D%EB%B3%B4%EC%A0%84-%EC%82%AC%ED%99%9C/ar-AA23vMyD",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.RbBEeoqtaUGHCSy3-996uQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "신약 개발부터 생산까지…AI가 재편하는 중국 바이오산업",
-        "summary": "[선데이 모닝 인사이트] 中 바이오 산업 트럼프 2기 출범, AI의 발달, 기후변화 등 글로벌 사회의 불확실성이 커졌습니다. 는 매주 일요일 오전, 깊이 있는 시각과 예리한 분석으로 불확실성 커진 세상을 헤쳐나갈 지혜를 전달합니다. 최근 중국 바이오 기업들이 신약 개발에 인공지능(AI)을 접목시키면서 중국 바이오산업이 반도체·첨단 제조업과 유사한 구조로 바 ...",
-        "source": "머니투데이 on MSN",
-        "publishedAt": "2026-05-30",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%8B%A0%EC%95%BD-%EA%B0%9C%EB%B0%9C%EB%B6%80%ED%84%B0-%EC%83%9D%EC%82%B0%EA%B9%8C%EC%A7%80-ai%EA%B0%80-%EC%9E%AC%ED%8E%B8%ED%95%98%EB%8A%94-%EC%A4%91%EA%B5%AD-%EB%B0%94%EC%9D%B4%EC%98%A4%EC%82%B0%EC%97%85/ar-AA24s9p7",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.1G2qYEQg83aW___pWBszjg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "인공지능 시대 정의의 재설계... '마지막 퍼즐'은 인간의 몫",
-        "summary": "[앵커] YTN은 인공지능 도입으로 인한 법조계의 변화와 명암을 살펴보는 기획 보도를 전해드리고 있습니다. 마지막으로, 인공지능 시대에 법률가들의 '새로운 생존 조건'과 미래 사법 시스템의 과제를 짚어봤습니다. 이준엽 기자가 취재했습니다. [기자] 변호사 윤세환 씨는 상용 인공지능 서비스와 법률 특화 서비스를 능숙하게 ...",
-        "source": "YTN on MSN",
-        "publishedAt": "2026-05-28",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%8B%9C%EB%8C%80-%EC%A0%95%EC%9D%98%EC%9D%98-%EC%9E%AC%EC%84%A4%EA%B3%84-%EB%A7%88%EC%A7%80%EB%A7%89-%ED%8D%BC%EC%A6%90-%EC%9D%80-%EC%9D%B8%EA%B0%84%EC%9D%98-%EB%AA%AB/ar-AA24i9Ma",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.EwY5KjqueGhjDv_dgrSKKw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "법무법인 광장, 정보통신법학회·데이터인공지능법정책학회·정보통신정책연구원과 6월 5일 ‘AI법정책포럼’",
-        "summary": "법무법인(유) 광장(대표변호사 김상곤)이 한국정보통신법학회, 한국데이터인공지능법정책학회, 정보통신정책연구원(KISDI)과 오는 6월 5일(금) 오후 2시 서울 중구 남대문로 63 한진빌딩 본관 26층 강당(Grand Hall)에서 ‘AX 시대 국가 혁신 기반 구축을 위한 법정책적 과제’를 주제로 ‘제2회 AI법정책포럼’을 개최한다. 이번 포럼은 인공지능기본 ...",
-        "source": "중앙일보",
-        "publishedAt": "2026-05-26",
-        "url": "https://www.joongang.co.kr/article/25431273",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.xj7c0N3nSgvzeL7e2IV6UA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "행동하는 AI의 시대…AI 에이전트의 구조, 발전, 그리고 미래",
-        "summary": "(지디넷코리아=윤창희 한국지능정보사회진흥원 수석연구원)인공지능(AI) 에이전트는 다양한 환경에서 자율적으로 행동하며 복합적인 의사결정을 수행하는 지능형 소프트웨어 시스템을 의미한다. 최근에는 단순한 자동화 도구를 넘어, 스스로 목표를 설정하고 계획을 수립하며 외부 도구와 연동해 실행까지 수행하는 차세대 AI 기술로 주목받고 있다. 특히 생성형 AI와 대규모 ...",
-        "source": "지디넷코리아 on MSN",
-        "publishedAt": "2026-05-29",
-        "url": "https://www.msn.com/ko-kr/news/techandscience/%ED%96%89%EB%8F%99%ED%95%98%EB%8A%94-ai%EC%9D%98-%EC%8B%9C%EB%8C%80-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9D%98-%EA%B5%AC%EC%A1%B0-%EB%B0%9C%EC%A0%84-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%AF%B8%EB%9E%98/ar-AA24jazQ",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.MmHSEoyws2ViazzzGrU9AA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "메모리 다음 타자 '배터리'…인공지능 랠리 종착역은 '피지컬 AI'",
-        "summary": "인공지능(AI) 열풍이 데이터센터·반도체 중심 투자 사이클을 이끌고 있는 가운데, 다음 투자 행선지로 ‘배터리’가 주목받고 있다. AI 산업의 최종 지향점이 피지컬 AI로 향하는 만큼, 이를 실제 구동할 핵심 기술인 배터리가 새로운 투자 테마로 부상하고 있는 것이다. 29일 한국거래소에 따르면 최근 외국인 자금이 국내 2차전지 업종으로 이동하는 흐름이 나타 ...",
-        "source": "EBN",
-        "publishedAt": "2026-05-28",
-        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1710479",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.5GRkcnUfEsJQ1UVW_E2BMg&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
