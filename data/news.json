@@ -1,52 +1,43 @@
 {
-  "updatedAt": "2026-06-07",
-  "windowStart": "2026-06-05T22:00:00.000Z",
-  "windowEnd": "2026-06-06T22:00:00.000Z",
+  "updatedAt": "2026-06-08",
+  "windowStart": "2026-06-06T22:00:00.000Z",
+  "windowEnd": "2026-06-07T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[인천일보 경기본사 시민편집위원회] “사회 이슈 기획 '호평'…저작권 제도 해석 못 담아 아쉬워”",
-      "summary": "인천일보 경기본사의 보도 내용을 평가하고 건전한 대안을 제시하는 '제4기 인천일보 경기본사 시민편집위원회'가 5월 인천일보 보도에 대해 의견을 제시했다.이달에는 청소년 도박 문제와 불법 웹툰 공유 사이트의 현실 등 사회적으로 주요한 이슈들을 기획을 통해 입체적으로 보여준 점 등을 높게 평가했다. 다만 학교 운동회 소음 문제에 대해 시민 의식을 전환할 수 있 ...",
-      "source": "인천일보 on MSN",
-      "publishedAt": "2026-05-26",
-      "url": "https://www.msn.com/ko-kr/%EC%82%AC%ED%9A%8C-%EB%AC%B8%ED%99%94-%EB%B0%8F-%EC%97%AD%EC%82%AC/%EC%86%8C%EC%85%9C-%EB%AC%B8%EC%A0%9C/%EC%9D%B8%EC%B2%9C%EC%9D%BC%EB%B3%B4-%EA%B2%BD%EA%B8%B0%EB%B3%B8%EC%82%AC-%EC%8B%9C%EB%AF%BC%ED%8E%B8%EC%A7%91%EC%9C%84%EC%9B%90%ED%9A%8C-%EC%82%AC%ED%9A%8C-%EC%9D%B4%EC%8A%88-%EA%B8%B0%ED%9A%8D-%ED%98%B8%ED%8F%89-%EC%A0%80%EC%9E%91%EA%B6%8C-%EC%A0%9C%EB%8F%84-%ED%95%B4%EC%84%9D-%EB%AA%BB-%EB%8B%B4%EC%95%84-%EC%95%84%EC%89%AC%EC%9B%8C/ar-AA244RUI",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.EIhDYgxGhSfJAR9M_gzK9A&pid=News&w=1200&h=675&c=14"
+      "title": "[복지뉴스] 우리銀, 한국사회복지공제회와 따뜻한 동행... 주거래 업무협약 체결",
+      "summary": "【베이비뉴스 소장섭 기자】'복지뉴스'는아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 정책과 아동·가족 복지 제도, 취약계층 지원 사업 등 다양 ...",
+      "source": "베이비뉴스 on MSN",
+      "publishedAt": "2026-06-05",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-%EC%9A%B0%EB%A6%AC%E9%8A%80-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EA%B3%B5%EC%A0%9C%ED%9A%8C%EC%99%80-%EB%94%B0%EB%9C%BB%ED%95%9C-%EB%8F%99%ED%96%89-%EC%A3%BC%EA%B1%B0%EB%9E%98-%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD-%EC%B2%B4%EA%B2%B0/ar-AA24S5JM",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.34M_sa99G4dHecjCFXGt9g&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "[이슈 플러스] 연령 제한·금지 범위 제각각…사회적 공감대·실효성 높여야",
-      "summary": "세계 각국이 청소년 사회관계망서비스(SNS) 이용 금지 법안을 추진하면서 한국에서도 규제 도입 논의를 본격화해야 한다는 공감대가 형성되고 있다. SNS 이용을 금지하는 법안을 도입해야 한다는 주장이 아니라 어느 선이 적정하고 누가 관리해야 할지 등에 대한 심도 깊은 논의를 우리 현실에 맞게 시작해야 한다는 지적이다. 세계 각국은 청소년 SNS 중독을 예방하 ...",
-      "source": "전자신문 on MSN",
-      "publishedAt": "2026-05-25",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4%EC%8A%88-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%97%B0%EB%A0%B9-%EC%A0%9C%ED%95%9C-%EA%B8%88%EC%A7%80-%EB%B2%94%EC%9C%84-%EC%A0%9C%EA%B0%81%EA%B0%81-%EC%82%AC%ED%9A%8C%EC%A0%81-%EA%B3%B5%EA%B0%90%EB%8C%80-%EC%8B%A4%ED%9A%A8%EC%84%B1-%EB%86%92%EC%97%AC%EC%95%BC/ar-AA23UtF4",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.fae895b743b7ee5ea2b2cbf22b337eac&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[브라보 문화 이슈] 65세 이상만 입장, '봉주르빵집'은 뭐가 다를까?",
-      "summary": "복지부, 국무회의서 ‘복지안전매트 강화 방안’ 보고 위기가구 조기 발굴·직권신청 확대 추진 장기요양 가족휴가·단기보호 확대로 돌봄 공백 해소 #. 올해 3월에는 3인 가구 (90대 치매 노모·60대 아들·손자)에서 노모를 장기간 간병 중이던 60대 아들이 노모와 함께 극단적 선택을 시도하는 일이 발생했다. 이들은 다음 날 정신건강복지센터 상담을 받았지만, ...",
-      "source": "브라보 마이 라이프",
-      "publishedAt": "2001-01-01",
-      "url": "https://bravo.etoday.co.kr/main.php",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.UNqVUJschVFCBLOJsd9o2w&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[이슈&팩트(267)] 에볼라 바이러스, 공기 중으로 전파된다?",
-      "summary": "시사위크=박설민 기자 콩고 민주공화국을 중심으로 한 ‘에볼라 바이러스(Ebola virus)’의 공포가 아프리카 전역으로 퍼지고 있다. 지난 25일 세계보건기수(WHO)에 따르면 에볼라 바이러스 전파 속도는 방역당국 대응 속도를 능가한 상태다. 사망자는 220명, 의심 환자는 900명에 달한다.단순 수치만 보면 ‘코로나19(Covid 19)’나 독감 ‘인플 ...",
-      "source": "시사위크",
-      "publishedAt": "2026-05-29",
-      "url": "https://www.sisaweek.com/news/articleView.html?idxno=235808",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.LGVR8Vt5bQWZ9I8gXycJyA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "커피 한 잔에 담긴 ‘무거운’ 사회적 신뢰",
-      "summary": "시사위크=박설민 기자 “함께 마신 커피는 40년 신뢰로 이어진다.” 커피를 사랑하는 국가 튀르키예의 유명한 속담이다. 같은 자리에 앉아 한 잔의 커피를 나누는 것은 인간적인 교감, 생각의 공유로 이어질 수 있다. 전 세계에서 가장 많은 커피를 소비하는 한국 역시 마찬가지다. 전국의 커피숍은 점심 시간만 되면 자리가 가득 차곤 한다. 그 중심에는 신세계그룹이 ...",
-      "source": "시사위크 on MSN",
+      "title": "[복지뉴스] 한국사회보장정보원-중앙사회서비스원, 'AI 기반 통합돌봄' 협력체계 구축 外",
+      "summary": "【베이비뉴스 최규삼 기자】'복지뉴스'는 아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 정책과 아동·가족 복지 제도, 취약계층 지원 사업 등 다 ...",
+      "source": "베이비뉴스 on MSN",
       "publishedAt": "2026-05-28",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%BB%A4%ED%94%BC-%ED%95%9C-%EC%9E%94%EC%97%90-%EB%8B%B4%EA%B8%B4-%EB%AC%B4%EA%B1%B0%EC%9A%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%8B%A0%EB%A2%B0/ar-AA24flkT",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.9ba148bd0291dfc6abf3d541f2e60196&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EC%A4%91%EC%95%99%EC%82%AC%ED%9A%8C%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9B%90-ai-%EA%B8%B0%EB%B0%98-%ED%86%B5%ED%95%A9%EB%8F%8C%EB%B4%84-%ED%98%91%EB%A0%A5%EC%B2%B4%EA%B3%84-%EA%B5%AC%EC%B6%95-%E5%A4%96/ar-AA24fPxw",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.hzh9StdTBGyoOfgLROaY-g&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "'박치기왕', '아시아의 물개'…현충원에 잠든 한국의 영웅들",
+      "summary": "\"가난으로 힘들고 어려웠던 1960년대와 1970년대 흑백 TV 시대 최고의 스포츠 스타로 국민들에게 큰 희망과 용기를 불어넣어 주고, 서울 정동에 '김일 체육관'을 개관해 이왕표 등 후배 양성에 힘썼다\"고 보훈부는 공로를 소개했다.",
+      "source": "연합뉴스",
+      "publishedAt": "2026-06-05",
+      "url": "https://www.yna.co.kr/view/AKR20260605147000504",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.4OzE0enqTlFTQY50E9DfrA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "한성숙 중기부 장관 \"생업 바쁜 소상공인, 노무 걱정 덜겠다\"",
+      "summary": "중기부, 고용노동부와 소상공인 노무 애로 간담회 개최 중소벤처기업부와 고용노동부가 소상공인의 노무 관련 부담 완화와 분쟁 예방을 위한 지원에 나선다.2일 중기부에 따르면 한성숙 장관은 이날 서울 영등포구 한국공인노무 ...",
+      "source": "뉴스1",
+      "publishedAt": "2026-06-02",
+      "url": "https://www.news1.kr/industry/sb-founded/6184582",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.US4_vB0L-5jJcdC459A27w&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
@@ -74,24 +65,6 @@
       "publishedAt": "2026-06-03",
       "url": "https://www.msn.com/ko-kr/news/other/ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%9E%A1%EC%95%84%EB%9D%BC-%EB%8F%99%EB%B0%953%EC%82%AC-%EC%86%8D%EB%8F%84%EC%A0%84/ar-AA24J5lT",
       "imageUrl": "https://www.bing.com/th?id=ORMS.fa7f83c74f328b9cb811f39ad31e6ae8&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "“AI데이터센터 우리 없으면 못짓습니다”…전기차 갈아타는 이 업종",
-      "summary": "국내 동박업계가 전기차용 생산을 줄이고 ESS와 AI 데이터센터, 반도체 패키징 등 고부가가치 제품으로 사업 재편에 나서고 있다. 특히 SK넥실리스는 ESS용 동박의 판매가 전기차용을 처음으로 넘어서는 성과를 보였으며, 롯데에너지머티리얼즈는 AI 서버와 데이터센터 수요 증가에 발맞춰 회로박 공급을 확대하고 있다. 그럼에도 불구하고 각 업체는 특허 분쟁 등 ...",
-      "source": "매일경제 on MSN",
-      "publishedAt": "2026-06-03",
-      "url": "https://www.msn.com/ko-kr/news/other/ai%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%9A%B0%EB%A6%AC-%EC%97%86%EC%9C%BC%EB%A9%B4-%EB%AA%BB%EC%A7%93%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A0%84%EA%B8%B0%EC%B0%A8-%EA%B0%88%EC%95%84%ED%83%80%EB%8A%94-%EC%9D%B4-%EC%97%85%EC%A2%85/ar-AA24LwuU",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.071e09226310adf8c59b64887b3c8691&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "피플바이오, 삼성동 AI 엣지 데이터센터 사업 본격화…150억 원 자금조달 확보",
-      "summary": "피플바이오는 삼성동 국제업무지구 내 AI 엣지 데이터센터 신축사업 공동협약사인 리얼리티젠이 한국투자리얼에셋운용으로부터 사업자금 150억 원을 조달했다고 2일 밝혔다. 이번 자금 조달을 계기로 양측은 향후 본 프로젝트파이낸싱(PF) 금융 주선 과정에서도 협력 범위를 확대할 계획이다.회사 측은 이번 자금 조달이 국내 AI 엣지 데이터센터 시장 선점을 위한 기반 ...",
-      "source": "뉴스타운",
-      "publishedAt": "2026-06-02",
-      "url": "https://www.newstown.co.kr/news/articleView.html?idxno=705091",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.96hfY34Q_7KpQOHi6X57BA&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
