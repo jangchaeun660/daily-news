@@ -1,97 +1,70 @@
 {
-  "updatedAt": "2026-06-10",
-  "windowStart": "2026-06-08T22:00:00.000Z",
-  "windowEnd": "2026-06-09T22:00:00.000Z",
+  "updatedAt": "2026-06-11",
+  "windowStart": "2026-06-09T22:00:00.000Z",
+  "windowEnd": "2026-06-10T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "커피 한 잔에 담긴 ‘무거운’ 사회적 신뢰",
-      "summary": "시사위크=박설민 기자 “함께 마신 커피는 40년 신뢰로 이어진다.” 커피를 사랑하는 국가 튀르키예의 유명한 속담이다. 같은 자리에 앉아 한 잔의 커피를 나누는 것은 인간적인 교감, 생각의 공유로 이어질 수 있다. 전 세계에서 가장 많은 커피를 소비하는 한국 역시 마찬가지다. 전국의 커피숍은 점심 시간만 되면 자리가 가득 차곤 한다. 그 중심에는 신세계그룹이 ...",
-      "source": "시사위크 on MSN",
-      "publishedAt": "2026-05-28",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%BB%A4%ED%94%BC-%ED%95%9C-%EC%9E%94%EC%97%90-%EB%8B%B4%EA%B8%B4-%EB%AC%B4%EA%B1%B0%EC%9A%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%8B%A0%EB%A2%B0/ar-AA24flkT",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.9ba148bd0291dfc6abf3d541f2e60196&pid=News&w=1200&h=675&c=14"
+      "title": "'투표용지 부족' 후폭풍…정치권 넘어 '사회적 이슈' 확대",
+      "summary": "제9회 전국동시지방선거·국회의원 재보궐선거 과정에서 불거진 '투표용지 부족' 사태의 후폭풍이 만만치 않다.특히 충청권 등 전국 대학가에선 선거 이후 연일 중앙선거관리위원회를 규탄하는 시국선언이 잇따르고 2030세대를 중심으로 한 '참정권 운동'으로 확산하면서, 사회적 메가 이슈로 부상하는 양상이다.정치권에선 '부정선거'와 '음모론' 등의 혼돈 속에 향후 추 ...",
+      "source": "Daejon Ilbo",
+      "publishedAt": "2026-06-10",
+      "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2280913",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.IUUKHHwTW_AxPq_xCqV2mw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "지방선거 정책 사라지고 공방만 눈길…복지 수준이 도시경쟁력",
-      "summary": "[울산저널]이승진 기자= 선거 때마다 개발 공약과 지역 성장 사업이 쏟아진다. 일상에서 체감하는 돌봄·의료·주거·빈곤 문제는 크게 달라지지 않는다. 지방선거가 지역 미래를 결정하는 정치 과정임에도 복지정책은 중심 의제가 되지 못한다. 지방선거 공약을 살펴보면 산업단지 유치, 교통망 확충, 관광사업, 대규모 건설사업 같은 개발 중심 공약으로 넘쳐난다. 초고령 ...",
-      "source": "울산저널i",
-      "publishedAt": "2026-05-28",
-      "url": "https://www.usjournal.kr/news/newsview.php?ncode=1065591104304175",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.5MJBiP4gPEHdgsSDVHLq8Q&pid=News&w=1200&h=675&c=14"
+      "title": "집에서 술먹다 지인 칼로 찌른 40대 여성 체포...단순 주취 폭력 넘어선 사회적 고립의 단면",
+      "summary": "집에서 술을 마시다 지인을 흉기로 찌르는 강력 범죄가 또다시 발생해 큰 충격을 주고 있다. 10일 경기 의정부경찰서는 범죄의 중대성을 감안해 지인인 여성을 자택에서 흉기로 찌른 40대 여성 A씨를 살인미수 혐의로 현행범 체포해 강도 높은 조사를 진행하고 있다고 공식 발표했다.경찰에 따르면 피의자 A씨는 이날 새벽 3시쯤 경기도 의정부시에 소재한 자신의 자택 ...",
+      "source": "Changup Ilbo",
+      "publishedAt": "2026-06-10",
+      "url": "https://www.news33.net/news/articleView.html?idxno=116487",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.SNO6YqDn270wv8lg8AuB-Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "보편적 주거복지시대로의 전환, 그 과제 [서진형의 부동산포커스]",
-      "summary": "최근 정부는 취약계층 중심의 선별적 복지가 아닌 전 국민을 위한 모두의 복지로 사회보장 정책의 방향을 바꾸는 등 새 정부의 사회보장 정책 방향을 반영한 제3차 사회보장 기본계획(2026~2030년)을 수정했다.수정된 계획의 기본 방향은 모든 국민이 생애 전 과정에서 기본적인 삶을 보장받으면서 보편적 권리로 복지를 누리고 사회보장에 대한 국가 책임과 공공성의 ...",
-      "source": "데일리안",
-      "publishedAt": "2026-06-08",
-      "url": "https://www.dailian.co.kr/news/view/1652728/%EB%B3%B4%ED%8E%B8%EC%A0%81-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%8B%9C%EB%8C%80%EB%A1%9C-%EC%A0%84%ED%99%98-%EA%B7%B8-%EA%B3%BC%EC%A0%9C-2026",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.HtI5wuIDhV-6xlHGOuLYPg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "GH 경기도주거복지센터, 생활밀착형 ‘주거복지사업 아이디어’ 10개 선정",
-      "summary": "경기주택도시공사(GH)가 운영하는 경기도 주거복지센터가 지역 맞춤형 주거복지 정책을 발굴하고 현장 중심의 사업을 확산하기 위한 ‘2026년 경기도 주거복지사업 아이디어 공모’ 최종 선정 결과를 발표했다.공모는 신규 센터의 참여 기회를 넓히는 ‘참여형’과 기존 센터의 ...",
-      "source": "서울신문 on MSN",
-      "publishedAt": "2026-05-29",
-      "url": "https://www.msn.com/ko-kr/news/other/gh-%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-%EC%83%9D%ED%99%9C%EB%B0%80%EC%B0%A9%ED%98%95-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%82%AC%EC%97%85-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-10%EA%B0%9C-%EC%84%A0%EC%A0%95/ar-AA24jpNM",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.27d557ff646acbfeaddf57e9900bd5a0&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "롯데건설, ‘러브하우스’ 100호…세종 이주노동자센터 시설 개선",
-      "summary": "롯데건설이 소외계층 주거∙복지∙교육 등의 시설 개선 사업인 ‘꿈과 희망의 러브하우스’ 100호를 개소했다. 지난 27일 롯데건설은 세종시 이주노동자 복지센터에서 초록우산 어린이재단과 러브하우스 100호 봉사활동과 현판식을 진행했다. 오일근 롯데건설 대표(왼쪽부터)와 박경규 세종시 이주노동자 복지센터 센터장, 여승수 초록우산 어린이재단 사무총장이 현판식에 참 ...",
-      "source": "매일경제",
-      "publishedAt": "2026-05-28",
-      "url": "https://www.mk.co.kr/news/realestate/12059813",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.39OEcXlhcm58cNevpzLWtA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "오썸피아, 한국콘텐츠진흥원 '2026 인공지능 콘텐츠 제작지원' 수행사 선정",
-      "summary": "생성형 인공지능(AI) 기반 확장현실(XR) 강소기업 오썸피아(대표 민문호)가 문화체육관광부 산하 한국콘텐츠진흥원(KOCCA)이 주관하는 '2026년 인공지능콘텐츠 제작지원(협력형)' 사업에 최종 선정됐다. 오썸피아는 수요기업인 SK플래닛과 협력, 'AI/AR 기반 전통문화 직업체험 런케이션(Learncation) 콘텐츠'를 제작한다. 이를 바탕으로 한국민 ...",
+      "title": "한국이디에스, 한국사회보장정보원 '2026년 사회보장정보시스템 서비스 확대 및 기능개선 사업' 수주, 공공 복지 디지털플랫폼 사업 ...",
+      "summary": "디지털 비즈니스 플랫폼 서비스 전문기업 한국이디에스(대표 김형원)는 한국사회보장정보원이 발주한 '2026년 사회보장정보시스템 서비스 확대 및 기능개선 사업'을 수주하며 공공 복지 디지털 플랫폼 사업 확대에 나선다고 10일 밝혔다. 이번 사업은 복지제도 신규 도입 및 법령 개정, 사용자 편의성 제고에 대응하기 위해 추진됐다. 정부 복지 정책 변화에 따른 제도 ...",
       "source": "MSN on MSN",
-      "publishedAt": "2026-06-09",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%98%A4%EC%8D%B8%ED%94%BC%EC%95%84-%ED%95%9C%EA%B5%AD%EC%BD%98%ED%85%90%EC%B8%A0%EC%A7%84%ED%9D%A5%EC%9B%90-2026-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%A0%9C%EC%9E%91%EC%A7%80%EC%9B%90-%EC%88%98%ED%96%89%EC%82%AC-%EC%84%A0%EC%A0%95/ar-AA25eaiN",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.XQ8rY6xsx5X3-YKIlaawXA&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-06-10",
+      "url": "https://www.msn.com/ko-kr/news/news/%ED%95%9C%EA%B5%AD%EC%9D%B4%EB%94%94%EC%97%90%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-2026%EB%85%84-%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%99%95%EB%8C%80-%EB%B0%8F-%EA%B8%B0%EB%8A%A5%EA%B0%9C%EC%84%A0-%EC%82%AC%EC%97%85-%EC%88%98%EC%A3%BC-%EA%B3%B5%EA%B3%B5-%EB%B3%B5%EC%A7%80-%EB%94%94%EC%A7%80%ED%84%B8%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%82%AC%EC%97%85-%ED%99%95%EB%8C%80/ar-AA25kG8K",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.hbXlleaaaoLJ1N6POE4GQw&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "ai",
-      "title": "장민수 경기도의원, 청소년 인공지능 윤리 교육 활성화 지원 조례안 본회의 통과",
-      "summary": "경기도의회 여성가족평생교육위원회 장민수 의원(더불어민주당, 비례)이 대표 발의한 「경기도 청소년 인공지능 윤리 교육 활성화 지원 조례안」이 9일 열린 제391회 정례회 제1차 본회의를 통과했다.이번 조례안은 생성형 인공지능의 확산으로 청소년의 AI 활용이 일상화된 ...",
-      "source": "서울신문 on MSN",
-      "publishedAt": "2026-06-09",
-      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%9D%BC%EB%B0%98/%EC%9E%A5%EB%AF%BC%EC%88%98-%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%9D%98%EC%9B%90-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9C%A4%EB%A6%AC-%EA%B5%90%EC%9C%A1-%ED%99%9C%EC%84%B1%ED%99%94-%EC%A7%80%EC%9B%90-%EC%A1%B0%EB%A1%80%EC%95%88-%EB%B3%B8%ED%9A%8C%EC%9D%98-%ED%86%B5%EA%B3%BC/ar-AA259Z1F",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.UMO67GnEzWAG7vYzqhwtfw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "“중국 반도체 ‘접는 기술’로 첨단공정 맹추격…메모리 격차 크지 않아”",
-      "summary": "인공지능(AI)과 만난 국내 반도체 산업이 막대한 특수를 누리고 있다. 무한경쟁이 벌어지고 있는 인공지능 시대로의 대전환기, 메모리 강국 ‘K-반도체’ 산업은 독보적 경쟁력과 주도권을 계속 이어갈 수 있을까? 베트남 정부의 초청으로 국외에 머물고 있는 권석준 성균관대 ...",
+      "category": "society",
+      "title": "환갑잔치에 초대합니다 [똑똑! 한국사회]",
+      "summary": "김현정 | 강동숲속도서관 문학상주작가·‘연중마감, 오늘도 씁니다’ 저자 “저, 사실 완주하고 싶은 게 하나 더 있어요.” 도서관 독서모임을 마치려는데, 윤경씨가 불쑥 말을 보탰다. 김금희의 소설 ‘첫여름 완주’를 읽고 감상을 나누던 자리였다. 뜨 ...",
       "source": "The Hankyoreh",
-      "publishedAt": "2026-06-09",
-      "url": "https://www.hani.co.kr/arti/economy/economy_general/1262747.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.gcLoMQn5Jkny3jG5DVNkAg&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-06-10",
+      "url": "https://www.hani.co.kr/arti/opinion/column/1262909.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.nvZnfuhR4oBv-38hJ8jY5w&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "“AI가 뒤흔드는 노동… 소득 분배·복지 체계 재설계해야” [연중기획-더 나은 미래로]",
-      "summary": "인공지능(AI)은 미래 산업 경쟁력을 좌우할 기술로 주목받는 동시에, 지식 노동을 대체해 일자리 전반을 뒤흔들 변수로도 떠오르고 있다. 기획·분석·코딩 등 고숙련 화이트칼라 영역까지 AI가 파고들면서 노동 시장 변화에 따라 소득 분배·복지 체계를 재설계해야 한다는 목소리가 상당하다. AI가 만들어낸 부의 일부를 사회에 환원하는 방안을 둘러싼 논의도 본격화할 ...",
-      "source": "Segye Ilbo on MSN",
-      "publishedAt": "2026-06-09",
-      "url": "https://www.msn.com/ko-kr/money/topstories/ai%EA%B0%80-%EB%92%A4%ED%9D%94%EB%93%9C%EB%8A%94-%EB%85%B8%EB%8F%99-%EC%86%8C%EB%93%9D-%EB%B6%84%EB%B0%B0-%EB%B3%B5%EC%A7%80-%EC%B2%B4%EA%B3%84-%EC%9E%AC%EC%84%A4%EA%B3%84%ED%95%B4%EC%95%BC-%EC%97%B0%EC%A4%91%EA%B8%B0%ED%9A%8D-%EB%8D%94-%EB%82%98%EC%9D%80-%EB%AF%B8%EB%9E%98%EB%A1%9C/ar-AA25dB5B",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.c7soYvm6KqMU2yh1j9rf2Q&pid=News&w=1200&h=675&c=14"
+      "title": "SK, 일본에 AI 데이터센터 구축…\"엔비디아와 협력, 반도체 공장도 검토\"",
+      "summary": "SK그룹이 일본에 인공지능(AI) 전용 차세대 데이터센터를 구축한다. 엔비디아와 협력해 자사 최첨단 메모리 반도체를 활용한 AI 인프라를 조성하고, 향후 반도체 생산시설의 일본 투자 가능성도 검토하고 있다.최태원 SK그룹 회장은 지난 10일 니혼게이자이신문과 도쿄에서 가진 인터뷰에서 “2028~2029년을 목표로 일본에 AI 특화 데이터센터인 ‘AI 팩토리 ...",
+      "source": "Hankyung on MSN",
+      "publishedAt": "2026-06-11",
+      "url": "https://www.msn.com/ko-kr/news/other/sk-%EC%9D%BC%EB%B3%B8%EC%97%90-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B5%AC%EC%B6%95-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84%EC%99%80-%ED%98%91%EB%A0%A5-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B3%B5%EC%9E%A5%EB%8F%84-%EA%B2%80%ED%86%A0/ar-AA25kQMd",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.ba2faa29d5aa8ed56a12ea6a04f86e30&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "가온전선, 美 생성형 AI 데이터센터 전력망 진출…AI 인프라 사업 확대",
-      "summary": "[포인트경제] 가온전선이 미국 빅테크 기업에 이어 생성형 인공지능(AI) 기업 데이터센터까지 고객군을 확대하며 북미 AI 인프라 시장 공략에 속도를 내고 있다.가온전선은 미국 자회사 LSCUS가 최근 생성형 AI 기업 O사의 데이터센터에 버스덕트(Busduct)를 공급하는 계약을 체결했다고 9일 밝혔다. 공급 규모는 약 600억원 수준으로 향후 데이터센터 ...",
-      "source": "포인트경제 on MSN",
-      "publishedAt": "2026-06-09",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B0%80%EC%98%A8%EC%A0%84%EC%84%A0-%E7%BE%8E-%EC%83%9D%EC%84%B1%ED%98%95-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%A0%84%EB%A0%A5%EB%A7%9D-%EC%A7%84%EC%B6%9C-ai-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%82%AC%EC%97%85-%ED%99%95%EB%8C%80/ar-AA259Nfz",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.a5f0b6064cb97f0b7f5e7db05da3822e&pid=News&w=1200&h=675&c=14"
+      "title": "AI 데이터센터 병목…마벨, 마이크론 바통 이을까",
+      "summary": "인공지능(AI) 데이터센터 투자 열풍이 메모리 반도체를 넘어 네트워킹 장비와 맞춤형 반도체로 번질 수 있다는 분석이 나왔다. AI 데이터센터용 네트워킹·맞춤형 반도체 설계 기업인 마이크론 테크놀로지가 고대역폭메모리(HBM) 부족에 힘입어 급등한 것처럼 마벨 테크놀로지가 AI 인프라 확장의 다음 수혜주가 될 수 있다고 미국 투자정보 매체 모틀리풀이 10일(현 ...",
+      "source": "MSN on MSN",
+      "publishedAt": "2026-06-10",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EB%B3%91%EB%AA%A9-%EB%A7%88%EB%B2%A8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%A0-%EB%B0%94%ED%86%B5-%EC%9D%B4%EC%9D%84%EA%B9%8C/ar-AA25kRGL",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.t2H2L4cS6HbxTrGRzR_tlQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "AI가 스스로 일하는 시대…\"산업 질서·국가 경쟁력 좌우\"(종합)",
+      "summary": "[NTF2026]에이전틱 AI 시대…인프라·업무·보안 패러다임 달라진다 AI 경쟁 목적 '사람의 삶'에 맞춰야…사회적 안전장치 인공지능(AI)은 질문에 답하고, 콘텐츠를 생성해 주는 수준을 넘어 스스로 전략을 세우고 행동하는 단계로 진화하고 있다. AI는 이미 특정 산업을 넘어 사회와 ...",
+      "source": "뉴스1",
+      "publishedAt": "2026-06-10",
+      "url": "https://www.news1.kr/it-science/general-it/6193410",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.FgkDHbIOdl0EVZACmkQbMg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
