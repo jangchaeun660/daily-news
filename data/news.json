@@ -1,79 +1,97 @@
 {
-  "updatedAt": "2026-06-13",
-  "windowStart": "2026-06-11T22:00:00.000Z",
-  "windowEnd": "2026-06-12T22:00:00.000Z",
+  "updatedAt": "2026-06-14",
+  "windowStart": "2026-06-12T22:00:00.000Z",
+  "windowEnd": "2026-06-13T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "NYT도 주목한 '하의치한약수'…'삼멘·하멘'에 담긴 한국 사회",
-      "summary": "미국 유력 일간지인 The New York Times(NYT)가 전 세계적인 인공지능(AI) 열풍 속에서 한국 사회를 휩쓸고 있는 '반도체 열풍'을 집중 조명했다.NYT는 11일(현지시간) 온라인판에 'AI와 반도체 열풍: 한국 신조어와 밈에 대한 퀴즈에 참여해 보세요(AI and the Chip Boom: Take a Quiz on South Korea’ ...",
-      "source": "주간조선 on MSN",
-      "publishedAt": "2026-06-12",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/nyt%EB%8F%84-%EC%A3%BC%EB%AA%A9%ED%95%9C-%ED%95%98%EC%9D%98%EC%B9%98%ED%95%9C%EC%95%BD%EC%88%98-%EC%82%BC%EB%A9%98-%ED%95%98%EB%A9%98-%EC%97%90-%EB%8B%B4%EA%B8%B4-%ED%95%9C%EA%B5%AD-%EC%82%AC%ED%9A%8C/ar-AA25sava",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.DvY9IrppMGxJJCkQVcyUFQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "한국 노사정 대표단, 독일 현장 동반 방문",
-      "summary": "(서울=연합뉴스) 경제사회노동위원회는 한국 노·사·정 대표단이 독일의 노사정 대화 모델을 살피기 위해 12일(현지시간)까지 독일을 동반 방문했다고 밝혔다. 사진은 베를린의 독일 연방노동사회부를 방문해 간담회를 갖는 대표단. 2026.6.12 [경제사회노동위원회 제공. 재판매 및 DB 금지] ...",
-      "source": "Yonhap News Agency",
-      "publishedAt": "2026-06-12",
-      "url": "https://www.yna.co.kr/view/PYH20260612193100013",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.dSSpNX8I8gVvjbC5i1fjhQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "한국사회복지협의회, 인권경영시스템 인증 획득",
-      "summary": "중소벤처기업인증원 엄진엽 원장(왼쪽 다섯 번째)과 한국사회복지협의회 김현훈 회장(왼쪽 여섯 번째) 및 양 기관 관계자들이 인권경영시스템(HRMS) 인증서 수여식 후 함께 기념촬영을 하고 있다. 한국사회복지협의회(회장 김현훈)가 6월 12일 인권경영시스템(HRMS·Human Rights Management System) 인증을 획득했다고 중소벤처기업인증원(K ...",
-      "source": "JoongAng Ilbo on MSN",
-      "publishedAt": "2026-06-12",
-      "url": "https://www.msn.com/ko-kr/news/national/%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%ED%98%91%EC%9D%98%ED%9A%8C-%EC%9D%B8%EA%B6%8C%EA%B2%BD%EC%98%81%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9D%B8%EC%A6%9D-%ED%9A%8D%EB%93%9D/ar-AA25sOTR",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.64a9f0f28af1b9c6a64e71ebbf1ec842&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "이재용 회장, 대통령 순방 동행 \"저희가 더 열심히 해야죠\"",
-      "summary": "이탈리아를 방문중인 이재용 삼성전자 회장이 현지시간으로 12일 한국의 반도체 및 인공지능·제조 산업과 관련한 전 세계 국가들의 높은 관심과 관련해 \"저희가 더 열심히 해야죠\"라고 다짐했습니다. 이 회장은 이재명 대통령의 국빈방문을 계기로 이탈리아 로마에서 열린 '한-이탈리아 비즈니스 라운드테이블' 행사에 참석해 취재진의 질문에 '해외순방을 다니다보면 외국에 ...",
-      "source": "MBC News",
-      "publishedAt": "2026-06-12",
-      "url": "https://imnews.imbc.com/news/2026/politics/article/6829895_36911.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.lvMs_YWRsdAbnuPk3_11rA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "젠슨 황의 'AI 팩토리', 데이터센터와 뭐가 다를까 [테크토크]",
-      "summary": "편집자주AI, 반도체, 통신, 바이오에 이르기까지 우리 생활에 꼭 필요하지만 너무나 생소한 기술 이야기를 쉽게 풀어 전해 드립니다. 젠슨 황 엔비디아 최고경영자(CEO)가 이번 방한 일정 도중 '인공지능(AI) ...",
-      "source": "Asia Economy on MSN",
+      "title": "[박준규의 이슈언박싱] JTBC는 왜 무너져 가나…'미디어 위기'로 가린 네 겹의 부실",
+      "summary": "JTBC가 206억 원의 빚을 갚지 못해 신용등급이 투자부적격 수준으로 추락했습니다. 모기업 중앙그룹은 상암동 사옥까지 매물로 내놨습니다. JTBC는 그 원인을 \"디지털·OTT로의 미디어 환경 변화\"에서 찾았습니다. 그러나 이 해명은 본질을 가리는 방패에 가깝습니다. 광고시장 위축은 지상파와 다른 종편이 똑같이 맞은 공통의 바람일 뿐, 같은 바람을 맞고도 ...",
+      "source": "PenN Mike",
       "publishedAt": "2026-06-13",
-      "url": "https://www.msn.com/ko-kr/money/topstories/%EC%A0%A0%EC%8A%A8-%ED%99%A9%EC%9D%98-ai-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%EC%99%80-%EB%AD%90%EA%B0%80-%EB%8B%A4%EB%A5%BC%EA%B9%8C-%ED%85%8C%ED%81%AC%ED%86%A0%ED%81%AC/ar-AA25vPJq",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.2fcdba8ab7778a91d3612a038b1af8d3&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.pennmike.com/news/articleView.html?idxno=122090",
+      "imageUrl": "https://www.bing.com/th?id=ONUT._IPxZypZ5mjVqpOMQqiayw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "'투표용지 부족' 후폭풍…정치권 넘어 '사회적 이슈' 확대",
+      "summary": "제9회 전국동시지방선거·국회의원 재보궐선거 과정에서 불거진 '투표용지 부족' 사태의 후폭풍이 만만치 않다.특히 충청권 등 전국 대학가에선 선거 이후 연일 중앙선거관리위원회를 규탄하는 시국선언이 잇따르고 2030세대를 중심으로 한 '참정권 운동'으로 확산하면서, 사회적 메가 이슈로 부상하는 양상이다.정치권에선 '부정선거'와 '음모론' 등의 혼돈 속에 향후 추 ...",
+      "source": "MSN on MSN",
+      "publishedAt": "2026-06-10",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%88%AC%ED%91%9C%EC%9A%A9%EC%A7%80-%EB%B6%80%EC%A1%B1-%ED%9B%84%ED%8F%AD%ED%92%8D-%EC%A0%95%EC%B9%98%EA%B6%8C-%EB%84%98%EC%96%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%9D%B4%EC%8A%88-%ED%99%95%EB%8C%80/ar-AA25hDJy",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.9WQB2_eLqZCWm_hY6CeTXA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[이슈플러스] '투표용지 부족' 선관위 압수수색...소환조사 시점은?",
+      "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스PLUS] 명시해주시기 바랍니다. [앵커] 투표용지 부족 사태가 벌어진 지 8일 만에 강제수사가 시작됐습니다. 관련해서 자세한 내용, 이고은 변호사와 함께 살펴보겠습니다. 어서 오십시오. 경찰이 중앙선관위 등 7곳에 대한 압수수 ...",
+      "source": "YTN",
+      "publishedAt": "2026-06-11",
+      "url": "https://www.ytn.co.kr/_ln/0103_202606111923103040",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.EHYyLwEmHAkCr0f1wB8lfA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "돈보다 사회 일원으로…발달장애인 86% “계속 일하고 싶다”",
+      "summary": "【투데이신문 박효령 기자】발달장애인 취업자들의 월평균 임금이 최저임금 월 환산액의 절반 수준에 머무는 것으로 조사됐다. 낮은 임금과 제한된 직업 선택지에도 불구하고 대다수 발달장애인은 현재 직장에 계속 다니길 원했으며 취업 여부가 삶의 만족도에도 큰 영향을 미치는 것으로 나타나 단순한 일자리 확대를 넘어 안정적인 고용과 맞춤형 지원이 필요하다는 지적이 나온 ...",
+      "source": "Today Newspaper",
+      "publishedAt": "2026-06-11",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127574",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.iu-Fd6iypkS5PrCMqqIU_A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "커피 한 잔에 담긴 ‘무거운’ 사회적 신뢰",
+      "summary": "시사위크=박설민 기자 “함께 마신 커피는 40년 신뢰로 이어진다.” 커피를 사랑하는 국가 튀르키예의 유명한 속담이다. 같은 자리에 앉아 한 잔의 커피를 나누는 것은 인간적인 교감, 생각의 공유로 이어질 수 있다. 전 세계에서 가장 많은 커피를 소비하는 한국 역시 마찬가지다. 전국의 커피숍은 점심 시간만 되면 자리가 가득 차곤 한다. 그 중심에는 신세계그룹이 ...",
+      "source": "시사위크 on MSN",
+      "publishedAt": "2026-05-28",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%BB%A4%ED%94%BC-%ED%95%9C-%EC%9E%94%EC%97%90-%EB%8B%B4%EA%B8%B4-%EB%AC%B4%EA%B1%B0%EC%9A%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%8B%A0%EB%A2%B0/ar-AA24flkT",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.9ba148bd0291dfc6abf3d541f2e60196&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[美특징주]스페이스X 상장, 기술산업 낙관론 시험대..\"오픈AI·엔스로픽까지 자금 유입 이끌 것&qu...",
-      "summary": "[이데일리 이주영 기자] 스페이스X의 대망의 기업공개(IPO)가 우주 탐사 부문의 다른 종목들까지 극적으로 끌어올릴 가능성이 높다는 전망이 나왔다. 12일(현지시간) 인베스팅닷컴에 따르면 월가 투자자이자 IT 기업가 브렛 허트는 서면 논평을 통해 “딥테크 분야에서 이 정도 규모나 야망을 가진 기업의 IPO는 지금까지 단 한 번도 없었다”며 “스페이스X는 우 ...",
-      "source": "이데일리 on MSN",
-      "publishedAt": "2026-06-12",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%E7%BE%8E%ED%8A%B9%EC%A7%95%EC%A3%BC-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4x-%EC%83%81%EC%9E%A5-%EA%B8%B0%EC%88%A0%EC%82%B0%EC%97%85-%EB%82%99%EA%B4%80%EB%A1%A0-%EC%8B%9C%ED%97%98%EB%8C%80-%EC%98%A4%ED%94%88ai-%EC%97%94%EC%8A%A4%EB%A1%9C%ED%94%BD%EA%B9%8C%EC%A7%80-%EC%9E%90%EA%B8%88-%EC%9C%A0%EC%9E%85-%EC%9D%B4%EB%81%8C-%EA%B2%83-qu/ar-AA25tkqG",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.qy-Bcszcgio-RxW5jLWxDA&pid=News&w=1200&h=675&c=14"
+      "title": "“연료 수급 안정성 제고”…서부발전, 인공지능 선박운항일정 자동화 시스템 구축",
+      "summary": "한국서부발전이 인공지능 기반의 선박운항일정 자동화 시스템을 구축하여 발전 연료 공급망 관리를 더욱 체계화할 계획이다. 이 시스템은 선박 위치, 운항 일정, 기상 정보를 실시간으로 수집하고 생성형 인공지능을 통해 도착시간 예측 기능을 강화하여 입항 시간 예측 정확도를 높인다. 서부발전은 이를 통해 인적 오류를 줄이고 최적의 유연탄 비축 관리 및 체선료 절감 ...",
+      "source": "MSN on MSN",
+      "publishedAt": "2026-06-11",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%97%B0%EB%A3%8C-%EC%88%98%EA%B8%89-%EC%95%88%EC%A0%95%EC%84%B1-%EC%A0%9C%EA%B3%A0-%EC%84%9C%EB%B6%80%EB%B0%9C%EC%A0%84-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%84%A0%EB%B0%95%EC%9A%B4%ED%95%AD%EC%9D%BC%EC%A0%95-%EC%9E%90%EB%8F%99%ED%99%94-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95/ar-AA25og7L",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.BMcICycTh7w_wNWdi0ZVXw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "李대통령 \"AI·반도체·항공우주, 韓-伊 전략첨단산업 협력 핵심\"",
-      "summary": "이재명 대통령은 12일(현지시간) \"미래성장동력의 기반인 인공지능(AI), 반도체, 항공우주 등의 전략첨단산업 분야의 협력이 핵심적인 과제\"라고 밝혔다. 이 대통령은 이날 오후 이탈리아 로마 시내 호텔에서 열린 ...",
-      "source": "아시아경제 on MSN",
+      "title": "“무고장·무재해 이끌 기술 시연”…서부발전, STK 2026서 인공지능 안전·운영 선도 기술 소개",
+      "summary": "한국서부발전은 '제15회 스마트테크 코리아'에서 발전설비 가상모형과 AI 기반 솔루션을 시연하며 무고장·무재해 기술을 소개했다. 이 회사는 또한 인공지능 설비 점검 로봇과 스마트 워치 활용 응급상황 알림 시스템 등 안전 운영 기술도 선보였다. 이정복 서부발전 사장은 이번 전시회를 통해 중소기업 지원과 협력을 강화하겠다는 의지를 밝혔다.",
+      "source": "MSN on MSN",
       "publishedAt": "2026-06-12",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%E6%9D%8E%EB%8C%80%ED%86%B5%EB%A0%B9-ai-%EB%B0%98%EB%8F%84%EC%B2%B4-%ED%95%AD%EA%B3%B5%EC%9A%B0%EC%A3%BC-%E9%9F%93-%E4%BC%8A-%EC%A0%84%EB%9E%B5%EC%B2%A8%EB%8B%A8%EC%82%B0%EC%97%85-%ED%98%91%EB%A0%A5-%ED%95%B5%EC%8B%AC/ar-AA25vCZE",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.fWHDOuqf4de8kdFCEE831A&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%AC%B4%EA%B3%A0%EC%9E%A5-%EB%AC%B4%EC%9E%AC%ED%95%B4-%EC%9D%B4%EB%81%8C-%EA%B8%B0%EC%88%A0-%EC%8B%9C%EC%97%B0-%EC%84%9C%EB%B6%80%EB%B0%9C%EC%A0%84-stk-2026%EC%84%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%95%88%EC%A0%84-%EC%9A%B4%EC%98%81-%EC%84%A0%EB%8F%84-%EA%B8%B0%EC%88%A0-%EC%86%8C%EA%B0%9C/ar-AA25rDnD",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.DWOfH7SOO1uWW_dtgnjm8Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[AI Trend Map] AI가 파고든 영화 산업, 영화 제작 혁신하는 AI 기술",
-      "summary": "AI를 직접 도입한 할리우드 스튜디오영화 제작은 오랫동안 분업의 정점에 서 있는 산업이었다. 아이디어 구상, 시나리오 작성, 콘셉트 아트, 촬영, 편집, 음향, 배급에 이르는 각 단계가 모두 전문 인력과 고비용, 긴 시간을 요구하는 복합 시스템이었다. 그러나 지난 2년간 AI가 도입되어 기획부터 후반 작업까지 작업체계를 재구성하는 실험이 지속되고 있다. 해 ...",
-      "source": "Maeil Business Newspaper",
+      "title": "삼성, 전 관계사 업무에 챗GPT·제미나이 도입…“AI 대전환 추진”",
+      "summary": "이달 중 전면 도입…다른 그룹으로 퍼질지 주목 ...",
+      "source": "한겨레 on MSN",
+      "publishedAt": "2026-06-09",
+      "url": "https://www.msn.com/ko-kr/money/topstories/%EC%82%BC%EC%84%B1%EA%B7%B8%EB%A3%B9-%EC%9D%B4%EB%8B%AC%EB%B6%80%ED%84%B0-%EC%A0%84-%EA%B4%80%EA%B3%84%EC%82%AC-%EC%97%85%EB%AC%B4%EC%97%90-%EC%B1%97gpt-%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-%EB%8F%84%EC%9E%85/ar-AA259WMX",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.LPerSx6WAjoTnodv5F2JHg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "보건복지인재원 '의료 인공지능(AI) 공통역량과정' 온라인 콘텐츠 운영",
+      "summary": "기사의 본문 내용은 이 글자크기로 변경됩니다. 한국보건복지인재원(원장 은민수)은 보건복지 현장의 디지털 전환과 의료 인공지능(AI) 활용 역량 강화를 위해 '의료 인공지능(AI) 공통역량과정' 온라인 콘텐츠를 개발해 오는 10월까지 본격 운영한다고 밝혔다. 보건복지인재원 제공 보건의료 현장에서는 최근 진단 지원과 의료데이터 분석, 환자 상태 관찰 등 보건의 ...",
+      "source": "KPA News",
+      "publishedAt": "2026-06-10",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=536448",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.B0UMju5KfQcHKgy9Z6lazg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "충남 논산시에 인공지능(AI) 국방 로봇 연구개발부터 시험·실증, 사업화까지 지원하는 방위산업 혁신 생태계가 조성된다.",
+      "summary": "충남 논산시는 국비 245억 원을 확보해 인공지능 AI 국방 로봇 연구개발과 방위산업 혁신 생태계를 조성한다. 논산 국방국가산업단지, 지역 전략산업 연계 등으로 2030년까지 방산혁신클러스터를 구축하여 일자리 창출과 K방산 경쟁력 강화, 경제 활성화를 기대한다. | ...",
+      "source": "Hankook Ilbo",
       "publishedAt": "2026-06-12",
-      "url": "https://www.mk.co.kr/news/culture/12072696",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.l2uxdRaZ2TXNBvxtL_VJ8Q&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.hankookilbo.com/news/article/A2026061209300005204",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.u4EUbfzzG7XhrFC71Uj2QQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
