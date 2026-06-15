@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-15",
-  "windowStart": "2026-06-13T22:00:00.000Z",
-  "windowEnd": "2026-06-14T22:00:00.000Z",
+  "updatedAt": "2026-06-16",
+  "windowStart": "2026-06-14T22:00:00.000Z",
+  "windowEnd": "2026-06-15T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
@@ -32,30 +32,48 @@
     },
     {
       "category": "ai",
-      "title": "“연료 수급 안정성 제고”…서부발전, 인공지능 선박운항일정 자동화 시스템 구축",
-      "summary": "한국서부발전이 인공지능 기반의 선박운항일정 자동화 시스템을 구축하여 발전 연료 공급망 관리를 더욱 체계화할 계획이다. 이 시스템은 선박 위치, 운항 일정, 기상 정보를 실시간으로 수집하고 생성형 인공지능을 통해 도착시간 예측 기능을 강화하여 입항 시간 예측 정확도를 높인다. 서부발전은 이를 통해 인적 오류를 줄이고 최적의 유연탄 비축 관리 및 체선료 절감 ...",
-      "source": "MSN on MSN",
+      "title": "강동구 ‘인공지능(AI) 음성인식 비상벨’ 10개 동으로 확대 도입",
+      "summary": "[헤럴드경제=박종일 선임기자]서울 강동구(구청장 이수희)는 동주민센터 내에서의 악성 민원과 폭력 상황으로부터 공무원과 주민을 보호하기 위해 ‘인공지능(AI) 음성인식 비상벨’ 시스템을 개선하고 설치 대상을 확대했다. 최근 민원실 내 폭언·폭행 사건이 사회적 문제로 대두되면서, 직원이 직접 버튼을 눌러야만 신고할 수 있는 일반(버튼식) 비상벨의 신고 방식에 ...",
+      "source": "헤럴드경제 on MSN",
+      "publishedAt": "2026-06-16",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B0%95%EB%8F%99%EA%B5%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-ai-%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D-%EB%B9%84%EC%83%81%EB%B2%A8-10%EA%B0%9C-%EB%8F%99%EC%9C%BC%EB%A1%9C-%ED%99%95%EB%8C%80-%EB%8F%84%EC%9E%85/ar-AA25J7Km",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.iyhivhPBaMOOjjuETgJn0g&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "국립대병원·심사평가원, '지필공' 인공지능 전환 '맞손'",
+      "summary": "건강보험심사평가원(심사평가원)과 사단법인 국립대학병원협회 산하 전국 10개 국립대학병원은 15일 지역·필수·공공 의료의 인공지능(AI) 대전환을 위한 공동 협력 약정 체결식을 가졌다. 이번 체결식은 대한민국 전역의 필수 및 공공의료 인프라에 인공지능 기술을 성공적으로 도입·확산함으로써 지역 간 의료 격차를 해소하고 국민 누구나 거주 지역에 관계없이 고품질의 ...",
+      "source": "뉴시스 on MSN",
+      "publishedAt": "2026-06-15",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B5%AD%EB%A6%BD%EB%8C%80%EB%B3%91%EC%9B%90-%EC%8B%AC%EC%82%AC%ED%8F%89%EA%B0%80%EC%9B%90-%EC%A7%80%ED%95%84%EA%B3%B5-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%EB%A7%9E%EC%86%90/ar-AA25FAOE",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.8t6ONzLrwJ9lYxCeDjERUQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "전영태 분당서울대병원장 취임… “진료 전반에 인공지능 접목해 AI 병원 될 것”",
+      "summary": "전영태(마취통증의학과) 분당서울대병원 제15대 원장이 취임 일성으로 ‘미래의료의 새 장을 여는 글로벌 리더’를 경영목표로 선언하며, 6월 10일 공식 취임식과 함께 본격적인 임기를 시작했다. 분당서울대병원 헬스케어혁신파크 미래홀에서 진행된 이날 행사에는 유홍림 서울대학교 총장, 백남종 서울대학교병원장, 임재준 서울의대 학장, 신상진 성남시장, 김은혜 국회의 ...",
+      "source": "Health Chosun on MSN",
       "publishedAt": "2026-06-11",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%97%B0%EB%A3%8C-%EC%88%98%EA%B8%89-%EC%95%88%EC%A0%95%EC%84%B1-%EC%A0%9C%EA%B3%A0-%EC%84%9C%EB%B6%80%EB%B0%9C%EC%A0%84-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%84%A0%EB%B0%95%EC%9A%B4%ED%95%AD%EC%9D%BC%EC%A0%95-%EC%9E%90%EB%8F%99%ED%99%94-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95/ar-AA25og7L",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.BMcICycTh7w_wNWdi0ZVXw&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/health/other/%EC%A0%84%EC%98%81%ED%83%9C-%EB%B6%84%EB%8B%B9%EC%84%9C%EC%9A%B8%EB%8C%80%EB%B3%91%EC%9B%90%EC%9E%A5-%EC%B7%A8%EC%9E%84-%EC%A7%84%EB%A3%8C-%EC%A0%84%EB%B0%98%EC%97%90-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%91%EB%AA%A9%ED%95%B4-ai-%EB%B3%91%EC%9B%90-%EB%90%A0-%EA%B2%83/ar-AA25mD9E",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.049bc6a662e55c160c85a7d2b7202c4b&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "“무고장·무재해 이끌 기술 시연”…서부발전, STK 2026서 인공지능 안전·운영 선도 기술 소개",
-      "summary": "한국서부발전은 '제15회 스마트테크 코리아'에서 발전설비 가상모형과 AI 기반 솔루션을 시연하며 무고장·무재해 기술을 소개했다. 이 회사는 또한 인공지능 설비 점검 로봇과 스마트 워치 활용 응급상황 알림 시스템 등 안전 운영 기술도 선보였다. 이정복 서부발전 사장은 이번 전시회를 통해 중소기업 지원과 협력을 강화하겠다는 의지를 밝혔다.",
-      "source": "MSN on MSN",
-      "publishedAt": "2026-06-12",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%AC%B4%EA%B3%A0%EC%9E%A5-%EB%AC%B4%EC%9E%AC%ED%95%B4-%EC%9D%B4%EB%81%8C-%EA%B8%B0%EC%88%A0-%EC%8B%9C%EC%97%B0-%EC%84%9C%EB%B6%80%EB%B0%9C%EC%A0%84-stk-2026%EC%84%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%95%88%EC%A0%84-%EC%9A%B4%EC%98%81-%EC%84%A0%EB%8F%84-%EA%B8%B0%EC%88%A0-%EC%86%8C%EA%B0%9C/ar-AA25rDnD",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.DWOfH7SOO1uWW_dtgnjm8Q&pid=News&w=1200&h=675&c=14"
+      "title": "보건복지인재원 '의료 인공지능(AI) 공통역량과정' 온라인 콘텐츠 운영",
+      "summary": "기사의 본문 내용은 이 글자크기로 변경됩니다. 한국보건복지인재원(원장 은민수)은 보건복지 현장의 디지털 전환과 의료 인공지능(AI) 활용 역량 강화를 위해 '의료 인공지능(AI) 공통역량과정' 온라인 콘텐츠를 개발해 오는 10월까지 본격 운영한다고 밝혔다. 보건복지인재원 제공 보건의료 현장에서는 최근 진단 지원과 의료데이터 분석, 환자 상태 관찰 등 보건의 ...",
+      "source": "KPA News",
+      "publishedAt": "2026-06-10",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=536448",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.B0UMju5KfQcHKgy9Z6lazg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "삼성, 전 관계사 업무에 챗GPT·제미나이 도입…“AI 대전환 추진”",
-      "summary": "이달 중 전면 도입…다른 그룹으로 퍼질지 주목 ...",
-      "source": "한겨레 on MSN",
-      "publishedAt": "2026-06-09",
-      "url": "https://www.msn.com/ko-kr/money/topstories/%EC%82%BC%EC%84%B1%EA%B7%B8%EB%A3%B9-%EC%9D%B4%EB%8B%AC%EB%B6%80%ED%84%B0-%EC%A0%84-%EA%B4%80%EA%B3%84%EC%82%AC-%EC%97%85%EB%AC%B4%EC%97%90-%EC%B1%97gpt-%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-%EB%8F%84%EC%9E%85/ar-AA259WMX",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.LPerSx6WAjoTnodv5F2JHg&pid=News&w=1200&h=675&c=14"
+      "title": "앤트로픽 “AI모델 출시 전 독립기관서 ‘안전성 테스트’ 의무화해야”",
+      "summary": "생성형 인공지능(AI) 챗봇 클로드의 개발사이자 인공지능 선두기업인 앤트로픽이 미국 의회를 향해 강력한 인공지능 규제 법안을 마련해야 한다고 경고했다. 앤트로픽은 10일(현지시각) 성명을 내고 “의회가 ‘인공지능의 재앙적인 위험’을 다룰 수 있는 엄격한 연방법을 먼저 ...",
+      "source": "The Hankyoreh",
+      "publishedAt": "2026-06-11",
+      "url": "https://www.hani.co.kr/arti/international/america/1263063.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.WOPHKlZiTMNPvRCkf4Mv3g&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
