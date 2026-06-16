@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-16",
-  "windowStart": "2026-06-14T22:00:00.000Z",
-  "windowEnd": "2026-06-15T22:00:00.000Z",
+  "updatedAt": "2026-06-17",
+  "windowStart": "2026-06-15T22:00:00.000Z",
+  "windowEnd": "2026-06-16T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[박준규의 이슈언박싱] JTBC는 왜 무너져 가나…'미디어 위기'로 가린 네 겹의 부실",
-      "summary": "JTBC가 206억 원의 빚을 갚지 못해 신용등급이 투자부적격 수준으로 추락했습니다. 모기업 중앙그룹은 상암동 사옥까지 매물로 내놨습니다. JTBC는 그 원인을 \"디지털·OTT로의 미디어 환경 변화\"에서 찾았습니다. 그러나 이 해명은 본질을 가리는 방패에 가깝습니다. 광고시장 위축은 지상파와 다른 종편이 똑같이 맞은 공통의 바람일 뿐, 같은 바람을 맞고도 ...",
-      "source": "PenN Mike",
-      "publishedAt": "2026-06-13",
-      "url": "https://www.pennmike.com/news/articleView.html?idxno=122090",
-      "imageUrl": "https://www.bing.com/th?id=ONUT._IPxZypZ5mjVqpOMQqiayw&pid=News&w=1200&h=675&c=14"
+      "title": "[이슈&경제] 기업의 ‘역사 감수성’ 부재가 던진 질문",
+      "summary": "최근 신세계그룹 계열에서 운영하는 스타벅스코리아의 ‘5·18 마케팅’ 논란은 단순한 홍보 실수 이상의 함의를 갖는다. 이번 사건은 네 명의 젊은 여성 직원이 기획안을 작성하고 내부 검토 과정에서 상급자의 결재와 내용 점검이 충분히 이뤄지지 않은 채 대외 홍보로 이어지면 ...",
+      "source": "Kyeonggi Ilbo",
+      "publishedAt": "2026-06-14",
+      "url": "https://www.kyeonggi.com/article/20260614580391",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.EPnkHm5nhvH6bhpCELOFKQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -19,7 +19,25 @@
       "source": "MSN on MSN",
       "publishedAt": "2026-06-10",
       "url": "https://www.msn.com/ko-kr/news/other/%ED%88%AC%ED%91%9C%EC%9A%A9%EC%A7%80-%EB%B6%80%EC%A1%B1-%ED%9B%84%ED%8F%AD%ED%92%8D-%EC%A0%95%EC%B9%98%EA%B6%8C-%EB%84%98%EC%96%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%9D%B4%EC%8A%88-%ED%99%95%EB%8C%80/ar-AA25hDJy",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.9WQB2_eLqZCWm_hY6CeTXA&pid=News&w=1200&h=675&c=14"
+      "imageUrl": "https://www.bing.com/th?id=ONUT.gyNtAqBMXC0gPdxeohAt5A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "돈보다 사회 일원으로…발달장애인 86% “계속 일하고 싶다”",
+      "summary": "【투데이신문 박효령 기자】발달장애인 취업자들의 월평균 임금이 최저임금 월 환산액의 절반 수준에 머무는 것으로 조사됐다. 낮은 임금과 제한된 직업 선택지에도 불구하고 대다수 발달장애인은 현재 직장에 계속 다니길 원했으며 취업 여부가 삶의 만족도에도 큰 영향을 미치는 것으로 나타나 단순한 일자리 확대를 넘어 안정적인 고용과 맞춤형 지원이 필요하다는 지적이 나온 ...",
+      "source": "Today Newspaper",
+      "publishedAt": "2026-06-11",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127574",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.iu-Fd6iypkS5PrCMqqIU_A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "커피 한 잔에 담긴 ‘무거운’ 사회적 신뢰",
+      "summary": "시사위크=박설민 기자 “함께 마신 커피는 40년 신뢰로 이어진다.” 커피를 사랑하는 국가 튀르키예의 유명한 속담이다. 같은 자리에 앉아 한 잔의 커피를 나누는 것은 인간적인 교감, 생각의 공유로 이어질 수 있다. 전 세계에서 가장 많은 커피를 소비하는 한국 역시 마찬가지다. 전국의 커피숍은 점심 시간만 되면 자리가 가득 차곤 한다. 그 중심에는 신세계그룹이 ...",
+      "source": "시사위크 on MSN",
+      "publishedAt": "2026-05-28",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%BB%A4%ED%94%BC-%ED%95%9C-%EC%9E%94%EC%97%90-%EB%8B%B4%EA%B8%B4-%EB%AC%B4%EA%B1%B0%EC%9A%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%8B%A0%EB%A2%B0/ar-AA24flkT",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.9ba148bd0291dfc6abf3d541f2e60196&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -32,48 +50,39 @@
     },
     {
       "category": "ai",
-      "title": "강동구 ‘인공지능(AI) 음성인식 비상벨’ 10개 동으로 확대 도입",
-      "summary": "[헤럴드경제=박종일 선임기자]서울 강동구(구청장 이수희)는 동주민센터 내에서의 악성 민원과 폭력 상황으로부터 공무원과 주민을 보호하기 위해 ‘인공지능(AI) 음성인식 비상벨’ 시스템을 개선하고 설치 대상을 확대했다. 최근 민원실 내 폭언·폭행 사건이 사회적 문제로 대두되면서, 직원이 직접 버튼을 눌러야만 신고할 수 있는 일반(버튼식) 비상벨의 신고 방식에 ...",
-      "source": "헤럴드경제 on MSN",
+      "title": "“재생에너지 예측 기술 고도화”…동서발전, ‘풍력발전량 예측 인공지능 경진대회’ 개최",
+      "summary": "한국동서발전이 에너지시장 변화 선제 대응과 인공지능(AI) 기반 재생에너지 예측 기술 고도화에 나선다. 동서발전은 GS E&R, 태백가덕산풍력발전과 함께 ‘제3회 풍력발전량 예측 인공지능(AI) 경진대회’를 개최한다고 16일 밝혔다. 올해 대회에서는 태백가덕산풍력발전의 실제 운영 데이터를 최초로 전면 개방한다. 참가자들은 해당 데이터를 활용해 변동성이 큰 ...",
+      "source": "Maeil Business Newspaper",
       "publishedAt": "2026-06-16",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B0%95%EB%8F%99%EA%B5%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-ai-%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D-%EB%B9%84%EC%83%81%EB%B2%A8-10%EA%B0%9C-%EB%8F%99%EC%9C%BC%EB%A1%9C-%ED%99%95%EB%8C%80-%EB%8F%84%EC%9E%85/ar-AA25J7Km",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.iyhivhPBaMOOjjuETgJn0g&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.mk.co.kr/news/business/12075391",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.socLxfi92oXtNWWdi-oWdg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "국립대병원·심사평가원, '지필공' 인공지능 전환 '맞손'",
-      "summary": "건강보험심사평가원(심사평가원)과 사단법인 국립대학병원협회 산하 전국 10개 국립대학병원은 15일 지역·필수·공공 의료의 인공지능(AI) 대전환을 위한 공동 협력 약정 체결식을 가졌다. 이번 체결식은 대한민국 전역의 필수 및 공공의료 인프라에 인공지능 기술을 성공적으로 도입·확산함으로써 지역 간 의료 격차를 해소하고 국민 누구나 거주 지역에 관계없이 고품질의 ...",
-      "source": "뉴시스 on MSN",
-      "publishedAt": "2026-06-15",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B5%AD%EB%A6%BD%EB%8C%80%EB%B3%91%EC%9B%90-%EC%8B%AC%EC%82%AC%ED%8F%89%EA%B0%80%EC%9B%90-%EC%A7%80%ED%95%84%EA%B3%B5-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%EB%A7%9E%EC%86%90/ar-AA25FAOE",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.8t6ONzLrwJ9lYxCeDjERUQ&pid=News&w=1200&h=675&c=14"
+      "title": "신동빈 “인공지능 전환은 생존과제”... 직접 교육 받고 AI 홈페이지 제작도",
+      "summary": "신동빈 롯데그룹 회장(사진)이 그룹의 전사적 인공지능 전환(AX)을 가속화하기 위해 인공지능(AI) 서비스를 제작하는 등 직접 실무 교육을 받았다. 롯데는 신 회장이 5일과 6일 이틀간 ‘최고경영자(CEO) AI 아카데미’에서 실무 교육을 받고 그룹 AX 추진 전략을 점검했다고 16일 밝혔다. CEO AI 교육은 AI 혁신을 위한 CEO의 인식 변화를 주제 ...",
+      "source": "동아일보 on MSN",
+      "publishedAt": "2026-06-16",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%8B%A0%EB%8F%99%EB%B9%88-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98%EC%9D%80-%EC%83%9D%EC%A1%B4%EA%B3%BC%EC%A0%9C-%EC%A7%81%EC%A0%91-%EA%B5%90%EC%9C%A1-%EB%B0%9B%EA%B3%A0-ai-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%A0%9C%EC%9E%91%EB%8F%84/ar-AA25Nhwu",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.hzQq97WIulmOkvKX3qmkew&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "전영태 분당서울대병원장 취임… “진료 전반에 인공지능 접목해 AI 병원 될 것”",
-      "summary": "전영태(마취통증의학과) 분당서울대병원 제15대 원장이 취임 일성으로 ‘미래의료의 새 장을 여는 글로벌 리더’를 경영목표로 선언하며, 6월 10일 공식 취임식과 함께 본격적인 임기를 시작했다. 분당서울대병원 헬스케어혁신파크 미래홀에서 진행된 이날 행사에는 유홍림 서울대학교 총장, 백남종 서울대학교병원장, 임재준 서울의대 학장, 신상진 성남시장, 김은혜 국회의 ...",
-      "source": "Health Chosun on MSN",
-      "publishedAt": "2026-06-11",
-      "url": "https://www.msn.com/ko-kr/health/other/%EC%A0%84%EC%98%81%ED%83%9C-%EB%B6%84%EB%8B%B9%EC%84%9C%EC%9A%B8%EB%8C%80%EB%B3%91%EC%9B%90%EC%9E%A5-%EC%B7%A8%EC%9E%84-%EC%A7%84%EB%A3%8C-%EC%A0%84%EB%B0%98%EC%97%90-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%91%EB%AA%A9%ED%95%B4-ai-%EB%B3%91%EC%9B%90-%EB%90%A0-%EA%B2%83/ar-AA25mD9E",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.049bc6a662e55c160c85a7d2b7202c4b&pid=News&w=1200&h=675&c=14"
+      "title": "‘전기 먹는 하마’ AI 데이터센터 냉각 전력 90% 절감",
+      "summary": "국내 연구진이 ‘전기 먹는 하마’로 불리는 인공지능(AI) 데이터센터의 냉각 전력을 줄일 수 있는 기술을 개발해 AI 반도체의 최대 난제로 꼽히는 발열 문제 해결 가능성이 기대된다.16일 한국과학기술원(카이스트)에 따르면 기계공학과 김성진·AX(인공지능 전환)학과 ...",
+      "source": "서울신문 on MSN",
+      "publishedAt": "2026-06-16",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%A0%84%EA%B8%B0-%EB%A8%B9%EB%8A%94-%ED%95%98%EB%A7%88-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EB%83%89%EA%B0%81-%EC%A0%84%EB%A0%A5-90-%EC%A0%88%EA%B0%90/ar-AA25LyCX",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ujouz-AFi5Pl4UxBqgdUJw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "보건복지인재원 '의료 인공지능(AI) 공통역량과정' 온라인 콘텐츠 운영",
-      "summary": "기사의 본문 내용은 이 글자크기로 변경됩니다. 한국보건복지인재원(원장 은민수)은 보건복지 현장의 디지털 전환과 의료 인공지능(AI) 활용 역량 강화를 위해 '의료 인공지능(AI) 공통역량과정' 온라인 콘텐츠를 개발해 오는 10월까지 본격 운영한다고 밝혔다. 보건복지인재원 제공 보건의료 현장에서는 최근 진단 지원과 의료데이터 분석, 환자 상태 관찰 등 보건의 ...",
-      "source": "KPA News",
-      "publishedAt": "2026-06-10",
-      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=536448",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.B0UMju5KfQcHKgy9Z6lazg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "앤트로픽 “AI모델 출시 전 독립기관서 ‘안전성 테스트’ 의무화해야”",
-      "summary": "생성형 인공지능(AI) 챗봇 클로드의 개발사이자 인공지능 선두기업인 앤트로픽이 미국 의회를 향해 강력한 인공지능 규제 법안을 마련해야 한다고 경고했다. 앤트로픽은 10일(현지시각) 성명을 내고 “의회가 ‘인공지능의 재앙적인 위험’을 다룰 수 있는 엄격한 연방법을 먼저 ...",
-      "source": "The Hankyoreh",
-      "publishedAt": "2026-06-11",
-      "url": "https://www.hani.co.kr/arti/international/america/1263063.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.WOPHKlZiTMNPvRCkf4Mv3g&pid=News&w=1200&h=675&c=14"
+      "title": "현대로템, AI 대드론 방호 기술 어떻길래… 전 세계 방산업계 발칵 뒤집혔다",
+      "summary": "현대로템, AI 방산 기술 공개…유럽 시장 반응은?* 본 방송은 6월 16일에 촬영하였습니다. 시청에 참고하시길 바랍니다.#유로사토리2026 #현대로템 #AI방산 #K방산 #미래전 #무인화 #국방AI #방위산업 #첨단기술 #지상무기체계 ...",
+      "source": "서울경제TV on MSN",
+      "publishedAt": "2026-06-16",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%98%84%EB%8C%80%EB%A1%9C%ED%85%9C-ai-%EB%8C%80%EB%93%9C%EB%A1%A0-%EB%B0%A9%ED%98%B8-%EA%B8%B0%EC%88%A0-%EC%96%B4%EB%96%BB%EA%B8%B8%EB%9E%98-%EC%A0%84-%EC%84%B8%EA%B3%84-%EB%B0%A9%EC%82%B0%EC%97%85%EA%B3%84-%EB%B0%9C%EC%B9%B5-%EB%92%A4%EC%A7%91%ED%98%94%EB%8B%A4/vi-AA25LTs9",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.k73UNfylcx9OU18pw5VURQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
