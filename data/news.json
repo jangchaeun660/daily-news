@@ -1,52 +1,61 @@
 {
-  "updatedAt": "2026-06-17",
-  "windowStart": "2026-06-15T22:00:00.000Z",
-  "windowEnd": "2026-06-16T22:00:00.000Z",
+  "updatedAt": "2026-06-18",
+  "windowStart": "2026-06-16T22:00:00.000Z",
+  "windowEnd": "2026-06-17T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[이슈&경제] 기업의 ‘역사 감수성’ 부재가 던진 질문",
-      "summary": "최근 신세계그룹 계열에서 운영하는 스타벅스코리아의 ‘5·18 마케팅’ 논란은 단순한 홍보 실수 이상의 함의를 갖는다. 이번 사건은 네 명의 젊은 여성 직원이 기획안을 작성하고 내부 검토 과정에서 상급자의 결재와 내용 점검이 충분히 이뤄지지 않은 채 대외 홍보로 이어지면 ...",
-      "source": "Kyeonggi Ilbo",
-      "publishedAt": "2026-06-14",
-      "url": "https://www.kyeonggi.com/article/20260614580391",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.EPnkHm5nhvH6bhpCELOFKQ&pid=News&w=1200&h=675&c=14"
+      "title": "[기자수첩] 참교육 열풍이 던지는 경고…무너진 훈육과 흔들리는 정의, 한국 사회의 과제",
+      "summary": "최근 사회를 바라보며 문득 이런 생각이 든다. “정말 무엇이 잘못된 것일까?”촉법소년들이 약 2시간 동안 지적장애인을 집단 폭행한 사건은 많은 이들에게 충격을 안겼다. 방어 능력이 취약한 장애인을 상대로 한 장시간 폭 ...",
+      "source": "inews24 on MSN",
+      "publishedAt": "2026-06-17",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%B0%EC%9E%90%EC%88%98%EC%B2%A9-%EC%B0%B8%EA%B5%90%EC%9C%A1-%EC%97%B4%ED%92%8D%EC%9D%B4-%EB%8D%98%EC%A7%80%EB%8A%94-%EA%B2%BD%EA%B3%A0-%EB%AC%B4%EB%84%88%EC%A7%84-%ED%9B%88%EC%9C%A1%EA%B3%BC-%ED%9D%94%EB%93%A4%EB%A6%AC%EB%8A%94-%EC%A0%95%EC%9D%98-%ED%95%9C%EA%B5%AD-%EC%82%AC%ED%9A%8C%EC%9D%98-%EA%B3%BC%EC%A0%9C/ar-AA25QW5C",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.RHKk6SULFsVpNSkBU5tWyw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "'투표용지 부족' 후폭풍…정치권 넘어 '사회적 이슈' 확대",
-      "summary": "제9회 전국동시지방선거·국회의원 재보궐선거 과정에서 불거진 '투표용지 부족' 사태의 후폭풍이 만만치 않다.특히 충청권 등 전국 대학가에선 선거 이후 연일 중앙선거관리위원회를 규탄하는 시국선언이 잇따르고 2030세대를 중심으로 한 '참정권 운동'으로 확산하면서, 사회적 메가 이슈로 부상하는 양상이다.정치권에선 '부정선거'와 '음모론' 등의 혼돈 속에 향후 추 ...",
-      "source": "MSN on MSN",
-      "publishedAt": "2026-06-10",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%88%AC%ED%91%9C%EC%9A%A9%EC%A7%80-%EB%B6%80%EC%A1%B1-%ED%9B%84%ED%8F%AD%ED%92%8D-%EC%A0%95%EC%B9%98%EA%B6%8C-%EB%84%98%EC%96%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%9D%B4%EC%8A%88-%ED%99%95%EB%8C%80/ar-AA25hDJy",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.gyNtAqBMXC0gPdxeohAt5A&pid=News&w=1200&h=675&c=14"
+      "title": "한국e스포츠협회, '룰러' 박재혁에 사회봉사 40시간·징계부가금 2000만원 [공식]",
+      "summary": "(엑스포츠뉴스 유희은 기자) 한국e스포츠협회 스포츠공정위원회가 젠지 '룰러' 박재혁에게 사회봉사 40시간과 징계부가금 2000만 원을 부과했다. 스포츠공정위원회는 지난 5월 28일 위원회를 열고 박재혁에 대한 징계 안건을 심의해 이같이 의결했다고 17일 밝혔다. 위원회는 '룰러'의 과세처분과 조세심판 청구 기각 ...",
+      "source": "Xportsnews on MSN",
+      "publishedAt": "2026-06-17",
+      "url": "https://www.msn.com/ko-kr/news/news/%ED%95%9C%EA%B5%ADe%EC%8A%A4%ED%8F%AC%EC%B8%A0%ED%98%91%ED%9A%8C-%EB%A3%B0%EB%9F%AC-%EB%B0%95%EC%9E%AC%ED%98%81%EC%97%90-%EC%82%AC%ED%9A%8C%EB%B4%89%EC%82%AC-40%EC%8B%9C%EA%B0%84-%EC%A7%95%EA%B3%84%EB%B6%80%EA%B0%80%EA%B8%88-2000%EB%A7%8C%EC%9B%90-%EA%B3%B5%EC%8B%9D/ar-AA25R3HD",
+      "imageUrl": "https://www.bing.com/th?id=ONUT._lh2MvqMI_85Q8CPevKp0Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "돈보다 사회 일원으로…발달장애인 86% “계속 일하고 싶다”",
-      "summary": "【투데이신문 박효령 기자】발달장애인 취업자들의 월평균 임금이 최저임금 월 환산액의 절반 수준에 머무는 것으로 조사됐다. 낮은 임금과 제한된 직업 선택지에도 불구하고 대다수 발달장애인은 현재 직장에 계속 다니길 원했으며 취업 여부가 삶의 만족도에도 큰 영향을 미치는 것으로 나타나 단순한 일자리 확대를 넘어 안정적인 고용과 맞춤형 지원이 필요하다는 지적이 나온 ...",
-      "source": "Today Newspaper",
-      "publishedAt": "2026-06-11",
-      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127574",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.iu-Fd6iypkS5PrCMqqIU_A&pid=News&w=1200&h=675&c=14"
+      "title": "한국e스포츠협회, 젠지 ‘룰러’ 박재혁에 사회봉사 40시간·징계부가금 2,000만원 부과",
+      "summary": "한국e스포츠협회 스포츠공정위원회(이하 공정위)가 젠지 소속 ‘룰러’ 박재혁 선수에게 사회봉사 40시간과 징계부가금 2,000만원의 부과를 의결했다. 사진=경향게임스 이와 관련해 공정위는 17일 입장문을 통해 지난 5월 28일 개최된 위원회에서 ‘룰러’에 대한 징계 안건을 심의한 결과 이 같은 결정을 내렸다고 밝혔다. 이번 심의는 지난 3월 26일 조세심판원 ...",
+      "source": "KyungHyang Games",
+      "publishedAt": "2026-06-17",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305470",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.3Wmz3-Nm9XU_HBifyuu3UA&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "society",
-      "title": "커피 한 잔에 담긴 ‘무거운’ 사회적 신뢰",
-      "summary": "시사위크=박설민 기자 “함께 마신 커피는 40년 신뢰로 이어진다.” 커피를 사랑하는 국가 튀르키예의 유명한 속담이다. 같은 자리에 앉아 한 잔의 커피를 나누는 것은 인간적인 교감, 생각의 공유로 이어질 수 있다. 전 세계에서 가장 많은 커피를 소비하는 한국 역시 마찬가지다. 전국의 커피숍은 점심 시간만 되면 자리가 가득 차곤 한다. 그 중심에는 신세계그룹이 ...",
-      "source": "시사위크 on MSN",
-      "publishedAt": "2026-05-28",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%BB%A4%ED%94%BC-%ED%95%9C-%EC%9E%94%EC%97%90-%EB%8B%B4%EA%B8%B4-%EB%AC%B4%EA%B1%B0%EC%9A%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%8B%A0%EB%A2%B0/ar-AA24flkT",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.9ba148bd0291dfc6abf3d541f2e60196&pid=News&w=1200&h=675&c=14"
+      "category": "ai",
+      "title": "창원시, 인공지능 투명 페트병 자동수거기 4대 추가 설치",
+      "summary": "성주동행정복지센터 설치된 인공지능 투명 페트병 자동수거기. 창원시 제공 창원특례시가 올바른 재활용품 분리배출과 자원순환에 대한 시민의식 개선을 위해 인공지능 투명 페트병 자동수거기를 2곳에 4대를 추가로 설치했다. 추가 설치된 곳은 성주동 행정복지센터, 내서스포츠센터로, 올해 주민참여예산으로 진행됐다. 해당 수거기에 ...",
+      "source": "노컷뉴스 on MSN",
+      "publishedAt": "2026-06-17",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%B0%BD%EC%9B%90%EC%8B%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%88%AC%EB%AA%85-%ED%8E%98%ED%8A%B8%EB%B3%91-%EC%9E%90%EB%8F%99%EC%88%98%EA%B1%B0%EA%B8%B0-4%EB%8C%80-%EC%B6%94%EA%B0%80-%EC%84%A4%EC%B9%98/ar-AA25QxqB",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.qYVIQieI3j2Dc20TqS7lyA&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "society",
-      "title": "[이슈플러스] '투표용지 부족' 선관위 압수수색...소환조사 시점은?",
-      "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스PLUS] 명시해주시기 바랍니다. [앵커] 투표용지 부족 사태가 벌어진 지 8일 만에 강제수사가 시작됐습니다. 관련해서 자세한 내용, 이고은 변호사와 함께 살펴보겠습니다. 어서 오십시오. 경찰이 중앙선관위 등 7곳에 대한 압수수 ...",
-      "source": "YTN",
-      "publishedAt": "2026-06-11",
-      "url": "https://www.ytn.co.kr/_ln/0103_202606111923103040",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.EHYyLwEmHAkCr0f1wB8lfA&pid=News&w=1200&h=675&c=14"
+      "category": "ai",
+      "title": "KT, 여성 과학 기술 리더들과 AI 시대 산업혁신방향 논의",
+      "summary": "KT는 서울 광화문 KT 사옥에서 한국여성과학기술단체총연합회(여성과총)와 함께 산업기술융합 세미나를 열고 인공지능(AI) 시대 산업 혁신과 일하는 방식의 변화에 대해 논의했다고 17일 밝혔다.이번 세미나는 '산업기술 x AI : AI ...",
+      "source": "아이뉴스24 on MSN",
+      "publishedAt": "2026-06-17",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/kt-%EC%97%AC%EC%84%B1-%EA%B3%BC%ED%95%99-%EA%B8%B0%EC%88%A0-%EB%A6%AC%EB%8D%94%EB%93%A4%EA%B3%BC-ai-%EC%8B%9C%EB%8C%80-%EC%82%B0%EC%97%85%ED%98%81%EC%8B%A0%EB%B0%A9%ED%96%A5-%EB%85%BC%EC%9D%98/ar-AA25QyoY",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.1vVNNIKhXg4_bi66nhNGqQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "타임폴리오 'TIME 글로벌AI인공지능액티브' ETF, 연초 이후 수익률 100% 돌파",
+      "summary": "AUM 2.7조…주식형 액티브 ETF 1위“AI 밸류체인 확장 국면 적극 반영 결과” 타임폴리오자산운용은 ‘TIME 글로벌AI인공지능액티브 상장지수펀드(ETF)’가 연초 이후 수익률 100%를 돌파했다고 밝혔다. 17일 한국거래소에 따르면 전일 기준 TIME 글로벌AI인공지능액티브 ETF는 연초 이후 107.71% 상승했다. 2023년 5월 상장 이후 수익 ...",
+      "source": "서울경제 on MSN",
+      "publishedAt": "2026-06-17",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%83%80%EC%9E%84%ED%8F%B4%EB%A6%AC%EC%98%A4-time-%EA%B8%80%EB%A1%9C%EB%B2%8Cai%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%95%A1%ED%8B%B0%EB%B8%8C-etf-%EC%97%B0%EC%B4%88-%EC%9D%B4%ED%9B%84-%EC%88%98%EC%9D%B5%EB%A5%A0-100-%EB%8F%8C%ED%8C%8C/ar-AA25Pj1R",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.yzbyYVFsLld1WNhTiXbZMA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
@@ -59,30 +68,12 @@
     },
     {
       "category": "ai",
-      "title": "신동빈 “인공지능 전환은 생존과제”... 직접 교육 받고 AI 홈페이지 제작도",
-      "summary": "신동빈 롯데그룹 회장(사진)이 그룹의 전사적 인공지능 전환(AX)을 가속화하기 위해 인공지능(AI) 서비스를 제작하는 등 직접 실무 교육을 받았다. 롯데는 신 회장이 5일과 6일 이틀간 ‘최고경영자(CEO) AI 아카데미’에서 실무 교육을 받고 그룹 AX 추진 전략을 점검했다고 16일 밝혔다. CEO AI 교육은 AI 혁신을 위한 CEO의 인식 변화를 주제 ...",
-      "source": "동아일보 on MSN",
-      "publishedAt": "2026-06-16",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%8B%A0%EB%8F%99%EB%B9%88-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98%EC%9D%80-%EC%83%9D%EC%A1%B4%EA%B3%BC%EC%A0%9C-%EC%A7%81%EC%A0%91-%EA%B5%90%EC%9C%A1-%EB%B0%9B%EA%B3%A0-ai-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%A0%9C%EC%9E%91%EB%8F%84/ar-AA25Nhwu",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.hzQq97WIulmOkvKX3qmkew&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "‘전기 먹는 하마’ AI 데이터센터 냉각 전력 90% 절감",
-      "summary": "국내 연구진이 ‘전기 먹는 하마’로 불리는 인공지능(AI) 데이터센터의 냉각 전력을 줄일 수 있는 기술을 개발해 AI 반도체의 최대 난제로 꼽히는 발열 문제 해결 가능성이 기대된다.16일 한국과학기술원(카이스트)에 따르면 기계공학과 김성진·AX(인공지능 전환)학과 ...",
-      "source": "서울신문 on MSN",
-      "publishedAt": "2026-06-16",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%A0%84%EA%B8%B0-%EB%A8%B9%EB%8A%94-%ED%95%98%EB%A7%88-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EB%83%89%EA%B0%81-%EC%A0%84%EB%A0%A5-90-%EC%A0%88%EA%B0%90/ar-AA25LyCX",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ujouz-AFi5Pl4UxBqgdUJw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "현대로템, AI 대드론 방호 기술 어떻길래… 전 세계 방산업계 발칵 뒤집혔다",
-      "summary": "현대로템, AI 방산 기술 공개…유럽 시장 반응은?* 본 방송은 6월 16일에 촬영하였습니다. 시청에 참고하시길 바랍니다.#유로사토리2026 #현대로템 #AI방산 #K방산 #미래전 #무인화 #국방AI #방위산업 #첨단기술 #지상무기체계 ...",
-      "source": "서울경제TV on MSN",
-      "publishedAt": "2026-06-16",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%98%84%EB%8C%80%EB%A1%9C%ED%85%9C-ai-%EB%8C%80%EB%93%9C%EB%A1%A0-%EB%B0%A9%ED%98%B8-%EA%B8%B0%EC%88%A0-%EC%96%B4%EB%96%BB%EA%B8%B8%EB%9E%98-%EC%A0%84-%EC%84%B8%EA%B3%84-%EB%B0%A9%EC%82%B0%EC%97%85%EA%B3%84-%EB%B0%9C%EC%B9%B5-%EB%92%A4%EC%A7%91%ED%98%94%EB%8B%A4/vi-AA25LTs9",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.k73UNfylcx9OU18pw5VURQ&pid=News&w=1200&h=675&c=14"
+      "title": "문승현 전 GIST 총장, '인텔리전스 파워' 출간…AI 시대 '인간지능'의 진화 다뤄",
+      "summary": "“인공지능(AI)이 바둑을 이겼어도 사람들이 바둑에 흥미를 잃거나 바둑대회가 없어지지 않았다. AI가 그림을 그리고 작곡을 한다고 해서 우리의 창작 활동이 없어지지는 않는다.” 생성형 AI가 글쓰기와 창작, 연구 활동에까지 활용 범위를 넓혀가는 가운데, 인간은 어떤 역할을 해야 하며 어떤 역량을 갖추어야 하는가에 대한 관심이 커지고 있다. 문승현 광주과학기 ...",
+      "source": "ETNews",
+      "publishedAt": "2026-06-17",
+      "url": "https://www.etnews.com/20260617000024",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Pdak-qJ_n2AQYCuAfrCgAw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
