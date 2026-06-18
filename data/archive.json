@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-06-19",
+    "windowStart": "2026-06-17T22:00:00.000Z",
+    "windowEnd": "2026-06-18T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[이슈&경제] 기업의 ‘역사 감수성’ 부재가 던진 질문",
+        "summary": "최근 신세계그룹 계열에서 운영하는 스타벅스코리아의 ‘5·18 마케팅’ 논란은 단순한 홍보 실수 이상의 함의를 갖는다. 이번 사건은 네 명의 젊은 여성 직원이 기획안을 작성하고 내부 검토 과정에서 상급자의 결재와 내용 점검이 충분히 이뤄지지 않은 채 대외 홍보로 이어지면 ...",
+        "source": "Kyeonggi Ilbo",
+        "publishedAt": "2026-06-14",
+        "url": "https://www.kyeonggi.com/article/20260614580391",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.EPnkHm5nhvH6bhpCELOFKQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "'투표용지 부족' 후폭풍…정치권 넘어 '사회적 이슈' 확대",
+        "summary": "제9회 전국동시지방선거·국회의원 재보궐선거 과정에서 불거진 '투표용지 부족' 사태의 후폭풍이 만만치 않다.특히 충청권 등 전국 대학가에선 선거 이후 연일 중앙선거관리위원회를 규탄하는 시국선언이 잇따르고 2030세대를 중심으로 한 '참정권 운동'으로 확산하면서, 사회적 메가 이슈로 부상하는 양상이다.정치권에선 '부정선거'와 '음모론' 등의 혼돈 속에 향후 추 ...",
+        "source": "MSN on MSN",
+        "publishedAt": "2026-06-10",
+        "url": "https://www.msn.com/ko-kr/news/other/%ED%88%AC%ED%91%9C%EC%9A%A9%EC%A7%80-%EB%B6%80%EC%A1%B1-%ED%9B%84%ED%8F%AD%ED%92%8D-%EC%A0%95%EC%B9%98%EA%B6%8C-%EB%84%98%EC%96%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%9D%B4%EC%8A%88-%ED%99%95%EB%8C%80/ar-AA25hDJy",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.gyNtAqBMXC0gPdxeohAt5A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "돈보다 사회 일원으로…발달장애인 86% “계속 일하고 싶다”",
+        "summary": "【투데이신문 박효령 기자】발달장애인 취업자들의 월평균 임금이 최저임금 월 환산액의 절반 수준에 머무는 것으로 조사됐다. 낮은 임금과 제한된 직업 선택지에도 불구하고 대다수 발달장애인은 현재 직장에 계속 다니길 원했으며 취업 여부가 삶의 만족도에도 큰 영향을 미치는 것으로 나타나 단순한 일자리 확대를 넘어 안정적인 고용과 맞춤형 지원이 필요하다는 지적이 나온 ...",
+        "source": "Today Newspaper",
+        "publishedAt": "2026-06-11",
+        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127574",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.iu-Fd6iypkS5PrCMqqIU_A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈플러스] '투표용지 부족' 선관위 압수수색...소환조사 시점은?",
+        "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스PLUS] 명시해주시기 바랍니다. [앵커] 투표용지 부족 사태가 벌어진 지 8일 만에 강제수사가 시작됐습니다. 관련해서 자세한 내용, 이고은 변호사와 함께 살펴보겠습니다. 어서 오십시오. 경찰이 중앙선관위 등 7곳에 대한 압수수 ...",
+        "source": "YTN",
+        "publishedAt": "2026-06-11",
+        "url": "https://www.ytn.co.kr/_ln/0103_202606111923103040",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.EHYyLwEmHAkCr0f1wB8lfA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "인천시, 2035 주거정책 새판 짠다…미래형 주거복지 청사진",
+        "summary": "인천시가 급변하는 인구구조와 주택시장 환경에 대응하기 위한 장기 주거정책 수립에 나섰다.시민들의 주거 안정성을 높이고 주거복지 체계를 강화하기 위한 종합계획을 마련해 향후 10년간의 정책 방향을 제시한다는 구상이다.인천시는 오는 2035년을 목표로 하는 새로운 주거정책 기본계획 수립 연구를 시작한다고 16일 밝혔다.이번 연구는 인천연구원이 수행하며 앞으로 ...",
+        "source": "Dailian",
+        "publishedAt": "2026-06-16",
+        "url": "https://www.dailian.co.kr/news/view/1656258/%EC%9D%B8%EC%B2%9C%EC%8B%9C-2035-%EC%A3%BC%EA%B1%B0%EC%A0%95%EC%B1%85-%EC%83%88%ED%8C%90-%EC%A7%A0%EB%8B%A4%EB%AF%B8-2026",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.j7LI1DgKps5LtXCHie1stw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "금융당국, 금융권 인공지능 전환 촉진 'AI 가이드라인' 개정안 발표",
+        "summary": "[서울=뉴스핌] 채송무 기자 = 금융당국이 금융권의 인공지능 전환(AX)을 촉진하고, 'AI 에이전트' 등 혁신적인 금융 서비스 도입을 뒷받침하기 위해 새로운 규율 체계를 마련했다. 금융위원회는 18일 서울 금융결제원 대회의실에서 열린 '금융권 인공지능 전환(AX) 현장 간담회'에서 오는 22일 시행 예정인 '금융분야 ...",
+        "source": "NewsPim on MSN",
+        "publishedAt": "2026-06-18",
+        "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%88%EC%9C%B5%EB%8B%B9%EA%B5%AD-%EA%B8%88%EC%9C%B5%EA%B6%8C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%EC%B4%89%EC%A7%84-ai-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EA%B0%9C%EC%A0%95%EC%95%88-%EB%B0%9C%ED%91%9C/ar-AA25VH29",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.5SerruKhTm4H9LeZKSo2xQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "금융위 금융권의 인공지능 전환 판 깐다: 가이드라인 지정하고 망분리 규제 해제",
+        "summary": "금융위원회가 금융권의 인공지능 활용을 위해 망분리 규제를 전면적으로 해제한다. 또한 ‘금융분야 인공지능 가이드라인’(AI 7대 원칙) 시행을 통해 금융권 AI전환(AX) 기준도 마련한다. 금융위원회는 18일 서울 중구 금융결제원에서 권대영 부위원장 주재로 금융지주, 카드사, 빅테크·핀테크, 유관기관과 함께 ‘금융권 인공지능 전환(AX) 현장 간담회’를 열고 ...",
+        "source": "허프포스트코리아 on MSN",
+        "publishedAt": "2026-06-18",
+        "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%88%EC%9C%B5%EC%9C%84-%EA%B8%88%EC%9C%B5%EA%B6%8C%EC%9D%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%ED%8C%90-%EA%B9%90%EB%8B%A4-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EC%A7%80%EC%A0%95%ED%95%98%EA%B3%A0-%EB%A7%9D%EB%B6%84%EB%A6%AC-%EA%B7%9C%EC%A0%9C-%ED%95%B4%EC%A0%9C/ar-AA25WwHa",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.gJbxT4kM9gkmfNFGuX7VQw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "“재생에너지 예측 기술 고도화”…동서발전, ‘풍력발전량 예측 인공지능 경진대회’ 개최",
+        "summary": "한국동서발전이 에너지시장 변화 선제 대응과 인공지능(AI) 기반 재생에너지 예측 기술 고도화에 나선다. 동서발전은 GS E&R, 태백가덕산풍력발전과 함께 ‘제3회 풍력발전량 예측 인공지능(AI) 경진대회’를 개최한다고 16일 밝혔다. 올해 대회에서는 태백가덕산풍력발전의 실제 운영 데이터를 최초로 전면 개방한다. 참가자들은 해당 데이터를 활용해 변동성이 큰 ...",
+        "source": "Maeil Business Newspaper",
+        "publishedAt": "2026-06-16",
+        "url": "https://www.mk.co.kr/news/business/12075391",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.socLxfi92oXtNWWdi-oWdg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "문승현 전 GIST 총장, '인텔리전스 파워' 출간…AI 시대 '인간지능'의 진화 다뤄",
+        "summary": "“인공지능(AI)이 바둑을 이겼어도 사람들이 바둑에 흥미를 잃거나 바둑대회가 없어지지 않았다. AI가 그림을 그리고 작곡을 한다고 해서 우리의 창작 활동이 없어지지는 않는다.” 생성형 AI가 글쓰기와 창작, 연구 활동에까지 활용 범위를 넓혀가는 가운데, 인간은 어떤 역할을 해야 하며 어떤 역량을 갖추어야 하는가에 대한 관심이 커지고 있다. 문승현 광주과학기 ...",
+        "source": "ETNews",
+        "publishedAt": "2026-06-17",
+        "url": "https://www.etnews.com/20260617000024",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Pdak-qJ_n2AQYCuAfrCgAw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "울산시, 인공지능 선박 기술 주도권 확보 시동",
+        "summary": "울산시가 인공지능(AI)과 소프트웨어(SW)를 기반으로 한 미래형 선박 개발에 본격 착수하며 조선산업의 대전환에 나선다. 울산시는 6월 16일 오후 2시 30분 장생포항 내 울산태화호 3층 교육장에서 '인공지능(AI) 선박 특화 기반(플랫폼) 및 애플리케이션 개발·실증 사업' 착수보고회를 개최한다고 밝혔다. 이날 보고회는 정보통신산업진흥원, 울산정보산업진흥 ...",
+        "source": "Yonhap News Agency",
+        "publishedAt": "2026-06-16",
+        "url": "https://www.yna.co.kr/view/RPR20260616001700353",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.P3rb_Z_ELK2_3xjXgrj0zA&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-06-18",
     "windowStart": "2026-06-16T22:00:00.000Z",
     "windowEnd": "2026-06-17T22:00:00.000Z",
@@ -479,103 +576,6 @@
         "publishedAt": "2026-06-12",
         "url": "https://www.mk.co.kr/news/culture/12072696",
         "imageUrl": "https://www.bing.com/th?id=ONUT.l2uxdRaZ2TXNBvxtL_VJ8Q&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-06-12",
-    "windowStart": "2026-06-10T22:00:00.000Z",
-    "windowEnd": "2026-06-11T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "‘특별한 하루’… 외국인 유학생, 한국 문화에 스미다",
-        "summary": "“한국 생활에 자신감이 생겼어요. ” 캄보디아에서 유학 온 강동대학교 글로컬사회복지학과 치어 소피아(23·여)씨는 11일 “다양한 나라에서 온 친구들과 함께 운동하며 친해질 수 있었고 골든벨을 통해 한국 문화에 대해 배우는 시간이 즐거웠다”며 “한국 생활에 자신감도 생기고 좋은 추억을 만들 수 있어 뜻깊었다”고 말했다. 그는 “타국에서의 낯선 유학 생활로 ...",
-        "source": "Segye Ilbo",
-        "publishedAt": "2026-06-11",
-        "url": "https://www.segye.com/newsView/20260611516530",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.TVjo7HX59UK9YqpVxHqBCQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "'투표용지 부족' 후폭풍…정치권 넘어 '사회적 이슈' 확대",
-        "summary": "제9회 전국동시지방선거·국회의원 재보궐선거 과정에서 불거진 '투표용지 부족' 사태의 후폭풍이 만만치 않다.특히 충청권 등 전국 대학가에선 선거 이후 연일 중앙선거관리위원회를 규탄하는 시국선언이 잇따르고 2030세대를 중심으로 한 '참정권 운동'으로 확산하면서, 사회적 메가 이슈로 부상하는 양상이다.정치권에선 '부정선거'와 '음모론' 등의 혼돈 속에 향후 추 ...",
-        "source": "MSN on MSN",
-        "publishedAt": "2026-06-10",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%88%AC%ED%91%9C%EC%9A%A9%EC%A7%80-%EB%B6%80%EC%A1%B1-%ED%9B%84%ED%8F%AD%ED%92%8D-%EC%A0%95%EC%B9%98%EA%B6%8C-%EB%84%98%EC%96%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%9D%B4%EC%8A%88-%ED%99%95%EB%8C%80/ar-AA25hDJy",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.9WQB2_eLqZCWm_hY6CeTXA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "커피 한 잔에 담긴 ‘무거운’ 사회적 신뢰",
-        "summary": "시사위크=박설민 기자 “함께 마신 커피는 40년 신뢰로 이어진다.” 커피를 사랑하는 국가 튀르키예의 유명한 속담이다. 같은 자리에 앉아 한 잔의 커피를 나누는 것은 인간적인 교감, 생각의 공유로 이어질 수 있다. 전 세계에서 가장 많은 커피를 소비하는 한국 역시 마찬가지다. 전국의 커피숍은 점심 시간만 되면 자리가 가득 차곤 한다. 그 중심에는 신세계그룹이 ...",
-        "source": "시사위크 on MSN",
-        "publishedAt": "2026-05-28",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%BB%A4%ED%94%BC-%ED%95%9C-%EC%9E%94%EC%97%90-%EB%8B%B4%EA%B8%B4-%EB%AC%B4%EA%B1%B0%EC%9A%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%8B%A0%EB%A2%B0/ar-AA24flkT",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.9ba148bd0291dfc6abf3d541f2e60196&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "집에서 술먹다 지인 칼로 찌른 40대 여성 체포...단순 주취 폭력 넘어선 사회적 고립의 단면",
-        "summary": "집에서 술을 마시다 지인을 흉기로 찌르는 강력 범죄가 또다시 발생해 큰 충격을 주고 있다. 10일 경기 의정부경찰서는 범죄의 중대성을 감안해 지인인 여성을 자택에서 흉기로 찌른 40대 여성 A씨를 살인미수 혐의로 현행범 체포해 강도 높은 조사를 진행하고 있다고 공식 발표했다.경찰에 따르면 피의자 A씨는 이날 새벽 3시쯤 경기도 의정부시에 소재한 자신의 자택 ...",
-        "source": "Changup Ilbo",
-        "publishedAt": "2026-06-10",
-        "url": "https://www.news33.net/news/articleView.html?idxno=116487",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.SNO6YqDn270wv8lg8AuB-Q&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "이루미건설, ‘밥퍼’ 배식 봉사로 지역사회 기여",
-        "summary": "[아파트관리신문=서지영 기자] 공동주택 유지보수공사 전문기업 이루미건설이 아파트 주거환경 개선을 위한 사업을 넘어 지역사회 나눔 활동에도 적극 나서며 기업의 사회적 책임을 실천하고 있다.이루미건설 이주열 대표와 임직원 20여명은 5일 서울 동대문구 다일공동체 밥퍼나눔운동본부를 방문해 무의탁 어르신 등을 위한 배식봉사에 참여했다.이들은 오전 9시부터 점심식사 ...",
-        "source": "Apartment Management Newspaper",
-        "publishedAt": "2026-06-09",
-        "url": "https://www.aptn.co.kr/news/articleView.html?idxno=112134",
-        "imageUrl": "https://www.bing.com/th?id=ONUT._KmNaCHBLJqVMSNrl1kdkQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "“연료 수급 안정성 제고”…서부발전, 인공지능 선박운항일정 자동화 시스템 구축",
-        "summary": "한국서부발전이 인공지능 기반의 선박운항일정 자동화 시스템을 구축하여 발전 연료 공급망 관리를 더욱 체계화할 계획이다. 이 시스템은 선박 위치, 운항 일정, 기상 정보를 실시간으로 수집하고 생성형 인공지능을 통해 도착시간 예측 기능을 강화하여 입항 시간 예측 정확도를 높인다. 서부발전은 이를 통해 인적 오류를 줄이고 최적의 유연탄 비축 관리 및 체선료 절감 ...",
-        "source": "MSN on MSN",
-        "publishedAt": "2026-06-11",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%97%B0%EB%A3%8C-%EC%88%98%EA%B8%89-%EC%95%88%EC%A0%95%EC%84%B1-%EC%A0%9C%EA%B3%A0-%EC%84%9C%EB%B6%80%EB%B0%9C%EC%A0%84-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%84%A0%EB%B0%95%EC%9A%B4%ED%95%AD%EC%9D%BC%EC%A0%95-%EC%9E%90%EB%8F%99%ED%99%94-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95/ar-AA25og7L",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.BMcICycTh7w_wNWdi0ZVXw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "김용범 \"반도체·전력·제조 갖춘 한국, 인공지능 거점 가능\"",
-        "summary": "김용범 청와대 정책실장은 한국이 반도체와 전력망, 첨단 제조 역량을 모두 갖춘 나라라며, 인공지능 공급망 거점이 될 수 있다고 밝혔습니다. 김 실장은 어제(11일) SNS에, 세계 거대 기술 기업들이 반도체와 데이터 센터, 실물 인공지능을 모두 연결한 거점을 찾고 있다며 이같이 적었습니다. 이어 반도체와 데이터 센터는 ...",
-        "source": "MSN on MSN",
-        "publishedAt": "2026-06-11",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B9%80%EC%9A%A9%EB%B2%94-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%84%EB%A0%A5-%EC%A0%9C%EC%A1%B0-%EA%B0%96%EC%B6%98-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B1%B0%EC%A0%90-%EA%B0%80%EB%8A%A5/ar-AA25perj",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.mXoBdGDbrzX9Ted9MU7C0Q&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "김용범 \"韓, 반도체·데이터센터·피지컬AI 묶어 핵심 거점으로\"",
-        "summary": "(로마=연합뉴스) 임형섭 고동욱 기자 = 김용범 청와대 정책실장이 11일(현지시간) \"반도체·데이터센터·피지컬 AI를 하나의 순환 구조로 묶어 한국을 인공지능(AI) 공급망의 핵심 거점으로 만들자\"고 제안했다. 이재명 대통령의 유럽 순방 일정을 수행 중인 김 실장은 이날 페이스북에 올린 글에서 이 같은 구상을 담은 '프로젝트 트리니티(삼위일체)'를 소개했다 ...",
-        "source": "Yonhap News Agency",
-        "publishedAt": "2026-06-11",
-        "url": "https://www.yna.co.kr/view/AKR20260611159000001",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Q-JEXOXK6FE0nYNvL8lQCQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "최태원 “일본에 차세대 AI 데이터센터 건설…반도체 공장도 염두”",
-        "summary": "차세대 데이터센터 ‘AI 팩토리’ 2028~29년 현지 가동 목표 “반도체 수요 폭증”…생산능력 확대 필요성 강조 일본 반도체 생태계 주목…새 공장 후보지로 거론 김민석 총리 “국내에서 되게 할 방법을 논의해야” 최태원 SK그룹 회장이 엔비디아와의 협력을 통해 일본에 AI 전용 데이터센터를 건설할 계획이라 말하며 신규 반도체 공장 건설도 염두에 두고 있다고 ...",
-        "source": "이투데이 on MSN",
-        "publishedAt": "2026-06-11",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%B5%9C%ED%83%9C%EC%9B%90-%EC%9D%BC%EB%B3%B8%EC%97%90-%EC%B0%A8%EC%84%B8%EB%8C%80-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B1%B4%EC%84%A4-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B3%B5%EC%9E%A5%EB%8F%84-%EC%97%BC%EB%91%90/ar-AA25mth5",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.3T6d5V4iU1CyojnUBhbgUg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "“관세 폭탄·데이터 센터 반대 여론 선동”… 오픈AI, 中 ‘AI 선전 공세’ 전격 폭로",
-        "summary": "전 세계 생성형 인공지능(AI) 혁명을 주도하는 미국 OpenAI가 자사의 대표 플랫폼인 챗지피티(ChatGPT)를 악용해 도널드 트럼프 행정부의 관세 정책에 반대하는 여론을 선동하고 미국의 핵심 인프라 안보인 데이터 센터 관련 내부 분열을 조장하려 한 중국계 디지털 선전 공작(캠페인) 체인을 전격 적발해 폭로했다.생성형 AI가 국가 단위의 하이테크 영향력 ...",
-        "source": "MSN on MSN",
-        "publishedAt": "2026-06-11",
-        "url": "https://www.msn.com/ko-kr/news/other/%EA%B4%80%EC%84%B8-%ED%8F%AD%ED%83%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%84%BC%ED%84%B0-%EB%B0%98%EB%8C%80-%EC%97%AC%EB%A1%A0-%EC%84%A0%EB%8F%99-%EC%98%A4%ED%94%88ai-%E4%B8%AD-ai-%EC%84%A0%EC%A0%84-%EA%B3%B5%EC%84%B8-%EC%A0%84%EA%B2%A9-%ED%8F%AD%EB%A1%9C/ar-AA25pBvE",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.uGjyJEyZZf_-nCN_qWyQfg&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
