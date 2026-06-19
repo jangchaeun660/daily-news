@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-19",
-  "windowStart": "2026-06-17T22:00:00.000Z",
-  "windowEnd": "2026-06-18T22:00:00.000Z",
+  "updatedAt": "2026-06-20",
+  "windowStart": "2026-06-18T22:00:00.000Z",
+  "windowEnd": "2026-06-19T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
@@ -32,6 +32,15 @@
     },
     {
       "category": "society",
+      "title": "[이슈ON] 출입문 막은 '최후 1인', 업무 방해로 수사",
+      "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스ON] 명시해주시기 바랍니다. [앵커] 투표용지 부족 사태로 촉발된 잠실 개표소 앞 시위가 2주 가까이 이어지고 있습니다. 시위 과정에서 발생한 불법 행위, 그리고 선관위의 선거 관리 부실 의혹 수사도 진행 중인데요. 계속되는 ...",
+      "source": "YTN",
+      "publishedAt": "2026-06-17",
+      "url": "https://www.ytn.co.kr/_ln/0103_202606171701273125",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.pBWS_zpVJfm9nUA2oD1n2A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
       "title": "[이슈플러스] '투표용지 부족' 선관위 압수수색...소환조사 시점은?",
       "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스PLUS] 명시해주시기 바랍니다. [앵커] 투표용지 부족 사태가 벌어진 지 8일 만에 강제수사가 시작됐습니다. 관련해서 자세한 내용, 이고은 변호사와 함께 살펴보겠습니다. 어서 오십시오. 경찰이 중앙선관위 등 7곳에 대한 압수수 ...",
       "source": "YTN",
@@ -40,58 +49,40 @@
       "imageUrl": "https://www.bing.com/th?id=ONUT.EHYyLwEmHAkCr0f1wB8lfA&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "society",
-      "title": "인천시, 2035 주거정책 새판 짠다…미래형 주거복지 청사진",
-      "summary": "인천시가 급변하는 인구구조와 주택시장 환경에 대응하기 위한 장기 주거정책 수립에 나섰다.시민들의 주거 안정성을 높이고 주거복지 체계를 강화하기 위한 종합계획을 마련해 향후 10년간의 정책 방향을 제시한다는 구상이다.인천시는 오는 2035년을 목표로 하는 새로운 주거정책 기본계획 수립 연구를 시작한다고 16일 밝혔다.이번 연구는 인천연구원이 수행하며 앞으로 ...",
-      "source": "Dailian",
-      "publishedAt": "2026-06-16",
-      "url": "https://www.dailian.co.kr/news/view/1656258/%EC%9D%B8%EC%B2%9C%EC%8B%9C-2035-%EC%A3%BC%EA%B1%B0%EC%A0%95%EC%B1%85-%EC%83%88%ED%8C%90-%EC%A7%A0%EB%8B%A4%EB%AF%B8-2026",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.j7LI1DgKps5LtXCHie1stw&pid=News&w=1200&h=675&c=14"
+      "category": "ai",
+      "title": "대구대학교, 대구∙경북 첫 인공지능 박사 계약학과 신설",
+      "summary": "대구대학교가 지역 중소기업 재직자들의 인공지능(AI) 전문성 강화를 위해 대구∙경북 지역 최초로 박사과정 계약학과를 신설한다. 대학은 중소벤처기업부의 ‘2026년도 중소기업 인력양성대학’ 사업에 참여해 ‘인공지능 특화 분야 중소기업 계약학과 주관대학’으로 선정됐다고 20일 밝혔다. 이 사업은 중소기업 근로자를 대상으로 산업계 수요를 반영한 학위 교육과정을 ...",
+      "source": "세계일보 on MSN",
+      "publishedAt": "2026-06-19",
+      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EA%B3%A0%EB%93%B1-%EA%B5%90%EC%9C%A1/%EB%8C%80%EA%B5%AC%EB%8C%80%ED%95%99%EA%B5%90-%EB%8C%80%EA%B5%AC-%EA%B2%BD%EB%B6%81-%EC%B2%AB-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B0%95%EC%82%AC-%EA%B3%84%EC%95%BD%ED%95%99%EA%B3%BC-%EC%8B%A0%EC%84%A4/ar-AA265glm",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Y1xk1Q2ON3JfGy8Qp8EFgQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "금융당국, 금융권 인공지능 전환 촉진 'AI 가이드라인' 개정안 발표",
-      "summary": "[서울=뉴스핌] 채송무 기자 = 금융당국이 금융권의 인공지능 전환(AX)을 촉진하고, 'AI 에이전트' 등 혁신적인 금융 서비스 도입을 뒷받침하기 위해 새로운 규율 체계를 마련했다. 금융위원회는 18일 서울 금융결제원 대회의실에서 열린 '금융권 인공지능 전환(AX) 현장 간담회'에서 오는 22일 시행 예정인 '금융분야 ...",
-      "source": "NewsPim on MSN",
-      "publishedAt": "2026-06-18",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%88%EC%9C%B5%EB%8B%B9%EA%B5%AD-%EA%B8%88%EC%9C%B5%EA%B6%8C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%EC%B4%89%EC%A7%84-ai-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EA%B0%9C%EC%A0%95%EC%95%88-%EB%B0%9C%ED%91%9C/ar-AA25VH29",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.5SerruKhTm4H9LeZKSo2xQ&pid=News&w=1200&h=675&c=14"
+      "title": "[인터뷰] 이재신 SK텔레콤 AI사업개발담당 \"인공지능 경쟁, 추론으로… AI 데이터센터 풀스택 인프라로 승부\"",
+      "summary": "SK텔레콤은 AI 전략을 모델 개발에서 인프라 운영으로 전환, 효율적인 AI 데이터센터와 추론 인프라 구축에 집중하고 있다.",
+      "source": "조선비즈 on MSN",
+      "publishedAt": "2026-06-19",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%9D%B4%EC%9E%AC%EC%8B%A0-sk%ED%85%94%EB%A0%88%EC%BD%A4-ai%EC%82%AC%EC%97%85%EA%B0%9C%EB%B0%9C%EB%8B%B4%EB%8B%B9-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B2%BD%EC%9F%81-%EC%B6%94%EB%A1%A0%EC%9C%BC%EB%A1%9C-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%ED%92%80%EC%8A%A4%ED%83%9D-%EC%9D%B8%ED%94%84%EB%9D%BC%EB%A1%9C-%EC%8A%B9%EB%B6%80/ar-AA266k4X",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.FkyNYF3Sckxbid2wLlEKlg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "금융위 금융권의 인공지능 전환 판 깐다: 가이드라인 지정하고 망분리 규제 해제",
-      "summary": "금융위원회가 금융권의 인공지능 활용을 위해 망분리 규제를 전면적으로 해제한다. 또한 ‘금융분야 인공지능 가이드라인’(AI 7대 원칙) 시행을 통해 금융권 AI전환(AX) 기준도 마련한다. 금융위원회는 18일 서울 중구 금융결제원에서 권대영 부위원장 주재로 금융지주, 카드사, 빅테크·핀테크, 유관기관과 함께 ‘금융권 인공지능 전환(AX) 현장 간담회’를 열고 ...",
-      "source": "허프포스트코리아 on MSN",
-      "publishedAt": "2026-06-18",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%88%EC%9C%B5%EC%9C%84-%EA%B8%88%EC%9C%B5%EA%B6%8C%EC%9D%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%ED%8C%90-%EA%B9%90%EB%8B%A4-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EC%A7%80%EC%A0%95%ED%95%98%EA%B3%A0-%EB%A7%9D%EB%B6%84%EB%A6%AC-%EA%B7%9C%EC%A0%9C-%ED%95%B4%EC%A0%9C/ar-AA25WwHa",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.gJbxT4kM9gkmfNFGuX7VQw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "“재생에너지 예측 기술 고도화”…동서발전, ‘풍력발전량 예측 인공지능 경진대회’ 개최",
-      "summary": "한국동서발전이 에너지시장 변화 선제 대응과 인공지능(AI) 기반 재생에너지 예측 기술 고도화에 나선다. 동서발전은 GS E&R, 태백가덕산풍력발전과 함께 ‘제3회 풍력발전량 예측 인공지능(AI) 경진대회’를 개최한다고 16일 밝혔다. 올해 대회에서는 태백가덕산풍력발전의 실제 운영 데이터를 최초로 전면 개방한다. 참가자들은 해당 데이터를 활용해 변동성이 큰 ...",
-      "source": "Maeil Business Newspaper",
-      "publishedAt": "2026-06-16",
-      "url": "https://www.mk.co.kr/news/business/12075391",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.socLxfi92oXtNWWdi-oWdg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "문승현 전 GIST 총장, '인텔리전스 파워' 출간…AI 시대 '인간지능'의 진화 다뤄",
-      "summary": "“인공지능(AI)이 바둑을 이겼어도 사람들이 바둑에 흥미를 잃거나 바둑대회가 없어지지 않았다. AI가 그림을 그리고 작곡을 한다고 해서 우리의 창작 활동이 없어지지는 않는다.” 생성형 AI가 글쓰기와 창작, 연구 활동에까지 활용 범위를 넓혀가는 가운데, 인간은 어떤 역할을 해야 하며 어떤 역량을 갖추어야 하는가에 대한 관심이 커지고 있다. 문승현 광주과학기 ...",
-      "source": "ETNews",
-      "publishedAt": "2026-06-17",
-      "url": "https://www.etnews.com/20260617000024",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Pdak-qJ_n2AQYCuAfrCgAw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "울산시, 인공지능 선박 기술 주도권 확보 시동",
-      "summary": "울산시가 인공지능(AI)과 소프트웨어(SW)를 기반으로 한 미래형 선박 개발에 본격 착수하며 조선산업의 대전환에 나선다. 울산시는 6월 16일 오후 2시 30분 장생포항 내 울산태화호 3층 교육장에서 '인공지능(AI) 선박 특화 기반(플랫폼) 및 애플리케이션 개발·실증 사업' 착수보고회를 개최한다고 밝혔다. 이날 보고회는 정보통신산업진흥원, 울산정보산업진흥 ...",
+      "title": "[CEO풍향계] '인공지능 대변혁' 이재용…'0주 배정 사태' 박현주",
+      "summary": "일론 머스크의 우주 기업 '스페이스X'가 상장 후 급등세를 보인 가운데, 미래에셋증권의 '0주 배정' 사태 파장이 이어지고 있습니다. 적극 홍보에 나섰던 박현주 미래에셋그룹 회장의 입에 시선이 쏠리고 있습니다.",
       "source": "Yonhap News Agency",
-      "publishedAt": "2026-06-16",
-      "url": "https://www.yna.co.kr/view/RPR20260616001700353",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.P3rb_Z_ELK2_3xjXgrj0zA&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-06-19",
+      "url": "https://www.yna.co.kr/view/MYH20260619012100038",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Vek96m08ai1oX3pcighvfg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "정부, K-피지컬 AI 풀스택 전략 공개…\"독자 기술력 확산 목표\"",
+      "summary": "정부가 국산 피지컬 인공지능(AI) 기술 역량을 전 산업에 확산하기 위한 전략을 제시했다.이주식 과학기술정보통신부 정보통신산업정책과장은 19일 서울 더플라자 호텔에서 열린 '2026년 피지컬 AI 얼라이언스 2기 개편 방향·확대 운영 방안'에서 ...",
+      "source": "ZDNet Korea",
+      "publishedAt": "2026-06-19",
+      "url": "https://zdnet.co.kr/view/?no=20260619115919",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.kYICiCr_baqE37hgSqevWQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
