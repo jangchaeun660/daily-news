@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-24",
-  "windowStart": "2026-06-22T22:00:00.000Z",
-  "windowEnd": "2026-06-23T22:00:00.000Z",
+  "updatedAt": "2026-06-25",
+  "windowStart": "2026-06-23T22:00:00.000Z",
+  "windowEnd": "2026-06-24T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "'쉬쉬하는 자살' 더 위험… \"개인 선택지 아닌 사회적 해결 과제\"",
-      "summary": "[기획]클린 스쿨-자살 없는 학교③-3 [인터뷰]백종우 국민생명안전위원회 초대 민간 부위원장 머니투데이는 올해 마약, 도박, 자살 등이 없는 맑은 학교 만들기에 나서고 있습니다. 한국의 자살 사망률은 전세계적으로 높습니다. 청소년 자살 사망률도 최근 높아지고 있습니다. 청소년들이 우울 증상을 호소해도 '사춘기'로 치부되면서 말할 곳이 사라지고 있습니다. 청 ...",
-      "source": "머니투데이 on MSN",
-      "publishedAt": "2026-06-23",
-      "url": "https://www.msn.com/ko-kr/news/national/%EC%89%AC%EC%89%AC%ED%95%98%EB%8A%94-%EC%9E%90%EC%82%B4-%EB%8D%94-%EC%9C%84%ED%97%98-%EA%B0%9C%EC%9D%B8-%EC%84%A0%ED%83%9D%EC%A7%80-%EC%95%84%EB%8B%8C-%EC%82%AC%ED%9A%8C%EC%A0%81-%ED%95%B4%EA%B2%B0-%EA%B3%BC%EC%A0%9C/ar-AA26nuNE",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.fP4WC7w4K9Bfnhip2Egwwg&pid=News&w=1200&h=675&c=14"
+      "title": "GH 경기도 주거복지센터, 양주서 ‘찾아가는 주거복지교육’",
+      "summary": "경기주택도시공사(GH)가 운영 중인 경기도 주거복지센터는 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 ‘찾아가는 주거복지교육’을 진행했다고 밝혔다.강의는 공공임대주택 유형별 특성과 주요 주거복지제도 이론 및 실제 현장 사례 중심으로 ...",
+      "source": "Seoul Newspaper on MSN",
+      "publishedAt": "2026-06-24",
+      "url": "https://www.msn.com/ko-kr/news/other/gh-%EA%B2%BD%EA%B8%B0%EB%8F%84-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-%EC%96%91%EC%A3%BC%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EA%B5%90%EC%9C%A1/ar-AA26paV0",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.c1292f3cd77a134a00d284636cb62e0f&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -23,15 +23,6 @@
     },
     {
       "category": "society",
-      "title": "\"88억 포기하고 쓴소리 들었다\"…스타벅스, 조기 영업 종료한 '그 날' [쓸만한 이슈]",
-      "summary": "[파이낸셜뉴스] 22일 오후 3시. 전국의 스타벅스 매장에 있던 손님들은 직원들의 안내에 따라 하나, 둘 매장을 빠져나왔다. 이어 조명이 꺼지고 블라인드가 내려갔다. 문도 닫혔다. 손님이 떠나고 순식간에 조용해진 매장 안에서 직원들은 본사에서 지급한 27인치 모니터 앞에 앉았다. 그리고 3시간에 걸쳐 교육 영상을 시청했다. 스타벅스코리아가 이날 전국 216 ...",
-      "source": "파이낸셜뉴스 on MSN",
-      "publishedAt": "2026-06-22",
-      "url": "https://www.msn.com/ko-kr/news/other/88%EC%96%B5-%ED%8F%AC%EA%B8%B0%ED%95%98%EA%B3%A0-%EC%93%B4%EC%86%8C%EB%A6%AC-%EB%93%A4%EC%97%88%EB%8B%A4-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%A1%B0%EA%B8%B0-%EC%98%81%EC%97%85-%EC%A2%85%EB%A3%8C%ED%95%9C-%EA%B7%B8-%EB%82%A0-%EC%93%B8%EB%A7%8C%ED%95%9C-%EC%9D%B4%EC%8A%88/ar-AA26i2Xy",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.dc2f062c6c8cb49c49cf70c4b765caf9&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
       "title": "'투표용지 부족' 후폭풍…정치권 넘어 '사회적 이슈' 확대",
       "summary": "제9회 전국동시지방선거·국회의원 재보궐선거 과정에서 불거진 '투표용지 부족' 사태의 후폭풍이 만만치 않다.특히 충청권 등 전국 대학가에선 선거 이후 연일 중앙선거관리위원회를 규탄하는 시국선언이 잇따르고 2030세대를 중심으로 한 '참정권 운동'으로 확산하면서, 사회적 메가 이슈로 부상하는 양상이다.정치권에선 '부정선거'와 '음모론' 등의 혼돈 속에 향후 추 ...",
       "source": "MSN on MSN",
@@ -41,57 +32,57 @@
     },
     {
       "category": "society",
-      "title": "돈보다 사회 일원으로…발달장애인 86% “계속 일하고 싶다”",
-      "summary": "【투데이신문 박효령 기자】발달장애인 취업자들의 월평균 임금이 최저임금 월 환산액의 절반 수준에 머무는 것으로 조사됐다. 낮은 임금과 제한된 직업 선택지에도 불구하고 대다수 발달장애인은 현재 직장에 계속 다니길 원했으며 취업 여부가 삶의 만족도에도 큰 영향을 미치는 것으로 나타나 단순한 일자리 확대를 넘어 안정적인 고용과 맞춤형 지원이 필요하다는 지적이 나온 ...",
-      "source": "Today Newspaper",
-      "publishedAt": "2026-06-11",
-      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127574",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.iu-Fd6iypkS5PrCMqqIU_A&pid=News&w=1200&h=675&c=14"
+      "title": "광주·전남 지역 교계, '교회와 시대 이슈 아카데미' 개최한다",
+      "summary": "광주·전남 지역 교계가 차별금지법과 젠더, 페미니즘 등 급변하는 사회문화적 이슈를 성경적 관점에서 조명하고 교회의 역할을 모색하는 자리를 마련한다. 차별금지법제정반대전국연합은 27일 오후 3시30분 광주 남구 광주겨자씨교회에서 ‘2026 교회와 시대 이슈 아카데미’를 개최한다고 22일 밝혔다.아카데미는 한국교회가 직면한 다양한 사회적·문화적 변화 속에서 성 ...",
+      "source": "국민일보 on MSN",
+      "publishedAt": "2026-06-22",
+      "url": "https://www.msn.com/ko-kr/news/news/%EA%B4%91%EC%A3%BC-%EC%A0%84%EB%82%A8-%EC%A7%80%EC%97%AD-%EA%B5%90%EA%B3%84-%EA%B5%90%ED%9A%8C%EC%99%80-%EC%8B%9C%EB%8C%80-%EC%9D%B4%EC%8A%88-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8-%EA%B0%9C%EC%B5%9C%ED%95%9C%EB%8B%A4/ar-AA26dt7i",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.YqfvaKmegsmf-gtDwo4Rgw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "\"88억 포기하고 쓴소리 들었다\"…스타벅스, 조기 영업 종료한 '그 날' [쓸만한 이슈]",
+      "summary": "[파이낸셜뉴스] 22일 오후 3시. 전국의 스타벅스 매장에 있던 손님들은 직원들의 안내에 따라 하나, 둘 매장을 빠져나왔다. 이어 조명이 꺼지고 블라인드가 내려갔다. 문도 닫혔다. 손님이 떠나고 순식간에 조용해진 매장 안에서 직원들은 본사에서 지급한 27인치 모니터 앞에 앉았다. 그리고 3시간에 걸쳐 교육 영상을 시청했다. 스타벅스코리아가 이날 전국 216 ...",
+      "source": "파이낸셜뉴스 on MSN",
+      "publishedAt": "2026-06-22",
+      "url": "https://www.msn.com/ko-kr/news/other/88%EC%96%B5-%ED%8F%AC%EA%B8%B0%ED%95%98%EA%B3%A0-%EC%93%B4%EC%86%8C%EB%A6%AC-%EB%93%A4%EC%97%88%EB%8B%A4-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%A1%B0%EA%B8%B0-%EC%98%81%EC%97%85-%EC%A2%85%EB%A3%8C%ED%95%9C-%EA%B7%B8-%EB%82%A0-%EC%93%B8%EB%A7%8C%ED%95%9C-%EC%9D%B4%EC%8A%88/ar-AA26i2Xy",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.dc2f062c6c8cb49c49cf70c4b765caf9&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "LKB평산 AI·콘텐츠센터-연세대 인공지능융합대학, AI 업무협약 체결",
-      "summary": "법무법인(유한) LKB평산이 연세대학교와 손잡고 인공지능(AI) 분야의 상호 협력 체계 구축에 나섰다.LKB평산 AI·콘텐츠센터는 지난 19일 연세대학교 인공지능융합대학과 AI 분야 상호 협력을 위한 업무협약(MOU)을 체결했다고 밝혔다. 이번 협약은 AI 기술 발전과 함께 급증하는 관련 법률 및 기술적 이슈에 선제적으로 대응하고, 미래 지향적인 산학협력 ...",
-      "source": "한국경제 on MSN",
-      "publishedAt": "2026-06-23",
-      "url": "https://www.msn.com/ko-kr/news/other/lkb%ED%8F%89%EC%82%B0-ai-%EC%BD%98%ED%85%90%EC%B8%A0%EC%84%BC%ED%84%B0-%EC%97%B0%EC%84%B8%EB%8C%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9C%B5%ED%95%A9%EB%8C%80%ED%95%99-ai-%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD-%EC%B2%B4%EA%B2%B0/ar-AA26jEbt",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.PgrTaCXKxD04T-zjx-5Mow&pid=News&w=1200&h=675&c=14"
+      "title": "“AI가 업무 바꿔도 시작과 끝은 결국 인간의 몫”",
+      "summary": "제5회 사람과디지털포럼 ‘AI 시대, 일과 학습의 미래’ ...",
+      "source": "한겨레 on MSN",
+      "publishedAt": "2026-06-24",
+      "url": "https://www.msn.com/ko-kr/news/national/ai%EA%B0%80-%EC%97%85%EB%AC%B4-%EB%B0%94%EA%BF%94%EB%8F%84-%EC%8B%9C%EC%9E%91%EA%B3%BC-%EB%81%9D%EC%9D%80-%EA%B2%B0%EA%B5%AD-%EC%9D%B8%EA%B0%84%EC%9D%98-%EB%AA%AB/ar-AA26pUT8",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.S8e1OyTp5Oyn3BmHG_OPNw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "광주 동구, 전국 지자체 유일 인공지능정부 발전 유공 국무총리 표창",
-      "summary": "광주 동구 제공 광주 동구가 행정안전부 주최 '2026 인공지능정부 발전 유공 포상'에서 국무총리 표창을 수상하게 됐다. 23일 광주 동구에 따르면 '인공지능정부 발전 유공 포상'은 AI와 빅데이터를 기반으로 과학적 행정을 구현하고, 기술 개발 및 디지털정부 서비스 확산을 통해 국가와 사회 발전에 기여한 개인·기업·기관 ...",
-      "source": "노컷뉴스 on MSN",
-      "publishedAt": "2026-06-23",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B4%91%EC%A3%BC-%EB%8F%99%EA%B5%AC-%EC%A0%84%EA%B5%AD-%EC%A7%80%EC%9E%90%EC%B2%B4-%EC%9C%A0%EC%9D%BC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%A0%95%EB%B6%80-%EB%B0%9C%EC%A0%84-%EC%9C%A0%EA%B3%B5-%EA%B5%AD%EB%AC%B4%EC%B4%9D%EB%A6%AC-%ED%91%9C%EC%B0%BD/ar-AA26ioMT",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.5PBvIPrfUaaR3CWVb7VOhg&pid=News&w=1200&h=675&c=14"
+      "title": "AI시대 일과 학습의 미래는 인간의 선택이 결정한다",
+      "summary": "인공지능(AI)이란 압도적인 기술 앞에서 사람은 어떻게 일하고 무엇을 익혀야 하는가. 미래의 불안과 혼란을 걷어낼 수 있는 답은 ‘인간의 선택’이었다. ‘일과 학습의 미래’를 주제로 열린 제5회 사람과디지털포럼에서 연단에 오른 전문가들의 진단은 일치했다. 24일 서울 ...",
+      "source": "The Hankyoreh",
+      "publishedAt": "2026-06-24",
+      "url": "https://www.hani.co.kr/arti/economy/it/1265120.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.5fSeKPRKZG9qZqgXR0ouqw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "구윤철 부총리, 에이전틱 인공지능 교육현장 현장방문 및 간담회",
-      "summary": "(서울=연합뉴스) 구윤철 부총리 겸 재정경제부 장관이 23일 에이전틱 인공지능 첨단분야 인재양성 현장인 서울 강남구 이노베이션 아카데미를 방문, 아카데미 관계자 및 교육생들과 간담회에서 발언하고 있다. 2026.6.23 [재정경제부 제공. 재판매 및 DB 금지] ...",
-      "source": "Yonhap News Agency",
-      "publishedAt": "2026-06-23",
-      "url": "https://www.yna.co.kr/view/PYH20260623141000013",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.z6kEF6V05Sv5eVMSO5GqCQ&pid=News&w=1200&h=675&c=14"
+      "title": "김형철 NIA 원장, 인공지능소프트웨어산업協 방문…전방위적 협력 다짐",
+      "summary": "김형철 한국지능정보사회진흥원(NIA) 원장(왼쪽 세번째)과 조준희 한국인공지능·소프트웨어산업협회(KOSA) 회장(왼쪽 네번째) 등 참석자들이 23일 서울 가락동 KOSA에서 단체 기념 촬영을 하고 있다.ⓒ한국지능정보사회진흥원 제공[데일리한국 정백현 기자] 김형철 한국지능정보사회진흥원(NIA) 원장이 취임 후 첫 산업 현장 방문지로 한국인공지능·소프트웨어산업 ...",
+      "source": "데일리한국 on MSN",
+      "publishedAt": "2026-06-24",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B9%80%ED%98%95%EC%B2%A0-nia-%EC%9B%90%EC%9E%A5-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%82%B0%EC%97%85%E5%8D%94-%EB%B0%A9%EB%AC%B8-%EC%A0%84%EB%B0%A9%EC%9C%84%EC%A0%81-%ED%98%91%EB%A0%A5-%EB%8B%A4%EC%A7%90/ar-AA26pMLs",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.sUTkNCCe57VrwkzAhrAAGA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "생성AI 확산에 AI 데이터센터 투자 급증...전력·냉각·GPU 확보가 새 경쟁력",
-      "summary": "AI 데이터센터 시장, 2033년 8106억달러로 확대…GPU·전력·냉각 인프라 투자 경쟁생성AI와 대규모언어모델 확산으로 AI 전용 데이터센터 수요 증가하드웨어 53.7%로 최대 비중, 북미 37.5%로 최대 지역 시장 형성생성AI, 대규모언어모델, 머신러닝, 딥러닝 활용이 확대되면서 AI 데이터센터 시장이 고성능 컴퓨팅 인프라 중심으로 성장하고 있다.",
-      "source": "지티티코리아",
-      "publishedAt": "2026-06-23",
-      "url": "https://www.gttkorea.com/news/articleView.html?idxno=26134",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.nG9Wcmb4AfZR7Sv3oyoxyA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "AI 밖으로 나온 미래기술…전력망·바이오·양자보안이 산업 판 바꾼다",
-      "summary": "[WEF 선정 10대 유망기술-국내 유일 자문위원 이상엽 KAIST연구부총장]기술 개인화·분산화·자원 효율성이 공통 흐름전력·자원·의료·AI…4가지 키워드로 나눠져AI 등업고 바이오·양자 기술은 새 경쟁축으로미래 산업 히트 제품보다 인프라 장악에 달려 인공지능(AI) 다음 무대가 열리고 있다. 올해 세계경제포럼(WEF)이 선정한 10대 유망 기술은 AI를 ...",
-      "source": "서울경제 on MSN",
-      "publishedAt": "2026-06-23",
-      "url": "https://www.msn.com/ko-kr/news/other/ai-%EB%B0%96%EC%9C%BC%EB%A1%9C-%EB%82%98%EC%98%A8-%EB%AF%B8%EB%9E%98%EA%B8%B0%EC%88%A0-%EC%A0%84%EB%A0%A5%EB%A7%9D-%EB%B0%94%EC%9D%B4%EC%98%A4-%EC%96%91%EC%9E%90%EB%B3%B4%EC%95%88%EC%9D%B4-%EC%82%B0%EC%97%85-%ED%8C%90-%EB%B0%94%EA%BE%BC%EB%8B%A4/ar-AA26kY8V",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.DZkDS36FEs8YkdtV-9e7pg&pid=News&w=1200&h=675&c=14"
+      "title": "국토부, AI 기반 건설로봇·도로안전 기술 26개 과제 선정",
+      "summary": "[이데일리 김은경 기자] 국토교통부는 인공지능(AI) 기술이 적용된 국토교통 분야 제품·서비스 26개를 ‘AI 응용제품 신속 상용화 지원사업(AX-Sprint)’ 대상으로 최종 선정하고 본격적인 사업 추진에 착수했다고 25일 밝혔다. 정부세종청사 국토교통부.(사진=뉴시스) 해당 사업은 정부가 올해 처음 추진하는 사업으로 단기간(1~2년) 내 시장 출시가 가 ...",
+      "source": "이데일리 on MSN",
+      "publishedAt": "2026-06-24",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B5%AD%ED%86%A0%EB%B6%80-ai-%EA%B8%B0%EB%B0%98-%EA%B1%B4%EC%84%A4%EB%A1%9C%EB%B4%87-%EB%8F%84%EB%A1%9C%EC%95%88%EC%A0%84-%EA%B8%B0%EC%88%A0-26%EA%B0%9C-%EA%B3%BC%EC%A0%9C-%EC%84%A0%EC%A0%95/ar-AA26spXQ",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.gqp_ayfnyT8axUx6x5em9w&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
