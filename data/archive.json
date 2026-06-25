@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-06-26",
+    "windowStart": "2026-06-24T22:00:00.000Z",
+    "windowEnd": "2026-06-25T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "'투표용지 부족' 후폭풍…정치권 넘어 '사회적 이슈' 확대",
+        "summary": "제9회 전국동시지방선거·국회의원 재보궐선거 과정에서 불거진 '투표용지 부족' 사태의 후폭풍이 만만치 않다.특히 충청권 등 전국 대학가에선 선거 이후 연일 중앙선거관리위원회를 규탄하는 시국선언이 잇따르고 2030세대를 중심으로 한 '참정권 운동'으로 확산하면서, 사회적 메가 이슈로 부상하는 양상이다.정치권에선 '부정선거'와 '음모론' 등의 혼돈 속에 향후 추 ...",
+        "source": "MSN on MSN",
+        "publishedAt": "2026-06-10",
+        "url": "https://www.msn.com/ko-kr/news/other/%ED%88%AC%ED%91%9C%EC%9A%A9%EC%A7%80-%EB%B6%80%EC%A1%B1-%ED%9B%84%ED%8F%AD%ED%92%8D-%EC%A0%95%EC%B9%98%EA%B6%8C-%EB%84%98%EC%96%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%9D%B4%EC%8A%88-%ED%99%95%EB%8C%80/ar-AA25hDJy",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.gyNtAqBMXC0gPdxeohAt5A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈&경제] 기업의 ‘역사 감수성’ 부재가 던진 질문",
+        "summary": "최근 신세계그룹 계열에서 운영하는 스타벅스코리아의 ‘5·18 마케팅’ 논란은 단순한 홍보 실수 이상의 함의를 갖는다. 이번 사건은 네 명의 젊은 여성 직원이 기획안을 작성하고 내부 검토 과정에서 상급자의 결재와 내용 점검이 충분히 이뤄지지 않은 채 대외 홍보로 이어지면 ...",
+        "source": "Kyeonggi Ilbo",
+        "publishedAt": "2026-06-14",
+        "url": "https://www.kyeonggi.com/article/20260614580391",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.EPnkHm5nhvH6bhpCELOFKQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[제도 밖 미등록이주민下] 정책서 지워진 사람들…의료·사법 접근도 ‘취약’",
+        "summary": "【투데이신문 박효령 기자】‘40만명’의 미등록 이주민이 한국 사회에서 살아가고 있다. 하지만 이들의 삶은 아플 때 치료받을 권리, 부당한 일을 당했을 때 도움을 구할 권리조차 온전히 보장받지 못하고 있다. 단속과 추방에 대한 불안, 언어 장벽, 제도적 한계로 인해 의료 서비스와 법률 지원에 접근하지 어려운 실정이다. ‘아프면 병원에 가고, 피해를 입으면 신 ...",
+        "source": "투데이신문",
+        "publishedAt": "2026-06-19",
+        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127728",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.W217239E2YeUbC1jclbdKQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "전공노 비롯 안양 시민사회단체 “시민의 신뢰 회복할 수 있는 안양시의회 의장 선출하라”",
+        "summary": "제10대 안양시의회 전반기 의장 선출을 앞두고 전국공무원노조 안양시지부(지부장 현서광)를 비롯한 민주노총 경기중부지부, 안양시 노동인권연대노동조합 노동인권센터지부, 경기중부 비정규직센터 등 시민사회단체에서 시민의 신뢰를 회복할 수 있는 의장 선출을 요구하는 기자회견을 23일 오전 10시 30분 안양시의회 정문 앞에서 개최하고 나서 안양정가는 물론 시민사회에 ...",
+        "source": "Straight News",
+        "publishedAt": "2026-06-23",
+        "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=305443",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Nack98BfnNfLkaMgH1SARw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[박순종의 정의] 나의 對경찰 투쟁기①: \"경찰관이셨던 내 조부께서는 '경찰을 믿지 말라'고 하셨다\"",
+        "summary": "군으로 따지자면 ‘준장’에 해당한다는 경무관 계급의 경찰관이 최대 야당 국회의원 보좌관을 폭행했다고 해 논란이다.당사자인 국민의힘 신동욱 의원은 서울경찰청 측에서 “사과하러 찾아뵙겠다”고 하면서도 다른 한편으로는 언론을 통해 “국민의힘 모(某) 의원이 젊은 경찰관을 먼저 폭행했고, 폭 ...",
+        "source": "PenN Mike",
+        "publishedAt": "2026-06-22",
+        "url": "https://www.pennmike.com/news/articleView.html?idxno=122505",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.CkxaSwYPFp0uzj2vt1C__Q&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "고려대 법전원, '인공지능 시대의 법 교육과 연구의 변화·발전' 학술제 성료",
+        "summary": "아시아투데이 손승현 기자 = 고려대학교 법학전문대학원(원장 김상중·법전원)이 '2026년 제1회 고려대학교 법학전문대학원 학술제'를 열고 인공지능(AI)과 디지털 전환 시대의 법 교육과 연구를 논의하는 자리를 가졌다.고려대 법전원은 전날 고려대학교 CJ법학관 베리타스홀 ...",
+        "source": "아시아투데이 on MSN",
+        "publishedAt": "2026-06-25",
+        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B3%A0%EB%A0%A4%EB%8C%80-%EB%B2%95%EC%A0%84%EC%9B%90-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%8B%9C%EB%8C%80%EC%9D%98-%EB%B2%95-%EA%B5%90%EC%9C%A1%EA%B3%BC-%EC%97%B0%EA%B5%AC%EC%9D%98-%EB%B3%80%ED%99%94-%EB%B0%9C%EC%A0%84-%ED%95%99%EC%88%A0%EC%A0%9C-%EC%84%B1%EB%A3%8C/ar-AA26vXyt",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.oLgN_4iWvWN7qHNpbsVvIA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "삼성重 \"美, FDC에 높은 관심\"-유진證",
+        "summary": "[파이낸셜뉴스] 삼성중공업이 플로팅 데이터센터(FDC) 시장에서 글로벌 선점 가능성을 높이고 있다는 분석이 나왔다. 인공지능(AI) 확산으로 데이터센터 수요가 급증하는 가운데, 미국 내 육상 데이터센터 건설의 인허가·부지·전력 확보 난항이 부각되면서 해상 기반 FDC가 대안으로 떠오르고 있다는 판단이다. 26일 양승윤 유진투자증권 연구원은 \"삼성중공업은 글 ...",
+        "source": "Financial News on MSN",
+        "publishedAt": "2026-06-25",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%82%BC%EC%84%B1%E9%87%8D-%E7%BE%8E-fdc%EC%97%90-%EB%86%92%EC%9D%80-%EA%B4%80%EC%8B%AC-%EC%9C%A0%EC%A7%84%E8%AD%89/ar-AA26y3iB",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.dd05704fab26b3304a75449160c1db97&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "제주 바람·햇빛으로 AI 돌린다… 40MW '그린 데이터센터' 시동",
+        "summary": "【파이낸셜뉴스 제주=정용복 기자】 제주에서 생산한 바람과 햇빛으로 인공지능(AI)을 구동하는 40MW급 '그린 AI 데이터센터' 구축 구상이 본격화되고 있다. 재생에너지의 출력제한 문제를 AI 산업의 전력 수요와 연결하고, 에너지·우주·바이오 등 제주 전략산업의 인..",
+        "source": "Financial News",
+        "publishedAt": "2026-06-26",
+        "url": "https://www.fnnews.com/news/202606260642106658",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Jgx2lbp2QQBxh0s-8NCj_w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "대구 8000억 규모 ‘AI 데이터센터’ 물거품… 반도체 팹 유치도 불투명",
+        "summary": "대구 수성알파시티의 핵심 인프라인 8000억원 규모의 ‘인공지능(AI) 데이터센터’ 건립 사업이 사실상 무산됐다. 25일 대구시에 따르면 시는 SK AX(옛 SK C&C)와 SK리츠운용, 아토리서치 등으로 구성한 기존 컨소시엄의 투자가 어렵다고 보고 대체 사업자를 물색 중이다. 시는 현재 데이터센터 건립 의사를 밝힌 다른 컨소시엄 2∼3곳과 대체 투자를 논 ...",
+        "source": "Segye Ilbo",
+        "publishedAt": "2026-06-25",
+        "url": "https://www.segye.com/newsView/20260625515026",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.KHaXziCg4P4-uxxuGp85GQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "GS, AI 데이터센터 승부수…당진·동해 1.2GW 구축 검토",
+        "summary": "GS그룹이 인공지능(AI) 데이터센터 사업에 본격 진출한다. 정부가 기업들에 지방 투자 확대를 주문하는 가운데 충남 당진과 강원 동해를 후보지로 검토하며 기가와트(GW)급 초대형 AI 데이터센터 구축을 추진하는 ...",
+        "source": "Asia Economy on MSN",
+        "publishedAt": "2026-06-26",
+        "url": "https://www.msn.com/ko-kr/money/topstories/gs-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%8A%B9%EB%B6%80%EC%88%98-%EB%8B%B9%EC%A7%84-%EB%8F%99%ED%95%B4-12gw-%EA%B5%AC%EC%B6%95-%EA%B2%80%ED%86%A0/ar-AA26yW6A",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.21eb8fe3f4e0f3507707c3b2fdd9b6b3&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-06-25",
     "windowStart": "2026-06-23T22:00:00.000Z",
     "windowEnd": "2026-06-24T22:00:00.000Z",
@@ -551,103 +648,6 @@
         "publishedAt": "2026-06-19",
         "url": "https://zdnet.co.kr/view/?no=20260619115919",
         "imageUrl": "https://www.bing.com/th?id=ONUT.kYICiCr_baqE37hgSqevWQ&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-06-19",
-    "windowStart": "2026-06-17T22:00:00.000Z",
-    "windowEnd": "2026-06-18T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "[이슈&경제] 기업의 ‘역사 감수성’ 부재가 던진 질문",
-        "summary": "최근 신세계그룹 계열에서 운영하는 스타벅스코리아의 ‘5·18 마케팅’ 논란은 단순한 홍보 실수 이상의 함의를 갖는다. 이번 사건은 네 명의 젊은 여성 직원이 기획안을 작성하고 내부 검토 과정에서 상급자의 결재와 내용 점검이 충분히 이뤄지지 않은 채 대외 홍보로 이어지면 ...",
-        "source": "Kyeonggi Ilbo",
-        "publishedAt": "2026-06-14",
-        "url": "https://www.kyeonggi.com/article/20260614580391",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.EPnkHm5nhvH6bhpCELOFKQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "'투표용지 부족' 후폭풍…정치권 넘어 '사회적 이슈' 확대",
-        "summary": "제9회 전국동시지방선거·국회의원 재보궐선거 과정에서 불거진 '투표용지 부족' 사태의 후폭풍이 만만치 않다.특히 충청권 등 전국 대학가에선 선거 이후 연일 중앙선거관리위원회를 규탄하는 시국선언이 잇따르고 2030세대를 중심으로 한 '참정권 운동'으로 확산하면서, 사회적 메가 이슈로 부상하는 양상이다.정치권에선 '부정선거'와 '음모론' 등의 혼돈 속에 향후 추 ...",
-        "source": "MSN on MSN",
-        "publishedAt": "2026-06-10",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%88%AC%ED%91%9C%EC%9A%A9%EC%A7%80-%EB%B6%80%EC%A1%B1-%ED%9B%84%ED%8F%AD%ED%92%8D-%EC%A0%95%EC%B9%98%EA%B6%8C-%EB%84%98%EC%96%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%9D%B4%EC%8A%88-%ED%99%95%EB%8C%80/ar-AA25hDJy",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.gyNtAqBMXC0gPdxeohAt5A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "돈보다 사회 일원으로…발달장애인 86% “계속 일하고 싶다”",
-        "summary": "【투데이신문 박효령 기자】발달장애인 취업자들의 월평균 임금이 최저임금 월 환산액의 절반 수준에 머무는 것으로 조사됐다. 낮은 임금과 제한된 직업 선택지에도 불구하고 대다수 발달장애인은 현재 직장에 계속 다니길 원했으며 취업 여부가 삶의 만족도에도 큰 영향을 미치는 것으로 나타나 단순한 일자리 확대를 넘어 안정적인 고용과 맞춤형 지원이 필요하다는 지적이 나온 ...",
-        "source": "Today Newspaper",
-        "publishedAt": "2026-06-11",
-        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127574",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.iu-Fd6iypkS5PrCMqqIU_A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈플러스] '투표용지 부족' 선관위 압수수색...소환조사 시점은?",
-        "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스PLUS] 명시해주시기 바랍니다. [앵커] 투표용지 부족 사태가 벌어진 지 8일 만에 강제수사가 시작됐습니다. 관련해서 자세한 내용, 이고은 변호사와 함께 살펴보겠습니다. 어서 오십시오. 경찰이 중앙선관위 등 7곳에 대한 압수수 ...",
-        "source": "YTN",
-        "publishedAt": "2026-06-11",
-        "url": "https://www.ytn.co.kr/_ln/0103_202606111923103040",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.EHYyLwEmHAkCr0f1wB8lfA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "인천시, 2035 주거정책 새판 짠다…미래형 주거복지 청사진",
-        "summary": "인천시가 급변하는 인구구조와 주택시장 환경에 대응하기 위한 장기 주거정책 수립에 나섰다.시민들의 주거 안정성을 높이고 주거복지 체계를 강화하기 위한 종합계획을 마련해 향후 10년간의 정책 방향을 제시한다는 구상이다.인천시는 오는 2035년을 목표로 하는 새로운 주거정책 기본계획 수립 연구를 시작한다고 16일 밝혔다.이번 연구는 인천연구원이 수행하며 앞으로 ...",
-        "source": "Dailian",
-        "publishedAt": "2026-06-16",
-        "url": "https://www.dailian.co.kr/news/view/1656258/%EC%9D%B8%EC%B2%9C%EC%8B%9C-2035-%EC%A3%BC%EA%B1%B0%EC%A0%95%EC%B1%85-%EC%83%88%ED%8C%90-%EC%A7%A0%EB%8B%A4%EB%AF%B8-2026",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.j7LI1DgKps5LtXCHie1stw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "금융당국, 금융권 인공지능 전환 촉진 'AI 가이드라인' 개정안 발표",
-        "summary": "[서울=뉴스핌] 채송무 기자 = 금융당국이 금융권의 인공지능 전환(AX)을 촉진하고, 'AI 에이전트' 등 혁신적인 금융 서비스 도입을 뒷받침하기 위해 새로운 규율 체계를 마련했다. 금융위원회는 18일 서울 금융결제원 대회의실에서 열린 '금융권 인공지능 전환(AX) 현장 간담회'에서 오는 22일 시행 예정인 '금융분야 ...",
-        "source": "NewsPim on MSN",
-        "publishedAt": "2026-06-18",
-        "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%88%EC%9C%B5%EB%8B%B9%EA%B5%AD-%EA%B8%88%EC%9C%B5%EA%B6%8C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%EC%B4%89%EC%A7%84-ai-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EA%B0%9C%EC%A0%95%EC%95%88-%EB%B0%9C%ED%91%9C/ar-AA25VH29",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.5SerruKhTm4H9LeZKSo2xQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "금융위 금융권의 인공지능 전환 판 깐다: 가이드라인 지정하고 망분리 규제 해제",
-        "summary": "금융위원회가 금융권의 인공지능 활용을 위해 망분리 규제를 전면적으로 해제한다. 또한 ‘금융분야 인공지능 가이드라인’(AI 7대 원칙) 시행을 통해 금융권 AI전환(AX) 기준도 마련한다. 금융위원회는 18일 서울 중구 금융결제원에서 권대영 부위원장 주재로 금융지주, 카드사, 빅테크·핀테크, 유관기관과 함께 ‘금융권 인공지능 전환(AX) 현장 간담회’를 열고 ...",
-        "source": "허프포스트코리아 on MSN",
-        "publishedAt": "2026-06-18",
-        "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%88%EC%9C%B5%EC%9C%84-%EA%B8%88%EC%9C%B5%EA%B6%8C%EC%9D%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%ED%8C%90-%EA%B9%90%EB%8B%A4-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EC%A7%80%EC%A0%95%ED%95%98%EA%B3%A0-%EB%A7%9D%EB%B6%84%EB%A6%AC-%EA%B7%9C%EC%A0%9C-%ED%95%B4%EC%A0%9C/ar-AA25WwHa",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.gJbxT4kM9gkmfNFGuX7VQw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "“재생에너지 예측 기술 고도화”…동서발전, ‘풍력발전량 예측 인공지능 경진대회’ 개최",
-        "summary": "한국동서발전이 에너지시장 변화 선제 대응과 인공지능(AI) 기반 재생에너지 예측 기술 고도화에 나선다. 동서발전은 GS E&R, 태백가덕산풍력발전과 함께 ‘제3회 풍력발전량 예측 인공지능(AI) 경진대회’를 개최한다고 16일 밝혔다. 올해 대회에서는 태백가덕산풍력발전의 실제 운영 데이터를 최초로 전면 개방한다. 참가자들은 해당 데이터를 활용해 변동성이 큰 ...",
-        "source": "Maeil Business Newspaper",
-        "publishedAt": "2026-06-16",
-        "url": "https://www.mk.co.kr/news/business/12075391",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.socLxfi92oXtNWWdi-oWdg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "문승현 전 GIST 총장, '인텔리전스 파워' 출간…AI 시대 '인간지능'의 진화 다뤄",
-        "summary": "“인공지능(AI)이 바둑을 이겼어도 사람들이 바둑에 흥미를 잃거나 바둑대회가 없어지지 않았다. AI가 그림을 그리고 작곡을 한다고 해서 우리의 창작 활동이 없어지지는 않는다.” 생성형 AI가 글쓰기와 창작, 연구 활동에까지 활용 범위를 넓혀가는 가운데, 인간은 어떤 역할을 해야 하며 어떤 역량을 갖추어야 하는가에 대한 관심이 커지고 있다. 문승현 광주과학기 ...",
-        "source": "ETNews",
-        "publishedAt": "2026-06-17",
-        "url": "https://www.etnews.com/20260617000024",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Pdak-qJ_n2AQYCuAfrCgAw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "울산시, 인공지능 선박 기술 주도권 확보 시동",
-        "summary": "울산시가 인공지능(AI)과 소프트웨어(SW)를 기반으로 한 미래형 선박 개발에 본격 착수하며 조선산업의 대전환에 나선다. 울산시는 6월 16일 오후 2시 30분 장생포항 내 울산태화호 3층 교육장에서 '인공지능(AI) 선박 특화 기반(플랫폼) 및 애플리케이션 개발·실증 사업' 착수보고회를 개최한다고 밝혔다. 이날 보고회는 정보통신산업진흥원, 울산정보산업진흥 ...",
-        "source": "Yonhap News Agency",
-        "publishedAt": "2026-06-16",
-        "url": "https://www.yna.co.kr/view/RPR20260616001700353",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.P3rb_Z_ELK2_3xjXgrj0zA&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
