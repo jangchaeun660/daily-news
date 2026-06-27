@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-06-27",
-  "windowStart": "2026-06-25T22:00:00.000Z",
-  "windowEnd": "2026-06-26T22:00:00.000Z",
+  "updatedAt": "2026-06-28",
+  "windowStart": "2026-06-26T22:00:00.000Z",
+  "windowEnd": "2026-06-27T22:00:00.000Z",
   "articles": [
-    {
-      "category": "society",
-      "title": "[가족뉴스] 한국생명존중희망재단-한국손해사정사회, 자살유족 지원을 위한 업무협약 체결 外",
-      "summary": "【베이비뉴스 심주인 기자】가족은 아이가 성장하는 가장 중요한 삶의 터전이다. ‘가족뉴스’는 부모와 자녀, 조부모 등 다양한 가족 구성원의 삶과 관련된 정책, 복지, 교육, 문화, 주거, 일·가정 양립 등 가족의 행복과 삶의 질을 높이는 소식을 전하는 코너다. 변화하는 가족의 모습과 사회적 이슈를 살펴보며 건강한 가족문화 조성에 도움이 되는 정보를 제공한다.",
-      "source": "베이비뉴스 on MSN",
-      "publishedAt": "2026-06-26",
-      "url": "https://www.msn.com/ko-kr/lifestyle/other/%EA%B0%80%EC%A1%B1%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%83%9D%EB%AA%85%EC%A1%B4%EC%A4%91%ED%9D%AC%EB%A7%9D%EC%9E%AC%EB%8B%A8-%ED%95%9C%EA%B5%AD%EC%86%90%ED%95%B4%EC%82%AC%EC%A0%95%EC%82%AC%ED%9A%8C-%EC%9E%90%EC%82%B4%EC%9C%A0%EC%A1%B1-%EC%A7%80%EC%9B%90%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD-%EC%B2%B4%EA%B2%B0-%E5%A4%96/ar-AA26zZ0O",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.asoWeGYfmUTxM449DwsQzQ&pid=News&w=1200&h=675&c=14"
-    },
     {
       "category": "society",
       "title": "[이슈&경제] 기업의 ‘역사 감수성’ 부재가 던진 질문",
@@ -74,24 +65,6 @@
       "publishedAt": "2026-06-26",
       "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%95%9C%EA%B5%AD%EC%A0%80%EC%9E%91%EA%B6%8C%EC%9C%84%EC%9B%90%ED%9A%8C-%EA%B2%BD%EA%B8%B0%EC%BD%98%ED%85%90%EC%B8%A0%EC%A7%84%ED%9D%A5%EC%9B%90%EA%B3%BC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%80%EC%9E%91%EA%B6%8C-%ED%8A%B9%EA%B0%95-%EB%B2%95%EB%A5%A0%EC%83%81%EB%8B%B4-%EC%8B%A4%EC%8B%9C/ar-AA26BhN1",
       "imageUrl": "https://www.bing.com/th?id=ONUT.j3W-0pazrHPvKrkeIXx7Bw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "李, 반도체·AI 데이터센터·피지컬 AI 투자 회의 주재…1000조원 역대급 규모 예상[3대 메가프로젝트①]",
-      "summary": "ㅁ이재명 대통령이 29일 반도체 등 첨단 핵심산업의 대규모 지역 투자 청사진을 제시하는 대국민 보고회를 주재하기로 하면서 구체적인 투자 내용에 시선이 쏠린다. 삼성전자와 SK하이닉스를 주축으로 반도체 분야에서 역대급 규모의 투자가 포함될 가능성이 거론된다. 이 대통령은 29일 청와대에서 '대한민국 대도약 3대 메가 프로젝트 국민보고회'를 열어 인공지능(AI ...",
-      "source": "NEWSIS on MSN",
-      "publishedAt": "2026-06-26",
-      "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%EF%A7%A1-%EB%B0%98%EB%8F%84%EC%B2%B4-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%ED%94%BC%EC%A7%80%EC%BB%AC-ai-%ED%88%AC%EC%9E%90-%ED%9A%8C%EC%9D%98-%EC%A3%BC%EC%9E%AC-1000%EC%A1%B0%EC%9B%90-%EC%97%AD%EB%8C%80%EA%B8%89-%EA%B7%9C%EB%AA%A8-%EC%98%88%EC%83%81-3%EB%8C%80-%EB%A9%94%EA%B0%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/ar-AA26DQYU",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Ga3sFR8VEuZJDOwLrg7jpQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "데이터센터 소통 문제 해결한 자, 주가가 폭등할 것이다 [이승우의 반도체 오디세이]",
-      "summary": "인공지능(AI) 시대에 ‘소통’이란 화두가 던져졌다. 더 빨리 소통해야 데이터센터의 효율성이 극대화되기 때문이다. AI가 고도화될수록 데이터센터 끼리의 원활한 소통이 중요하다. 그래야 낮은 전력으로 고효율을 내면서 AI 사업성이 살아난다. 이 소통 문제를 푸는 기업이야말로 향후 주가가 폭등할 것이다. 매경플러스(매플)의 ‘머니닥터’ 이승우 유진투자증권 리 ...",
-      "source": "Maeil Business Newspaper",
-      "publishedAt": "2026-06-26",
-      "url": "https://www.mk.co.kr/news/it/12084452",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.YAw0d_2N5yQyEq0qIz65dw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
