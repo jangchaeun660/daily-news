@@ -1,5 +1,93 @@
 [
   {
+    "updatedAt": "2026-06-29",
+    "windowStart": "2026-06-27T22:00:00.000Z",
+    "windowEnd": "2026-06-28T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[데이터 팝콘] 당하면 당연히 신고?...통계로 본 성폭력에 대한 오해",
+        "summary": "본 기사는 데이터를 중심에 둔 인터랙티브 뉴스입니다. 취재 과정에서 확보한 통계와 수치를 독자가 직접 확인하고 해석할 수 있도록 구성했습니다. 단순히 결과를 전달하는 데 그치지 않고 데이터 분석을 통해 현안을 구조적으로 짚고 그에 따른 정책적·사회적 대안을 도출하는 데 초점을 맞췄습니다.그래프와 도표는 마우스 클릭 또는 터치로 항목을 선택해 자세히 볼 수 ...",
+        "source": "Today Newspaper",
+        "publishedAt": "2026-06-26",
+        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127859",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.MnioBse9S_tNwEe0g6DBKQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "'투표용지 부족' 후폭풍…정치권 넘어 '사회적 이슈' 확대",
+        "summary": "제9회 전국동시지방선거·국회의원 재보궐선거 과정에서 불거진 '투표용지 부족' 사태의 후폭풍이 만만치 않다.특히 충청권 등 전국 대학가에선 선거 이후 연일 중앙선거관리위원회를 규탄하는 시국선언이 잇따르고 2030세대를 중심으로 한 '참정권 운동'으로 확산하면서, 사회적 메가 이슈로 부상하는 양상이다.정치권에선 '부정선거'와 '음모론' 등의 혼돈 속에 향후 추 ...",
+        "source": "MSN on MSN",
+        "publishedAt": "2026-06-10",
+        "url": "https://www.msn.com/ko-kr/news/other/%ED%88%AC%ED%91%9C%EC%9A%A9%EC%A7%80-%EB%B6%80%EC%A1%B1-%ED%9B%84%ED%8F%AD%ED%92%8D-%EC%A0%95%EC%B9%98%EA%B6%8C-%EB%84%98%EC%96%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%9D%B4%EC%8A%88-%ED%99%95%EB%8C%80/ar-AA25hDJy",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.gyNtAqBMXC0gPdxeohAt5A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[박준규의 이슈언박싱] 일본은 마운자로 싸게 풀고도 \"함부로 맞지 마라\"…한국과 정반대, 왜",
+        "summary": "비만치료제 마운자로(성분명 티르제파타이드)를 두고 '김치자로'라는 씁쓸한 별명이 돕니다. 같은 약인데 한국에서 산 것이 일본에서 산 것보다 몇 배나 비싸다는 뜻에서, 국내 구매분을 '김치자로', 일본 구매분을 '일본자로'라고 부르는 은어까지 생겼습니다. 가격 차이가 크다는 이야기는 이 ...",
+        "source": "펜앤드마이크",
+        "publishedAt": "2026-06-28",
+        "url": "https://www.pennmike.com/news/articleView.html?idxno=122830",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.-7hd52yBS3DvP6K1OIAakw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈] 〈21세기 대군부인〉이 쏘아 올린 ‘동북공정’ 논란",
+        "summary": "“〈21세기 대군부인〉 드라마에 나오는 ‘천세(千歲)’라는 말은 한국이 한때 중국의 속국이었다는 사실을 암묵적으로 인정한 겁니다.”역사 고증 오류와 왜곡 논란속에 종영한 MBC 드라마 〈21세기 대군부인〉을 둘러싼 논란이 한국을 넘어 중국으로까지 번지고 있다. 국내에서 제기된 역사 왜곡 논란을 중국 현지 매체들이 잇따라 보도하자, 중국의 대표 소셜미디어(S ...",
+        "source": "Monthly Chosun on MSN",
+        "publishedAt": "2026-06-19",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4%EC%8A%88-21%EC%84%B8%EA%B8%B0-%EB%8C%80%EA%B5%B0%EB%B6%80%EC%9D%B8-%EC%9D%B4-%EC%8F%98%EC%95%84-%EC%98%AC%EB%A6%B0-%EB%8F%99%EB%B6%81%EA%B3%B5%EC%A0%95-%EB%85%BC%EB%9E%80/ar-AA260F5Z",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.e3dd3b3c46b40e6074c7f0235ab6893c&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈ON] 출입문 막은 '최후 1인', 업무 방해로 수사",
+        "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스ON] 명시해주시기 바랍니다. [앵커] 투표용지 부족 사태로 촉발된 잠실 개표소 앞 시위가 2주 가까이 이어지고 있습니다. 시위 과정에서 발생한 불법 행위, 그리고 선관위의 선거 관리 부실 의혹 수사도 진행 중인데요. 계속되는 ...",
+        "source": "YTN",
+        "publishedAt": "2026-06-17",
+        "url": "https://www.ytn.co.kr/_ln/0103_202606171701273125",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.pBWS_zpVJfm9nUA2oD1n2A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "'인공지능 비즈니스 마에스트로(AI 거장) 1급 자격 실전 과정' 성료",
+        "summary": "인공지능(AI)이 산업과 일하는 방식을 근본적으로 바꾸고 있는 가운데, 국내 최초로 개설된 '인공지능 비즈니스 마에스트로(AI 거장) 1급 자격 실전 과정'이 높은 관심 속에 성공적으로 마무리되며 AI 실무교육의 새로운 기준을 제시했다. 국제미래학회와 인공지능 글로벌교육원이 공동 주관한 이번 과정은 지난 20일과 27일 이틀간 오전 9시부터 오후 6시까지 ...",
+        "source": "전자신문 on MSN",
+        "publishedAt": "2026-06-28",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%A7%88%EC%97%90%EC%8A%A4%ED%8A%B8%EB%A1%9Cai-%EA%B1%B0%EC%9E%A5-1%EA%B8%89-%EC%9E%90%EA%B2%A9-%EC%8B%A4%EC%A0%84-%EA%B3%BC%EC%A0%95-%EC%84%B1%EB%A3%8C/ar-AA26ILb8",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.WtQiJDb1lR-XH_iS8aJhpg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "미·일 훈련에 AI 표적시스템 활용…인공지능이 일본 전수방위 이해할까",
+        "summary": "“적 표적 ‘타게팅’에 인공지능(AI)을 사용하는 게 유용하다고 생각합니다.” 우치쿠라 히로아키 일본 통합막료장(한국의 합참의장에 해당)은 지난 4월 자위대 전투 지휘에 인공지능을 도입하는 문제에 대해 이렇게 답했다. 그는 ‘미군과 표적 정보 공유에 인공지능 활용을 검토하느냐'는 질문에 “미국과 구체적 논의 여부에 ...",
+        "source": "The Hankyoreh on MSN",
+        "publishedAt": "2026-06-28",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EB%AF%B8-%EC%9D%BC-%ED%9B%88%EB%A0%A8%EC%97%90-ai-%ED%91%9C%EC%A0%81%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%99%9C%EC%9A%A9-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4-%EC%9D%BC%EB%B3%B8-%EC%A0%84%EC%88%98%EB%B0%A9%EC%9C%84-%EC%9D%B4%ED%95%B4%ED%95%A0%EA%B9%8C/ar-AA26IGTO",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.pDj4ENW4x3_nbr37o2Qqdg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "SK, 호남 반도체클러스터·영남 AI데이터센터로 AI혁신 확산",
+        "summary": "(이천=연합뉴스) 서대연 기자 = SK하이닉스가 계속되는 인공지능 (AI) 반도체 수요 급증에 힘입어 매출액 52조원, 영업익 37조원을 넘으며 역대 최대 실적 기록 행진을 이어간 23일 경기도 이천시 SK하이닉스 본사 모습. SK하이닉스는 연결 기준 올해 1분기 영업이익이 37조6천103억원으로 작년 동기 대비 405.5% 증가했다고 23일 공시했다.",
+        "source": "연합뉴스",
+        "publishedAt": "2026-06-28",
+        "url": "https://www.yna.co.kr/view/AKR20260628043600003",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.whnV4Cr_r5J6s5rD7S0sOg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "호남에 반도체 팹·충청에 패키징 … 영남엔 피지컬AI·데이터센터",
+        "summary": "삼성·SK 2000조대 투자 … 29일 靑서 국민보고회 삼성 이어 SK도 1100조 투자 광주, 초대형 반도체 클러스터 소재·부품·장비·R&D 집적 靑보고회 이재용·최태원 참석 30일부터 지역별 투자 보고회 ...",
+        "source": "Maeil Business Newspaper",
+        "publishedAt": "2026-06-28",
+        "url": "https://www.mk.co.kr/esg/news/view/2026/408483/",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.vxcdzUDi9Pxjvr7NRpXL8w&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-06-28",
     "windowStart": "2026-06-26T22:00:00.000Z",
     "windowEnd": "2026-06-27T22:00:00.000Z",
@@ -533,103 +621,6 @@
         "publishedAt": "2026-06-22",
         "url": "https://www.mk.co.kr/esg/news/view/2026/399479/",
         "imageUrl": "https://www.bing.com/th?id=ONUT.Haq5sGtPJFSgUERSWKOLJA&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-06-22",
-    "windowStart": "2026-06-20T22:00:00.000Z",
-    "windowEnd": "2026-06-21T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "[이슈&경제] 기업의 ‘역사 감수성’ 부재가 던진 질문",
-        "summary": "최근 신세계그룹 계열에서 운영하는 스타벅스코리아의 ‘5·18 마케팅’ 논란은 단순한 홍보 실수 이상의 함의를 갖는다. 이번 사건은 네 명의 젊은 여성 직원이 기획안을 작성하고 내부 검토 과정에서 상급자의 결재와 내용 점검이 충분히 이뤄지지 않은 채 대외 홍보로 이어지면 ...",
-        "source": "Kyeonggi Ilbo",
-        "publishedAt": "2026-06-14",
-        "url": "https://www.kyeonggi.com/article/20260614580391",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.EPnkHm5nhvH6bhpCELOFKQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "'투표용지 부족' 후폭풍…정치권 넘어 '사회적 이슈' 확대",
-        "summary": "제9회 전국동시지방선거·국회의원 재보궐선거 과정에서 불거진 '투표용지 부족' 사태의 후폭풍이 만만치 않다.특히 충청권 등 전국 대학가에선 선거 이후 연일 중앙선거관리위원회를 규탄하는 시국선언이 잇따르고 2030세대를 중심으로 한 '참정권 운동'으로 확산하면서, 사회적 메가 이슈로 부상하는 양상이다.정치권에선 '부정선거'와 '음모론' 등의 혼돈 속에 향후 추 ...",
-        "source": "MSN on MSN",
-        "publishedAt": "2026-06-10",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%88%AC%ED%91%9C%EC%9A%A9%EC%A7%80-%EB%B6%80%EC%A1%B1-%ED%9B%84%ED%8F%AD%ED%92%8D-%EC%A0%95%EC%B9%98%EA%B6%8C-%EB%84%98%EC%96%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%9D%B4%EC%8A%88-%ED%99%95%EB%8C%80/ar-AA25hDJy",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.gyNtAqBMXC0gPdxeohAt5A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈ON] 출입문 막은 '최후 1인', 업무 방해로 수사",
-        "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스ON] 명시해주시기 바랍니다. [앵커] 투표용지 부족 사태로 촉발된 잠실 개표소 앞 시위가 2주 가까이 이어지고 있습니다. 시위 과정에서 발생한 불법 행위, 그리고 선관위의 선거 관리 부실 의혹 수사도 진행 중인데요. 계속되는 ...",
-        "source": "YTN",
-        "publishedAt": "2026-06-17",
-        "url": "https://www.ytn.co.kr/_ln/0103_202606171701273125",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.pBWS_zpVJfm9nUA2oD1n2A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈플러스] '투표용지 부족' 선관위 압수수색...소환조사 시점은?",
-        "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스PLUS] 명시해주시기 바랍니다. [앵커] 투표용지 부족 사태가 벌어진 지 8일 만에 강제수사가 시작됐습니다. 관련해서 자세한 내용, 이고은 변호사와 함께 살펴보겠습니다. 어서 오십시오. 경찰이 중앙선관위 등 7곳에 대한 압수수 ...",
-        "source": "YTN",
-        "publishedAt": "2026-06-11",
-        "url": "https://www.ytn.co.kr/_ln/0103_202606111923103040",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.EHYyLwEmHAkCr0f1wB8lfA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "\"청년주거정책, 韓은 대출 중심…해외선 주거비 직접 보조\"",
-        "summary": "청년층을 겨냥한 주거정책이 과거에 견줘 양적·질적으로 나아졌지만 정책을 추진하는 주체나 지원 내용, 절차를 손볼 필요가 있다는 지적이 나왔다. 특히 그간 해온 대출 중심의 지원책이 일부 소득이 있는 ...",
-        "source": "Asia Economy on MSN",
-        "publishedAt": "2026-06-21",
-        "url": "https://www.msn.com/ko-kr/money/topstories/%EC%B2%AD%EB%85%84%EC%A3%BC%EA%B1%B0%EC%A0%95%EC%B1%85-%E9%9F%93%EC%9D%80-%EB%8C%80%EC%B6%9C-%EC%A4%91%EC%8B%AC-%ED%95%B4%EC%99%B8%EC%84%A0-%EC%A3%BC%EA%B1%B0%EB%B9%84-%EC%A7%81%EC%A0%91-%EB%B3%B4%EC%A1%B0/ar-AA26a9IA",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.5e15276570ab65ee7090f04217a2c374&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "도교육청, 인공지능-디지털 활용 과학탐구 활성화 추진",
-        "summary": "전북특별자치도교육청은 탐구·실험 중심 과학교육 활성화와 교원의 수업 전문성 강화에 노력한다. 이를 위해 ‘인공지능, 디지털 활용 과학탐구 활성화 지원사업’을 추진한다.이 사업은 인공지능·디지털 기반 탐구활동 강화로 탐구 중심 수업운영 및 실험활동 지원을 강화하는 데 목적을 두고 있다. 이를 위해 △학교급별 과학탐구 선도교원 운영 △과학탐구실험 자료 개발 △ ...",
-        "source": "Jeonbuk Joongang",
-        "publishedAt": "2026-06-21",
-        "url": "http://www.jjn.co.kr/news/articleView.html?idxno=1044233",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.z0H9_9E_i53zT9KvlTmpmA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "충남도, 중소기업 인공지능 전환 돕는다…참여 기업 모집",
-        "summary": "충남도는 인공지능(AI) 도입에 어려움을 겪는 중소 제조기업의 인공지능 전환 과정을 지원키로 했다. 도에 따르면 오는 22일부터 다음 달 17일까지 ‘지역 주도형 인공지능 대전환 사업’ 참여 기업을 모집한다. 공동 활용 인공지능 기반 구축, 인공지능 솔루션 도입, 전문인력 양성 등 제조기업의 인공지능 도입 초기 단계부터 현장 적용까지 전 과정을 지원하는 사 ...",
-        "source": "국민일보 on MSN",
-        "publishedAt": "2026-06-21",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EC%B6%A9%EB%82%A8%EB%8F%84-%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%EB%8F%95%EB%8A%94%EB%8B%A4-%EC%B0%B8%EC%97%AC-%EA%B8%B0%EC%97%85-%EB%AA%A8%EC%A7%91/ar-AA26aoX4",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.EZOmB_k87nDFPbtehrVX7A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[CEO풍향계] '인공지능 대변혁' 이재용…'0주 배정 사태' 박현주",
-        "summary": "일론 머스크의 우주 기업 '스페이스X'가 상장 후 급등세를 보인 가운데, 미래에셋증권의 '0주 배정' 사태 파장이 이어지고 있습니다. 적극 홍보에 나섰던 박현주 미래에셋그룹 회장의 입에 시선이 쏠리고 있습니다.",
-        "source": "Yonhap News Agency",
-        "publishedAt": "2026-06-19",
-        "url": "https://www.yna.co.kr/view/MYH20260619012100038",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Vek96m08ai1oX3pcighvfg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "대구대학교, 대구∙경북 첫 인공지능 박사 계약학과 신설",
-        "summary": "대구대학교가 지역 중소기업 재직자들의 인공지능(AI) 전문성 강화를 위해 대구∙경북 지역 최초로 박사과정 계약학과를 신설한다. 대학은 중소벤처기업부의 ‘2026년도 중소기업 인력양성대학’ 사업에 참여해 ‘인공지능 특화 분야 중소기업 계약학과 주관대학’으로 선정됐다고 20일 밝혔다. 이 사업은 중소기업 근로자를 대상으로 산업계 수요를 반영한 학위 교육과정을 ...",
-        "source": "세계일보 on MSN",
-        "publishedAt": "2026-06-19",
-        "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EA%B3%A0%EB%93%B1-%EA%B5%90%EC%9C%A1/%EB%8C%80%EA%B5%AC%EB%8C%80%ED%95%99%EA%B5%90-%EB%8C%80%EA%B5%AC-%EA%B2%BD%EB%B6%81-%EC%B2%AB-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B0%95%EC%82%AC-%EA%B3%84%EC%95%BD%ED%95%99%EA%B3%BC-%EC%8B%A0%EC%84%A4/ar-AA265glm",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Y1xk1Q2ON3JfGy8Qp8EFgQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "문승현 전 GIST 총장, '인텔리전스 파워' 출간…AI 시대 '인간지능'의 진화 다뤄",
-        "summary": "“인공지능(AI)이 바둑을 이겼어도 사람들이 바둑에 흥미를 잃거나 바둑대회가 없어지지 않았다. AI가 그림을 그리고 작곡을 한다고 해서 우리의 창작 활동이 없어지지는 않는다.” 생성형 AI가 글쓰기와 창작, 연구 활동에까지 활용 범위를 넓혀가는 가운데, 인간은 어떤 역할을 해야 하며 어떤 역량을 갖추어야 하는가에 대한 관심이 커지고 있다. 문승현 광주과학기 ...",
-        "source": "ETNews",
-        "publishedAt": "2026-06-17",
-        "url": "https://www.etnews.com/20260617000024",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Pdak-qJ_n2AQYCuAfrCgAw&pid=News&w=1200&h=675&c=14"
       }
     ]
   }

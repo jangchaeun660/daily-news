@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-28",
-  "windowStart": "2026-06-26T22:00:00.000Z",
-  "windowEnd": "2026-06-27T22:00:00.000Z",
+  "updatedAt": "2026-06-29",
+  "windowStart": "2026-06-27T22:00:00.000Z",
+  "windowEnd": "2026-06-28T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[이슈&경제] 기업의 ‘역사 감수성’ 부재가 던진 질문",
-      "summary": "최근 신세계그룹 계열에서 운영하는 스타벅스코리아의 ‘5·18 마케팅’ 논란은 단순한 홍보 실수 이상의 함의를 갖는다. 이번 사건은 네 명의 젊은 여성 직원이 기획안을 작성하고 내부 검토 과정에서 상급자의 결재와 내용 점검이 충분히 이뤄지지 않은 채 대외 홍보로 이어지면 ...",
-      "source": "Kyeonggi Ilbo",
-      "publishedAt": "2026-06-14",
-      "url": "https://www.kyeonggi.com/article/20260614580391",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.EPnkHm5nhvH6bhpCELOFKQ&pid=News&w=1200&h=675&c=14"
+      "title": "[데이터 팝콘] 당하면 당연히 신고?...통계로 본 성폭력에 대한 오해",
+      "summary": "본 기사는 데이터를 중심에 둔 인터랙티브 뉴스입니다. 취재 과정에서 확보한 통계와 수치를 독자가 직접 확인하고 해석할 수 있도록 구성했습니다. 단순히 결과를 전달하는 데 그치지 않고 데이터 분석을 통해 현안을 구조적으로 짚고 그에 따른 정책적·사회적 대안을 도출하는 데 초점을 맞췄습니다.그래프와 도표는 마우스 클릭 또는 터치로 항목을 선택해 자세히 볼 수 ...",
+      "source": "Today Newspaper",
+      "publishedAt": "2026-06-26",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127859",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.MnioBse9S_tNwEe0g6DBKQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -23,12 +23,21 @@
     },
     {
       "category": "society",
-      "title": "돈보다 사회 일원으로…발달장애인 86% “계속 일하고 싶다”",
-      "summary": "【투데이신문 박효령 기자】발달장애인 취업자들의 월평균 임금이 최저임금 월 환산액의 절반 수준에 머무는 것으로 조사됐다. 낮은 임금과 제한된 직업 선택지에도 불구하고 대다수 발달장애인은 현재 직장에 계속 다니길 원했으며 취업 여부가 삶의 만족도에도 큰 영향을 미치는 것으로 나타나 단순한 일자리 확대를 넘어 안정적인 고용과 맞춤형 지원이 필요하다는 지적이 나온 ...",
-      "source": "Today Newspaper",
-      "publishedAt": "2026-06-11",
-      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127574",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.iu-Fd6iypkS5PrCMqqIU_A&pid=News&w=1200&h=675&c=14"
+      "title": "[박준규의 이슈언박싱] 일본은 마운자로 싸게 풀고도 \"함부로 맞지 마라\"…한국과 정반대, 왜",
+      "summary": "비만치료제 마운자로(성분명 티르제파타이드)를 두고 '김치자로'라는 씁쓸한 별명이 돕니다. 같은 약인데 한국에서 산 것이 일본에서 산 것보다 몇 배나 비싸다는 뜻에서, 국내 구매분을 '김치자로', 일본 구매분을 '일본자로'라고 부르는 은어까지 생겼습니다. 가격 차이가 크다는 이야기는 이 ...",
+      "source": "펜앤드마이크",
+      "publishedAt": "2026-06-28",
+      "url": "https://www.pennmike.com/news/articleView.html?idxno=122830",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-7hd52yBS3DvP6K1OIAakw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[이슈] 〈21세기 대군부인〉이 쏘아 올린 ‘동북공정’ 논란",
+      "summary": "“〈21세기 대군부인〉 드라마에 나오는 ‘천세(千歲)’라는 말은 한국이 한때 중국의 속국이었다는 사실을 암묵적으로 인정한 겁니다.”역사 고증 오류와 왜곡 논란속에 종영한 MBC 드라마 〈21세기 대군부인〉을 둘러싼 논란이 한국을 넘어 중국으로까지 번지고 있다. 국내에서 제기된 역사 왜곡 논란을 중국 현지 매체들이 잇따라 보도하자, 중국의 대표 소셜미디어(S ...",
+      "source": "Monthly Chosun on MSN",
+      "publishedAt": "2026-06-19",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4%EC%8A%88-21%EC%84%B8%EA%B8%B0-%EB%8C%80%EA%B5%B0%EB%B6%80%EC%9D%B8-%EC%9D%B4-%EC%8F%98%EC%95%84-%EC%98%AC%EB%A6%B0-%EB%8F%99%EB%B6%81%EA%B3%B5%EC%A0%95-%EB%85%BC%EB%9E%80/ar-AA260F5Z",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.e3dd3b3c46b40e6074c7f0235ab6893c&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -41,30 +50,39 @@
     },
     {
       "category": "ai",
-      "title": "서울과학기술대학교 박종열 교수, ‘인공지능 학습데이터 표준 주도’ ITU-T Q7/17 공동 라포처 선임",
-      "summary": "서울과학기술대학교(총장 김동환, 이하 서울과기대) 인공지능응용학과 박종열 교수가 2026년 6월 1일부터 10일까지 열린 ITU-T SG17 표준화 회의에서 Q7/17 공동 라포처(Co-rapporteur)로 선임되어, 인공지능 및 관련 기술의 표준화에 주도적 역할을 수행할 것으로 기대된다. 박종열 교수 연구팀은 의장직 수임에 더해, 관련 핵심 기술을 확보 ...",
-      "source": "중앙일보",
-      "publishedAt": "2026-06-26",
-      "url": "https://www.joongang.co.kr/article/25440178",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.HncAfhm--XFnFKbPx3r49w&pid=News&w=1200&h=675&c=14"
+      "title": "'인공지능 비즈니스 마에스트로(AI 거장) 1급 자격 실전 과정' 성료",
+      "summary": "인공지능(AI)이 산업과 일하는 방식을 근본적으로 바꾸고 있는 가운데, 국내 최초로 개설된 '인공지능 비즈니스 마에스트로(AI 거장) 1급 자격 실전 과정'이 높은 관심 속에 성공적으로 마무리되며 AI 실무교육의 새로운 기준을 제시했다. 국제미래학회와 인공지능 글로벌교육원이 공동 주관한 이번 과정은 지난 20일과 27일 이틀간 오전 9시부터 오후 6시까지 ...",
+      "source": "전자신문 on MSN",
+      "publishedAt": "2026-06-28",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%A7%88%EC%97%90%EC%8A%A4%ED%8A%B8%EB%A1%9Cai-%EA%B1%B0%EC%9E%A5-1%EA%B8%89-%EC%9E%90%EA%B2%A9-%EC%8B%A4%EC%A0%84-%EA%B3%BC%EC%A0%95-%EC%84%B1%EB%A3%8C/ar-AA26ILb8",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.WtQiJDb1lR-XH_iS8aJhpg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "이재명 대통령 \"인공지능·드론 등 신안보 혁신기업 육성\" [뉴시스Pic]",
-      "summary": "이재명 대통령은 26일 \"정부는 인공지능, 드론, 사이버 안보, 우주 항공 등 첨단 독점 기술을 보유하는 신안보 혁신기업을 육성하려고 한다\"고 밝혔다. 이 대통령은 이날 오후 청와대에서 '미래 신안보 혁신깅버 육성 전략회의'를 열고 \"대한민국이 전통적인 방산 강국에서 글로벌 신안보 강국으로 거듭나기 위해서는 국가적 차원의 신안보 혁신기업 육성이 무엇보다 중 ...",
-      "source": "뉴시스 on MSN",
-      "publishedAt": "2026-06-26",
-      "url": "https://www.msn.com/ko-kr/news/politics/%EC%9D%B4%EC%9E%AC%EB%AA%85-%EB%8C%80%ED%86%B5%EB%A0%B9-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%93%9C%EB%A1%A0-%EB%93%B1-%EC%8B%A0%EC%95%88%EB%B3%B4-%ED%98%81%EC%8B%A0%EA%B8%B0%EC%97%85-%EC%9C%A1%EC%84%B1-%EB%89%B4%EC%8B%9C%EC%8A%A4pic/ar-AA26At1f",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.BU8CpinonIMoT1llDeWvmA&pid=News&w=1200&h=675&c=14"
+      "title": "미·일 훈련에 AI 표적시스템 활용…인공지능이 일본 전수방위 이해할까",
+      "summary": "“적 표적 ‘타게팅’에 인공지능(AI)을 사용하는 게 유용하다고 생각합니다.” 우치쿠라 히로아키 일본 통합막료장(한국의 합참의장에 해당)은 지난 4월 자위대 전투 지휘에 인공지능을 도입하는 문제에 대해 이렇게 답했다. 그는 ‘미군과 표적 정보 공유에 인공지능 활용을 검토하느냐'는 질문에 “미국과 구체적 논의 여부에 ...",
+      "source": "The Hankyoreh on MSN",
+      "publishedAt": "2026-06-28",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EB%AF%B8-%EC%9D%BC-%ED%9B%88%EB%A0%A8%EC%97%90-ai-%ED%91%9C%EC%A0%81%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%99%9C%EC%9A%A9-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4-%EC%9D%BC%EB%B3%B8-%EC%A0%84%EC%88%98%EB%B0%A9%EC%9C%84-%EC%9D%B4%ED%95%B4%ED%95%A0%EA%B9%8C/ar-AA26IGTO",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.pDj4ENW4x3_nbr37o2Qqdg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "한국저작권위원회, 경기콘텐츠진흥원과 인공지능 저작권 특강·법률상담 실시",
-      "summary": "한국저작권위원회는 경기콘텐츠진흥원과 함께 경기도 소재 AI 스타트업 6개 사를 대상으로 저작권 특강과 기업별 맞춤형 법률 상담을 진행했다고 밝혔다.지난 25일 경기창조경제혁신센터에서 진행된 이번 프로그램은 양 기관이 지난해 체결한 업무협약을 바탕으로 마련됐다. 프로그램에는 국내 AI 빅테크 3사와의 파트너십을 통해 진행되는 ‘AI 콘텐츠 허브’ 지원사업에 ...",
-      "source": "동아일보 on MSN",
-      "publishedAt": "2026-06-26",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%95%9C%EA%B5%AD%EC%A0%80%EC%9E%91%EA%B6%8C%EC%9C%84%EC%9B%90%ED%9A%8C-%EA%B2%BD%EA%B8%B0%EC%BD%98%ED%85%90%EC%B8%A0%EC%A7%84%ED%9D%A5%EC%9B%90%EA%B3%BC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%80%EC%9E%91%EA%B6%8C-%ED%8A%B9%EA%B0%95-%EB%B2%95%EB%A5%A0%EC%83%81%EB%8B%B4-%EC%8B%A4%EC%8B%9C/ar-AA26BhN1",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.j3W-0pazrHPvKrkeIXx7Bw&pid=News&w=1200&h=675&c=14"
+      "title": "SK, 호남 반도체클러스터·영남 AI데이터센터로 AI혁신 확산",
+      "summary": "(이천=연합뉴스) 서대연 기자 = SK하이닉스가 계속되는 인공지능 (AI) 반도체 수요 급증에 힘입어 매출액 52조원, 영업익 37조원을 넘으며 역대 최대 실적 기록 행진을 이어간 23일 경기도 이천시 SK하이닉스 본사 모습. SK하이닉스는 연결 기준 올해 1분기 영업이익이 37조6천103억원으로 작년 동기 대비 405.5% 증가했다고 23일 공시했다.",
+      "source": "연합뉴스",
+      "publishedAt": "2026-06-28",
+      "url": "https://www.yna.co.kr/view/AKR20260628043600003",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.whnV4Cr_r5J6s5rD7S0sOg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "호남에 반도체 팹·충청에 패키징 … 영남엔 피지컬AI·데이터센터",
+      "summary": "삼성·SK 2000조대 투자 … 29일 靑서 국민보고회 삼성 이어 SK도 1100조 투자 광주, 초대형 반도체 클러스터 소재·부품·장비·R&D 집적 靑보고회 이재용·최태원 참석 30일부터 지역별 투자 보고회 ...",
+      "source": "Maeil Business Newspaper",
+      "publishedAt": "2026-06-28",
+      "url": "https://www.mk.co.kr/esg/news/view/2026/408483/",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.vxcdzUDi9Pxjvr7NRpXL8w&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
