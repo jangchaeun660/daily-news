@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-06-30",
+    "windowStart": "2026-06-28T22:00:00.000Z",
+    "windowEnd": "2026-06-29T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[이슈ON] 출입문 막은 '최후 1인', 업무 방해로 수사",
+        "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스ON] 명시해주시기 바랍니다. [앵커] 투표용지 부족 사태로 촉발된 잠실 개표소 앞 시위가 2주 가까이 이어지고 있습니다. 시위 과정에서 발생한 불법 행위, 그리고 선관위의 선거 관리 부실 의혹 수사도 진행 중인데요. 계속되는 ...",
+        "source": "YTN",
+        "publishedAt": "2026-06-17",
+        "url": "https://www.ytn.co.kr/_ln/0103_202606171701273125",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.pBWS_zpVJfm9nUA2oD1n2A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "GH 주거복지센터, 12개 시·군 찾아가는 교육 14회 운영 본격화",
+        "summary": "경기주택도시공사(GH·사장 김용진)가 운영하는 경기도 주거복지센터가 오는 11월까지 도내 12개 시·군에서 '찾아가는 주거복지교육'을 14차례 운영한다. GH는 경기도 주거복지센터가 지난 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 주거복지교육을 진행했다고 27일 밝혔다. 이 교육은 주거복지 현장에서 주민 상담과 제도 안내를 ...",
+        "source": "전자신문 on MSN",
+        "publishedAt": "2026-06-27",
+        "url": "https://www.msn.com/ko-kr/news/other/gh-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-12%EA%B0%9C-%EC%8B%9C-%EA%B5%B0-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EA%B5%90%EC%9C%A1-14%ED%9A%8C-%EC%9A%B4%EC%98%81-%EB%B3%B8%EA%B2%A9%ED%99%94/ar-AA26GPWH",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.WQmM3JCQlGfHhx3PzARDJA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "GH 경기도 주거복지센터, 양주서 ‘찾아가는 주거복지교육’",
+        "summary": "경기주택도시공사(GH)가 운영 중인 경기도 주거복지센터는 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 ‘찾아가는 주거복지교육’을 진행했다고 밝혔다.강의는 공공임대주택 유형별 특성과 주요 주거복지제도 이론 및 실제 현장 사례 중심으로 ...",
+        "source": "Seoul Newspaper on MSN",
+        "publishedAt": "2026-06-24",
+        "url": "https://www.msn.com/ko-kr/news/other/gh-%EA%B2%BD%EA%B8%B0%EB%8F%84-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-%EC%96%91%EC%A3%BC%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EA%B5%90%EC%9C%A1/ar-AA26paV0",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.c1292f3cd77a134a00d284636cb62e0f&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "경기도, 11월까지 12개 시군에서 '찾아가는 주거복지 교육'",
+        "summary": "경기도가 도내 기초 주거복지센터 및 읍·면·동 주거복지 실무자의 현장 대응 역량을 강화하기 위해 오는 11월까지 남양주시 등 12개 시군에서 '2026년 찾아가는 주거복지 교육'을 실시한다. 이번 교육은 주거복지 ...",
+        "source": "Asia Economy on MSN",
+        "publishedAt": "2026-06-23",
+        "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EA%B8%B0%EB%8F%84-11%EC%9B%94%EA%B9%8C%EC%A7%80-12%EA%B0%9C-%EC%8B%9C%EA%B5%B0%EC%97%90%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80-%EA%B5%90%EC%9C%A1/ar-AA26ikAq",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.0d2fcdc4eb0d7eb74760df165c8ddfb6&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "인천시, 청년 주거 길잡이 나섰다…주거정책 상담 한자리 제공",
+        "summary": "인천시가 청년들의 주거 불안 해소와 정책 활용도를 높이기 위해 주거 분야 전문기관과 함께 맞춤형 상담 프로그램을 운영했다.인천시는 국토교통부와 공동으로 지난 18일 시청 대회의실에서 ‘2026년 찾아가는 청년주거 상담소’를 개최하고 청년들을 위한 다양한 주거정책 정보와 상담 서비스를 제공했다고 밝혔다.이번 행사는 주거비 부담 증가와 전세사기 피해 우려 등으 ...",
+        "source": "Newstown",
+        "publishedAt": "2026-06-19",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=706714",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.O_ZOC8U4xCcNgYJnpE7Lkg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "충북도, 첨단소재 특화형 인공지능 전환 플랫폼 구축 착수",
+        "summary": "충북도 제공 충청북도가 지역의 핵심 산업인 이차전지와 반도체, 바이오 분야의 첨단소재 개발을 위한 인공지능 전환(AX) 기반 구축에 본격 착수했다. 충북도는 29일 충북과학기술혁신원에서 '첨단소재 특화형 AX 플랫폼 구축과 실증 사업' 발대식을 개최했다고 밝혔다. 이번 발대식에는 도와 청주시, 충북과기원, ...",
+        "source": "NoCut News on MSN",
+        "publishedAt": "2026-06-29",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EC%B6%A9%EB%B6%81%EB%8F%84-%EC%B2%A8%EB%8B%A8%EC%86%8C%EC%9E%AC-%ED%8A%B9%ED%99%94%ED%98%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B5%AC%EC%B6%95-%EC%B0%A9%EC%88%98/ar-AA26M1GT",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.8do3HZzddkTxviC9AwY4rg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "인공지능(AI) 전력 수혜주는 누구…글로벌 ‘핵연료 독립’ 경쟁 시작됐다",
+        "summary": "인공지능(AI) 데이터센터발 전력 공급 부족을 해결할 대안으로 차세대 원전이 부상하자 글로벌 자본시장이 핵연료 공급망 다변화에 주목하고 있다. 러시아산 우라늄 의존을 탈피하려는 서방의 농축 인프라 내재화 움직임과 천연우라늄 중수로를 앞세운 캐나다의 역습이 맞물리며 원전 밸류체인 전반의 주가 재평가가 시작된 것이다.인공지능(AI) 시장 급성장으로 전력 수요가 ...",
+        "source": "글로벌이코노믹 on MSN",
+        "publishedAt": "2026-06-29",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5ai-%EC%A0%84%EB%A0%A5-%EC%88%98%ED%98%9C%EC%A3%BC%EB%8A%94-%EB%88%84%EA%B5%AC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%ED%95%B5%EC%97%B0%EB%A3%8C-%EB%8F%85%EB%A6%BD-%EA%B2%BD%EC%9F%81-%EC%8B%9C%EC%9E%91%EB%90%90%EB%8B%A4/ar-AA26Q8KF",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.hKD-Q0nbfRF-xA4YGbpmMg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "“청년 집단지성으로 풍력 난제 푼다”…동서발전, 풍력발전 인공지능 경진대회 워크숍 개최",
+        "summary": "한국동서발전이 풍력발전의 기술적 한계 극복에 나선다. 동서발전은 지난 26일 서울 강남 GS타워 아모리스홀에서 GS E&R, 태백가덕산풍력발전과 재생에너지 기술혁신을 위한 ‘제3회 풍력발전량 예측 인공지능 경진대회’ 사전 워크숍을 개최했다고 29일 밝혔다. 대학생과 청년 인재들의 창의적인 아이디어를 통해 풍력발전 예측기술의 실질적인 해법을 발굴하기 위해 열 ...",
+        "source": "매일경제",
+        "publishedAt": "2026-06-29",
+        "url": "https://www.mk.co.kr/news/business/12085627",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ICO8-i_ix7HNg6PjwBHYIA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI 로봇 점유율 20% 목표… 2030년 '피지컬 AI' 세계 1위로",
+        "summary": "정부가 물리적인 세계를 인식하고 이해하며 복잡한 행동을 수행할 수 있는 '실물 인공지능(피지컬 AI)' 분야에서 2030년까지 세계 1위로 도약하겠다는 야심찬 계획을 내놨다. 김정관 산업통상부 장관은 29일 청와대에서 열린 ...",
+        "source": "한국일보 on MSN",
+        "publishedAt": "2026-06-29",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/ai-%EB%A1%9C%EB%B4%87-%EC%A0%90%EC%9C%A0%EC%9C%A8-20-%EB%AA%A9%ED%91%9C-2030%EB%85%84-%ED%94%BC%EC%A7%80%EC%BB%AC-ai-%EC%84%B8%EA%B3%84-1%EC%9C%84%EB%A1%9C/ar-AA26OUDN",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.bYPMocDd_c-vE6IhHQ-cig&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "최태원 \"AI 데이터센터는 지능 생산공장\"… 10년간 1000조 쏟는다",
+        "summary": "정부가 29일 내놓은 3대 메가프로젝트의 한 축인 인공지능(AI) 데이터센터 구축을 위해 2035년까지 총 1000조원 넘는 자금이 투입된다. 이를 통해 2035년까지 총 18.4GW(기가와트) 규모의 AI 인프라를 갖추는 것이 목표다. AI 시대 국가 경쟁력을 좌우할 AI의 핵심 기반을 전국 주요 권역에 구축해 글로벌 AI 데이터센터 허브로 키우겠다는 전 ...",
+        "source": "매일경제",
+        "publishedAt": "2026-06-29",
+        "url": "https://www.mk.co.kr/news/business/12085867",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.QMZTDo0C4yHhDw0u8_nruA&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-06-29",
     "windowStart": "2026-06-27T22:00:00.000Z",
     "windowEnd": "2026-06-28T22:00:00.000Z",
@@ -533,94 +630,6 @@
         "publishedAt": "2026-06-23",
         "url": "https://www.msn.com/ko-kr/news/other/ai-%EB%B0%96%EC%9C%BC%EB%A1%9C-%EB%82%98%EC%98%A8-%EB%AF%B8%EB%9E%98%EA%B8%B0%EC%88%A0-%EC%A0%84%EB%A0%A5%EB%A7%9D-%EB%B0%94%EC%9D%B4%EC%98%A4-%EC%96%91%EC%9E%90%EB%B3%B4%EC%95%88%EC%9D%B4-%EC%82%B0%EC%97%85-%ED%8C%90-%EB%B0%94%EA%BE%BC%EB%8B%A4/ar-AA26kY8V",
         "imageUrl": "https://www.bing.com/th?id=ONUT.DZkDS36FEs8YkdtV-9e7pg&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-06-23",
-    "windowStart": "2026-06-21T22:00:00.000Z",
-    "windowEnd": "2026-06-22T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "88억 포기하고 쓴소리 들었다… 스타벅스, 조기 영업 종료한 그 날 [쓸만한 이슈]",
-        "summary": "[파이낸셜뉴스] 22일 오후 3시. 전국의 스타벅스 매장에 있던 손님들은 직원들의 안내에 따라 하나, 둘 매장을 빠져나왔다. 이어 조명이 꺼지고 블라인드가 내려갔다. 문도 닫혔다. 손님이 떠나고 순식간에 조용해진 매장 안에서 직원들은 본사에서 지급한 27인치 모니터 앞에 앉았다. 그리고 3시간에 걸쳐 교육 영상을 시청했다. 스타벅스코리아가 이날 전국 216 ...",
-        "source": "파이낸셜뉴스 on MSN",
-        "publishedAt": "2026-06-22",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/88%EC%96%B5-%ED%8F%AC%EA%B8%B0%ED%95%98%EA%B3%A0-%EC%93%B4%EC%86%8C%EB%A6%AC-%EB%93%A4%EC%97%88%EB%8B%A4-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%A1%B0%EA%B8%B0-%EC%98%81%EC%97%85-%EC%A2%85%EB%A3%8C%ED%95%9C-%EA%B7%B8-%EB%82%A0-%EC%93%B8%EB%A7%8C%ED%95%9C-%EC%9D%B4%EC%8A%88/ar-AA26i2Xy",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.IlbcGVlzB20XrwNAawVSzA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[복지뉴스] \"몰라서 생기는 부정수급 막는다\"…한국사회보장정보원 대구경북지역센터, 부정수급 예방교육 정례화 外",
-        "summary": "【베이비뉴스 최규삼 기자】아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 정책과 아동·가족 복지 제도, 취약계층 지원 사업 등 다양한 소식 가운 ...",
-        "source": "베이비뉴스 on MSN",
-        "publishedAt": "2026-06-22",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-%EB%AA%B0%EB%9D%BC%EC%84%9C-%EC%83%9D%EA%B8%B0%EB%8A%94-%EB%B6%80%EC%A0%95%EC%88%98%EA%B8%89-%EB%A7%89%EB%8A%94%EB%8B%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EB%8C%80%EA%B5%AC%EA%B2%BD%EB%B6%81%EC%A7%80%EC%97%AD%EC%84%BC%ED%84%B0-%EB%B6%80%EC%A0%95%EC%88%98%EA%B8%89-%EC%98%88%EB%B0%A9%EA%B5%90%EC%9C%A1-%EC%A0%95%EB%A1%80%ED%99%94-%E5%A4%96/ar-AA26d400",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.hZNvXLnsbkkMGpStZ66gPw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈&경제] 기업의 ‘역사 감수성’ 부재가 던진 질문",
-        "summary": "최근 신세계그룹 계열에서 운영하는 스타벅스코리아의 ‘5·18 마케팅’ 논란은 단순한 홍보 실수 이상의 함의를 갖는다. 이번 사건은 네 명의 젊은 여성 직원이 기획안을 작성하고 내부 검토 과정에서 상급자의 결재와 내용 점검이 충분히 이뤄지지 않은 채 대외 홍보로 이어지면 ...",
-        "source": "Kyeonggi Ilbo",
-        "publishedAt": "2026-06-14",
-        "url": "https://www.kyeonggi.com/article/20260614580391",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.EPnkHm5nhvH6bhpCELOFKQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "'투표용지 부족' 후폭풍…정치권 넘어 '사회적 이슈' 확대",
-        "summary": "제9회 전국동시지방선거·국회의원 재보궐선거 과정에서 불거진 '투표용지 부족' 사태의 후폭풍이 만만치 않다.특히 충청권 등 전국 대학가에선 선거 이후 연일 중앙선거관리위원회를 규탄하는 시국선언이 잇따르고 2030세대를 중심으로 한 '참정권 운동'으로 확산하면서, 사회적 메가 이슈로 부상하는 양상이다.정치권에선 '부정선거'와 '음모론' 등의 혼돈 속에 향후 추 ...",
-        "source": "MSN on MSN",
-        "publishedAt": "2026-06-10",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%88%AC%ED%91%9C%EC%9A%A9%EC%A7%80-%EB%B6%80%EC%A1%B1-%ED%9B%84%ED%8F%AD%ED%92%8D-%EC%A0%95%EC%B9%98%EA%B6%8C-%EB%84%98%EC%96%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%9D%B4%EC%8A%88-%ED%99%95%EB%8C%80/ar-AA25hDJy",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.gyNtAqBMXC0gPdxeohAt5A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "돈보다 사회 일원으로…발달장애인 86% “계속 일하고 싶다”",
-        "summary": "【투데이신문 박효령 기자】발달장애인 취업자들의 월평균 임금이 최저임금 월 환산액의 절반 수준에 머무는 것으로 조사됐다. 낮은 임금과 제한된 직업 선택지에도 불구하고 대다수 발달장애인은 현재 직장에 계속 다니길 원했으며 취업 여부가 삶의 만족도에도 큰 영향을 미치는 것으로 나타나 단순한 일자리 확대를 넘어 안정적인 고용과 맞춤형 지원이 필요하다는 지적이 나온 ...",
-        "source": "Today Newspaper",
-        "publishedAt": "2026-06-11",
-        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127574",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.iu-Fd6iypkS5PrCMqqIU_A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "충남교육청, '안전한 인공지능 활용' 위한 안내서 개발·보급",
-        "summary": "'생성형 인공지능 활용 안내서' 표지. 충남교육청 제공 충남교육청(교육감 김지철)이 학생 대상 '생성형 인공지능 활용 안내서'를 개발해 학교 현장에 보급한다. 단순 활용법 안내가 아닌, '안전한 활용'에 방점을 둔 것이 특징이다. 22일 충남교육청에 따르면, 이번 안내서는 학생들이 생성형 인공지능을 스스로 조절하며 책임 ...",
-        "source": "노컷뉴스 on MSN",
-        "publishedAt": "2026-06-22",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%B6%A9%EB%82%A8%EA%B5%90%EC%9C%A1%EC%B2%AD-%EC%95%88%EC%A0%84%ED%95%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%99%9C%EC%9A%A9-%EC%9C%84%ED%95%9C-%EC%95%88%EB%82%B4%EC%84%9C-%EA%B0%9C%EB%B0%9C-%EB%B3%B4%EA%B8%89/ar-AA26fEzY",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.dgZB8PkialtVwBftO__dcQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "계명대·연세대 의대, 신장질환 진단 인공지능 개발…국제 최상위 학술지 게재",
-        "summary": "[대구=이데일리 홍석천 기자] 계명대와 연세대 의대 공동연구팀이 전문의들의 진료 판단을 인공지능(AI)에 반영한 신장질환 진단 지원 기술을 개발해 국제 학계의 주목을 받고 있다. 계명대는 통계학과 손낙훈 교수와 연세대 의과대학 신장내과 연구팀이 공동 수행한 연구 결과가 디지털 헬스케어 분야 국제학술지인 ‘npj 디지털 메디신’에 게재됐다고 22일 밝혔다.",
-        "source": "이데일리 on MSN",
-        "publishedAt": "2026-06-22",
-        "url": "https://www.msn.com/ko-kr/news/other/%EA%B3%84%EB%AA%85%EB%8C%80-%EC%97%B0%EC%84%B8%EB%8C%80-%EC%9D%98%EB%8C%80-%EC%8B%A0%EC%9E%A5%EC%A7%88%ED%99%98-%EC%A7%84%EB%8B%A8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B0%9C%EB%B0%9C-%EA%B5%AD%EC%A0%9C-%EC%B5%9C%EC%83%81%EC%9C%84-%ED%95%99%EC%88%A0%EC%A7%80-%EA%B2%8C%EC%9E%AC/ar-AA26fHcX",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.hv9cP_HcfDQhcgVzR8D_OA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "IPO 앞둔 AI 양강, 구글 인재 블랙홀",
-        "summary": "(제3의 디지털혁명 이끄는 AI) 오픈AI와 앤트로픽이 구글 주요 연구 인재를 영입하며 AI 인재 전쟁이 심화되고 있다. 존 점퍼와 노엄 샤지어 이직으로 생성형 AI, 트랜스포머 등 첨단 인공지능 기술 경쟁이 가속화된다. | ...",
-        "source": "Hankook Ilbo",
-        "publishedAt": "2026-06-22",
-        "url": "https://www.hankookilbo.com/news/article/A2026062209240003035",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.t8ym0SmVwJNXUF9IvMXNrA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "SK, 초대형 AI 데이터센터 전국 5곳에 구축",
-        "summary": "25년만의 새 대장株 290만닉스` SK하이닉스가 코스피 시가총액 1위 기업으로 올라선 22일 오후, 서울 중구 하나은행 딜링룸 전광판에 주가가 표시되고 있다. 이날 SK하이닉스는 인공지능 (AI) 반도체 수요 폭발에 힘입어 전 거래일 대비 5.61%인 15만5000원 급등한 291만9000원에 장을 마쳤다. 삼성전자는 1999년 7월 29일 처음으로 국내 ...",
-        "source": "Maeil Business Newspaper",
-        "publishedAt": "2026-06-22",
-        "url": "https://www.mk.co.kr/esg/news/view/2026/399479/",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Haq5sGtPJFSgUERSWKOLJA&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
