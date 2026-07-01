@@ -1,5 +1,84 @@
 [
   {
+    "updatedAt": "2026-07-02",
+    "windowStart": "2026-06-30T22:00:00.000Z",
+    "windowEnd": "2026-07-01T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "빗썸, ‘빗썸나눔’으로 사회공헌 생태계 확대",
+        "summary": "빗썸의 사회공헌 브랜드 빗썸나눔이 임직원 중심의 봉사활동을 넘어 시민과 지역사회가 함께하는 참여형 사회공헌 플랫폼으로 확장되고 있다. 빗썸나눔은 ‘작은 나눔이 모여 큰 변화를 만든다’는 슬로건 아래 임직원이 직접 기획하고 참여하는 봉사활동을 비롯해 지역사회 지원과 재난 및 재해 긴급 지원 등을 이어가고 있다. 빗썸나눔 사회공헌 활동의 가장 큰 특징은 임직원 ...",
+        "source": "경향게임스",
+        "publishedAt": "2026-07-01",
+        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305939",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.aNVBt6pL_EspqOeqDpunVw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈ON] 출입문 막은 '최후 1인', 업무 방해로 수사",
+        "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스ON] 명시해주시기 바랍니다. [앵커] 투표용지 부족 사태로 촉발된 잠실 개표소 앞 시위가 2주 가까이 이어지고 있습니다. 시위 과정에서 발생한 불법 행위, 그리고 선관위의 선거 관리 부실 의혹 수사도 진행 중인데요. 계속되는 ...",
+        "source": "YTN",
+        "publishedAt": "2026-06-17",
+        "url": "https://www.ytn.co.kr/_ln/0103_202606171701273125",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.pBWS_zpVJfm9nUA2oD1n2A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "한국공인노무사회 창립 40주년 기념식 개최, 혁신 비전 밝혀",
+        "summary": "한국공인노무사회(회장 이완영)는 7월 1일 오후 3시 서울 여의도 글래드호텔에서 ‘공인노무사회 창립 40주년 기념식’을 개최한다. 이날 기념식에서는 지난 40년간의 성과를 되돌아보고, 급변하는 노동시장 환경과 플랫폼 노동자의 확산, AI 기술혁신 시대에 걸맞은 공인노무사의 새로운 역할을 위해 미래 비전을 제시한다. 특히 신뢰받는 공인노무사회, 인정받는 노무 ...",
+        "source": "매일경제",
+        "publishedAt": "2026-06-30",
+        "url": "https://www.mk.co.kr/news/business/12086680",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.xnEZ_y1a825gkQWOyT1xQg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "국내서 개발한, 동물 언어 이해하는 인공지능… \"읽고 의미까지 해석\"",
+        "summary": "카이스트 연구팀의 ‘비헤이버트’ ...",
+        "source": "한겨레 on MSN",
+        "publishedAt": "2026-07-01",
+        "url": "https://www.msn.com/ko-kr/news/techandscience/%EA%B5%AD%EB%82%B4%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%9C-%EB%8F%99%EB%AC%BC-%EC%96%B8%EC%96%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9D%BD%EA%B3%A0-%EC%9D%98%EB%AF%B8%EA%B9%8C%EC%A7%80-%ED%95%B4%EC%84%9D/ar-AA26XjGr",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Jj7zxnNYgh3iB0BllsTFoA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "LGU+, 고객 데이터 기반한 개인화 인공지능 기술 개발",
+        "summary": "LG유플러스가 고객 데이터를 기반으로 한 차세대 개인화 인공지능(AI) 기술 ‘퍼스널 인텔리전스’를 개발했다. 고객의 통신 이용 이력과 행동 패턴을 AI가 분석해 맞춤형 서비스를 제공하는 기술이다. 퍼스널 인텔리전스는 통화 요약, 앱·웹 이용 기록, 위치 기반 패턴 등 각종 데이터를 통합 분석한다고 회사 측은 밝혔다.",
+        "source": "조선일보 on MSN",
+        "publishedAt": "2026-07-01",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/lgu-%EA%B3%A0%EA%B0%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B8%B0%EB%B0%98%ED%95%9C-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B8%B0%EC%88%A0-%EA%B0%9C%EB%B0%9C/ar-AA26ZyMn",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.puEnfVrVqx2urMilCJtj6w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "“기술로 세상을 바꾼다”…AI·펨테크 앞세운 여성기업, 미래산업 주역으로",
+        "summary": "여성기업의 기술력과 미래 비전을 한자리에서 확인하는 '제5회 여성기업주간'이 막을 올렸다. 인공지능(AI), 펨테크, 콘텐츠 등 신산업을 이끄는 여성 창업가들이 혁신 사례를 공유하며 여성기업이 미래 성장의 한 축으로 자리매김하고 있음을 확인시켰다. 중소벤처기업부와 한국여성경제인협회는 1일 서울 신라호텔 다이너스티홀에서 '기술로 성장하고, 감성으로 연결하는 ...",
+        "source": "전자신문 on MSN",
+        "publishedAt": "2026-07-01",
+        "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%B0%EC%88%A0%EB%A1%9C-%EC%84%B8%EC%83%81%EC%9D%84-%EB%B0%94%EA%BE%BC%EB%8B%A4-ai-%ED%8E%A8%ED%85%8C%ED%81%AC-%EC%95%9E%EC%84%B8%EC%9A%B4-%EC%97%AC%EC%84%B1%EA%B8%B0%EC%97%85-%EB%AF%B8%EB%9E%98%EC%82%B0%EC%97%85-%EC%A3%BC%EC%97%AD%EC%9C%BC%EB%A1%9C/ar-AA26XKUI",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.JF8NcB0_1Q-kRFD9M-bhsw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "KRG, ‘2026 대한민국 인공지능 산업 백서’ 발간",
+        "summary": "기사의 본문 내용은 이 글자크기로 변경됩니다. KRG ‘2026 대한민국 인공지능 산업 백서’ [디지털경제뉴스 박시현 기자] 날리지리서치그룹(KRG)이 생성형 AI 이후 급변하는 국내외 AI 산업의 변화와 시장 전망, 산업별 활용 전략을 종합적으로 분석한 ‘2026 대한민국 인공지능(AI) 산업 백서’를 발간했다. 이번 백서는 AI 기술의 발전 방향을 넘어 ...",
+        "source": "디지털경제뉴스",
+        "publishedAt": "2026-07-01",
+        "url": "https://www.denews.co.kr/news/articleView.html?idxno=41635",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.oxMZIdd9Z8D4znd9n61FEw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI 에이전트부터 데이터센터까지…KRG, 'AI 산업 백서' 발간",
+        "summary": "[서울=뉴시스]윤정민 기자 = 국내외 인공지능(AI) 산업 흐름과 시장 전망을 종합 분석한 백서가 나왔다. 생성형 AI 이후 부상한 AI 에이전트, 피지컬 AI, 전사적 AI 전환(AX) 등 최신 흐름을 산업 관점에서 정리했다.날리지리서치그룹(KRG)은 '2026 대한민국 인공지능 산업 백서'를 발간했다고 1일 밝혔다.이번 백서는 생성형 AI 확산 이후 나 ...",
+        "source": "뉴시스",
+        "publishedAt": "2026-07-01",
+        "url": "https://www.newsis.com/view/NISX20260701_0003691896",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.1oUSLscSUnFA5oeVwyteag&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-07-01",
     "windowStart": "2026-06-29T22:00:00.000Z",
     "windowEnd": "2026-06-30T22:00:00.000Z",
@@ -542,94 +621,6 @@
         "publishedAt": "2026-06-26",
         "url": "https://www.msn.com/ko-kr/money/topstories/gs-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%8A%B9%EB%B6%80%EC%88%98-%EB%8B%B9%EC%A7%84-%EB%8F%99%ED%95%B4-12gw-%EA%B5%AC%EC%B6%95-%EA%B2%80%ED%86%A0/ar-AA26yW6A",
         "imageUrl": "https://www.bing.com/th?id=ORMS.21eb8fe3f4e0f3507707c3b2fdd9b6b3&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-06-25",
-    "windowStart": "2026-06-23T22:00:00.000Z",
-    "windowEnd": "2026-06-24T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "GH 경기도 주거복지센터, 양주서 ‘찾아가는 주거복지교육’",
-        "summary": "경기주택도시공사(GH)가 운영 중인 경기도 주거복지센터는 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 ‘찾아가는 주거복지교육’을 진행했다고 밝혔다.강의는 공공임대주택 유형별 특성과 주요 주거복지제도 이론 및 실제 현장 사례 중심으로 ...",
-        "source": "Seoul Newspaper on MSN",
-        "publishedAt": "2026-06-24",
-        "url": "https://www.msn.com/ko-kr/news/other/gh-%EA%B2%BD%EA%B8%B0%EB%8F%84-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-%EC%96%91%EC%A3%BC%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EA%B5%90%EC%9C%A1/ar-AA26paV0",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.c1292f3cd77a134a00d284636cb62e0f&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈&경제] 기업의 ‘역사 감수성’ 부재가 던진 질문",
-        "summary": "최근 신세계그룹 계열에서 운영하는 스타벅스코리아의 ‘5·18 마케팅’ 논란은 단순한 홍보 실수 이상의 함의를 갖는다. 이번 사건은 네 명의 젊은 여성 직원이 기획안을 작성하고 내부 검토 과정에서 상급자의 결재와 내용 점검이 충분히 이뤄지지 않은 채 대외 홍보로 이어지면 ...",
-        "source": "Kyeonggi Ilbo",
-        "publishedAt": "2026-06-14",
-        "url": "https://www.kyeonggi.com/article/20260614580391",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.EPnkHm5nhvH6bhpCELOFKQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "'투표용지 부족' 후폭풍…정치권 넘어 '사회적 이슈' 확대",
-        "summary": "제9회 전국동시지방선거·국회의원 재보궐선거 과정에서 불거진 '투표용지 부족' 사태의 후폭풍이 만만치 않다.특히 충청권 등 전국 대학가에선 선거 이후 연일 중앙선거관리위원회를 규탄하는 시국선언이 잇따르고 2030세대를 중심으로 한 '참정권 운동'으로 확산하면서, 사회적 메가 이슈로 부상하는 양상이다.정치권에선 '부정선거'와 '음모론' 등의 혼돈 속에 향후 추 ...",
-        "source": "MSN on MSN",
-        "publishedAt": "2026-06-10",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%88%AC%ED%91%9C%EC%9A%A9%EC%A7%80-%EB%B6%80%EC%A1%B1-%ED%9B%84%ED%8F%AD%ED%92%8D-%EC%A0%95%EC%B9%98%EA%B6%8C-%EB%84%98%EC%96%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%9D%B4%EC%8A%88-%ED%99%95%EB%8C%80/ar-AA25hDJy",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.gyNtAqBMXC0gPdxeohAt5A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "광주·전남 지역 교계, '교회와 시대 이슈 아카데미' 개최한다",
-        "summary": "광주·전남 지역 교계가 차별금지법과 젠더, 페미니즘 등 급변하는 사회문화적 이슈를 성경적 관점에서 조명하고 교회의 역할을 모색하는 자리를 마련한다. 차별금지법제정반대전국연합은 27일 오후 3시30분 광주 남구 광주겨자씨교회에서 ‘2026 교회와 시대 이슈 아카데미’를 개최한다고 22일 밝혔다.아카데미는 한국교회가 직면한 다양한 사회적·문화적 변화 속에서 성 ...",
-        "source": "국민일보 on MSN",
-        "publishedAt": "2026-06-22",
-        "url": "https://www.msn.com/ko-kr/news/news/%EA%B4%91%EC%A3%BC-%EC%A0%84%EB%82%A8-%EC%A7%80%EC%97%AD-%EA%B5%90%EA%B3%84-%EA%B5%90%ED%9A%8C%EC%99%80-%EC%8B%9C%EB%8C%80-%EC%9D%B4%EC%8A%88-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8-%EA%B0%9C%EC%B5%9C%ED%95%9C%EB%8B%A4/ar-AA26dt7i",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.YqfvaKmegsmf-gtDwo4Rgw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "\"88억 포기하고 쓴소리 들었다\"…스타벅스, 조기 영업 종료한 '그 날' [쓸만한 이슈]",
-        "summary": "[파이낸셜뉴스] 22일 오후 3시. 전국의 스타벅스 매장에 있던 손님들은 직원들의 안내에 따라 하나, 둘 매장을 빠져나왔다. 이어 조명이 꺼지고 블라인드가 내려갔다. 문도 닫혔다. 손님이 떠나고 순식간에 조용해진 매장 안에서 직원들은 본사에서 지급한 27인치 모니터 앞에 앉았다. 그리고 3시간에 걸쳐 교육 영상을 시청했다. 스타벅스코리아가 이날 전국 216 ...",
-        "source": "파이낸셜뉴스 on MSN",
-        "publishedAt": "2026-06-22",
-        "url": "https://www.msn.com/ko-kr/news/other/88%EC%96%B5-%ED%8F%AC%EA%B8%B0%ED%95%98%EA%B3%A0-%EC%93%B4%EC%86%8C%EB%A6%AC-%EB%93%A4%EC%97%88%EB%8B%A4-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%A1%B0%EA%B8%B0-%EC%98%81%EC%97%85-%EC%A2%85%EB%A3%8C%ED%95%9C-%EA%B7%B8-%EB%82%A0-%EC%93%B8%EB%A7%8C%ED%95%9C-%EC%9D%B4%EC%8A%88/ar-AA26i2Xy",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.dc2f062c6c8cb49c49cf70c4b765caf9&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "“AI가 업무 바꿔도 시작과 끝은 결국 인간의 몫”",
-        "summary": "제5회 사람과디지털포럼 ‘AI 시대, 일과 학습의 미래’ ...",
-        "source": "한겨레 on MSN",
-        "publishedAt": "2026-06-24",
-        "url": "https://www.msn.com/ko-kr/news/national/ai%EA%B0%80-%EC%97%85%EB%AC%B4-%EB%B0%94%EA%BF%94%EB%8F%84-%EC%8B%9C%EC%9E%91%EA%B3%BC-%EB%81%9D%EC%9D%80-%EA%B2%B0%EA%B5%AD-%EC%9D%B8%EA%B0%84%EC%9D%98-%EB%AA%AB/ar-AA26pUT8",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.S8e1OyTp5Oyn3BmHG_OPNw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "AI시대 일과 학습의 미래는 인간의 선택이 결정한다",
-        "summary": "인공지능(AI)이란 압도적인 기술 앞에서 사람은 어떻게 일하고 무엇을 익혀야 하는가. 미래의 불안과 혼란을 걷어낼 수 있는 답은 ‘인간의 선택’이었다. ‘일과 학습의 미래’를 주제로 열린 제5회 사람과디지털포럼에서 연단에 오른 전문가들의 진단은 일치했다. 24일 서울 ...",
-        "source": "The Hankyoreh",
-        "publishedAt": "2026-06-24",
-        "url": "https://www.hani.co.kr/arti/economy/it/1265120.html",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.5fSeKPRKZG9qZqgXR0ouqw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "김형철 NIA 원장, 인공지능소프트웨어산업協 방문…전방위적 협력 다짐",
-        "summary": "김형철 한국지능정보사회진흥원(NIA) 원장(왼쪽 세번째)과 조준희 한국인공지능·소프트웨어산업협회(KOSA) 회장(왼쪽 네번째) 등 참석자들이 23일 서울 가락동 KOSA에서 단체 기념 촬영을 하고 있다.ⓒ한국지능정보사회진흥원 제공[데일리한국 정백현 기자] 김형철 한국지능정보사회진흥원(NIA) 원장이 취임 후 첫 산업 현장 방문지로 한국인공지능·소프트웨어산업 ...",
-        "source": "데일리한국 on MSN",
-        "publishedAt": "2026-06-24",
-        "url": "https://www.msn.com/ko-kr/news/other/%EA%B9%80%ED%98%95%EC%B2%A0-nia-%EC%9B%90%EC%9E%A5-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%82%B0%EC%97%85%E5%8D%94-%EB%B0%A9%EB%AC%B8-%EC%A0%84%EB%B0%A9%EC%9C%84%EC%A0%81-%ED%98%91%EB%A0%A5-%EB%8B%A4%EC%A7%90/ar-AA26pMLs",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.sUTkNCCe57VrwkzAhrAAGA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "국토부, AI 기반 건설로봇·도로안전 기술 26개 과제 선정",
-        "summary": "[이데일리 김은경 기자] 국토교통부는 인공지능(AI) 기술이 적용된 국토교통 분야 제품·서비스 26개를 ‘AI 응용제품 신속 상용화 지원사업(AX-Sprint)’ 대상으로 최종 선정하고 본격적인 사업 추진에 착수했다고 25일 밝혔다. 정부세종청사 국토교통부.(사진=뉴시스) 해당 사업은 정부가 올해 처음 추진하는 사업으로 단기간(1~2년) 내 시장 출시가 가 ...",
-        "source": "이데일리 on MSN",
-        "publishedAt": "2026-06-24",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B5%AD%ED%86%A0%EB%B6%80-ai-%EA%B8%B0%EB%B0%98-%EA%B1%B4%EC%84%A4%EB%A1%9C%EB%B4%87-%EB%8F%84%EB%A1%9C%EC%95%88%EC%A0%84-%EA%B8%B0%EC%88%A0-26%EA%B0%9C-%EA%B3%BC%EC%A0%9C-%EC%84%A0%EC%A0%95/ar-AA26spXQ",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.gqp_ayfnyT8axUx6x5em9w&pid=News&w=1200&h=675&c=14"
       }
     ]
   }

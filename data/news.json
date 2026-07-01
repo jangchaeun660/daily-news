@@ -1,25 +1,16 @@
 {
-  "updatedAt": "2026-07-01",
-  "windowStart": "2026-06-29T22:00:00.000Z",
-  "windowEnd": "2026-06-30T22:00:00.000Z",
+  "updatedAt": "2026-07-02",
+  "windowStart": "2026-06-30T22:00:00.000Z",
+  "windowEnd": "2026-07-01T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "한국공인노무사회 창립 40주년 기념식 개최, 혁신 비전 밝혀",
-      "summary": "한국공인노무사회(회장 이완영)는 7월 1일 오후 3시 서울 여의도 글래드호텔에서 ‘공인노무사회 창립 40주년 기념식’을 개최한다. 이날 기념식에서는 지난 40년간의 성과를 되돌아보고, 급변하는 노동시장 환경과 플랫폼 노동자의 확산, AI 기술혁신 시대에 걸맞은 공인노무사의 새로운 역할을 위해 미래 비전을 제시한다. 특히 신뢰받는 공인노무사회, 인정받는 노무 ...",
-      "source": "매일경제",
-      "publishedAt": "2026-06-30",
-      "url": "https://www.mk.co.kr/news/business/12086680",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.xnEZ_y1a825gkQWOyT1xQg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[박준규의 이슈언박싱] 일본은 마운자로 싸게 풀고도 \"함부로 맞지 마라\"…한국과 정반대, 왜",
-      "summary": "비만치료제 마운자로(성분명 티르제파타이드)를 두고 '김치자로'라는 씁쓸한 별명이 돕니다. 같은 약인데 한국에서 산 것이 일본에서 산 것보다 몇 배나 비싸다는 뜻에서, 국내 구매분을 '김치자로', 일본 구매분을 '일본자로'라고 부르는 은어까지 생겼습니다. 가격 차이가 크다는 이야기는 이 ...",
-      "source": "펜앤드마이크",
-      "publishedAt": "2026-06-28",
-      "url": "https://www.pennmike.com/news/articleView.html?idxno=122830",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.-7hd52yBS3DvP6K1OIAakw&pid=News&w=1200&h=675&c=14"
+      "title": "빗썸, ‘빗썸나눔’으로 사회공헌 생태계 확대",
+      "summary": "빗썸의 사회공헌 브랜드 빗썸나눔이 임직원 중심의 봉사활동을 넘어 시민과 지역사회가 함께하는 참여형 사회공헌 플랫폼으로 확장되고 있다. 빗썸나눔은 ‘작은 나눔이 모여 큰 변화를 만든다’는 슬로건 아래 임직원이 직접 기획하고 참여하는 봉사활동을 비롯해 지역사회 지원과 재난 및 재해 긴급 지원 등을 이어가고 있다. 빗썸나눔 사회공헌 활동의 가장 큰 특징은 임직원 ...",
+      "source": "경향게임스",
+      "publishedAt": "2026-07-01",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305939",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.aNVBt6pL_EspqOeqDpunVw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -32,66 +23,57 @@
     },
     {
       "category": "society",
-      "title": "GH 주거복지센터, 12개 시·군 찾아가는 교육 14회 운영 본격화",
-      "summary": "경기주택도시공사(GH·사장 김용진)가 운영하는 경기도 주거복지센터가 오는 11월까지 도내 12개 시·군에서 '찾아가는 주거복지교육'을 14차례 운영한다. GH는 경기도 주거복지센터가 지난 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 주거복지교육을 진행했다고 27일 밝혔다. 이 교육은 주거복지 현장에서 주민 상담과 제도 안내를 ...",
+      "title": "한국공인노무사회 창립 40주년 기념식 개최, 혁신 비전 밝혀",
+      "summary": "한국공인노무사회(회장 이완영)는 7월 1일 오후 3시 서울 여의도 글래드호텔에서 ‘공인노무사회 창립 40주년 기념식’을 개최한다. 이날 기념식에서는 지난 40년간의 성과를 되돌아보고, 급변하는 노동시장 환경과 플랫폼 노동자의 확산, AI 기술혁신 시대에 걸맞은 공인노무사의 새로운 역할을 위해 미래 비전을 제시한다. 특히 신뢰받는 공인노무사회, 인정받는 노무 ...",
+      "source": "매일경제",
+      "publishedAt": "2026-06-30",
+      "url": "https://www.mk.co.kr/news/business/12086680",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.xnEZ_y1a825gkQWOyT1xQg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "국내서 개발한, 동물 언어 이해하는 인공지능… \"읽고 의미까지 해석\"",
+      "summary": "카이스트 연구팀의 ‘비헤이버트’ ...",
+      "source": "한겨레 on MSN",
+      "publishedAt": "2026-07-01",
+      "url": "https://www.msn.com/ko-kr/news/techandscience/%EA%B5%AD%EB%82%B4%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%9C-%EB%8F%99%EB%AC%BC-%EC%96%B8%EC%96%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9D%BD%EA%B3%A0-%EC%9D%98%EB%AF%B8%EA%B9%8C%EC%A7%80-%ED%95%B4%EC%84%9D/ar-AA26XjGr",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Jj7zxnNYgh3iB0BllsTFoA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "LGU+, 고객 데이터 기반한 개인화 인공지능 기술 개발",
+      "summary": "LG유플러스가 고객 데이터를 기반으로 한 차세대 개인화 인공지능(AI) 기술 ‘퍼스널 인텔리전스’를 개발했다. 고객의 통신 이용 이력과 행동 패턴을 AI가 분석해 맞춤형 서비스를 제공하는 기술이다. 퍼스널 인텔리전스는 통화 요약, 앱·웹 이용 기록, 위치 기반 패턴 등 각종 데이터를 통합 분석한다고 회사 측은 밝혔다.",
+      "source": "조선일보 on MSN",
+      "publishedAt": "2026-07-01",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/lgu-%EA%B3%A0%EA%B0%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B8%B0%EB%B0%98%ED%95%9C-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B8%B0%EC%88%A0-%EA%B0%9C%EB%B0%9C/ar-AA26ZyMn",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.puEnfVrVqx2urMilCJtj6w&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "“기술로 세상을 바꾼다”…AI·펨테크 앞세운 여성기업, 미래산업 주역으로",
+      "summary": "여성기업의 기술력과 미래 비전을 한자리에서 확인하는 '제5회 여성기업주간'이 막을 올렸다. 인공지능(AI), 펨테크, 콘텐츠 등 신산업을 이끄는 여성 창업가들이 혁신 사례를 공유하며 여성기업이 미래 성장의 한 축으로 자리매김하고 있음을 확인시켰다. 중소벤처기업부와 한국여성경제인협회는 1일 서울 신라호텔 다이너스티홀에서 '기술로 성장하고, 감성으로 연결하는 ...",
       "source": "전자신문 on MSN",
-      "publishedAt": "2026-06-27",
-      "url": "https://www.msn.com/ko-kr/news/other/gh-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-12%EA%B0%9C-%EC%8B%9C-%EA%B5%B0-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EA%B5%90%EC%9C%A1-14%ED%9A%8C-%EC%9A%B4%EC%98%81-%EB%B3%B8%EA%B2%A9%ED%99%94/ar-AA26GPWH",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.WQmM3JCQlGfHhx3PzARDJA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "경기도, 11월까지 12개 시군에서 '찾아가는 주거복지 교육'",
-      "summary": "경기도가 도내 기초 주거복지센터 및 읍·면·동 주거복지 실무자의 현장 대응 역량을 강화하기 위해 오는 11월까지 남양주시 등 12개 시군에서 '2026년 찾아가는 주거복지 교육'을 실시한다. 이번 교육은 주거복지 ...",
-      "source": "Asia Economy on MSN",
-      "publishedAt": "2026-06-23",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EA%B8%B0%EB%8F%84-11%EC%9B%94%EA%B9%8C%EC%A7%80-12%EA%B0%9C-%EC%8B%9C%EA%B5%B0%EC%97%90%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80-%EA%B5%90%EC%9C%A1/ar-AA26ikAq",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.0d2fcdc4eb0d7eb74760df165c8ddfb6&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-07-01",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%B0%EC%88%A0%EB%A1%9C-%EC%84%B8%EC%83%81%EC%9D%84-%EB%B0%94%EA%BE%BC%EB%8B%A4-ai-%ED%8E%A8%ED%85%8C%ED%81%AC-%EC%95%9E%EC%84%B8%EC%9A%B4-%EC%97%AC%EC%84%B1%EA%B8%B0%EC%97%85-%EB%AF%B8%EB%9E%98%EC%82%B0%EC%97%85-%EC%A3%BC%EC%97%AD%EC%9C%BC%EB%A1%9C/ar-AA26XKUI",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.JF8NcB0_1Q-kRFD9M-bhsw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "AI기본법 첫 정책 거점 떴다…NIA 인공지능정책센터 출범",
-      "summary": "[이데일리 신영빈 기자] 인공지능(AI) 기본법 시행 이후 국가 AI 정책을 뒷받침할 전담 정책 거점이 문을 열었다. 정부가 ‘AI G3’ 도약을 국정과제로 내세운 가운데, 기술 개발과 인프라 투자뿐 아니라 정책·법제도와 현장을 연결하는 실행 체계를 갖추는 데 속도를 내는 모습이다. 과학기술정보통신부와 한국지능정보사회진흥원(NIA)은 30일 서울 중구 NI ...",
-      "source": "이데일리 on MSN",
-      "publishedAt": "2026-06-30",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/ai%EA%B8%B0%EB%B3%B8%EB%B2%95-%EC%B2%AB-%EC%A0%95%EC%B1%85-%EA%B1%B0%EC%A0%90-%EB%96%B4%EB%8B%A4-nia-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%A0%95%EC%B1%85%EC%84%BC%ED%84%B0-%EC%B6%9C%EB%B2%94/ar-AA26RST6",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.VOj47IEcv7Tyn9_gV-xq8w&pid=News&w=1200&h=675&c=14"
+      "title": "KRG, ‘2026 대한민국 인공지능 산업 백서’ 발간",
+      "summary": "기사의 본문 내용은 이 글자크기로 변경됩니다. KRG ‘2026 대한민국 인공지능 산업 백서’ [디지털경제뉴스 박시현 기자] 날리지리서치그룹(KRG)이 생성형 AI 이후 급변하는 국내외 AI 산업의 변화와 시장 전망, 산업별 활용 전략을 종합적으로 분석한 ‘2026 대한민국 인공지능(AI) 산업 백서’를 발간했다. 이번 백서는 AI 기술의 발전 방향을 넘어 ...",
+      "source": "디지털경제뉴스",
+      "publishedAt": "2026-07-01",
+      "url": "https://www.denews.co.kr/news/articleView.html?idxno=41635",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.oxMZIdd9Z8D4znd9n61FEw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "인공지능정책센터 출범…AI 정책·기술 지원 맡는다",
-      "summary": "국가 인공지능(AI) 정책 수립과 법·제도 정비, AI 확산 영향 분석을 지원할 'AI정책센터'가 출범했다. AI 기본법 시행과 '글로벌 AI 3대 강국' 도약 목표에 맞춰 정책 전문성과 실행력을 높이는 역할을 맡는다. 30일 과학기술정보통신부와 한국지능정보사회진흥원(NIA)은 NIA 서울사무소에서 AI정책센터 개소식을 개최했다. 이날 개소식에는 김형철 N ...",
-      "source": "전자신문 on MSN",
-      "publishedAt": "2026-06-30",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%A0%95%EC%B1%85%EC%84%BC%ED%84%B0-%EC%B6%9C%EB%B2%94-ai-%EC%A0%95%EC%B1%85-%EA%B8%B0%EC%88%A0-%EC%A7%80%EC%9B%90-%EB%A7%A1%EB%8A%94%EB%8B%A4/ar-AA26RQGp",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.7T0Wy5TKAn2SjY0h5PRftw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "인공지능(AI) 전력 수혜주는 누구…글로벌 ‘핵연료 독립’ 경쟁 시작됐다",
-      "summary": "인공지능(AI) 데이터센터발 전력 공급 부족을 해결할 대안으로 차세대 원전이 부상하자 글로벌 자본시장이 핵연료 공급망 다변화에 주목하고 있다. 러시아산 우라늄 의존을 탈피하려는 서방의 농축 인프라 내재화 움직임과 천연우라늄 중수로를 앞세운 캐나다의 역습이 맞물리며 원전 밸류체인 전반의 주가 재평가가 시작된 것이다.인공지능(AI) 시장 급성장으로 전력 수요가 ...",
-      "source": "Global Economic on MSN",
-      "publishedAt": "2026-06-30",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5ai-%EC%A0%84%EB%A0%A5-%EC%88%98%ED%98%9C%EC%A3%BC%EB%8A%94-%EB%88%84%EA%B5%AC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%ED%95%B5%EC%97%B0%EB%A3%8C-%EB%8F%85%EB%A6%BD-%EA%B2%BD%EC%9F%81-%EC%8B%9C%EC%9E%91%EB%90%90%EB%8B%A4/ar-AA26Q8KF",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.hKD-Q0nbfRF-xA4YGbpmMg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[속보] 광주 이어 해남·고창까지…삼성·SK, 반도체 팹·AI 데이터센터 짓는다",
-      "summary": "삼성전자와 SK하이닉스가 서남권에 895조원 규모의 초대형 반도체 클러스터를 조성한다. 수도권 집중을 완화하고 글로벌 공급망 리스크에 대응하기 위한 프로젝트로, 비수도권 지역 기준 역대 최대 규모다. 정부는 전력과 용수 등 핵심 기반 시설 비용을 최대 100% 지원하고 산업단지 조성 기간을 절반으로 단축하는 등 파격 지원하기로 했다. ◇ 원전 확대 등 건의 ...",
-      "source": "한국경제 on MSN",
-      "publishedAt": "2026-06-30",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%86%8D%EB%B3%B4-%EA%B4%91%EC%A3%BC-%EC%9D%B4%EC%96%B4-%ED%95%B4%EB%82%A8-%EA%B3%A0%EC%B0%BD%EA%B9%8C%EC%A7%80-%EC%82%BC%EC%84%B1-sk-%EB%B0%98%EB%8F%84%EC%B2%B4-%ED%8C%B9-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%A7%93%EB%8A%94%EB%8B%A4/ar-AA26RyR9",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ZV-tEg67DRr-GP_dm2-fwg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "AI 입는 전력산업…LS일렉트릭·대한전선 기술 확대 잰걸음",
-      "summary": "카이스트와 손잡고 차세대 전력기술 개발 대한전선, 정부 AI 에이전트 R&D 과제 선정 협력 방식 달라도 'AI 경쟁력' 확보는 한목소리 [아시아타임즈=김빛나 기자] 인공지능(AI)이 전력산업 경쟁력의 핵심으로 떠오르면서 전력업계의 연구개발 행보가 빨라지는 추세다. LS일렉트릭은 카이스트와 손잡고 고부가가치 미래 전력 솔루션 개발에 나섰고, 대한전선은 산업 ...",
-      "source": "아시아타임즈 on MSN",
-      "publishedAt": "2026-06-30",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/ai-%EC%9E%85%EB%8A%94-%EC%A0%84%EB%A0%A5%EC%82%B0%EC%97%85-ls%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A6%AD-%EB%8C%80%ED%95%9C%EC%A0%84%EC%84%A0-%EA%B8%B0%EC%88%A0-%ED%99%95%EB%8C%80-%EC%9E%B0%EA%B1%B8%EC%9D%8C/ar-AA26RrwW",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.UBf8TIMbvCeUgm8iV4sj5w&pid=News&w=1200&h=675&c=14"
+      "title": "AI 에이전트부터 데이터센터까지…KRG, 'AI 산업 백서' 발간",
+      "summary": "[서울=뉴시스]윤정민 기자 = 국내외 인공지능(AI) 산업 흐름과 시장 전망을 종합 분석한 백서가 나왔다. 생성형 AI 이후 부상한 AI 에이전트, 피지컬 AI, 전사적 AI 전환(AX) 등 최신 흐름을 산업 관점에서 정리했다.날리지리서치그룹(KRG)은 '2026 대한민국 인공지능 산업 백서'를 발간했다고 1일 밝혔다.이번 백서는 생성형 AI 확산 이후 나 ...",
+      "source": "뉴시스",
+      "publishedAt": "2026-07-01",
+      "url": "https://www.newsis.com/view/NISX20260701_0003691896",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.1oUSLscSUnFA5oeVwyteag&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
