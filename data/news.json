@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-02",
-  "windowStart": "2026-06-30T22:00:00.000Z",
-  "windowEnd": "2026-07-01T22:00:00.000Z",
+  "updatedAt": "2026-07-03",
+  "windowStart": "2026-07-01T22:00:00.000Z",
+  "windowEnd": "2026-07-02T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
@@ -14,6 +14,15 @@
     },
     {
       "category": "society",
+      "title": "[박준규의 이슈언박싱] 일본은 마운자로 싸게 풀고도 \"함부로 맞지 마라\"…한국과 정반대, 왜",
+      "summary": "비만치료제 마운자로(성분명 티르제파타이드)를 두고 '김치자로'라는 씁쓸한 별명이 돕니다. 같은 약인데 한국에서 산 것이 일본에서 산 것보다 몇 배나 비싸다는 뜻에서, 국내 구매분을 '김치자로', 일본 구매분을 '일본자로'라고 부르는 은어까지 생겼습니다. 가격 차이가 크다는 이야기는 이 ...",
+      "source": "펜앤드마이크",
+      "publishedAt": "2026-06-28",
+      "url": "https://www.pennmike.com/news/articleView.html?idxno=122830",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-7hd52yBS3DvP6K1OIAakw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
       "title": "[이슈ON] 출입문 막은 '최후 1인', 업무 방해로 수사",
       "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스ON] 명시해주시기 바랍니다. [앵커] 투표용지 부족 사태로 촉발된 잠실 개표소 앞 시위가 2주 가까이 이어지고 있습니다. 시위 과정에서 발생한 불법 행위, 그리고 선관위의 선거 관리 부실 의혹 수사도 진행 중인데요. 계속되는 ...",
       "source": "YTN",
@@ -23,57 +32,48 @@
     },
     {
       "category": "society",
-      "title": "한국공인노무사회 창립 40주년 기념식 개최, 혁신 비전 밝혀",
-      "summary": "한국공인노무사회(회장 이완영)는 7월 1일 오후 3시 서울 여의도 글래드호텔에서 ‘공인노무사회 창립 40주년 기념식’을 개최한다. 이날 기념식에서는 지난 40년간의 성과를 되돌아보고, 급변하는 노동시장 환경과 플랫폼 노동자의 확산, AI 기술혁신 시대에 걸맞은 공인노무사의 새로운 역할을 위해 미래 비전을 제시한다. 특히 신뢰받는 공인노무사회, 인정받는 노무 ...",
-      "source": "매일경제",
-      "publishedAt": "2026-06-30",
-      "url": "https://www.mk.co.kr/news/business/12086680",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.xnEZ_y1a825gkQWOyT1xQg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "국내서 개발한, 동물 언어 이해하는 인공지능… \"읽고 의미까지 해석\"",
-      "summary": "카이스트 연구팀의 ‘비헤이버트’ ...",
-      "source": "한겨레 on MSN",
-      "publishedAt": "2026-07-01",
-      "url": "https://www.msn.com/ko-kr/news/techandscience/%EA%B5%AD%EB%82%B4%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%9C-%EB%8F%99%EB%AC%BC-%EC%96%B8%EC%96%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9D%BD%EA%B3%A0-%EC%9D%98%EB%AF%B8%EA%B9%8C%EC%A7%80-%ED%95%B4%EC%84%9D/ar-AA26XjGr",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Jj7zxnNYgh3iB0BllsTFoA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "LGU+, 고객 데이터 기반한 개인화 인공지능 기술 개발",
-      "summary": "LG유플러스가 고객 데이터를 기반으로 한 차세대 개인화 인공지능(AI) 기술 ‘퍼스널 인텔리전스’를 개발했다. 고객의 통신 이용 이력과 행동 패턴을 AI가 분석해 맞춤형 서비스를 제공하는 기술이다. 퍼스널 인텔리전스는 통화 요약, 앱·웹 이용 기록, 위치 기반 패턴 등 각종 데이터를 통합 분석한다고 회사 측은 밝혔다.",
-      "source": "조선일보 on MSN",
-      "publishedAt": "2026-07-01",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/lgu-%EA%B3%A0%EA%B0%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B8%B0%EB%B0%98%ED%95%9C-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B8%B0%EC%88%A0-%EA%B0%9C%EB%B0%9C/ar-AA26ZyMn",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.puEnfVrVqx2urMilCJtj6w&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "“기술로 세상을 바꾼다”…AI·펨테크 앞세운 여성기업, 미래산업 주역으로",
-      "summary": "여성기업의 기술력과 미래 비전을 한자리에서 확인하는 '제5회 여성기업주간'이 막을 올렸다. 인공지능(AI), 펨테크, 콘텐츠 등 신산업을 이끄는 여성 창업가들이 혁신 사례를 공유하며 여성기업이 미래 성장의 한 축으로 자리매김하고 있음을 확인시켰다. 중소벤처기업부와 한국여성경제인협회는 1일 서울 신라호텔 다이너스티홀에서 '기술로 성장하고, 감성으로 연결하는 ...",
+      "title": "GH 주거복지센터, 12개 시·군 찾아가는 교육 14회 운영 본격화",
+      "summary": "경기주택도시공사(GH·사장 김용진)가 운영하는 경기도 주거복지센터가 오는 11월까지 도내 12개 시·군에서 '찾아가는 주거복지교육'을 14차례 운영한다. GH는 경기도 주거복지센터가 지난 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 주거복지교육을 진행했다고 27일 밝혔다. 이 교육은 주거복지 현장에서 주민 상담과 제도 안내를 ...",
       "source": "전자신문 on MSN",
-      "publishedAt": "2026-07-01",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%B0%EC%88%A0%EB%A1%9C-%EC%84%B8%EC%83%81%EC%9D%84-%EB%B0%94%EA%BE%BC%EB%8B%A4-ai-%ED%8E%A8%ED%85%8C%ED%81%AC-%EC%95%9E%EC%84%B8%EC%9A%B4-%EC%97%AC%EC%84%B1%EA%B8%B0%EC%97%85-%EB%AF%B8%EB%9E%98%EC%82%B0%EC%97%85-%EC%A3%BC%EC%97%AD%EC%9C%BC%EB%A1%9C/ar-AA26XKUI",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.JF8NcB0_1Q-kRFD9M-bhsw&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-06-27",
+      "url": "https://www.msn.com/ko-kr/news/other/gh-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-12%EA%B0%9C-%EC%8B%9C-%EA%B5%B0-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EA%B5%90%EC%9C%A1-14%ED%9A%8C-%EC%9A%B4%EC%98%81-%EB%B3%B8%EA%B2%A9%ED%99%94/ar-AA26GPWH",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.WQmM3JCQlGfHhx3PzARDJA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "경기도, 11월까지 12개 시군에서 '찾아가는 주거복지 교육'",
+      "summary": "경기도가 도내 기초 주거복지센터 및 읍·면·동 주거복지 실무자의 현장 대응 역량을 강화하기 위해 오는 11월까지 남양주시 등 12개 시군에서 '2026년 찾아가는 주거복지 교육'을 실시한다. 이번 교육은 주거복지 ...",
+      "source": "Asia Economy on MSN",
+      "publishedAt": "2026-06-23",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EA%B8%B0%EB%8F%84-11%EC%9B%94%EA%B9%8C%EC%A7%80-12%EA%B0%9C-%EC%8B%9C%EA%B5%B0%EC%97%90%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80-%EA%B5%90%EC%9C%A1/ar-AA26ikAq",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.0d2fcdc4eb0d7eb74760df165c8ddfb6&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "KRG, ‘2026 대한민국 인공지능 산업 백서’ 발간",
-      "summary": "기사의 본문 내용은 이 글자크기로 변경됩니다. KRG ‘2026 대한민국 인공지능 산업 백서’ [디지털경제뉴스 박시현 기자] 날리지리서치그룹(KRG)이 생성형 AI 이후 급변하는 국내외 AI 산업의 변화와 시장 전망, 산업별 활용 전략을 종합적으로 분석한 ‘2026 대한민국 인공지능(AI) 산업 백서’를 발간했다. 이번 백서는 AI 기술의 발전 방향을 넘어 ...",
-      "source": "디지털경제뉴스",
-      "publishedAt": "2026-07-01",
-      "url": "https://www.denews.co.kr/news/articleView.html?idxno=41635",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.oxMZIdd9Z8D4znd9n61FEw&pid=News&w=1200&h=675&c=14"
+      "title": "SK하이닉스 목표주가, 인공지능 수요 폭발로 400만원으로 상향",
+      "summary": "IBK투자증권이 7월 2일 SK하이닉스의 목표주가를 180만원에서 400만원으로 크게 올리면서, 인공지능 확산에 따른 메모리 수요 증가가 회사 가치 재평가의 핵심 배경으로 떠올랐다.IBK투자증권은 이날 SK하이닉스에 대한 투자의견을 ...",
+      "source": "토큰포스트",
+      "publishedAt": "2026-07-02",
+      "url": "https://www.tokenpost.kr/news/market/374373",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.4xmKA1EVgzOWnwL3Jp13sA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "AI 에이전트부터 데이터센터까지…KRG, 'AI 산업 백서' 발간",
-      "summary": "[서울=뉴시스]윤정민 기자 = 국내외 인공지능(AI) 산업 흐름과 시장 전망을 종합 분석한 백서가 나왔다. 생성형 AI 이후 부상한 AI 에이전트, 피지컬 AI, 전사적 AI 전환(AX) 등 최신 흐름을 산업 관점에서 정리했다.날리지리서치그룹(KRG)은 '2026 대한민국 인공지능 산업 백서'를 발간했다고 1일 밝혔다.이번 백서는 생성형 AI 확산 이후 나 ...",
-      "source": "뉴시스",
-      "publishedAt": "2026-07-01",
-      "url": "https://www.newsis.com/view/NISX20260701_0003691896",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.1oUSLscSUnFA5oeVwyteag&pid=News&w=1200&h=675&c=14"
+      "title": "[인천] 세계 최대 인공지능 로봇 대회 인천 송도에서 개막",
+      "summary": "세계 최대 인공지능 로봇 대회인 '로보컵 2026 인천'이 우리나라에서는 처음으로 인천 송도컨벤시아에서 개막해 오는 6일까지 열립니다. 로보컵은 2050년까지 FIFA 월드컵 우승 팀을 이길 수 있는 완전 자율 인간형 로봇 축구팀 개발을 목표로 1997년부터 열려온 국제 대회입니다. 이번 대회에는 역대 최대 규모인 45개국 364개 팀, 2천879명이 참가 ...",
+      "source": "YTN",
+      "publishedAt": "2026-07-02",
+      "url": "https://www.ytn.co.kr/_ln/0115_202607021447061430",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.vSpJk4AuMcEzTNZKPhQETQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "로봇 업계 \"피지컬AI 1강 정책은 A....맞춤 지원·빠른 실행 필요\"",
+      "summary": "(지디넷코리아=진운용 기자)2030년 전 세계 피지컬 인공지능(AI) 1강 도약이라는 정부 정책에 대해 국내 로봇 업계는 방향성과 구체적인 데이터 확보 방안에 대해 동의했다. 다만 기업 상황에 맞는 맞춤 지원과 빠른 실행력이 필요하다고 조언했다. 반도체부터 피지컬 AI까지 풀패키지 전략 앞서 정부는 이번 주 '대한민국 대도약 3대 메가 프로젝트'를 발표했다 ...",
+      "source": "지디넷코리아 on MSN",
+      "publishedAt": "2026-07-02",
+      "url": "https://www.msn.com/ko-kr/news/techandscience/%EB%A1%9C%EB%B4%87-%EC%97%85%EA%B3%84-%ED%94%BC%EC%A7%80%EC%BB%ACai-1%EA%B0%95-%EC%A0%95%EC%B1%85%EC%9D%80-a-%EB%A7%9E%EC%B6%A4-%EC%A7%80%EC%9B%90-%EB%B9%A0%EB%A5%B8-%EC%8B%A4%ED%96%89-%ED%95%84%EC%9A%94/ar-AA2728xm",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.8130a865414f81e5f4066d47c64a75d0&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
