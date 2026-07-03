@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-07-04",
+    "windowStart": "2026-07-02T22:00:00.000Z",
+    "windowEnd": "2026-07-03T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "빗썸, ‘빗썸나눔’으로 사회공헌 생태계 확대",
+        "summary": "빗썸의 사회공헌 브랜드 빗썸나눔이 임직원 중심의 봉사활동을 넘어 시민과 지역사회가 함께하는 참여형 사회공헌 플랫폼으로 확장되고 있다. 빗썸나눔은 ‘작은 나눔이 모여 큰 변화를 만든다’는 슬로건 아래 임직원이 직접 기획하고 참여하는 봉사활동을 비롯해 지역사회 지원과 재난 및 재해 긴급 지원 등을 이어가고 있다. 빗썸나눔 사회공헌 활동의 가장 큰 특징은 임직원 ...",
+        "source": "경향게임스",
+        "publishedAt": "2026-07-01",
+        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305939",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.aNVBt6pL_EspqOeqDpunVw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[박준규의 이슈언박싱] 일본은 마운자로 싸게 풀고도 \"함부로 맞지 마라\"…한국과 정반대, 왜",
+        "summary": "비만치료제 마운자로(성분명 티르제파타이드)를 두고 '김치자로'라는 씁쓸한 별명이 돕니다. 같은 약인데 한국에서 산 것이 일본에서 산 것보다 몇 배나 비싸다는 뜻에서, 국내 구매분을 '김치자로', 일본 구매분을 '일본자로'라고 부르는 은어까지 생겼습니다. 가격 차이가 크다는 이야기는 이 ...",
+        "source": "펜앤드마이크",
+        "publishedAt": "2026-06-28",
+        "url": "https://www.pennmike.com/news/articleView.html?idxno=122830",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.-7hd52yBS3DvP6K1OIAakw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "GH 주거복지센터, 12개 시·군 찾아가는 교육 14회 운영 본격화",
+        "summary": "경기주택도시공사(GH·사장 김용진)가 운영하는 경기도 주거복지센터가 오는 11월까지 도내 12개 시·군에서 '찾아가는 주거복지교육'을 14차례 운영한다. GH는 경기도 주거복지센터가 지난 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 주거복지교육을 진행했다고 27일 밝혔다. 이 교육은 주거복지 현장에서 주민 상담과 제도 안내를 ...",
+        "source": "전자신문 on MSN",
+        "publishedAt": "2026-06-27",
+        "url": "https://www.msn.com/ko-kr/news/other/gh-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-12%EA%B0%9C-%EC%8B%9C-%EA%B5%B0-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EA%B5%90%EC%9C%A1-14%ED%9A%8C-%EC%9A%B4%EC%98%81-%EB%B3%B8%EA%B2%A9%ED%99%94/ar-AA26GPWH",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.WQmM3JCQlGfHhx3PzARDJA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "경기도, 11월까지 12개 시군에서 '찾아가는 주거복지 교육'",
+        "summary": "경기도가 도내 기초 주거복지센터 및 읍·면·동 주거복지 실무자의 현장 대응 역량을 강화하기 위해 오는 11월까지 남양주시 등 12개 시군에서 '2026년 찾아가는 주거복지 교육'을 실시한다. 이번 교육은 주거복지 ...",
+        "source": "Asia Economy on MSN",
+        "publishedAt": "2026-06-23",
+        "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EA%B8%B0%EB%8F%84-11%EC%9B%94%EA%B9%8C%EC%A7%80-12%EA%B0%9C-%EC%8B%9C%EA%B5%B0%EC%97%90%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80-%EA%B5%90%EC%9C%A1/ar-AA26ikAq",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.0d2fcdc4eb0d7eb74760df165c8ddfb6&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "GH 경기도 주거복지센터, 양주서 ‘찾아가는 주거복지교육’",
+        "summary": "경기주택도시공사(GH)가 운영 중인 경기도 주거복지센터는 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 ‘찾아가는 주거복지교육’을 진행했다고 밝혔다.강의는 공공임대주택 유형별 특성과 주요 주거복지제도 이론 및 실제 현장 사례 중심으로 ...",
+        "source": "Seoul Newspaper on MSN",
+        "publishedAt": "2026-06-24",
+        "url": "https://www.msn.com/ko-kr/news/other/gh-%EA%B2%BD%EA%B8%B0%EB%8F%84-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-%EC%96%91%EC%A3%BC%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EA%B5%90%EC%9C%A1/ar-AA26paV0",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.c1292f3cd77a134a00d284636cb62e0f&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "강원도, '소형 데이터센터 기반 인공지능(AI) 산업 성장 지원사업' 선정",
+        "summary": "강원특별자치도(도지사 우상호)는 과학기술정보통신부와 정보통신산업진흥원이 추진하는 ‘2026년 소형 데이터센터 기반 인공지능(AI) 산업 성장 지원사업’ 공모에 최종 선정됐다고 3일 밝혔다. 이번에 선정된 사업은 국비 59억원을 포함해 총사업비 98억원 규모로 오는 2027년까지 추진된다. 이 사업에는 도와 강릉시가 참여하고, 강원테크노파크와 강릉과학산업진흥 ...",
+        "source": "뉴시스 on MSN",
+        "publishedAt": "2026-07-03",
+        "url": "https://www.msn.com/ko-kr/news/other/%EA%B0%95%EC%9B%90%EB%8F%84-%EC%86%8C%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-ai-%EC%82%B0%EC%97%85-%EC%84%B1%EC%9E%A5-%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85-%EC%84%A0%EC%A0%95/ar-AA275VPi",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.j3MXcx8t6gByqjZpUw-E5g&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "서강대, ‘설명가능 인공지능 워크숍’서 융합 연구 성과 공개",
+        "summary": "서강대학교가 6월 25일 제주 국제컨벤션센터에서 열린 ‘KCC 설명가능 인공지능(XAI) 워크숍 2026’에 제3세부과제 참여기관으로 참가했다. 이번 워크숍은 KAIST 설명가능 인공지능연구센터가 주관하고, 서울대·서강대·한국전자통신연구원(ETRI)이 세부 과제 ...",
+        "source": "중앙일보",
+        "publishedAt": "2026-07-02",
+        "url": "https://www.koreadaily.com/article/20260701225033683",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.NPELvlREuiYh_FiW2130Kg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "일터·교육 환경 바꾸는 인공지능…‘“사람’ 중심 논의 이뤄져야”",
+        "summary": "제5회 사람과디지털포럼 ‘AI 시대, 일과 학습의 미래’조정식 국회의장 “사람 중심에 둬야 개인·사회 번영”김지형 경사노위 위원장 “사회적 대화로 모색할 때”박찬수 한겨레 대표 “AI가 인간 위해 일하도록 해야” ...",
+        "source": "한겨레 on MSN",
+        "publishedAt": "2026-06-24",
+        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%9D%BC%ED%84%B0-%EA%B5%90%EC%9C%A1-%ED%99%98%EA%B2%BD-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%82%AC%EB%9E%8C-%EC%A4%91%EC%8B%AC-%EB%85%BC%EC%9D%98-%EC%9D%B4%EB%A4%84%EC%A0%B8%EC%95%BC/ar-AA26oioQ",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.M2tMOHdstbRmg1lWSou_RQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "SK하이닉스 목표주가, 인공지능 수요 폭발로 400만원으로 상향",
+        "summary": "IBK투자증권이 7월 2일 SK하이닉스의 목표주가를 180만원에서 400만원으로 크게 올리면서, 인공지능 확산에 따른 메모리 수요 증가가 회사 가치 재평가의 핵심 배경으로 떠올랐다.IBK투자증권은 이날 SK하이닉스에 대한 투자의견을 ...",
+        "source": "토큰포스트",
+        "publishedAt": "2026-07-02",
+        "url": "https://www.tokenpost.kr/news/market/374373",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.4xmKA1EVgzOWnwL3Jp13sA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[현장] AI G3 이끌 싱크탱크 첫발…NIA '인공지능정책센터' 출범",
+        "summary": "(지디넷코리아=한정호 기자)한국지능정보사회진흥원(NIA)이 국가 인공지능(AI) 정책 개발과 법·제도 연구, 사회적 영향 평가를 종합적으로 전담하는 정부 지정 전문 싱크탱크인 '인공지능정책센터'를 공식 출범했다. AI기본법 시행에 맞춰 정부 AI 정책 수립과 공공부문 AI 전환을 지원하는 정책 허브 역할을 맡고 국가 AI 정책 추진을 뒷받침하는 전문기관으로 ...",
+        "source": "지디넷코리아 on MSN",
+        "publishedAt": "2026-07-01",
+        "url": "https://www.msn.com/ko-kr/news/techandscience/%ED%98%84%EC%9E%A5-ai-g3-%EC%9D%B4%EB%81%8C-%EC%8B%B1%ED%81%AC%ED%83%B1%ED%81%AC-%EC%B2%AB%EB%B0%9C-nia-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%A0%95%EC%B1%85%EC%84%BC%ED%84%B0-%EC%B6%9C%EB%B2%94/ar-AA26RDRF",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.7bc1dd56b86a9f5f3e73bbf4a054ad47&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-07-03",
     "windowStart": "2026-07-01T22:00:00.000Z",
     "windowEnd": "2026-07-02T22:00:00.000Z",
@@ -506,103 +603,6 @@
         "publishedAt": "2026-06-26",
         "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%95%9C%EA%B5%AD%EC%A0%80%EC%9E%91%EA%B6%8C%EC%9C%84%EC%9B%90%ED%9A%8C-%EA%B2%BD%EA%B8%B0%EC%BD%98%ED%85%90%EC%B8%A0%EC%A7%84%ED%9D%A5%EC%9B%90%EA%B3%BC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%80%EC%9E%91%EA%B6%8C-%ED%8A%B9%EA%B0%95-%EB%B2%95%EB%A5%A0%EC%83%81%EB%8B%B4-%EC%8B%A4%EC%8B%9C/ar-AA26BhN1",
         "imageUrl": "https://www.bing.com/th?id=ONUT.j3W-0pazrHPvKrkeIXx7Bw&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-06-27",
-    "windowStart": "2026-06-25T22:00:00.000Z",
-    "windowEnd": "2026-06-26T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "[가족뉴스] 한국생명존중희망재단-한국손해사정사회, 자살유족 지원을 위한 업무협약 체결 外",
-        "summary": "【베이비뉴스 심주인 기자】가족은 아이가 성장하는 가장 중요한 삶의 터전이다. ‘가족뉴스’는 부모와 자녀, 조부모 등 다양한 가족 구성원의 삶과 관련된 정책, 복지, 교육, 문화, 주거, 일·가정 양립 등 가족의 행복과 삶의 질을 높이는 소식을 전하는 코너다. 변화하는 가족의 모습과 사회적 이슈를 살펴보며 건강한 가족문화 조성에 도움이 되는 정보를 제공한다.",
-        "source": "베이비뉴스 on MSN",
-        "publishedAt": "2026-06-26",
-        "url": "https://www.msn.com/ko-kr/lifestyle/other/%EA%B0%80%EC%A1%B1%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%83%9D%EB%AA%85%EC%A1%B4%EC%A4%91%ED%9D%AC%EB%A7%9D%EC%9E%AC%EB%8B%A8-%ED%95%9C%EA%B5%AD%EC%86%90%ED%95%B4%EC%82%AC%EC%A0%95%EC%82%AC%ED%9A%8C-%EC%9E%90%EC%82%B4%EC%9C%A0%EC%A1%B1-%EC%A7%80%EC%9B%90%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD-%EC%B2%B4%EA%B2%B0-%E5%A4%96/ar-AA26zZ0O",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.asoWeGYfmUTxM449DwsQzQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈&경제] 기업의 ‘역사 감수성’ 부재가 던진 질문",
-        "summary": "최근 신세계그룹 계열에서 운영하는 스타벅스코리아의 ‘5·18 마케팅’ 논란은 단순한 홍보 실수 이상의 함의를 갖는다. 이번 사건은 네 명의 젊은 여성 직원이 기획안을 작성하고 내부 검토 과정에서 상급자의 결재와 내용 점검이 충분히 이뤄지지 않은 채 대외 홍보로 이어지면 ...",
-        "source": "Kyeonggi Ilbo",
-        "publishedAt": "2026-06-14",
-        "url": "https://www.kyeonggi.com/article/20260614580391",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.EPnkHm5nhvH6bhpCELOFKQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "'투표용지 부족' 후폭풍…정치권 넘어 '사회적 이슈' 확대",
-        "summary": "제9회 전국동시지방선거·국회의원 재보궐선거 과정에서 불거진 '투표용지 부족' 사태의 후폭풍이 만만치 않다.특히 충청권 등 전국 대학가에선 선거 이후 연일 중앙선거관리위원회를 규탄하는 시국선언이 잇따르고 2030세대를 중심으로 한 '참정권 운동'으로 확산하면서, 사회적 메가 이슈로 부상하는 양상이다.정치권에선 '부정선거'와 '음모론' 등의 혼돈 속에 향후 추 ...",
-        "source": "MSN on MSN",
-        "publishedAt": "2026-06-10",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%88%AC%ED%91%9C%EC%9A%A9%EC%A7%80-%EB%B6%80%EC%A1%B1-%ED%9B%84%ED%8F%AD%ED%92%8D-%EC%A0%95%EC%B9%98%EA%B6%8C-%EB%84%98%EC%96%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%9D%B4%EC%8A%88-%ED%99%95%EB%8C%80/ar-AA25hDJy",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.gyNtAqBMXC0gPdxeohAt5A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "돈보다 사회 일원으로…발달장애인 86% “계속 일하고 싶다”",
-        "summary": "【투데이신문 박효령 기자】발달장애인 취업자들의 월평균 임금이 최저임금 월 환산액의 절반 수준에 머무는 것으로 조사됐다. 낮은 임금과 제한된 직업 선택지에도 불구하고 대다수 발달장애인은 현재 직장에 계속 다니길 원했으며 취업 여부가 삶의 만족도에도 큰 영향을 미치는 것으로 나타나 단순한 일자리 확대를 넘어 안정적인 고용과 맞춤형 지원이 필요하다는 지적이 나온 ...",
-        "source": "Today Newspaper",
-        "publishedAt": "2026-06-11",
-        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127574",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.iu-Fd6iypkS5PrCMqqIU_A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈ON] 출입문 막은 '최후 1인', 업무 방해로 수사",
-        "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스ON] 명시해주시기 바랍니다. [앵커] 투표용지 부족 사태로 촉발된 잠실 개표소 앞 시위가 2주 가까이 이어지고 있습니다. 시위 과정에서 발생한 불법 행위, 그리고 선관위의 선거 관리 부실 의혹 수사도 진행 중인데요. 계속되는 ...",
-        "source": "YTN",
-        "publishedAt": "2026-06-17",
-        "url": "https://www.ytn.co.kr/_ln/0103_202606171701273125",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.pBWS_zpVJfm9nUA2oD1n2A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "서울과학기술대학교 박종열 교수, ‘인공지능 학습데이터 표준 주도’ ITU-T Q7/17 공동 라포처 선임",
-        "summary": "서울과학기술대학교(총장 김동환, 이하 서울과기대) 인공지능응용학과 박종열 교수가 2026년 6월 1일부터 10일까지 열린 ITU-T SG17 표준화 회의에서 Q7/17 공동 라포처(Co-rapporteur)로 선임되어, 인공지능 및 관련 기술의 표준화에 주도적 역할을 수행할 것으로 기대된다. 박종열 교수 연구팀은 의장직 수임에 더해, 관련 핵심 기술을 확보 ...",
-        "source": "중앙일보",
-        "publishedAt": "2026-06-26",
-        "url": "https://www.joongang.co.kr/article/25440178",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.HncAfhm--XFnFKbPx3r49w&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "이재명 대통령 \"인공지능·드론 등 신안보 혁신기업 육성\" [뉴시스Pic]",
-        "summary": "이재명 대통령은 26일 \"정부는 인공지능, 드론, 사이버 안보, 우주 항공 등 첨단 독점 기술을 보유하는 신안보 혁신기업을 육성하려고 한다\"고 밝혔다. 이 대통령은 이날 오후 청와대에서 '미래 신안보 혁신깅버 육성 전략회의'를 열고 \"대한민국이 전통적인 방산 강국에서 글로벌 신안보 강국으로 거듭나기 위해서는 국가적 차원의 신안보 혁신기업 육성이 무엇보다 중 ...",
-        "source": "뉴시스 on MSN",
-        "publishedAt": "2026-06-26",
-        "url": "https://www.msn.com/ko-kr/news/politics/%EC%9D%B4%EC%9E%AC%EB%AA%85-%EB%8C%80%ED%86%B5%EB%A0%B9-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%93%9C%EB%A1%A0-%EB%93%B1-%EC%8B%A0%EC%95%88%EB%B3%B4-%ED%98%81%EC%8B%A0%EA%B8%B0%EC%97%85-%EC%9C%A1%EC%84%B1-%EB%89%B4%EC%8B%9C%EC%8A%A4pic/ar-AA26At1f",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.BU8CpinonIMoT1llDeWvmA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "한국저작권위원회, 경기콘텐츠진흥원과 인공지능 저작권 특강·법률상담 실시",
-        "summary": "한국저작권위원회는 경기콘텐츠진흥원과 함께 경기도 소재 AI 스타트업 6개 사를 대상으로 저작권 특강과 기업별 맞춤형 법률 상담을 진행했다고 밝혔다.지난 25일 경기창조경제혁신센터에서 진행된 이번 프로그램은 양 기관이 지난해 체결한 업무협약을 바탕으로 마련됐다. 프로그램에는 국내 AI 빅테크 3사와의 파트너십을 통해 진행되는 ‘AI 콘텐츠 허브’ 지원사업에 ...",
-        "source": "동아일보 on MSN",
-        "publishedAt": "2026-06-26",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%95%9C%EA%B5%AD%EC%A0%80%EC%9E%91%EA%B6%8C%EC%9C%84%EC%9B%90%ED%9A%8C-%EA%B2%BD%EA%B8%B0%EC%BD%98%ED%85%90%EC%B8%A0%EC%A7%84%ED%9D%A5%EC%9B%90%EA%B3%BC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%80%EC%9E%91%EA%B6%8C-%ED%8A%B9%EA%B0%95-%EB%B2%95%EB%A5%A0%EC%83%81%EB%8B%B4-%EC%8B%A4%EC%8B%9C/ar-AA26BhN1",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.j3W-0pazrHPvKrkeIXx7Bw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "李, 반도체·AI 데이터센터·피지컬 AI 투자 회의 주재…1000조원 역대급 규모 예상[3대 메가프로젝트①]",
-        "summary": "ㅁ이재명 대통령이 29일 반도체 등 첨단 핵심산업의 대규모 지역 투자 청사진을 제시하는 대국민 보고회를 주재하기로 하면서 구체적인 투자 내용에 시선이 쏠린다. 삼성전자와 SK하이닉스를 주축으로 반도체 분야에서 역대급 규모의 투자가 포함될 가능성이 거론된다. 이 대통령은 29일 청와대에서 '대한민국 대도약 3대 메가 프로젝트 국민보고회'를 열어 인공지능(AI ...",
-        "source": "NEWSIS on MSN",
-        "publishedAt": "2026-06-26",
-        "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%EF%A7%A1-%EB%B0%98%EB%8F%84%EC%B2%B4-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%ED%94%BC%EC%A7%80%EC%BB%AC-ai-%ED%88%AC%EC%9E%90-%ED%9A%8C%EC%9D%98-%EC%A3%BC%EC%9E%AC-1000%EC%A1%B0%EC%9B%90-%EC%97%AD%EB%8C%80%EA%B8%89-%EA%B7%9C%EB%AA%A8-%EC%98%88%EC%83%81-3%EB%8C%80-%EB%A9%94%EA%B0%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/ar-AA26DQYU",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Ga3sFR8VEuZJDOwLrg7jpQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "데이터센터 소통 문제 해결한 자, 주가가 폭등할 것이다 [이승우의 반도체 오디세이]",
-        "summary": "인공지능(AI) 시대에 ‘소통’이란 화두가 던져졌다. 더 빨리 소통해야 데이터센터의 효율성이 극대화되기 때문이다. AI가 고도화될수록 데이터센터 끼리의 원활한 소통이 중요하다. 그래야 낮은 전력으로 고효율을 내면서 AI 사업성이 살아난다. 이 소통 문제를 푸는 기업이야말로 향후 주가가 폭등할 것이다. 매경플러스(매플)의 ‘머니닥터’ 이승우 유진투자증권 리 ...",
-        "source": "Maeil Business Newspaper",
-        "publishedAt": "2026-06-26",
-        "url": "https://www.mk.co.kr/news/it/12084452",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.YAw0d_2N5yQyEq0qIz65dw&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
