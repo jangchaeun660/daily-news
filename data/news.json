@@ -1,25 +1,16 @@
 {
-  "updatedAt": "2026-07-05",
-  "windowStart": "2026-07-03T22:00:00.000Z",
-  "windowEnd": "2026-07-04T22:00:00.000Z",
+  "updatedAt": "2026-07-06",
+  "windowStart": "2026-07-04T22:00:00.000Z",
+  "windowEnd": "2026-07-05T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "고려대 출신이 축구협회 장악 日 유력지 직격탄…학벌 중심주의 지적→한국의 끈끈한 인맥 사회, 때론 나라 뒤흔든다",
-      "summary": "(엑스포츠뉴스 권동환 기자) 일본 유력지가 한국의 월드컵 참사를 분석하면서 학벌·인맥 중심 문화를 원인으로 꼽았다. 일본 신문 '산케이신문'은 4일(한국시간) \"한국을 뒤흔드는 인맥 사회, 월드컵 탈락으로 감독이 비난받고, 수사 당국까지 움직였다\"라고 보도했다. 대한민국 축구 국가대표팀은 2026 국제축구 ...",
-      "source": "엑스포츠뉴스 on MSN",
-      "publishedAt": "2026-07-04",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B3%A0%EB%A0%A4%EB%8C%80-%EC%B6%9C%EC%8B%A0%EC%9D%B4-%EC%B6%95%EA%B5%AC%ED%98%91%ED%9A%8C-%EC%9E%A5%EC%95%85-%E6%97%A5-%EC%9C%A0%EB%A0%A5%EC%A7%80-%EC%A7%81%EA%B2%A9%ED%83%84-%ED%95%99%EB%B2%8C-%EC%A4%91%EC%8B%AC%EC%A3%BC%EC%9D%98-%EC%A7%80%EC%A0%81-%ED%95%9C%EA%B5%AD%EC%9D%98-%EB%81%88%EB%81%88%ED%95%9C-%EC%9D%B8%EB%A7%A5-%EC%82%AC%ED%9A%8C-%EB%95%8C%EB%A1%A0-%EB%82%98%EB%9D%BC-%EB%92%A4%ED%9D%94%EB%93%A0%EB%8B%A4/ar-AA27cZry",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.n-JIRWIjct_LmdYebSyV7A&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[인터뷰] 이영렬 국립법무병원장 “참교육보단 재범 안 하도록 돕는 게 최선의 투자”",
-      "summary": "“지옥 같은 처벌을 받고 나간 가해자가 재범을 저지른다면, 그것이 내 가족의 안전에 더 낫다고 할 수 있나?”이영렬(65) 국립법무병원장의 일침이다. 그는 분풀이식 처벌보다 확실한 치료를 통한 재범 방지가 진짜 국민 안전을 지키는 길이라고 강조한다. 국내 유일의 치료감호시설을 이끄는 그의 개인적 서사도 남다르다. 조현병을 앓았던 어머니와 국가유공자 아버지를 ...",
-      "source": "주간조선",
+      "title": "[박준규의 이슈언박싱] 응징이 교육을 삼켰다…배재고 야구부에 내려진 '사회적 사형'",
+      "summary": "지난달 29일 청룡기 전국고교야구선수권대회 배재고와 광주제일고의 경기 8회초, 앞서가던 배재고 더그아웃에서 \"스타벅스 가야지\"라는 구호가 터져 나왔습니다. 한 달 전 '5·18 탱크데이' 논란을 그대로 끌어와 광주 팀을 향해 던진 구호였습니다. 정치나 이념이 개입해서는 안 되는 스포츠 현장에 사회적 논란이 된 구호를 끌어들인 것은 분명 부적절한 처신이었습니 ...",
+      "source": "펜앤드마이크",
       "publishedAt": "2026-07-05",
-      "url": "https://weekly.chosun.com/news/articleView.html?idxno=53136",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ZRcEcCuTEB06FrzX4hxiDg&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.pennmike.com/news/articleView.html?idxno=123179",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.eCBTP8LU9UsTmYQBxrV2JA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -49,49 +40,40 @@
       "imageUrl": "https://www.bing.com/th?id=ORMS.0d2fcdc4eb0d7eb74760df165c8ddfb6&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "ai",
-      "title": "전국 최초·최대 규모 인공지능 기반 탄소포집장치 설치한 성북구",
-      "summary": "서울 성북구는 생활 현장에서 나오는 이산화탄소(CO₂)를 포집해 자원으로 전환하는 인공지능(AI) 기반 탄소포집장치를 지난달 28일 성북종합레포츠타운에 설치했다고 3일 밝혔다. 주민이 일상적으로 이용하는 생활체육시설에 탄소포집장치를 도입한 전국 최초 사례이자 ...",
-      "source": "서울신문 on MSN",
-      "publishedAt": "2026-07-04",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%A0%84%EA%B5%AD-%EC%B5%9C%EC%B4%88-%EC%B5%9C%EB%8C%80-%EA%B7%9C%EB%AA%A8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B8%B0%EB%B0%98-%ED%83%84%EC%86%8C%ED%8F%AC%EC%A7%91%EC%9E%A5%EC%B9%98-%EC%84%A4%EC%B9%98%ED%95%9C-%EC%84%B1%EB%B6%81%EA%B5%AC/ar-AA27bNcg",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.PuAvMwfSMMU8cL0AoTAS3Q&pid=News&w=1200&h=675&c=14"
+      "category": "society",
+      "title": "GH 경기도 주거복지센터, 양주서 ‘찾아가는 주거복지교육’",
+      "summary": "경기주택도시공사(GH)가 운영 중인 경기도 주거복지센터는 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 ‘찾아가는 주거복지교육’을 진행했다고 밝혔다.강의는 공공임대주택 유형별 특성과 주요 주거복지제도 이론 및 실제 현장 사례 중심으로 ...",
+      "source": "Seoul Newspaper on MSN",
+      "publishedAt": "2026-06-24",
+      "url": "https://www.msn.com/ko-kr/news/other/gh-%EA%B2%BD%EA%B8%B0%EB%8F%84-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-%EC%96%91%EC%A3%BC%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EA%B5%90%EC%9C%A1/ar-AA26paV0",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.c1292f3cd77a134a00d284636cb62e0f&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "대구시, '대구경제 대개조' 조직개편…인공지능∙반도체∙투자유치 강화 [지역이슈]",
-      "summary": "대구시가 민선 9기 시정 비전인 ‘변화와 성장, 더 나은 내일’을 실현하기 위해 대대적인 조직 개편에 나선다. 인공지능(AI) 대전환과 수도권 집중, 인구 감소 등 급변하는 대내외 환경에 대응하고, 시정 최우선 과제인 ‘대구경제 대개조’를 속도감 있게 추진하겠다는 포석이다. 4일 대구시에 따르면 이번 개편은 유사∙중복 조직을 통폐합해 비효율을 개선하고 기구 ...",
-      "source": "세계일보 on MSN",
-      "publishedAt": "2026-07-04",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EB%8C%80%EA%B5%AC%EC%8B%9C-%EB%8C%80%EA%B5%AC%EA%B2%BD%EC%A0%9C-%EB%8C%80%EA%B0%9C%EC%A1%B0-%EC%A1%B0%EC%A7%81%EA%B0%9C%ED%8E%B8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B0%98%EB%8F%84%EC%B2%B4-%ED%88%AC%EC%9E%90%EC%9C%A0%EC%B9%98-%EA%B0%95%ED%99%94-%EC%A7%80%EC%97%AD%EC%9D%B4%EC%8A%88/ar-AA27c1CO",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.YpuDJA_QpzPHUsKsFTTxwA&pid=News&w=1200&h=675&c=14"
+      "title": "인공지능(AI) 영향 받거나 밀접한 업종서 ‘청년 고용 감소세’",
+      "summary": "인공지능(AI)의 영향을 받거나 밀접한 업종에서 청년 고용이 감소세를 나타낸 것으로 전해졌다. 5일 국가데이터처 국가통계포털(KOSIS)에 공개된 고용행정통계를 보면 올해 5월 고용보험에 가입한 30세 미만은 약 223만3000명으로 1년 전보다 6만5000명(2. 8%) 정도 줄어든 것으로 집계됐다.",
+      "source": "세계일보",
+      "publishedAt": "2026-07-05",
+      "url": "https://www.segye.com/newsView/20260705506200",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.wT36nn1d_y2Suhdvm5Nykg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "소버린AI 마지막 승부처는 데이터센터…1천조 인프라 전쟁",
-      "summary": "(서울=연합뉴스) 권하영 기자 = 인공지능(AI) 패권 경쟁의 무게중심이 반도체와 AI 모델 개발을 넘어 이를 실제 구동하는 데이터센터 인프라로 옮겨가면서 정부가 1천조원 규모의 AI 데이터센터(AIDC) 구축 승부수를 던졌다. AI 반도체와 프론티어급 AI 모델 국산화에 이어 대규모 연산을 담당하는 데이터센터까지 국내 생태계로 묶어 소버린 AI를 완성하겠 ...",
-      "source": "연합뉴스",
-      "publishedAt": "2026-07-04",
-      "url": "https://www.yna.co.kr/view/AKR20260703129800017",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Wc1QQpEfs793H5CiogB2Cg&pid=News&w=1200&h=675&c=14"
+      "title": "AI 연산 인프라 15GW 시대 연다...SKT, 초대형 AI 데이터센터 구축 추진",
+      "summary": "AI 학습과 추론 수요 증가에 대응하기 위한 최대 15GW 규모 AI 데이터센터 구축 계획이 추진된다.울산 AI 데이터센터를 출발점으로 영남권과 호남권에 총 5GW 규모 인프라를 2029년부터 단계적으로 가동한다.반도체, 전력, 데이터센터 운영 역량을 결합해 한국을 아시아 AI 인프라 거점으로 키우는 전략이다.생성AI와 에이전틱 AI 확산은 데이터센터의 역 ...",
+      "source": "지티티코리아",
+      "publishedAt": "2026-07-05",
+      "url": "https://www.gttkorea.com/news/articleView.html?idxno=26267",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.03UJxkeQxE-S19jPYe9Yuw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "GS, 강원에 AI데이터센터 부지 18만평…메가프로젝트 1호 노린다",
-      "summary": "(서울=연합뉴스) 홍규빈 기자 = GS그룹이 총 18만평의 대규모 산업부지를 발판 삼아 인공지능(AI) 데이터센터 속도전에 나선다. 강원도의 풍부한 전력·용수 자원을 더해 '대한민국 대도약 3대 메가프로젝트'의 AI 데이터센터 1호를 선보이겠다는 목표다. 5일 업계에 따르면 GS는 2.4GW(기가와트)급 AI 데이터센터 부지로 강원도 동해시 북평제2일반산업 ...",
-      "source": "연합뉴스",
-      "publishedAt": "2026-07-04",
-      "url": "https://www.yna.co.kr/view/AKR20260704034600003",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.P47o7VMqjx-Dz4_Reo49gg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "제조업 심장에 'AI·로봇' 심는다…영남·강원에 342조 초격차 투자[3대 메가 산업지도③]",
-      "summary": "제조업의 심장부인 영남권과 청정 인프라를 품은 강원권이 대한민국 첨단산업의 거대한 '미래 경제 지도'로 재편된다. 정부와 재계가 추진하는 총 2000조원 이상 규모의 '대한민국 대도약 3대 메가프로젝트'가 본격 가동되면서 기업들은 영남·강원권에만 총 342조원이 넘는 메가톤급 재원을 투입하기로 했다. 4일 재계에 따르면 이재명 대통령은 전날 경남 진주 경상 ...",
-      "source": "NEWSIS on MSN",
-      "publishedAt": "2026-07-04",
-      "url": "https://www.msn.com/ko-kr/money/topstories/%EC%A0%9C%EC%A1%B0%EC%97%85-%EC%8B%AC%EC%9E%A5%EC%97%90-ai-%EB%A1%9C%EB%B4%87-%EC%8B%AC%EB%8A%94%EB%8B%A4-%EC%98%81%EB%82%A8-%EA%B0%95%EC%9B%90%EC%97%90-342%EC%A1%B0-%EC%B4%88%EA%B2%A9%EC%B0%A8-%ED%88%AC%EC%9E%90-3%EB%8C%80-%EB%A9%94%EA%B0%80-%EC%82%B0%EC%97%85%EC%A7%80%EB%8F%84/ar-AA27bHUT",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.k11kHGMIRMF70n60DAnyuA&pid=News&w=1200&h=675&c=14"
+      "title": "나라가 대놓고 앞장선다…AI 혁명에 부활한 ‘큰 정부론’ [VIEW]",
+      "summary": "인공지능(AI) 시대가 도래하면서, 정부가 최첨단 AI 산업을 앞장서서 육성해야 한다는 ‘큰 정부론’이 여권에서 부상하고 있다. AI 대전환 시대를 맞아 정부가 첨단 산업을 최전선에서 이끌며 국가 대도약을 이끌어야 한다는 논리다. 김용범 청와대 정책실장이 지난달 24일 서울 중구 한국프레스센터에서 열린 관훈클럽 초청 토론회에서 모두발언을 하고 있다. 뉴스1 ...",
+      "source": "중앙일보 on MSN",
+      "publishedAt": "2026-07-05",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%82%98%EB%9D%BC%EA%B0%80-%EB%8C%80%EB%86%93%EA%B3%A0-%EC%95%9E%EC%9E%A5%EC%84%A0%EB%8B%A4-ai-%ED%98%81%EB%AA%85%EC%97%90-%EB%B6%80%ED%99%9C%ED%95%9C-%ED%81%B0-%EC%A0%95%EB%B6%80%EB%A1%A0-view/ar-AA27gFBW",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.AxG9WTSOje53hWUdUJ7qKQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }

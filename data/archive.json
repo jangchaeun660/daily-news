@@ -1,5 +1,84 @@
 [
   {
+    "updatedAt": "2026-07-06",
+    "windowStart": "2026-07-04T22:00:00.000Z",
+    "windowEnd": "2026-07-05T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[박준규의 이슈언박싱] 응징이 교육을 삼켰다…배재고 야구부에 내려진 '사회적 사형'",
+        "summary": "지난달 29일 청룡기 전국고교야구선수권대회 배재고와 광주제일고의 경기 8회초, 앞서가던 배재고 더그아웃에서 \"스타벅스 가야지\"라는 구호가 터져 나왔습니다. 한 달 전 '5·18 탱크데이' 논란을 그대로 끌어와 광주 팀을 향해 던진 구호였습니다. 정치나 이념이 개입해서는 안 되는 스포츠 현장에 사회적 논란이 된 구호를 끌어들인 것은 분명 부적절한 처신이었습니 ...",
+        "source": "펜앤드마이크",
+        "publishedAt": "2026-07-05",
+        "url": "https://www.pennmike.com/news/articleView.html?idxno=123179",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.eCBTP8LU9UsTmYQBxrV2JA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "빗썸, ‘빗썸나눔’으로 사회공헌 생태계 확대",
+        "summary": "빗썸의 사회공헌 브랜드 빗썸나눔이 임직원 중심의 봉사활동을 넘어 시민과 지역사회가 함께하는 참여형 사회공헌 플랫폼으로 확장되고 있다. 빗썸나눔은 ‘작은 나눔이 모여 큰 변화를 만든다’는 슬로건 아래 임직원이 직접 기획하고 참여하는 봉사활동을 비롯해 지역사회 지원과 재난 및 재해 긴급 지원 등을 이어가고 있다. 빗썸나눔 사회공헌 활동의 가장 큰 특징은 임직원 ...",
+        "source": "경향게임스",
+        "publishedAt": "2026-07-01",
+        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305939",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.aNVBt6pL_EspqOeqDpunVw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "GH 주거복지센터, 12개 시·군 찾아가는 교육 14회 운영 본격화",
+        "summary": "경기주택도시공사(GH·사장 김용진)가 운영하는 경기도 주거복지센터가 오는 11월까지 도내 12개 시·군에서 '찾아가는 주거복지교육'을 14차례 운영한다. GH는 경기도 주거복지센터가 지난 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 주거복지교육을 진행했다고 27일 밝혔다. 이 교육은 주거복지 현장에서 주민 상담과 제도 안내를 ...",
+        "source": "전자신문 on MSN",
+        "publishedAt": "2026-06-27",
+        "url": "https://www.msn.com/ko-kr/news/other/gh-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-12%EA%B0%9C-%EC%8B%9C-%EA%B5%B0-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EA%B5%90%EC%9C%A1-14%ED%9A%8C-%EC%9A%B4%EC%98%81-%EB%B3%B8%EA%B2%A9%ED%99%94/ar-AA26GPWH",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.WQmM3JCQlGfHhx3PzARDJA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "경기도, 11월까지 12개 시군에서 '찾아가는 주거복지 교육'",
+        "summary": "경기도가 도내 기초 주거복지센터 및 읍·면·동 주거복지 실무자의 현장 대응 역량을 강화하기 위해 오는 11월까지 남양주시 등 12개 시군에서 '2026년 찾아가는 주거복지 교육'을 실시한다. 이번 교육은 주거복지 ...",
+        "source": "Asia Economy on MSN",
+        "publishedAt": "2026-06-23",
+        "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EA%B8%B0%EB%8F%84-11%EC%9B%94%EA%B9%8C%EC%A7%80-12%EA%B0%9C-%EC%8B%9C%EA%B5%B0%EC%97%90%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80-%EA%B5%90%EC%9C%A1/ar-AA26ikAq",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.0d2fcdc4eb0d7eb74760df165c8ddfb6&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "GH 경기도 주거복지센터, 양주서 ‘찾아가는 주거복지교육’",
+        "summary": "경기주택도시공사(GH)가 운영 중인 경기도 주거복지센터는 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 ‘찾아가는 주거복지교육’을 진행했다고 밝혔다.강의는 공공임대주택 유형별 특성과 주요 주거복지제도 이론 및 실제 현장 사례 중심으로 ...",
+        "source": "Seoul Newspaper on MSN",
+        "publishedAt": "2026-06-24",
+        "url": "https://www.msn.com/ko-kr/news/other/gh-%EA%B2%BD%EA%B8%B0%EB%8F%84-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-%EC%96%91%EC%A3%BC%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EA%B5%90%EC%9C%A1/ar-AA26paV0",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.c1292f3cd77a134a00d284636cb62e0f&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "인공지능(AI) 영향 받거나 밀접한 업종서 ‘청년 고용 감소세’",
+        "summary": "인공지능(AI)의 영향을 받거나 밀접한 업종에서 청년 고용이 감소세를 나타낸 것으로 전해졌다. 5일 국가데이터처 국가통계포털(KOSIS)에 공개된 고용행정통계를 보면 올해 5월 고용보험에 가입한 30세 미만은 약 223만3000명으로 1년 전보다 6만5000명(2. 8%) 정도 줄어든 것으로 집계됐다.",
+        "source": "세계일보",
+        "publishedAt": "2026-07-05",
+        "url": "https://www.segye.com/newsView/20260705506200",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.wT36nn1d_y2Suhdvm5Nykg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI 연산 인프라 15GW 시대 연다...SKT, 초대형 AI 데이터센터 구축 추진",
+        "summary": "AI 학습과 추론 수요 증가에 대응하기 위한 최대 15GW 규모 AI 데이터센터 구축 계획이 추진된다.울산 AI 데이터센터를 출발점으로 영남권과 호남권에 총 5GW 규모 인프라를 2029년부터 단계적으로 가동한다.반도체, 전력, 데이터센터 운영 역량을 결합해 한국을 아시아 AI 인프라 거점으로 키우는 전략이다.생성AI와 에이전틱 AI 확산은 데이터센터의 역 ...",
+        "source": "지티티코리아",
+        "publishedAt": "2026-07-05",
+        "url": "https://www.gttkorea.com/news/articleView.html?idxno=26267",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.03UJxkeQxE-S19jPYe9Yuw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "나라가 대놓고 앞장선다…AI 혁명에 부활한 ‘큰 정부론’ [VIEW]",
+        "summary": "인공지능(AI) 시대가 도래하면서, 정부가 최첨단 AI 산업을 앞장서서 육성해야 한다는 ‘큰 정부론’이 여권에서 부상하고 있다. AI 대전환 시대를 맞아 정부가 첨단 산업을 최전선에서 이끌며 국가 대도약을 이끌어야 한다는 논리다. 김용범 청와대 정책실장이 지난달 24일 서울 중구 한국프레스센터에서 열린 관훈클럽 초청 토론회에서 모두발언을 하고 있다. 뉴스1 ...",
+        "source": "중앙일보 on MSN",
+        "publishedAt": "2026-07-05",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%82%98%EB%9D%BC%EA%B0%80-%EB%8C%80%EB%86%93%EA%B3%A0-%EC%95%9E%EC%9E%A5%EC%84%A0%EB%8B%A4-ai-%ED%98%81%EB%AA%85%EC%97%90-%EB%B6%80%ED%99%9C%ED%95%9C-%ED%81%B0-%EC%A0%95%EB%B6%80%EB%A1%A0-view/ar-AA27gFBW",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.AxG9WTSOje53hWUdUJ7qKQ&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-07-05",
     "windowStart": "2026-07-03T22:00:00.000Z",
     "windowEnd": "2026-07-04T22:00:00.000Z",
@@ -542,94 +621,6 @@
         "publishedAt": "2026-06-29",
         "url": "https://www.mk.co.kr/news/business/12085867",
         "imageUrl": "https://www.bing.com/th?id=ONUT.QMZTDo0C4yHhDw0u8_nruA&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-06-29",
-    "windowStart": "2026-06-27T22:00:00.000Z",
-    "windowEnd": "2026-06-28T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "[데이터 팝콘] 당하면 당연히 신고?...통계로 본 성폭력에 대한 오해",
-        "summary": "본 기사는 데이터를 중심에 둔 인터랙티브 뉴스입니다. 취재 과정에서 확보한 통계와 수치를 독자가 직접 확인하고 해석할 수 있도록 구성했습니다. 단순히 결과를 전달하는 데 그치지 않고 데이터 분석을 통해 현안을 구조적으로 짚고 그에 따른 정책적·사회적 대안을 도출하는 데 초점을 맞췄습니다.그래프와 도표는 마우스 클릭 또는 터치로 항목을 선택해 자세히 볼 수 ...",
-        "source": "Today Newspaper",
-        "publishedAt": "2026-06-26",
-        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127859",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.MnioBse9S_tNwEe0g6DBKQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "'투표용지 부족' 후폭풍…정치권 넘어 '사회적 이슈' 확대",
-        "summary": "제9회 전국동시지방선거·국회의원 재보궐선거 과정에서 불거진 '투표용지 부족' 사태의 후폭풍이 만만치 않다.특히 충청권 등 전국 대학가에선 선거 이후 연일 중앙선거관리위원회를 규탄하는 시국선언이 잇따르고 2030세대를 중심으로 한 '참정권 운동'으로 확산하면서, 사회적 메가 이슈로 부상하는 양상이다.정치권에선 '부정선거'와 '음모론' 등의 혼돈 속에 향후 추 ...",
-        "source": "MSN on MSN",
-        "publishedAt": "2026-06-10",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%88%AC%ED%91%9C%EC%9A%A9%EC%A7%80-%EB%B6%80%EC%A1%B1-%ED%9B%84%ED%8F%AD%ED%92%8D-%EC%A0%95%EC%B9%98%EA%B6%8C-%EB%84%98%EC%96%B4-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%9D%B4%EC%8A%88-%ED%99%95%EB%8C%80/ar-AA25hDJy",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.gyNtAqBMXC0gPdxeohAt5A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[박준규의 이슈언박싱] 일본은 마운자로 싸게 풀고도 \"함부로 맞지 마라\"…한국과 정반대, 왜",
-        "summary": "비만치료제 마운자로(성분명 티르제파타이드)를 두고 '김치자로'라는 씁쓸한 별명이 돕니다. 같은 약인데 한국에서 산 것이 일본에서 산 것보다 몇 배나 비싸다는 뜻에서, 국내 구매분을 '김치자로', 일본 구매분을 '일본자로'라고 부르는 은어까지 생겼습니다. 가격 차이가 크다는 이야기는 이 ...",
-        "source": "펜앤드마이크",
-        "publishedAt": "2026-06-28",
-        "url": "https://www.pennmike.com/news/articleView.html?idxno=122830",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.-7hd52yBS3DvP6K1OIAakw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈] 〈21세기 대군부인〉이 쏘아 올린 ‘동북공정’ 논란",
-        "summary": "“〈21세기 대군부인〉 드라마에 나오는 ‘천세(千歲)’라는 말은 한국이 한때 중국의 속국이었다는 사실을 암묵적으로 인정한 겁니다.”역사 고증 오류와 왜곡 논란속에 종영한 MBC 드라마 〈21세기 대군부인〉을 둘러싼 논란이 한국을 넘어 중국으로까지 번지고 있다. 국내에서 제기된 역사 왜곡 논란을 중국 현지 매체들이 잇따라 보도하자, 중국의 대표 소셜미디어(S ...",
-        "source": "Monthly Chosun on MSN",
-        "publishedAt": "2026-06-19",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4%EC%8A%88-21%EC%84%B8%EA%B8%B0-%EB%8C%80%EA%B5%B0%EB%B6%80%EC%9D%B8-%EC%9D%B4-%EC%8F%98%EC%95%84-%EC%98%AC%EB%A6%B0-%EB%8F%99%EB%B6%81%EA%B3%B5%EC%A0%95-%EB%85%BC%EB%9E%80/ar-AA260F5Z",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.e3dd3b3c46b40e6074c7f0235ab6893c&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈ON] 출입문 막은 '최후 1인', 업무 방해로 수사",
-        "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스ON] 명시해주시기 바랍니다. [앵커] 투표용지 부족 사태로 촉발된 잠실 개표소 앞 시위가 2주 가까이 이어지고 있습니다. 시위 과정에서 발생한 불법 행위, 그리고 선관위의 선거 관리 부실 의혹 수사도 진행 중인데요. 계속되는 ...",
-        "source": "YTN",
-        "publishedAt": "2026-06-17",
-        "url": "https://www.ytn.co.kr/_ln/0103_202606171701273125",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.pBWS_zpVJfm9nUA2oD1n2A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "'인공지능 비즈니스 마에스트로(AI 거장) 1급 자격 실전 과정' 성료",
-        "summary": "인공지능(AI)이 산업과 일하는 방식을 근본적으로 바꾸고 있는 가운데, 국내 최초로 개설된 '인공지능 비즈니스 마에스트로(AI 거장) 1급 자격 실전 과정'이 높은 관심 속에 성공적으로 마무리되며 AI 실무교육의 새로운 기준을 제시했다. 국제미래학회와 인공지능 글로벌교육원이 공동 주관한 이번 과정은 지난 20일과 27일 이틀간 오전 9시부터 오후 6시까지 ...",
-        "source": "전자신문 on MSN",
-        "publishedAt": "2026-06-28",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%A7%88%EC%97%90%EC%8A%A4%ED%8A%B8%EB%A1%9Cai-%EA%B1%B0%EC%9E%A5-1%EA%B8%89-%EC%9E%90%EA%B2%A9-%EC%8B%A4%EC%A0%84-%EA%B3%BC%EC%A0%95-%EC%84%B1%EB%A3%8C/ar-AA26ILb8",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.WtQiJDb1lR-XH_iS8aJhpg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "미·일 훈련에 AI 표적시스템 활용…인공지능이 일본 전수방위 이해할까",
-        "summary": "“적 표적 ‘타게팅’에 인공지능(AI)을 사용하는 게 유용하다고 생각합니다.” 우치쿠라 히로아키 일본 통합막료장(한국의 합참의장에 해당)은 지난 4월 자위대 전투 지휘에 인공지능을 도입하는 문제에 대해 이렇게 답했다. 그는 ‘미군과 표적 정보 공유에 인공지능 활용을 검토하느냐'는 질문에 “미국과 구체적 논의 여부에 ...",
-        "source": "The Hankyoreh on MSN",
-        "publishedAt": "2026-06-28",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EB%AF%B8-%EC%9D%BC-%ED%9B%88%EB%A0%A8%EC%97%90-ai-%ED%91%9C%EC%A0%81%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%99%9C%EC%9A%A9-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4-%EC%9D%BC%EB%B3%B8-%EC%A0%84%EC%88%98%EB%B0%A9%EC%9C%84-%EC%9D%B4%ED%95%B4%ED%95%A0%EA%B9%8C/ar-AA26IGTO",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.pDj4ENW4x3_nbr37o2Qqdg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "SK, 호남 반도체클러스터·영남 AI데이터센터로 AI혁신 확산",
-        "summary": "(이천=연합뉴스) 서대연 기자 = SK하이닉스가 계속되는 인공지능 (AI) 반도체 수요 급증에 힘입어 매출액 52조원, 영업익 37조원을 넘으며 역대 최대 실적 기록 행진을 이어간 23일 경기도 이천시 SK하이닉스 본사 모습. SK하이닉스는 연결 기준 올해 1분기 영업이익이 37조6천103억원으로 작년 동기 대비 405.5% 증가했다고 23일 공시했다.",
-        "source": "연합뉴스",
-        "publishedAt": "2026-06-28",
-        "url": "https://www.yna.co.kr/view/AKR20260628043600003",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.whnV4Cr_r5J6s5rD7S0sOg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "호남에 반도체 팹·충청에 패키징 … 영남엔 피지컬AI·데이터센터",
-        "summary": "삼성·SK 2000조대 투자 … 29일 靑서 국민보고회 삼성 이어 SK도 1100조 투자 광주, 초대형 반도체 클러스터 소재·부품·장비·R&D 집적 靑보고회 이재용·최태원 참석 30일부터 지역별 투자 보고회 ...",
-        "source": "Maeil Business Newspaper",
-        "publishedAt": "2026-06-28",
-        "url": "https://www.mk.co.kr/esg/news/view/2026/408483/",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.vxcdzUDi9Pxjvr7NRpXL8w&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
