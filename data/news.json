@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-07-06",
-  "windowStart": "2026-07-04T22:00:00.000Z",
-  "windowEnd": "2026-07-05T22:00:00.000Z",
+  "updatedAt": "2026-07-07",
+  "windowStart": "2026-07-05T22:00:00.000Z",
+  "windowEnd": "2026-07-06T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "노동부, 초과이익 재분배 논의 재개...토론회로 의견 수렴 예정",
+      "summary": "【투데이신문 권신영 기자】정부가 기업의 초과이익 재분배와 원·하청 간 격차 완화 방안을 다시 논의한다. 사회연대임금의 실효성을 둘러싼 비판이 이어지는 가운데 정부 권한을 활용한 직접적인 격차 해소와 기업 성과의 사회적 재투자가 주요 쟁점으로 떠올랐다.6일 투데이신문 취재에 따르면 고용노동부(이하 노동부)는 이달 중순 기업의 초과이익 재분배 방안 등을 논의하 ...",
+      "source": "투데이신문",
+      "publishedAt": "2026-07-06",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128024",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.WfxOlKiRFVgqu5AWIsVeAw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\"",
+      "summary": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\" 英 연구팀 \"AI가 게시물 논조 변화시켜…은밀한 편향, 사회 전체로 확산\" (서울=연합뉴스) 이주영 기자 = 소셜미디어에서 게시물을 작성하거나 다듬고 내용을 설명해주는 생성형 인공지능(A..",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-07-06",
+      "url": "https://www.fnnews.com/news/202607060816311040",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.NIqRG4l0en_KQSJFY7z8Ew&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "[박준규의 이슈언박싱] 응징이 교육을 삼켰다…배재고 야구부에 내려진 '사회적 사형'",
@@ -23,30 +41,48 @@
     },
     {
       "category": "society",
-      "title": "GH 주거복지센터, 12개 시·군 찾아가는 교육 14회 운영 본격화",
-      "summary": "경기주택도시공사(GH·사장 김용진)가 운영하는 경기도 주거복지센터가 오는 11월까지 도내 12개 시·군에서 '찾아가는 주거복지교육'을 14차례 운영한다. GH는 경기도 주거복지센터가 지난 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 주거복지교육을 진행했다고 27일 밝혔다. 이 교육은 주거복지 현장에서 주민 상담과 제도 안내를 ...",
-      "source": "전자신문 on MSN",
-      "publishedAt": "2026-06-27",
-      "url": "https://www.msn.com/ko-kr/news/other/gh-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-12%EA%B0%9C-%EC%8B%9C-%EA%B5%B0-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EA%B5%90%EC%9C%A1-14%ED%9A%8C-%EC%9A%B4%EC%98%81-%EB%B3%B8%EA%B2%A9%ED%99%94/ar-AA26GPWH",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.WQmM3JCQlGfHhx3PzARDJA&pid=News&w=1200&h=675&c=14"
+      "title": "[천지일보 이슈종합] 이란 원유 거래 허용·北 MDL 철책 설치·밴스 美부통령·잠실 참정권 집회·러브버그의 계절·스위스 회담 종료 ...",
+      "summary": "[천지일보=황해연 기자] 미국 정부가 이란산 원유와 석유제품에 대한 제재를 60일 동안 잠정 유예하기로 했다. 우리 군이 북한이 군사분계선(MDL) 인근에 철책을 설치하는 등 국경선화·요새화 작업을 진행하는 것에 대해 “명백한 정전협정 위반”이라고 비판했다. 미국과 이란이 국제 핵사찰 ...",
+      "source": "Cheonji Ilbo",
+      "publishedAt": "2026-06-22",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3411262",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.nCj0yTqPu10N6ft1mAvMGw&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "society",
-      "title": "경기도, 11월까지 12개 시군에서 '찾아가는 주거복지 교육'",
-      "summary": "경기도가 도내 기초 주거복지센터 및 읍·면·동 주거복지 실무자의 현장 대응 역량을 강화하기 위해 오는 11월까지 남양주시 등 12개 시군에서 '2026년 찾아가는 주거복지 교육'을 실시한다. 이번 교육은 주거복지 ...",
-      "source": "Asia Economy on MSN",
-      "publishedAt": "2026-06-23",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EA%B8%B0%EB%8F%84-11%EC%9B%94%EA%B9%8C%EC%A7%80-12%EA%B0%9C-%EC%8B%9C%EA%B5%B0%EC%97%90%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80-%EA%B5%90%EC%9C%A1/ar-AA26ikAq",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.0d2fcdc4eb0d7eb74760df165c8ddfb6&pid=News&w=1200&h=675&c=14"
+      "category": "ai",
+      "title": "에임인텔리전스, 과기부 '인공지능 안전 서울포럼 2026'서 워크숍 주관",
+      "summary": "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 ‘데이터랩’에서 볼 수 있습니다.] AI(인공지능) 보안 기업 에임인텔리전스가 오는 7일부터 8일까지 서울 오크우드 프리미어 코엑스 센터에서 열리는 '인공지능 안전 서울포럼 2026(SFASS 2026)'에 공식 협력기관으로 참여해 '프론티어 AI 레드티밍 워크숍'을 주관 ...",
+      "source": "머니투데이 on MSN",
+      "publishedAt": "2026-07-06",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%97%90%EC%9E%84%EC%9D%B8%ED%85%94%EB%A6%AC%EC%A0%84%EC%8A%A4-%EA%B3%BC%EA%B8%B0%EB%B6%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%95%88%EC%A0%84-%EC%84%9C%EC%9A%B8%ED%8F%AC%EB%9F%BC-2026-%EC%84%9C-%EC%9B%8C%ED%81%AC%EC%88%8D-%EC%A3%BC%EA%B4%80/ar-AA27iDX4",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.pNH28yPVl8eLvWCv9FsRkw&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "society",
-      "title": "GH 경기도 주거복지센터, 양주서 ‘찾아가는 주거복지교육’",
-      "summary": "경기주택도시공사(GH)가 운영 중인 경기도 주거복지센터는 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 ‘찾아가는 주거복지교육’을 진행했다고 밝혔다.강의는 공공임대주택 유형별 특성과 주요 주거복지제도 이론 및 실제 현장 사례 중심으로 ...",
-      "source": "Seoul Newspaper on MSN",
+      "category": "ai",
+      "title": "기정원 인공지능혁신추진단, 스마트공장 우수 구축사례 확산",
+      "summary": "아시아투데이 배석원 기자 = 중소기업기술정보진흥원 인공지능혁신추진단은 스마트공장 지원사업의 우수 구축 사례를 발굴하고 성과를 확산하기 위해 '2026 스마트공장 지원사업 우수사례 컨소시엄 선정' 참가 기업을 모집한다고 6일 밝혔다.이번 우수사례 선정은 스마트공장 지원사 ...",
+      "source": "아시아투데이 on MSN",
+      "publishedAt": "2026-07-06",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%B0%EC%A0%95%EC%9B%90-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%ED%98%81%EC%8B%A0%EC%B6%94%EC%A7%84%EB%8B%A8-%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B3%B5%EC%9E%A5-%EC%9A%B0%EC%88%98-%EA%B5%AC%EC%B6%95%EC%82%AC%EB%A1%80-%ED%99%95%EC%82%B0/ar-AA27iso9",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Qk27lDFZzrPVll42QvFh6A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "일터·교육 환경 바꾸는 인공지능…‘“사람’ 중심 논의 이뤄져야”",
+      "summary": "제5회 사람과디지털포럼 ‘AI 시대, 일과 학습의 미래’조정식 국회의장 “사람 중심에 둬야 개인·사회 번영”김지형 경사노위 위원장 “사회적 대화로 모색할 때”박찬수 한겨레 대표 “AI가 인간 위해 일하도록 해야” ...",
+      "source": "한겨레 on MSN",
       "publishedAt": "2026-06-24",
-      "url": "https://www.msn.com/ko-kr/news/other/gh-%EA%B2%BD%EA%B8%B0%EB%8F%84-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-%EC%96%91%EC%A3%BC%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EA%B5%90%EC%9C%A1/ar-AA26paV0",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.c1292f3cd77a134a00d284636cb62e0f&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%9D%BC%ED%84%B0-%EA%B5%90%EC%9C%A1-%ED%99%98%EA%B2%BD-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%82%AC%EB%9E%8C-%EC%A4%91%EC%8B%AC-%EB%85%BC%EC%9D%98-%EC%9D%B4%EB%A4%84%EC%A0%B8%EC%95%BC/ar-AA26oioQ",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.M2tMOHdstbRmg1lWSou_RQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "서강대, ‘설명가능 인공지능 워크숍’서 융합 연구 성과 공개",
+      "summary": "서강대학교가 6월 25일 제주 국제컨벤션센터에서 열린 ‘KCC 설명가능 인공지능(XAI) 워크숍 2026’에 제3세부과제 참여기관으로 참가했다. 이번 워크숍은 KAIST 설명가능 인공지능연구센터가 주관하고, 서울대·서강대·한국전자통신연구원(ETRI)이 세부 과제 ...",
+      "source": "중앙일보",
+      "publishedAt": "2026-07-02",
+      "url": "https://www.koreadaily.com/article/20260701225033683",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.NPELvlREuiYh_FiW2130Kg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
@@ -56,24 +92,6 @@
       "publishedAt": "2026-07-05",
       "url": "https://www.segye.com/newsView/20260705506200",
       "imageUrl": "https://www.bing.com/th?id=ONUT.wT36nn1d_y2Suhdvm5Nykg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "AI 연산 인프라 15GW 시대 연다...SKT, 초대형 AI 데이터센터 구축 추진",
-      "summary": "AI 학습과 추론 수요 증가에 대응하기 위한 최대 15GW 규모 AI 데이터센터 구축 계획이 추진된다.울산 AI 데이터센터를 출발점으로 영남권과 호남권에 총 5GW 규모 인프라를 2029년부터 단계적으로 가동한다.반도체, 전력, 데이터센터 운영 역량을 결합해 한국을 아시아 AI 인프라 거점으로 키우는 전략이다.생성AI와 에이전틱 AI 확산은 데이터센터의 역 ...",
-      "source": "지티티코리아",
-      "publishedAt": "2026-07-05",
-      "url": "https://www.gttkorea.com/news/articleView.html?idxno=26267",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.03UJxkeQxE-S19jPYe9Yuw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "나라가 대놓고 앞장선다…AI 혁명에 부활한 ‘큰 정부론’ [VIEW]",
-      "summary": "인공지능(AI) 시대가 도래하면서, 정부가 최첨단 AI 산업을 앞장서서 육성해야 한다는 ‘큰 정부론’이 여권에서 부상하고 있다. AI 대전환 시대를 맞아 정부가 첨단 산업을 최전선에서 이끌며 국가 대도약을 이끌어야 한다는 논리다. 김용범 청와대 정책실장이 지난달 24일 서울 중구 한국프레스센터에서 열린 관훈클럽 초청 토론회에서 모두발언을 하고 있다. 뉴스1 ...",
-      "source": "중앙일보 on MSN",
-      "publishedAt": "2026-07-05",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%82%98%EB%9D%BC%EA%B0%80-%EB%8C%80%EB%86%93%EA%B3%A0-%EC%95%9E%EC%9E%A5%EC%84%A0%EB%8B%A4-ai-%ED%98%81%EB%AA%85%EC%97%90-%EB%B6%80%ED%99%9C%ED%95%9C-%ED%81%B0-%EC%A0%95%EB%B6%80%EB%A1%A0-view/ar-AA27gFBW",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.AxG9WTSOje53hWUdUJ7qKQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
