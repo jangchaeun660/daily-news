@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-07-07",
-  "windowStart": "2026-07-05T22:00:00.000Z",
-  "windowEnd": "2026-07-06T22:00:00.000Z",
+  "updatedAt": "2026-07-08",
+  "windowStart": "2026-07-06T22:00:00.000Z",
+  "windowEnd": "2026-07-07T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "노동부, 초과이익 재분배 논의 재개...토론회로 의견 수렴 예정",
-      "summary": "【투데이신문 권신영 기자】정부가 기업의 초과이익 재분배와 원·하청 간 격차 완화 방안을 다시 논의한다. 사회연대임금의 실효성을 둘러싼 비판이 이어지는 가운데 정부 권한을 활용한 직접적인 격차 해소와 기업 성과의 사회적 재투자가 주요 쟁점으로 떠올랐다.6일 투데이신문 취재에 따르면 고용노동부(이하 노동부)는 이달 중순 기업의 초과이익 재분배 방안 등을 논의하 ...",
-      "source": "투데이신문",
-      "publishedAt": "2026-07-06",
-      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128024",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.WfxOlKiRFVgqu5AWIsVeAw&pid=News&w=1200&h=675&c=14"
+      "title": "GH 주거복지센터, 12개 시·군 찾아가는 교육 14회 운영 본격화",
+      "summary": "경기주택도시공사(GH·사장 김용진)가 운영하는 경기도 주거복지센터가 오는 11월까지 도내 12개 시·군에서 '찾아가는 주거복지교육'을 14차례 운영한다. GH는 경기도 주거복지센터가 지난 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 주거복지교육을 진행했다고 27일 밝혔다. 이 교육은 주거복지 현장에서 주민 상담과 제도 안내를 ...",
+      "source": "전자신문 on MSN",
+      "publishedAt": "2026-06-27",
+      "url": "https://www.msn.com/ko-kr/news/other/gh-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-12%EA%B0%9C-%EC%8B%9C-%EA%B5%B0-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EA%B5%90%EC%9C%A1-14%ED%9A%8C-%EC%9A%B4%EC%98%81-%EB%B3%B8%EA%B2%A9%ED%99%94/ar-AA26GPWH",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.WQmM3JCQlGfHhx3PzARDJA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\"",
-      "summary": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\" 英 연구팀 \"AI가 게시물 논조 변화시켜…은밀한 편향, 사회 전체로 확산\" (서울=연합뉴스) 이주영 기자 = 소셜미디어에서 게시물을 작성하거나 다듬고 내용을 설명해주는 생성형 인공지능(A..",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-07-06",
-      "url": "https://www.fnnews.com/news/202607060816311040",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.NIqRG4l0en_KQSJFY7z8Ew&pid=News&w=1200&h=675&c=14"
+      "title": "경기도, 11월까지 12개 시군에서 '찾아가는 주거복지 교육'",
+      "summary": "경기도가 도내 기초 주거복지센터 및 읍·면·동 주거복지 실무자의 현장 대응 역량을 강화하기 위해 오는 11월까지 남양주시 등 12개 시군에서 '2026년 찾아가는 주거복지 교육'을 실시한다. 이번 교육은 주거복지 ...",
+      "source": "Asia Economy on MSN",
+      "publishedAt": "2026-06-23",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EA%B8%B0%EB%8F%84-11%EC%9B%94%EA%B9%8C%EC%A7%80-12%EA%B0%9C-%EC%8B%9C%EA%B5%B0%EC%97%90%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80-%EA%B5%90%EC%9C%A1/ar-AA26ikAq",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.0d2fcdc4eb0d7eb74760df165c8ddfb6&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "[박준규의 이슈언박싱] 응징이 교육을 삼켰다…배재고 야구부에 내려진 '사회적 사형'",
-      "summary": "지난달 29일 청룡기 전국고교야구선수권대회 배재고와 광주제일고의 경기 8회초, 앞서가던 배재고 더그아웃에서 \"스타벅스 가야지\"라는 구호가 터져 나왔습니다. 한 달 전 '5·18 탱크데이' 논란을 그대로 끌어와 광주 팀을 향해 던진 구호였습니다. 정치나 이념이 개입해서는 안 되는 스포츠 현장에 사회적 논란이 된 구호를 끌어들인 것은 분명 부적절한 처신이었습니 ...",
-      "source": "펜앤드마이크",
-      "publishedAt": "2026-07-05",
-      "url": "https://www.pennmike.com/news/articleView.html?idxno=123179",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.eCBTP8LU9UsTmYQBxrV2JA&pid=News&w=1200&h=675&c=14"
+      "title": "[인천시론] 모두의 복지 넘어 ‘사회정책’으로",
+      "summary": "보건복지부는 5월 ‘제3차 사회보장기본계획 수정계획’을 발표하며 ‘선별적 보호를 넘어 모두의 복지’를 새로운 복지 철학으로 제시했다. 국민 모두의 생애 전 과정을 국가가 책임지고 보편적 권리로 복지를 누리는 사회를 만들겠다는 선언은 분명 이전의 선별복지 중심 정책보다 ...",
+      "source": "경기일보",
+      "publishedAt": "2026-07-06",
+      "url": "https://www.kyeonggi.com/article/20260706580508",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.e9Wg6VLoxlcZLfwS4w0wUg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "빗썸, ‘빗썸나눔’으로 사회공헌 생태계 확대",
-      "summary": "빗썸의 사회공헌 브랜드 빗썸나눔이 임직원 중심의 봉사활동을 넘어 시민과 지역사회가 함께하는 참여형 사회공헌 플랫폼으로 확장되고 있다. 빗썸나눔은 ‘작은 나눔이 모여 큰 변화를 만든다’는 슬로건 아래 임직원이 직접 기획하고 참여하는 봉사활동을 비롯해 지역사회 지원과 재난 및 재해 긴급 지원 등을 이어가고 있다. 빗썸나눔 사회공헌 활동의 가장 큰 특징은 임직원 ...",
-      "source": "경향게임스",
-      "publishedAt": "2026-07-01",
-      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305939",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.aNVBt6pL_EspqOeqDpunVw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[천지일보 이슈종합] 이란 원유 거래 허용·北 MDL 철책 설치·밴스 美부통령·잠실 참정권 집회·러브버그의 계절·스위스 회담 종료 ...",
-      "summary": "[천지일보=황해연 기자] 미국 정부가 이란산 원유와 석유제품에 대한 제재를 60일 동안 잠정 유예하기로 했다. 우리 군이 북한이 군사분계선(MDL) 인근에 철책을 설치하는 등 국경선화·요새화 작업을 진행하는 것에 대해 “명백한 정전협정 위반”이라고 비판했다. 미국과 이란이 국제 핵사찰 ...",
-      "source": "Cheonji Ilbo",
-      "publishedAt": "2026-06-22",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3411262",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.nCj0yTqPu10N6ft1mAvMGw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "에임인텔리전스, 과기부 '인공지능 안전 서울포럼 2026'서 워크숍 주관",
-      "summary": "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 ‘데이터랩’에서 볼 수 있습니다.] AI(인공지능) 보안 기업 에임인텔리전스가 오는 7일부터 8일까지 서울 오크우드 프리미어 코엑스 센터에서 열리는 '인공지능 안전 서울포럼 2026(SFASS 2026)'에 공식 협력기관으로 참여해 '프론티어 AI 레드티밍 워크숍'을 주관 ...",
-      "source": "머니투데이 on MSN",
-      "publishedAt": "2026-07-06",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%97%90%EC%9E%84%EC%9D%B8%ED%85%94%EB%A6%AC%EC%A0%84%EC%8A%A4-%EA%B3%BC%EA%B8%B0%EB%B6%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%95%88%EC%A0%84-%EC%84%9C%EC%9A%B8%ED%8F%AC%EB%9F%BC-2026-%EC%84%9C-%EC%9B%8C%ED%81%AC%EC%88%8D-%EC%A3%BC%EA%B4%80/ar-AA27iDX4",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.pNH28yPVl8eLvWCv9FsRkw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "기정원 인공지능혁신추진단, 스마트공장 우수 구축사례 확산",
-      "summary": "아시아투데이 배석원 기자 = 중소기업기술정보진흥원 인공지능혁신추진단은 스마트공장 지원사업의 우수 구축 사례를 발굴하고 성과를 확산하기 위해 '2026 스마트공장 지원사업 우수사례 컨소시엄 선정' 참가 기업을 모집한다고 6일 밝혔다.이번 우수사례 선정은 스마트공장 지원사 ...",
-      "source": "아시아투데이 on MSN",
-      "publishedAt": "2026-07-06",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%B0%EC%A0%95%EC%9B%90-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%ED%98%81%EC%8B%A0%EC%B6%94%EC%A7%84%EB%8B%A8-%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B3%B5%EC%9E%A5-%EC%9A%B0%EC%88%98-%EA%B5%AC%EC%B6%95%EC%82%AC%EB%A1%80-%ED%99%95%EC%82%B0/ar-AA27iso9",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Qk27lDFZzrPVll42QvFh6A&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "일터·교육 환경 바꾸는 인공지능…‘“사람’ 중심 논의 이뤄져야”",
-      "summary": "제5회 사람과디지털포럼 ‘AI 시대, 일과 학습의 미래’조정식 국회의장 “사람 중심에 둬야 개인·사회 번영”김지형 경사노위 위원장 “사회적 대화로 모색할 때”박찬수 한겨레 대표 “AI가 인간 위해 일하도록 해야” ...",
-      "source": "한겨레 on MSN",
+      "title": "GH 경기도 주거복지센터, 양주서 ‘찾아가는 주거복지교육’",
+      "summary": "경기주택도시공사(GH)가 운영 중인 경기도 주거복지센터는 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 ‘찾아가는 주거복지교육’을 진행했다고 밝혔다.강의는 공공임대주택 유형별 특성과 주요 주거복지제도 이론 및 실제 현장 사례 중심으로 ...",
+      "source": "Seoul Newspaper on MSN",
       "publishedAt": "2026-06-24",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%9D%BC%ED%84%B0-%EA%B5%90%EC%9C%A1-%ED%99%98%EA%B2%BD-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%82%AC%EB%9E%8C-%EC%A4%91%EC%8B%AC-%EB%85%BC%EC%9D%98-%EC%9D%B4%EB%A4%84%EC%A0%B8%EC%95%BC/ar-AA26oioQ",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.M2tMOHdstbRmg1lWSou_RQ&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/news/other/gh-%EA%B2%BD%EA%B8%B0%EB%8F%84-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-%EC%96%91%EC%A3%BC%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EA%B5%90%EC%9C%A1/ar-AA26paV0",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.c1292f3cd77a134a00d284636cb62e0f&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "김선영 경기도의원, 주거복지는 공급을 넘어 돌봄까지... 실효성 있는 주거복지 정책 주문",
+      "summary": "경기도의회에서 도내 취약계층을 위한 주거복지 정책이 단순한 물량 공급을 넘어 현장 중심의 맞춤형 돌봄 서비스로 패러다임을 전환해야 한다는 지적이 나왔다. 특히 집행 실적이 부진한 임대주택 사업의 원인을 면밀히 분석해 도민에게 적기 지원되도록 조치해야 한다는 ...",
+      "source": "SeoulPn on MSN",
+      "publishedAt": "2026-06-24",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B9%80%EC%84%A0%EC%98%81-%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%9D%98%EC%9B%90-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EB%8A%94-%EA%B3%B5%EA%B8%89%EC%9D%84-%EB%84%98%EC%96%B4-%EB%8F%8C%EB%B4%84%EA%B9%8C%EC%A7%80-%EC%8B%A4%ED%9A%A8%EC%84%B1-%EC%9E%88%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80-%EC%A0%95%EC%B1%85-%EC%A3%BC%EB%AC%B8/ar-AA26o2Py",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.12c8bac3af0495ad78df1d7d94fd8451&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "서강대, ‘설명가능 인공지능 워크숍’서 융합 연구 성과 공개",
-      "summary": "서강대학교가 6월 25일 제주 국제컨벤션센터에서 열린 ‘KCC 설명가능 인공지능(XAI) 워크숍 2026’에 제3세부과제 참여기관으로 참가했다. 이번 워크숍은 KAIST 설명가능 인공지능연구센터가 주관하고, 서울대·서강대·한국전자통신연구원(ETRI)이 세부 과제 ...",
-      "source": "중앙일보",
-      "publishedAt": "2026-07-02",
-      "url": "https://www.koreadaily.com/article/20260701225033683",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.NPELvlREuiYh_FiW2130Kg&pid=News&w=1200&h=675&c=14"
+      "title": "반도체·AI로봇·데이터센터 ‘3대 메가프로젝트’…전력·입지까지 총력 지원",
+      "summary": "서남권 반도체 800조원 투자…용인 팹 완공 시점 최대 12년 단축 AI로봇 매년 1000대 보급·전문인력 1만명 양성 AI데이터센터 550조원 투자…전용 요금제 도입 추진 정부가 반도체와 피지컬AI, AI데이터센터를 국가 도약을 이끌 3대 메가프로젝트로 정하고 대규모 투자와 인프라 지원에 나선다. 민간 투자계획에 전력·용수·부지 공급, 인허가 단축, 전기 ...",
+      "source": "이투데이 on MSN",
+      "publishedAt": "2026-06-29",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%B0%98%EB%8F%84%EC%B2%B4-ai%EB%A1%9C%EB%B4%87-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-3%EB%8C%80-%EB%A9%94%EA%B0%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%84%EB%A0%A5-%EC%9E%85%EC%A7%80%EA%B9%8C%EC%A7%80-%EC%B4%9D%EB%A0%A5-%EC%A7%80%EC%9B%90/ar-AA26LJhN",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.HsyGNkgZgjMnhIZuFgWfmA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "인공지능(AI) 영향 받거나 밀접한 업종서 ‘청년 고용 감소세’",
-      "summary": "인공지능(AI)의 영향을 받거나 밀접한 업종에서 청년 고용이 감소세를 나타낸 것으로 전해졌다. 5일 국가데이터처 국가통계포털(KOSIS)에 공개된 고용행정통계를 보면 올해 5월 고용보험에 가입한 30세 미만은 약 223만3000명으로 1년 전보다 6만5000명(2. 8%) 정도 줄어든 것으로 집계됐다.",
-      "source": "세계일보",
-      "publishedAt": "2026-07-05",
-      "url": "https://www.segye.com/newsView/20260705506200",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.wT36nn1d_y2Suhdvm5Nykg&pid=News&w=1200&h=675&c=14"
+      "title": "'2100조 투자' 최태원號 SK, 한국판 AI벨트 만든다…\"반도체·데이터센터 올인\"",
+      "summary": "[서울=뉴시스]이창훈 기자 = SK가 반도체 생산 역량 강화와 인공지능(AI) 데이터센터 구축에 총 2100조원을 투자한다. 역대 최대 규모 투자로 수도권과 비수도권을 아우르는 새로운 'AI 생태계 벨트'를 조성하는 것이다. 이를 기반으로 대한민국을 글로벌 AI 강국으로 도약시키겠다는 구상이다.최태원 SK 회장은 29일 청와대 영빈관에서 열린 '대한민국 대 ...",
+      "source": "뉴시스",
+      "publishedAt": "2026-06-29",
+      "url": "https://www.newsis.com/view/NISX20260629_0003688272",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.0PGYYDytdJkdiqAroIYEZg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "최태원 \"SK, AI 데이터센터 1000조·반도체 확장 1100조 투자\"",
+      "summary": "(서울=뉴스1) 황진중 김진희 박기호 기자 = SK그룹이 인공지능(AI) 데이터센터 구축과 메모리 반도체 생산 기반 확장에 총 2100조 원을 투입하는 초대형 투자 프로젝트를 가동한다. AI 시대를 맞아 지능을 생산하는 인프라를 국내에 선제적으로 구축하고, 만성적인 반도..",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-06-29",
+      "url": "https://www.fnnews.com/news/202606291520444104",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Yzi2dtxt_Zns1xMNOJPNpg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "\"반도체·AI·데이터센터 삼각축\"…범부처 총력전",
+      "summary": "민간의 초대형 투자에 화답해 정부도 총력 지원책을 내놓았습니다. 반도체와 AI, 데이터센터를 연결해 비수도권을 아우르는 미래 산업의 3대 축을 완성하겠다는 구상입니다. 정부가 주도하는 '메가프로젝트'의 핵심은 반도체와 AI, 그리고 데이터센터를 묶는 삼각 축의 전국 확장입니다. 먼저 서남권 일대에 800조 원을 투입해 반도체 칩을 만드는 핵심 단계인 '전공 ...",
+      "source": "연합뉴스",
+      "publishedAt": "2026-06-29",
+      "url": "https://www.yna.co.kr/view/MYH20260629017700038",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.JYASXK5mvbuXw2w9znOiew&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "GS, AI 데이터센터 사업 공식화…\"강원에 2.4GW 규모로 구축\" 공시",
+      "summary": "[서울=뉴시스]박현준 기자 = GS가 인공지능(AI) 데이터센터 사업을 미래 성장동력으로 공식화하며 AI 인프라 시장 공략에 속도를 낸다.6일 업계에 따르면 ㈜GS는 이날 장래사업·경영계획 공시를 통해 AI 데이터센터 구축 사업을 추진한다고 밝혔다. GS는 증가하는 AI 데이터센터 수요에 대응하기 위해 중장기적으로 총 2.4기가와트(GW) 규모의 데이터센터 ...",
+      "source": "뉴시스",
+      "publishedAt": "2026-07-06",
+      "url": "https://www.newsis.com/view/NISX20260706_0003697198",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.lD1BbtvLYX4xDGNiKbsktg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
