@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-07-09",
+    "windowStart": "2026-07-07T22:00:00.000Z",
+    "windowEnd": "2026-07-08T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "한국지능정보사회진흥원, 국제표준 '부패방지경영' 인증 획득",
+        "summary": "중소벤처기업인증원 엄진엽 원장(왼쪽)과 한국지능정보사회진흥원 김형철 원장이 ISO 37001(부패방지경영시스템) 인증 수여식 후 함께 기념촬영을 하고 있다. [중소벤처기업인증원 제공]중소벤처기업인증원 엄진엽 원장(왼쪽)과 한국지능정보사회진흥원 김형철 원장이 ISO 37001(부패방지경영시스템) 인증 수여식 후 함께 기념촬영을 하고 있다. [중소벤처기업인증원 ...",
+        "source": "연합뉴스TV on MSN",
+        "publishedAt": "2026-07-08",
+        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%A7%80%EB%8A%A5%EC%A0%95%EB%B3%B4%EC%82%AC%ED%9A%8C%EC%A7%84%ED%9D%A5%EC%9B%90-%EA%B5%AD%EC%A0%9C%ED%91%9C%EC%A4%80-%EB%B6%80%ED%8C%A8%EB%B0%A9%EC%A7%80%EA%B2%BD%EC%98%81-%EC%9D%B8%EC%A6%9D-%ED%9A%8D%EB%93%9D/ar-AA27sKma",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.oyuStbl18O27mPGEeAlUxA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\"",
+        "summary": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\" 英 연구팀 \"AI가 게시물 논조 변화시켜…은밀한 편향, 사회 전체로 확산\" (서울=연합뉴스) 이주영 기자 = 소셜미디어에서 게시물을 작성하거나 다듬고 내용을 설명해주는 생성형 인공지능(A..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-07-06",
+        "url": "https://www.fnnews.com/news/202607060816311040",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.NIqRG4l0en_KQSJFY7z8Ew&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "노동부, 초과이익 재분배 논의 재개...토론회로 의견 수렴 예정",
+        "summary": "【투데이신문 권신영 기자】정부가 기업의 초과이익 재분배와 원·하청 간 격차 완화 방안을 다시 논의한다. 사회연대임금의 실효성을 둘러싼 비판이 이어지는 가운데 정부 권한을 활용한 직접적인 격차 해소와 기업 성과의 사회적 재투자가 주요 쟁점으로 떠올랐다.6일 투데이신문 취재에 따르면 고용노동부(이하 노동부)는 이달 중순 기업의 초과이익 재분배 방안 등을 논의하 ...",
+        "source": "투데이신문",
+        "publishedAt": "2026-07-06",
+        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128024",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.WfxOlKiRFVgqu5AWIsVeAw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "김정민 한국리서치 책임연구원 엄기홍 경북대학교 사회과학기초자료연구소장",
+        "summary": "미국에서는 대화형 AI가 정치적으로 편향된 답변을 내놓는다는 논쟁이 활발하다. 같은 사안이라도 AI 모델마다 특정 정당을 두둔하는 정도가 다르거나, 심지어 사용자가 질문하는 정치 성향에 따라 답변이 달라진다는 분석까지 나와 있다. 한국도 사정이 다르지 않다. 국가 AI 모델 구축이 정책 과제로 떠오른 지금, AI가 정치적으로 편향되어 있고 시민들이 정치·사 ...",
+        "source": "한국일보",
+        "publishedAt": "2026-07-04",
+        "url": "https://www.hankookilbo.com/news/article/A2026070113500004951?dtypecode=pancode_society",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.t4Ous1udWbnACFHiB1fTEA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[박준규의 이슈언박싱] 응징이 교육을 삼켰다…배재고 야구부에 내려진 '사회적 사형'",
+        "summary": "지난달 29일 청룡기 전국고교야구선수권대회 배재고와 광주제일고의 경기 8회초, 앞서가던 배재고 더그아웃에서 \"스타벅스 가야지\"라는 구호가 터져 나왔습니다. 한 달 전 '5·18 탱크데이' 논란을 그대로 끌어와 광주 팀을 향해 던진 구호였습니다. 정치나 이념이 개입해서는 안 되는 스포츠 현장에 사회적 논란이 된 구호를 끌어들인 것은 분명 부적절한 처신이었습니 ...",
+        "source": "펜앤드마이크",
+        "publishedAt": "2026-07-05",
+        "url": "https://www.pennmike.com/news/articleView.html?idxno=123179",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.eCBTP8LU9UsTmYQBxrV2JA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "새만금, 국제 해저광케이블 육양국 유치… 인공지능 데이터 허브 기반 마련",
+        "summary": "새만금 국가산업단지에 초고속 국제 해저광케이블 육양국(Cable Landing Station)이 들어서게 돼 새만금이 글로벌 인공지능(AI) 데이터 중심으로 도약할 기반이 될 전망이다. 새만금개발청과 전북도, 군산시, 한국농어촌공사는 8일 드림라인㈜와 새만금 국가산단 2공구에 대규모 국제 해저 케이블 구축 사업인 ‘AUG(Asia United Gateway ...",
+        "source": "세계일보 on MSN",
+        "publishedAt": "2026-07-08",
+        "url": "https://www.msn.com/ko-kr/news/national/%EC%83%88%EB%A7%8C%EA%B8%88-%EA%B5%AD%EC%A0%9C-%ED%95%B4%EC%A0%80%EA%B4%91%EC%BC%80%EC%9D%B4%EB%B8%94-%EC%9C%A1%EC%96%91%EA%B5%AD-%EC%9C%A0%EC%B9%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%97%88%EB%B8%8C-%EA%B8%B0%EB%B0%98-%EB%A7%88%EB%A0%A8/ar-AA27rQUY",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.mEFXNnijkQ15JoG7HdwMMw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "경기도미술관 인공지능 기술 접목 'AI 미술 도슨트' 서비스 본격 운영",
+        "summary": "[수원=뉴스핌] 박노훈 기자 = 경기문화재단 경기도미술관은 오는 16일부터 인공지능 기술을 접목한 'AI 미술 도슨트' 서비스를 본격적으로 운영한다고 8일 밝혔다. 이번 서비스는 7월 16일 개막하는 하반기 기획전 '우리의 여름에게'(2026. 7. 16. - 9. 27.)와 이어지는 '사랑노동아시아하기'(2026.",
+        "source": "뉴스핌 on MSN",
+        "publishedAt": "2026-07-08",
+        "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EA%B8%B0%EB%8F%84%EB%AF%B8%EC%88%A0%EA%B4%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B8%B0%EC%88%A0-%EC%A0%91%EB%AA%A9-ai-%EB%AF%B8%EC%88%A0-%EB%8F%84%EC%8A%A8%ED%8A%B8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B3%B8%EA%B2%A9-%EC%9A%B4%EC%98%81/ar-AA27rBsj",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.0E3uzP5XzT1AlluIgN0iwA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI가 바꾼 산업 지형…디지털산업 1천378조원 시대",
+        "summary": "2024년 우리나라 디지털산업 매출액이 1천378조원을 기록하며 전년보다 9.3% 성장한 것으로 나타났다. 기업들의 인공지능(AI) 전환이 빠르게 진행되면서 디지털 경제로의 이행도 산업 전반으로 확산되는 양상이다. 과학기술정보통신부는 정보통신정책연구원과 함께 '2025 디지털산업 실태조사' 결과를 8일 발표했다. 조사 결과에 따르면 2024년 디지털산업 매 ...",
+        "source": "세계일보 on MSN",
+        "publishedAt": "2026-07-08",
+        "url": "https://www.msn.com/ko-kr/money/%EA%B8%B0%EC%88%A0/ai%EA%B0%80-%EB%B0%94%EA%BE%BC-%EC%82%B0%EC%97%85-%EC%A7%80%ED%98%95-%EB%94%94%EC%A7%80%ED%84%B8%EC%82%B0%EC%97%85-1%EC%B2%9C378%EC%A1%B0%EC%9B%90-%EC%8B%9C%EB%8C%80/ar-AA27rAT2",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.3knMUkDPhd-TpmRiKiJKcw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[M.AX로 가는 길②] AI, 공장의 '눈'이 되고 '머리'가 되다",
+        "summary": "불과 몇 년 전만 해도 제조업의 인공지능(AI)은 반복 작업을 자동화하는 수준에 머물렀다. 하지만 지금 AI는 연구개발(R&D)을 돕고, 설비가 멈추기 전에 이상을 감지하며, 숙련 작업자의 눈을 대신해 불량을 찾아낸다. 사람이 수십 년간 축적한 경험을 학습해 의사결정까지 지원하는 단계로 진화했다. M.AX(Manufacturing AI Transformat ...",
+        "source": "아시아경제",
+        "publishedAt": "2026-07-08",
+        "url": "https://www.asiae.co.kr/article/2026070810450382828",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.8S1YZz-zsbviiM4ilN4N5g&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[르포] 종이컵 살살 쥐는 로봇손…나노기술, AI 산업 손끝으로",
+        "summary": "나노코리아 2026 개막…초미세 기술 산업화 전시 AI 반도체·로봇 감각·전기차 충전 기술 한자리에 스테인리스 철과 플라스틱 등의 소재로 만들어진 로봇 손. 당연히 물건을 세게 혹은 약하게 쥐거나 느낄 수 있는 '감각'이 있을리가 없다. 감각은 인간 등 생명체에 ...",
+        "source": "뉴스1",
+        "publishedAt": "2026-07-08",
+        "url": "https://www.news1.kr/it-science/general-science/6221499",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.cXip4791FVV_0wqPEET0TQ&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-07-08",
     "windowStart": "2026-07-06T22:00:00.000Z",
     "windowEnd": "2026-07-07T22:00:00.000Z",
@@ -542,85 +639,6 @@
         "publishedAt": "2026-07-02",
         "url": "https://www.msn.com/ko-kr/news/techandscience/%EB%A1%9C%EB%B4%87-%EC%97%85%EA%B3%84-%ED%94%BC%EC%A7%80%EC%BB%ACai-1%EA%B0%95-%EC%A0%95%EC%B1%85%EC%9D%80-a-%EB%A7%9E%EC%B6%A4-%EC%A7%80%EC%9B%90-%EB%B9%A0%EB%A5%B8-%EC%8B%A4%ED%96%89-%ED%95%84%EC%9A%94/ar-AA2728xm",
         "imageUrl": "https://www.bing.com/th?id=ORMS.8130a865414f81e5f4066d47c64a75d0&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-07-02",
-    "windowStart": "2026-06-30T22:00:00.000Z",
-    "windowEnd": "2026-07-01T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "빗썸, ‘빗썸나눔’으로 사회공헌 생태계 확대",
-        "summary": "빗썸의 사회공헌 브랜드 빗썸나눔이 임직원 중심의 봉사활동을 넘어 시민과 지역사회가 함께하는 참여형 사회공헌 플랫폼으로 확장되고 있다. 빗썸나눔은 ‘작은 나눔이 모여 큰 변화를 만든다’는 슬로건 아래 임직원이 직접 기획하고 참여하는 봉사활동을 비롯해 지역사회 지원과 재난 및 재해 긴급 지원 등을 이어가고 있다. 빗썸나눔 사회공헌 활동의 가장 큰 특징은 임직원 ...",
-        "source": "경향게임스",
-        "publishedAt": "2026-07-01",
-        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305939",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.aNVBt6pL_EspqOeqDpunVw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈ON] 출입문 막은 '최후 1인', 업무 방해로 수사",
-        "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스ON] 명시해주시기 바랍니다. [앵커] 투표용지 부족 사태로 촉발된 잠실 개표소 앞 시위가 2주 가까이 이어지고 있습니다. 시위 과정에서 발생한 불법 행위, 그리고 선관위의 선거 관리 부실 의혹 수사도 진행 중인데요. 계속되는 ...",
-        "source": "YTN",
-        "publishedAt": "2026-06-17",
-        "url": "https://www.ytn.co.kr/_ln/0103_202606171701273125",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.pBWS_zpVJfm9nUA2oD1n2A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "한국공인노무사회 창립 40주년 기념식 개최, 혁신 비전 밝혀",
-        "summary": "한국공인노무사회(회장 이완영)는 7월 1일 오후 3시 서울 여의도 글래드호텔에서 ‘공인노무사회 창립 40주년 기념식’을 개최한다. 이날 기념식에서는 지난 40년간의 성과를 되돌아보고, 급변하는 노동시장 환경과 플랫폼 노동자의 확산, AI 기술혁신 시대에 걸맞은 공인노무사의 새로운 역할을 위해 미래 비전을 제시한다. 특히 신뢰받는 공인노무사회, 인정받는 노무 ...",
-        "source": "매일경제",
-        "publishedAt": "2026-06-30",
-        "url": "https://www.mk.co.kr/news/business/12086680",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.xnEZ_y1a825gkQWOyT1xQg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "국내서 개발한, 동물 언어 이해하는 인공지능… \"읽고 의미까지 해석\"",
-        "summary": "카이스트 연구팀의 ‘비헤이버트’ ...",
-        "source": "한겨레 on MSN",
-        "publishedAt": "2026-07-01",
-        "url": "https://www.msn.com/ko-kr/news/techandscience/%EA%B5%AD%EB%82%B4%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%9C-%EB%8F%99%EB%AC%BC-%EC%96%B8%EC%96%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9D%BD%EA%B3%A0-%EC%9D%98%EB%AF%B8%EA%B9%8C%EC%A7%80-%ED%95%B4%EC%84%9D/ar-AA26XjGr",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Jj7zxnNYgh3iB0BllsTFoA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "LGU+, 고객 데이터 기반한 개인화 인공지능 기술 개발",
-        "summary": "LG유플러스가 고객 데이터를 기반으로 한 차세대 개인화 인공지능(AI) 기술 ‘퍼스널 인텔리전스’를 개발했다. 고객의 통신 이용 이력과 행동 패턴을 AI가 분석해 맞춤형 서비스를 제공하는 기술이다. 퍼스널 인텔리전스는 통화 요약, 앱·웹 이용 기록, 위치 기반 패턴 등 각종 데이터를 통합 분석한다고 회사 측은 밝혔다.",
-        "source": "조선일보 on MSN",
-        "publishedAt": "2026-07-01",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/lgu-%EA%B3%A0%EA%B0%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B8%B0%EB%B0%98%ED%95%9C-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B8%B0%EC%88%A0-%EA%B0%9C%EB%B0%9C/ar-AA26ZyMn",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.puEnfVrVqx2urMilCJtj6w&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "“기술로 세상을 바꾼다”…AI·펨테크 앞세운 여성기업, 미래산업 주역으로",
-        "summary": "여성기업의 기술력과 미래 비전을 한자리에서 확인하는 '제5회 여성기업주간'이 막을 올렸다. 인공지능(AI), 펨테크, 콘텐츠 등 신산업을 이끄는 여성 창업가들이 혁신 사례를 공유하며 여성기업이 미래 성장의 한 축으로 자리매김하고 있음을 확인시켰다. 중소벤처기업부와 한국여성경제인협회는 1일 서울 신라호텔 다이너스티홀에서 '기술로 성장하고, 감성으로 연결하는 ...",
-        "source": "전자신문 on MSN",
-        "publishedAt": "2026-07-01",
-        "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%B0%EC%88%A0%EB%A1%9C-%EC%84%B8%EC%83%81%EC%9D%84-%EB%B0%94%EA%BE%BC%EB%8B%A4-ai-%ED%8E%A8%ED%85%8C%ED%81%AC-%EC%95%9E%EC%84%B8%EC%9A%B4-%EC%97%AC%EC%84%B1%EA%B8%B0%EC%97%85-%EB%AF%B8%EB%9E%98%EC%82%B0%EC%97%85-%EC%A3%BC%EC%97%AD%EC%9C%BC%EB%A1%9C/ar-AA26XKUI",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.JF8NcB0_1Q-kRFD9M-bhsw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "KRG, ‘2026 대한민국 인공지능 산업 백서’ 발간",
-        "summary": "기사의 본문 내용은 이 글자크기로 변경됩니다. KRG ‘2026 대한민국 인공지능 산업 백서’ [디지털경제뉴스 박시현 기자] 날리지리서치그룹(KRG)이 생성형 AI 이후 급변하는 국내외 AI 산업의 변화와 시장 전망, 산업별 활용 전략을 종합적으로 분석한 ‘2026 대한민국 인공지능(AI) 산업 백서’를 발간했다. 이번 백서는 AI 기술의 발전 방향을 넘어 ...",
-        "source": "디지털경제뉴스",
-        "publishedAt": "2026-07-01",
-        "url": "https://www.denews.co.kr/news/articleView.html?idxno=41635",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.oxMZIdd9Z8D4znd9n61FEw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "AI 에이전트부터 데이터센터까지…KRG, 'AI 산업 백서' 발간",
-        "summary": "[서울=뉴시스]윤정민 기자 = 국내외 인공지능(AI) 산업 흐름과 시장 전망을 종합 분석한 백서가 나왔다. 생성형 AI 이후 부상한 AI 에이전트, 피지컬 AI, 전사적 AI 전환(AX) 등 최신 흐름을 산업 관점에서 정리했다.날리지리서치그룹(KRG)은 '2026 대한민국 인공지능 산업 백서'를 발간했다고 1일 밝혔다.이번 백서는 생성형 AI 확산 이후 나 ...",
-        "source": "뉴시스",
-        "publishedAt": "2026-07-01",
-        "url": "https://www.newsis.com/view/NISX20260701_0003691896",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.1oUSLscSUnFA5oeVwyteag&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
