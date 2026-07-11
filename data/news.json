@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-07-11",
-  "windowStart": "2026-07-09T22:00:00.000Z",
-  "windowEnd": "2026-07-10T22:00:00.000Z",
+  "updatedAt": "2026-07-12",
+  "windowStart": "2026-07-10T22:00:00.000Z",
+  "windowEnd": "2026-07-11T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "“노동·주거·자산 격차와 불공정·불평등 심화가 청년세대 불안의 본질”…전문가들 제시한 해법은?",
+      "summary": "“청년 문제는 일자리 등 삶의 주요 단계에서 불안정이 누적되는 구조적 문제입니다.” 10일 기획예산처 주최로 서울 중구 프레스센터에서 열린 ‘청년정책 전문가 토론회’에서 조은주 리워크연구소 대표는 청년 문제를 두고 이렇게 진단했다. 특정 시기나 분야가 아니라 교육, 일자리, 주거, 자산 결혼 등 청년층이 겪는 각 단계별로 청년들이 어려움을 겪고 있다는 것이 ...",
+      "source": "세계일보 on MSN",
+      "publishedAt": "2026-07-11",
+      "url": "https://www.msn.com/ko-kr/money/topstories/%EB%85%B8%EB%8F%99-%EC%A3%BC%EA%B1%B0-%EC%9E%90%EC%82%B0-%EA%B2%A9%EC%B0%A8%EC%99%80-%EB%B6%88%EA%B3%B5%EC%A0%95-%EB%B6%88%ED%8F%89%EB%93%B1-%EC%8B%AC%ED%99%94%EA%B0%80-%EC%B2%AD%EB%85%84%EC%84%B8%EB%8C%80-%EB%B6%88%EC%95%88%EC%9D%98-%EB%B3%B8%EC%A7%88-%EC%A0%84%EB%AC%B8%EA%B0%80%EB%93%A4-%EC%A0%9C%EC%8B%9C%ED%95%9C-%ED%95%B4%EB%B2%95%EC%9D%80/ar-AA27HwR1",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.5dd5a0e06fc40a088a22403c4624d282&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\"",
@@ -32,15 +41,6 @@
     },
     {
       "category": "society",
-      "title": "[이슈플러스] '장윤기 사건' 봐주기 수사 의혹...경찰, 특별수사팀 확대 편성",
-      "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스PLUS] 명시해주시기 바랍니다. [앵커] 장윤기 사건 수사 과정에서경찰의 증거인멸 정황이 확인되면서사건을 담당한 수사팀장이 긴급체포됐죠. 경찰은 광주 지휘라인을 배제하고경찰청 본청 수사팀을 투입했는데'제식구 감싸기' 부실수사 ...",
-      "source": "YTN",
-      "publishedAt": "2026-07-06",
-      "url": "https://www.ytn.co.kr/_ln/0103_202607061925132468",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.oDJFw5vmAjmgk4kWAu6pKg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
       "title": "빗썸, ‘빗썸나눔’으로 사회공헌 생태계 확대",
       "summary": "빗썸의 사회공헌 브랜드 빗썸나눔이 임직원 중심의 봉사활동을 넘어 시민과 지역사회가 함께하는 참여형 사회공헌 플랫폼으로 확장되고 있다. 빗썸나눔은 ‘작은 나눔이 모여 큰 변화를 만든다’는 슬로건 아래 임직원이 직접 기획하고 참여하는 봉사활동을 비롯해 지역사회 지원과 재난 및 재해 긴급 지원 등을 이어가고 있다. 빗썸나눔 사회공헌 활동의 가장 큰 특징은 임직원 ...",
       "source": "경향게임스",
@@ -50,39 +50,39 @@
     },
     {
       "category": "ai",
-      "title": "초지능 시대 온다면 인간이 고민할 것들",
-      "summary": "딥 유토피아 닉 보스트롬 지음 김의석 옮김 까치 “기술이 나쁜 것이라면 어떨까”라는 질문으로 유명해진 저자가 이번엔 “기술이 좋은 것이면 어떨까” 하는 질문을 던진다. 전작 『슈퍼인텔리전스』가 악의적인 초지능AI의 위험을 경고했다면 『딥 유토피아』는 초지능이 모든 문제를 해결한 유토피아를 실현했을 때 인간이 어떻게 살아갈지 탐구한다. 저자는 결핍이 없고 노 ...",
-      "source": "중앙SUNDAY on MSN",
-      "publishedAt": "2026-07-10",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%B4%88%EC%A7%80%EB%8A%A5-%EC%8B%9C%EB%8C%80-%EC%98%A8%EB%8B%A4%EB%A9%B4-%EC%9D%B8%EA%B0%84%EC%9D%B4-%EA%B3%A0%EB%AF%BC%ED%95%A0-%EA%B2%83%EB%93%A4/ar-AA27ElDf",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.iabLUlN0k5WK9l-aBaqLuw&pid=News&w=1200&h=675&c=14"
+      "title": "글로벌 등대공장으로 본 中 미래 제조업 트렌드…\"AI, AI, AI\"",
+      "summary": "[선데이모닝인사이트] 中 제조업 트럼프 2기 출범, AI의 발달, 기후변화 등 글로벌 사회의 불확실성이 커졌습니다. 는 매주 일요일 오전, 깊이 있는 시각과 예리한 분석으로 불확실성 커진 세상을 헤쳐나갈 지혜를 전달합니다. 중국에서 인공지능(AI)이 빠른 속도로 제조업의 핵심 역량이 되고 있다. AI가 제품 생산을 넘어 기업 운영 전반을 바꾸는 핵심 경쟁력 ...",
+      "source": "머니투데이 on MSN",
+      "publishedAt": "2026-07-11",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%93%B1%EB%8C%80%EA%B3%B5%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EB%B3%B8-%E4%B8%AD-%EB%AF%B8%EB%9E%98-%EC%A0%9C%EC%A1%B0%EC%97%85-%ED%8A%B8%EB%A0%8C%EB%93%9C-ai-ai-ai/ar-AA27HXNx",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.DeO5U4CfGkPMge1wvb9S2w&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "기아 오토랜드 광주, ‘AI·스마트 산업안전기술 우수사례 챌린지’ 대상 수상",
-      "summary": "기아가 오토랜드 광주가 고용노동부와 안전보건공단이 주관하는 ‘2026 AI·스마트 산업안전기술 우수사례 챌린지’에서 대상(고용노동부 장관상)을 수상했다고 밝혔다. 이번 수상은 자동화 공정 내 안전사고를 예방하기 위해 AI 기술을 접목한 스마트 안전관리 시스템을 국내 최초로 도입한 성과를 인정받은 결과다. 기아는 기존 LOTO(Lock-Out, Tag-Out ...",
-      "source": "스포츠한국 on MSN",
+      "title": "\"AI가 문화유산을 지킵니다\"...수원시 전국 최초 시행",
+      "summary": "수원특례시(시장 이재준)가 전국 최초로 인공지능(AI)을 활용한 문화유산 안전관리 시스템을 구축했다. 인공지능(AI)과 디지털 트윈 기술을 접목해 유네스코 세계문화유산 수원화성의 화재 예방과 안전관리를 대폭 강화하는 첨단 방재 시스템을 구축했다. 수원시화성사업소가 관내 혁신 기업과 협업해 추진한 ‘재난·방범용 3차원(3D) 디지털 트윈 영상 스마트 자동 모 ...",
+      "source": "한국경제TV on MSN",
       "publishedAt": "2026-07-10",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B8%B0%EC%95%84-%EC%98%A4%ED%86%A0%EB%9E%9C%EB%93%9C-%EA%B4%91%EC%A3%BC-ai-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%82%B0%EC%97%85%EC%95%88%EC%A0%84%EA%B8%B0%EC%88%A0-%EC%9A%B0%EC%88%98%EC%82%AC%EB%A1%80-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EB%8C%80%EC%83%81-%EC%88%98%EC%83%81/ar-AA27CRij",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ED2HOf8DLa-Ai3sVFuhYqA&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/news/other/ai%EA%B0%80-%EB%AC%B8%ED%99%94%EC%9C%A0%EC%82%B0%EC%9D%84-%EC%A7%80%ED%82%B5%EB%8B%88%EB%8B%A4%EC%88%98%EC%9B%90%EC%8B%9C-%EC%A0%84%EA%B5%AD-%EC%B5%9C%EC%B4%88-%EC%8B%9C%ED%96%89/ar-AA27BubQ",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.i6qtaRNUIPlXYfQrT8MS-w&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "오케스트로 인공지능연구소, 과기부 '우수 기업부설연구소' 지정",
-      "summary": "(서울=뉴스1) 유수연 기자 = 오케스트로 그룹은 자사 인공지능(AI)연구소가 과학기술정보통신부의 '2026년 상반기 우수 기업부설연구소'로 지정됐다고 10일 밝혔다. 오케스트로 그룹은 4개의 기업부설연구소를 중심으로 AI 인프라와 클라우드 기술 분야의 연구개발 역량을 강화하고 있다. 86건의 특허 등록과 누적 110건 ...",
-      "source": "뉴스1 on MSN",
+      "title": "중·러·이란 미 인공지능 데이터 센터 갈등 부채질",
+      "summary": "중국과 러시아, 이란의 대미 여론공작이 인공지능 데이터건설에 따른 전력 공급 부족과 가격 인상, 기타 각종 부작용을 강조하는데 집중되고 있다고 미 뉴욕타임스(NYT)가 9일(현지시각) 보도했다. NYT는 이들의 여론 공작이 미국에서 인공지능 데이터센터 확산에 대한 적대감이 커지는 것을 겨냥한 것으로 중간 선거를 앞두고 논란을 키우려는 의도를 가진 것으로 보 ...",
+      "source": "뉴시스 on MSN",
       "publishedAt": "2026-07-10",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A1%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%97%B0%EA%B5%AC%EC%86%8C-%EA%B3%BC%EA%B8%B0%EB%B6%80-%EC%9A%B0%EC%88%98-%EA%B8%B0%EC%97%85%EB%B6%80%EC%84%A4%EC%97%B0%EA%B5%AC%EC%86%8C-%EC%A7%80%EC%A0%95/ar-AA27Bhww",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.zb4RmKUQrgil6XjIgQLWhg&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%A4%91-%EB%9F%AC-%EC%9D%B4%EB%9E%80-%EB%AF%B8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%84%BC%ED%84%B0-%EA%B0%88%EB%93%B1-%EB%B6%80%EC%B1%84%EC%A7%88/ar-AA27ARII",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.skx8eAxtKwB9EQQ2IYMCwA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "인공지능이 미술 해설한다…경기도미술관 'AI 도슨트' 도입",
-      "summary": "[이데일리 이윤정 기자] 경기도미술관이 인공지능(AI) 기술을 접목한 ‘AI 미술 도슨트’ 서비스를 오는 16일부터 본격 운영한다. 새롭게 도입되는 ‘AI 미술 도슨트’는 기존의 정형화된 오디오 가이드에서 벗어나 관람객이 원하는 시간에 자유롭게 작품 해설을 들을 수 있도록 구축됐다. 서비스는 7월 16일 개막하는 기획전 ‘우리의 여름에게’(7월 16일~9월 ...",
-      "source": "이데일리 on MSN",
-      "publishedAt": "2026-07-10",
-      "url": "https://www.msn.com/ko-kr/entertainment/%EC%9D%BC%EB%B0%98/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4-%EB%AF%B8%EC%88%A0-%ED%95%B4%EC%84%A4%ED%95%9C%EB%8B%A4-%EA%B2%BD%EA%B8%B0%EB%8F%84%EB%AF%B8%EC%88%A0%EA%B4%80-ai-%EB%8F%84%EC%8A%A8%ED%8A%B8-%EB%8F%84%EC%9E%85/ar-AA27BeZc",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.hfTqalEXEuEN-ShPwTDjKw&pid=News&w=1200&h=675&c=14"
+      "title": "울산시, 제조산업 ‘인공지능 전환(AX)’ 본격 시동… 13개 기관 맞손",
+      "summary": "울산시가 지역 주력 산업의 미래 경쟁력을 확보하기 위해 산·학·연·관을 아우르는 인공지능 전환(AX·AI Transformation) 협력체계를 가동한다.울산시는 9일 오후 시청 대회의실에서 ‘울산 제조산업 인공지능 전환(AX) 확산을 위한 업무협약’을 체결하고, 민관 협력 거버넌스인 ‘울산산업 인공지능 전환(AX) 협의체’를 출범했다고 밝혔다.협약에는 울 ...",
+      "source": "국민일보 on MSN",
+      "publishedAt": "2026-07-09",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%9A%B8%EC%82%B0%EC%8B%9C-%EC%A0%9C%EC%A1%B0%EC%82%B0%EC%97%85-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-ax-%EB%B3%B8%EA%B2%A9-%EC%8B%9C%EB%8F%99-13%EA%B0%9C-%EA%B8%B0%EA%B4%80-%EB%A7%9E%EC%86%90/ar-AA27wuGL",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.6vAPtakBkmjBpevjOm0zgA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
