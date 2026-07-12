@@ -1,5 +1,93 @@
 [
   {
+    "updatedAt": "2026-07-13",
+    "windowStart": "2026-07-11T22:00:00.000Z",
+    "windowEnd": "2026-07-12T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\"",
+        "summary": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\" 英 연구팀 \"AI가 게시물 논조 변화시켜…은밀한 편향, 사회 전체로 확산\" (서울=연합뉴스) 이주영 기자 = 소셜미디어에서 게시물을 작성하거나 다듬고 내용을 설명해주는 생성형 인공지능(A..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-07-06",
+        "url": "https://www.fnnews.com/news/202607060816311040",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.NIqRG4l0en_KQSJFY7z8Ew&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "노동부, 초과이익 재분배 논의 재개...토론회로 의견 수렴 예정",
+        "summary": "【투데이신문 권신영 기자】정부가 기업의 초과이익 재분배와 원·하청 간 격차 완화 방안을 다시 논의한다. 사회연대임금의 실효성을 둘러싼 비판이 이어지는 가운데 정부 권한을 활용한 직접적인 격차 해소와 기업 성과의 사회적 재투자가 주요 쟁점으로 떠올랐다.6일 투데이신문 취재에 따르면 고용노동부(이하 노동부)는 이달 중순 기업의 초과이익 재분배 방안 등을 논의하 ...",
+        "source": "투데이신문",
+        "publishedAt": "2026-07-06",
+        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128024",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.WfxOlKiRFVgqu5AWIsVeAw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈플러스] '장윤기 사건' 봐주기 수사 의혹...경찰, 특별수사팀 확대 편성",
+        "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스PLUS] 명시해주시기 바랍니다. [앵커] 장윤기 사건 수사 과정에서경찰의 증거인멸 정황이 확인되면서사건을 담당한 수사팀장이 긴급체포됐죠. 경찰은 광주 지휘라인을 배제하고경찰청 본청 수사팀을 투입했는데'제식구 감싸기' 부실수사 ...",
+        "source": "YTN",
+        "publishedAt": "2026-07-06",
+        "url": "https://www.ytn.co.kr/_ln/0103_202607061925132468",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.oDJFw5vmAjmgk4kWAu6pKg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "빗썸, ‘빗썸나눔’으로 사회공헌 생태계 확대",
+        "summary": "빗썸의 사회공헌 브랜드 빗썸나눔이 임직원 중심의 봉사활동을 넘어 시민과 지역사회가 함께하는 참여형 사회공헌 플랫폼으로 확장되고 있다. 빗썸나눔은 ‘작은 나눔이 모여 큰 변화를 만든다’는 슬로건 아래 임직원이 직접 기획하고 참여하는 봉사활동을 비롯해 지역사회 지원과 재난 및 재해 긴급 지원 등을 이어가고 있다. 빗썸나눔 사회공헌 활동의 가장 큰 특징은 임직원 ...",
+        "source": "경향게임스",
+        "publishedAt": "2026-07-01",
+        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305939",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.aNVBt6pL_EspqOeqDpunVw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "연금·주거정책 만들 때 청년 영향부터 따진다… 반영 여부까지 공개",
+        "summary": "【파이낸셜뉴스 제주=정용복 기자】 연금과 노동, 교육, 주거, 복지, 금융처럼 청년의 삶과 미래 부담을 좌우하는 정책을 만들 때 청년에게 미칠 영향을 먼저 따지는 제도 도입이 추진된다. 10일 문대림 더불어민주당 의원실에 따르면 문 의원은 전날 국가와 지방자치단체가 청년의 권익에 중대한 영향을 미치는 주요 정책과 중장기 계획을 수립·변경할 때 '청년영향평가 ...",
+        "source": "파이낸셜뉴스 on MSN",
+        "publishedAt": "2026-07-10",
+        "url": "https://www.msn.com/ko-kr/%EC%A0%95%EC%B9%98/%EC%A0%95%EB%B6%80%EA%B8%B0%EA%B4%80/%EC%97%B0%EA%B8%88-%EC%A3%BC%EA%B1%B0%EC%A0%95%EC%B1%85-%EB%A7%8C%EB%93%A4-%EB%95%8C-%EC%B2%AD%EB%85%84-%EC%98%81%ED%96%A5%EB%B6%80%ED%84%B0-%EB%94%B0%EC%A7%84%EB%8B%A4-%EB%B0%98%EC%98%81-%EC%97%AC%EB%B6%80%EA%B9%8C%EC%A7%80-%EA%B3%B5%EA%B0%9C/ar-AA27BgSH",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.7aQ_dqIL2Yz0Tf_OiOLQaw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "구미·포항국가산단 ‘인공지능 전환’ 가속화...제조업 ‘대전환’ 추진",
+        "summary": "경북도청사 전경. 경북도 제공 경북도는 구미국가산업단지와 포항국가산업단지가 산업통상부 주관 올해 ‘인공지능 전환(AX) 실증산단 구축사업’에 각각 선정됐다고 12일 밝혔다. 올해부터 2029년까지 4년간 총 481억원을 투입해 지역 주력 제조업의 인공지능(AI) 전환을 추진하는 것이 이 사업의 핵심이다. 경북도는 사업 대상지에 AX 인프라를 구축하고, AX ...",
+        "source": "경향신문 on MSN",
+        "publishedAt": "2026-07-12",
+        "url": "https://www.msn.com/ko-kr/news/national/%EA%B5%AC%EB%AF%B8-%ED%8F%AC%ED%95%AD%EA%B5%AD%EA%B0%80%EC%82%B0%EB%8B%A8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%EA%B0%80%EC%86%8D%ED%99%94%EC%A0%9C%EC%A1%B0%EC%97%85-%EB%8C%80%EC%A0%84%ED%99%98-%EC%B6%94%EC%A7%84/ar-AA27J4Es",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Ha62OBc82sj2vIqmAPh_PA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "포항·구미 국가산단, 인공지능 전환 사업 선정… 481억 투입",
+        "summary": "경북도는 12일 산업통상자원부가 주관하는 '2026년 인공지능 전환(AX) 실증 산단 구축사업' 공모에 포항국가산업단지와 구미국가산업단지가 최종 선정됐다고 밝혔다. 이번 사업은 오는 2029년까지 4년간 총사업비 481억원을 들여 반도체·전자·방산·철강 등 지역 주력 제조업의 인공지능(AI) 전환을 지원하는 것이 핵심이다. 포항국가산단에는 철강 제조공정을 ...",
+        "source": "세계일보 on MSN",
+        "publishedAt": "2026-07-12",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%ED%8F%AC%ED%95%AD-%EA%B5%AC%EB%AF%B8-%EA%B5%AD%EA%B0%80%EC%82%B0%EB%8B%A8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%EC%82%AC%EC%97%85-%EC%84%A0%EC%A0%95-481%EC%96%B5-%ED%88%AC%EC%9E%85/ar-AA27JIXe",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.HhwpelCd5Lc61g7tqSnPdQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "“경부고속도로, 인터넷 이은 초대형 국가 프로젝트”…SK가 꺼내든 비장의 카드, 뭐길래",
+        "summary": "SK텔레콤에 심상치 않은 변화가 일어나고 있다. 통신 요금 받아 운영하던 회사가 느닷없이 미국 스타게이트 프로젝트의 3배 규모인 15GW짜리 인공지능 데이터센터 ... Read more ...",
+        "source": "더위드카 on MSN",
+        "publishedAt": "2026-07-13",
+        "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EB%B6%80%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C-%EC%9D%B8%ED%84%B0%EB%84%B7-%EC%9D%B4%EC%9D%80-%EC%B4%88%EB%8C%80%ED%98%95-%EA%B5%AD%EA%B0%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-sk%EA%B0%80-%EA%BA%BC%EB%82%B4%EB%93%A0-%EB%B9%84%EC%9E%A5%EC%9D%98-%EC%B9%B4%EB%93%9C-%EB%AD%90%EA%B8%B8%EB%9E%98/ar-AA27LNi2",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.15e635b2e0cd02178f34fb6237bb4a50&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "송기헌, ‘원주뿌리기술지원센터’ 산업혁신 기반 구축사업 선정…국비 등 100억원 확보",
+        "summary": "더불어민주당 송기헌(원주 을) 국회의원은 지난 10일 원주시가 산업통상자원부가 주관하는 ‘2026년 제2차 산업혁신기반 구축사업’ 공모에 최종 선정돼 총사업비 100억 원(국비 70억 원)을 확보했다고 밝혔다.이번 사업은 연구시설과 장비 운영 실적이 우수한 기존 연구기반을 고도화해 산업 현장의 기술 수요에 대응하고 지역 제조산업의 경쟁력을 높이기 위한 사업 ...",
+        "source": "강원도민일보 on MSN",
+        "publishedAt": "2026-07-12",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%86%A1%EA%B8%B0%ED%97%8C-%EC%9B%90%EC%A3%BC%EB%BF%8C%EB%A6%AC%EA%B8%B0%EC%88%A0%EC%A7%80%EC%9B%90%EC%84%BC%ED%84%B0-%EC%82%B0%EC%97%85%ED%98%81%EC%8B%A0-%EA%B8%B0%EB%B0%98-%EA%B5%AC%EC%B6%95%EC%82%AC%EC%97%85-%EC%84%A0%EC%A0%95-%EA%B5%AD%EB%B9%84-%EB%93%B1-100%EC%96%B5%EC%9B%90-%ED%99%95%EB%B3%B4/ar-AA27JBZb",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.1463c9c507970a7d30b3679be84b9e51&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-07-12",
     "windowStart": "2026-07-10T22:00:00.000Z",
     "windowEnd": "2026-07-11T22:00:00.000Z",
@@ -578,85 +666,6 @@
         "publishedAt": "2026-07-05",
         "url": "https://www.segye.com/newsView/20260705506200",
         "imageUrl": "https://www.bing.com/th?id=ONUT.wT36nn1d_y2Suhdvm5Nykg&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-07-06",
-    "windowStart": "2026-07-04T22:00:00.000Z",
-    "windowEnd": "2026-07-05T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "[박준규의 이슈언박싱] 응징이 교육을 삼켰다…배재고 야구부에 내려진 '사회적 사형'",
-        "summary": "지난달 29일 청룡기 전국고교야구선수권대회 배재고와 광주제일고의 경기 8회초, 앞서가던 배재고 더그아웃에서 \"스타벅스 가야지\"라는 구호가 터져 나왔습니다. 한 달 전 '5·18 탱크데이' 논란을 그대로 끌어와 광주 팀을 향해 던진 구호였습니다. 정치나 이념이 개입해서는 안 되는 스포츠 현장에 사회적 논란이 된 구호를 끌어들인 것은 분명 부적절한 처신이었습니 ...",
-        "source": "펜앤드마이크",
-        "publishedAt": "2026-07-05",
-        "url": "https://www.pennmike.com/news/articleView.html?idxno=123179",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.eCBTP8LU9UsTmYQBxrV2JA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "빗썸, ‘빗썸나눔’으로 사회공헌 생태계 확대",
-        "summary": "빗썸의 사회공헌 브랜드 빗썸나눔이 임직원 중심의 봉사활동을 넘어 시민과 지역사회가 함께하는 참여형 사회공헌 플랫폼으로 확장되고 있다. 빗썸나눔은 ‘작은 나눔이 모여 큰 변화를 만든다’는 슬로건 아래 임직원이 직접 기획하고 참여하는 봉사활동을 비롯해 지역사회 지원과 재난 및 재해 긴급 지원 등을 이어가고 있다. 빗썸나눔 사회공헌 활동의 가장 큰 특징은 임직원 ...",
-        "source": "경향게임스",
-        "publishedAt": "2026-07-01",
-        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305939",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.aNVBt6pL_EspqOeqDpunVw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "GH 주거복지센터, 12개 시·군 찾아가는 교육 14회 운영 본격화",
-        "summary": "경기주택도시공사(GH·사장 김용진)가 운영하는 경기도 주거복지센터가 오는 11월까지 도내 12개 시·군에서 '찾아가는 주거복지교육'을 14차례 운영한다. GH는 경기도 주거복지센터가 지난 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 주거복지교육을 진행했다고 27일 밝혔다. 이 교육은 주거복지 현장에서 주민 상담과 제도 안내를 ...",
-        "source": "전자신문 on MSN",
-        "publishedAt": "2026-06-27",
-        "url": "https://www.msn.com/ko-kr/news/other/gh-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-12%EA%B0%9C-%EC%8B%9C-%EA%B5%B0-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EA%B5%90%EC%9C%A1-14%ED%9A%8C-%EC%9A%B4%EC%98%81-%EB%B3%B8%EA%B2%A9%ED%99%94/ar-AA26GPWH",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.WQmM3JCQlGfHhx3PzARDJA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "경기도, 11월까지 12개 시군에서 '찾아가는 주거복지 교육'",
-        "summary": "경기도가 도내 기초 주거복지센터 및 읍·면·동 주거복지 실무자의 현장 대응 역량을 강화하기 위해 오는 11월까지 남양주시 등 12개 시군에서 '2026년 찾아가는 주거복지 교육'을 실시한다. 이번 교육은 주거복지 ...",
-        "source": "Asia Economy on MSN",
-        "publishedAt": "2026-06-23",
-        "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EA%B8%B0%EB%8F%84-11%EC%9B%94%EA%B9%8C%EC%A7%80-12%EA%B0%9C-%EC%8B%9C%EA%B5%B0%EC%97%90%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80-%EA%B5%90%EC%9C%A1/ar-AA26ikAq",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.0d2fcdc4eb0d7eb74760df165c8ddfb6&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "GH 경기도 주거복지센터, 양주서 ‘찾아가는 주거복지교육’",
-        "summary": "경기주택도시공사(GH)가 운영 중인 경기도 주거복지센터는 24일 양주시 경기섬유종합지원센터에서 양주시 공무원 등 30여 명을 대상으로 ‘찾아가는 주거복지교육’을 진행했다고 밝혔다.강의는 공공임대주택 유형별 특성과 주요 주거복지제도 이론 및 실제 현장 사례 중심으로 ...",
-        "source": "Seoul Newspaper on MSN",
-        "publishedAt": "2026-06-24",
-        "url": "https://www.msn.com/ko-kr/news/other/gh-%EA%B2%BD%EA%B8%B0%EB%8F%84-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-%EC%96%91%EC%A3%BC%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EA%B5%90%EC%9C%A1/ar-AA26paV0",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.c1292f3cd77a134a00d284636cb62e0f&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "인공지능(AI) 영향 받거나 밀접한 업종서 ‘청년 고용 감소세’",
-        "summary": "인공지능(AI)의 영향을 받거나 밀접한 업종에서 청년 고용이 감소세를 나타낸 것으로 전해졌다. 5일 국가데이터처 국가통계포털(KOSIS)에 공개된 고용행정통계를 보면 올해 5월 고용보험에 가입한 30세 미만은 약 223만3000명으로 1년 전보다 6만5000명(2. 8%) 정도 줄어든 것으로 집계됐다.",
-        "source": "세계일보",
-        "publishedAt": "2026-07-05",
-        "url": "https://www.segye.com/newsView/20260705506200",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.wT36nn1d_y2Suhdvm5Nykg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "AI 연산 인프라 15GW 시대 연다...SKT, 초대형 AI 데이터센터 구축 추진",
-        "summary": "AI 학습과 추론 수요 증가에 대응하기 위한 최대 15GW 규모 AI 데이터센터 구축 계획이 추진된다.울산 AI 데이터센터를 출발점으로 영남권과 호남권에 총 5GW 규모 인프라를 2029년부터 단계적으로 가동한다.반도체, 전력, 데이터센터 운영 역량을 결합해 한국을 아시아 AI 인프라 거점으로 키우는 전략이다.생성AI와 에이전틱 AI 확산은 데이터센터의 역 ...",
-        "source": "지티티코리아",
-        "publishedAt": "2026-07-05",
-        "url": "https://www.gttkorea.com/news/articleView.html?idxno=26267",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.03UJxkeQxE-S19jPYe9Yuw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "나라가 대놓고 앞장선다…AI 혁명에 부활한 ‘큰 정부론’ [VIEW]",
-        "summary": "인공지능(AI) 시대가 도래하면서, 정부가 최첨단 AI 산업을 앞장서서 육성해야 한다는 ‘큰 정부론’이 여권에서 부상하고 있다. AI 대전환 시대를 맞아 정부가 첨단 산업을 최전선에서 이끌며 국가 대도약을 이끌어야 한다는 논리다. 김용범 청와대 정책실장이 지난달 24일 서울 중구 한국프레스센터에서 열린 관훈클럽 초청 토론회에서 모두발언을 하고 있다. 뉴스1 ...",
-        "source": "중앙일보 on MSN",
-        "publishedAt": "2026-07-05",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%82%98%EB%9D%BC%EA%B0%80-%EB%8C%80%EB%86%93%EA%B3%A0-%EC%95%9E%EC%9E%A5%EC%84%A0%EB%8B%A4-ai-%ED%98%81%EB%AA%85%EC%97%90-%EB%B6%80%ED%99%9C%ED%95%9C-%ED%81%B0-%EC%A0%95%EB%B6%80%EB%A1%A0-view/ar-AA27gFBW",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.AxG9WTSOje53hWUdUJ7qKQ&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
