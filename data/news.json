@@ -1,35 +1,8 @@
 {
-  "updatedAt": "2026-07-15",
-  "windowStart": "2026-07-13T22:00:00.000Z",
-  "windowEnd": "2026-07-14T22:00:00.000Z",
+  "updatedAt": "2026-07-16",
+  "windowStart": "2026-07-14T22:00:00.000Z",
+  "windowEnd": "2026-07-15T22:00:00.000Z",
   "articles": [
-    {
-      "category": "society",
-      "title": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\"",
-      "summary": "(서울=연합뉴스) 이주영 기자 = 소셜미디어에서 게시물을 작성하거나 다듬고 내용을 설명해주는 생성형 인공지능 (AI)이 글에 미묘한 편향을 주입하고, 이런 변화가 온라인에서 증폭돼 사회 전체 여론에 영향을 줄 수 있다는 연구 결과가 나왔다.",
-      "source": "연합뉴스",
-      "publishedAt": "2026-07-06",
-      "url": "https://www.yna.co.kr/view/AKR20260704042200017",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.D5-t_huNF117ltaJn9KT-g&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "‘반도체·AI’ 위한 원전 확대 기조에...“탄소중립 외면” 지적",
-      "summary": "【투데이신문 권신영 기자】시민사회가 이재명 정부가 추진하는 반도체·피지컬 인공지능(AI)·AI 데이터센터 중심의 ‘대한민국 대도약 3대 메가프로젝트’를 ‘개발 폭주’로 규정하고 전면 재검토를 촉구했다.125개 단체와 11개 연대체로 구성된 시민사회 136개 단체는 13일 오후 1시 ‘3대 메가프로젝트 규탄 기자회견’을 열고 정부가 사업 타당성과 사회·환경적 ...",
-      "source": "투데이신문",
-      "publishedAt": "2026-07-13",
-      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128165",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ZB9GDX2T-cEkXi228m7HZg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[이슈플러스] '장윤기 사건' 봐주기 수사 의혹...경찰, 특별수사팀 확대 편성",
-      "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스PLUS] 명시해주시기 바랍니다. [앵커] 장윤기 사건 수사 과정에서경찰의 증거인멸 정황이 확인되면서사건을 담당한 수사팀장이 긴급체포됐죠. 경찰은 광주 지휘라인을 배제하고경찰청 본청 수사팀을 투입했는데'제식구 감싸기' 부실수사 ...",
-      "source": "YTN",
-      "publishedAt": "2026-07-06",
-      "url": "https://www.ytn.co.kr/_ln/0103_202607061925132468",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.oDJFw5vmAjmgk4kWAu6pKg&pid=News&w=1200&h=675&c=14"
-    },
     {
       "category": "society",
       "title": "연금·주거정책 만들 때 청년 영향부터 따진다… 반영 여부까지 공개",
@@ -44,54 +17,81 @@
       "title": "“노동·주거·자산 격차와 불공정·불평등 심화가 청년세대 불안의 본질”…전문가들 제시한 해법은?",
       "summary": "“청년 문제는 일자리 등 삶의 주요 단계에서 불안정이 누적되는 구조적 문제입니다.” 10일 기획예산처 주최로 서울 중구 프레스센터에서 열린 ‘청년정책 전문가 토론회’에서 조은주 리워크연구소 대표는 청년 문제를 두고 이렇게 진단했다. 특정 시기나 분야가 아니라 교육, 일자리, 주거, 자산 결혼 등 청년층이 겪는 각 단계별로 청년들이 어려움을 겪고 있다는 것이 ...",
       "source": "세계일보 on MSN",
-      "publishedAt": "2026-07-11",
+      "publishedAt": "2026-07-12",
       "url": "https://www.msn.com/ko-kr/money/topstories/%EB%85%B8%EB%8F%99-%EC%A3%BC%EA%B1%B0-%EC%9E%90%EC%82%B0-%EA%B2%A9%EC%B0%A8%EC%99%80-%EB%B6%88%EA%B3%B5%EC%A0%95-%EB%B6%88%ED%8F%89%EB%93%B1-%EC%8B%AC%ED%99%94%EA%B0%80-%EC%B2%AD%EB%85%84%EC%84%B8%EB%8C%80-%EB%B6%88%EC%95%88%EC%9D%98-%EB%B3%B8%EC%A7%88-%EC%A0%84%EB%AC%B8%EA%B0%80%EB%93%A4-%EC%A0%9C%EC%8B%9C%ED%95%9C-%ED%95%B4%EB%B2%95%EC%9D%80/ar-AA27HwR1",
       "imageUrl": "https://www.bing.com/th?id=ORMS.5dd5a0e06fc40a088a22403c4624d282&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "ai",
-      "title": "Hyper-AI 네트워크 조성, 산업현장 로봇 실증한다",
-      "summary": "‘Hyper-AI 네트워크 기반조성’ 사업의 주요 내용을 담은 표. 한국지능정보사회진흥원(NIA·원장 김형철)과 과학기술정보통신부가 7월 14일 ‘Hyper-AI 네트워크 기반조성’ 사업 착수보고회를 개최했다. 이번 사업은 조선소와 제조공장 등 산업현장에 5G 단독모드(5G-SA)와 AI-RAN 기술 기반의 Hyper-AI 선도망을 구축하고, 피지컬 AI ...",
-      "source": "중앙일보 on MSN",
-      "publishedAt": "2026-07-14",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/hyper-ai-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A1%B0%EC%84%B1-%EC%82%B0%EC%97%85%ED%98%84%EC%9E%A5-%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A6%9D%ED%95%9C%EB%8B%A4/ar-AA27RFFd",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.W6hHo3isJk2fS7WthvvXFA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "금산군, 미래형 인공지능(AI) 행정체계 도약 밑그림",
-      "summary": "[금산]금산군은 행정 업무 전반에 미래형 인공지능(AI)을 도입해 첨단 디지털 강소도시로 도약하기 위한 거대한 밑그림 그리기에 착수했다.군은 지난 13일 군청 상황실에서 조진배 금산부군수, 과장, 다락원장 등 군정을 이끄는 핵심 부서장들이 참석한 가운데 금산군 인공지능 전환(AX) 전략수립 컨설팅 착수보고회 및 간부공무원 역량 강화 특강을 개최했다.이번 컨 ...",
-      "source": "대전일보 on MSN",
-      "publishedAt": "2026-07-14",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B8%88%EC%82%B0%EA%B5%B0-%EB%AF%B8%EB%9E%98%ED%98%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-ai-%ED%96%89%EC%A0%95%EC%B2%B4%EA%B3%84-%EB%8F%84%EC%95%BD-%EB%B0%91%EA%B7%B8%EB%A6%BC/ar-AA27QR44",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.nqYEe0VLmZsBKUy1pX1T8A&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "\"AI가 문화유산을 지킵니다\"...수원시 전국 최초 시행",
-      "summary": "수원특례시(시장 이재준)가 전국 최초로 인공지능(AI)을 활용한 문화유산 안전관리 시스템을 구축했다. 인공지능(AI)과 디지털 트윈 기술을 접목해 유네스코 세계문화유산 수원화성의 화재 예방과 안전관리를 대폭 강화하는 첨단 방재 시스템을 구축했다. 수원시화성사업소가 관내 혁신 기업과 협업해 추진한 ‘재난·방범용 3차원(3D) 디지털 트윈 영상 스마트 자동 모 ...",
-      "source": "한국경제TV on MSN",
-      "publishedAt": "2026-07-10",
-      "url": "https://www.msn.com/ko-kr/news/other/ai%EA%B0%80-%EB%AC%B8%ED%99%94%EC%9C%A0%EC%82%B0%EC%9D%84-%EC%A7%80%ED%82%B5%EB%8B%88%EB%8B%A4%EC%88%98%EC%9B%90%EC%8B%9C-%EC%A0%84%EA%B5%AD-%EC%B5%9C%EC%B4%88-%EC%8B%9C%ED%96%89/ar-AA27BubQ",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.i6qtaRNUIPlXYfQrT8MS-w&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "中 주최 '2026 세계 인공지능 컨퍼런스' 17∼20일 상하이 개최",
-      "summary": "‘2026 세계 인공지능(AI) 컨퍼런스 및 인공지능 글로벌 거버넌스 고위급 회의’가 17일부터 20일까지 상하이에서 개최된다. 시진핑 중국 국가주석이 개막식에 참석해 기조연설을 할 예정이다. 미국과 중국간 AI 경쟁이 고조되는 가운데 중국이 2018년부터 개최해온 이 대회에 시 주석이 참석하는 것은 이번이 처음이다. 린젠 중국 외교부 대변인은 13일 정례 ...",
+      "category": "society",
+      "title": "\"불공정·불평등이 청년 불안 본질…정책 참여 늘려야\"",
+      "summary": "현재 청년 세대의 불안은 교육, 일자리, 주거, 자산, 결혼 등 삶의 주요 단계에서 불안정이 누적되는 구조적 문제라는 지적이 나왔다. 청년들이 느끼는 불공정·불평등이 심화하고 있는 만큼 주요 정책 결정 과정에 청년들의 참여 기회를 늘려야 한다는 의견도 제기됐다. 청년 전문가인 조은주 리워크연구소 대표는 10일 기획예산처 주최로 열린 '청년정책 전문가 토론회 ...",
       "source": "뉴시스 on MSN",
-      "publishedAt": "2026-07-14",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%E4%B8%AD-%EC%A3%BC%EC%B5%9C-2026-%EC%84%B8%EA%B3%84-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-17-20%EC%9D%BC-%EC%83%81%ED%95%98%EC%9D%B4-%EA%B0%9C%EC%B5%9C/ar-AA27R49R",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.DbZmHKl9a737RgCAs9-P9A&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-07-10",
+      "url": "https://www.msn.com/ko-kr/money/topstories/%EB%B6%88%EA%B3%B5%EC%A0%95-%EB%B6%88%ED%8F%89%EB%93%B1%EC%9D%B4-%EC%B2%AD%EB%85%84-%EB%B6%88%EC%95%88-%EB%B3%B8%EC%A7%88-%EC%A0%95%EC%B1%85-%EC%B0%B8%EC%97%AC-%EB%8A%98%EB%A0%A4%EC%95%BC/ar-AA27CtH4",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.YrqnUp1H1Shoh-NsbTt_8w&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[인천시론] 모두의 복지 넘어 ‘사회정책’으로",
+      "summary": "보건복지부는 5월 ‘제3차 사회보장기본계획 수정계획’을 발표하며 ‘선별적 보호를 넘어 모두의 복지’를 새로운 복지 철학으로 제시했다. 국민 모두의 생애 전 과정을 국가가 책임지고 보편적 권리로 복지를 누리는 사회를 만들겠다는 선언은 분명 이전의 선별복지 중심 정책보다 ...",
+      "source": "경기일보",
+      "publishedAt": "2026-07-06",
+      "url": "https://www.kyeonggi.com/article/20260706580508",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.e9Wg6VLoxlcZLfwS4w0wUg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "서울시, 주거정책 청사진…'중앙주거복지센터' 현장 점검",
+      "summary": "민선 9기 서울의 주거정책 청사진을 그리는 'G3 서울플랜 기획위원회' 주거안정 도시분과가 민생 현장을 찾았다. 최근 임차 수요 불균형과 주거비 부담으로 무주택 시민의 주거 불안정성이 커진 만큼, 현장 점검을 ...",
+      "source": "아시아경제 on MSN",
+      "publishedAt": "2026-07-09",
+      "url": "https://www.msn.com/ko-kr/money/topstories/%EC%84%9C%EC%9A%B8%EC%8B%9C-%EC%A3%BC%EA%B1%B0%EC%A0%95%EC%B1%85-%EC%B2%AD%EC%82%AC%EC%A7%84-%EC%A4%91%EC%95%99%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-%ED%98%84%EC%9E%A5-%EC%A0%90%EA%B2%80/ar-AA27vZVD",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.805a92a1a228b6acf2269513a17c99ed&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "새만금, 국제 해저광케이블 육양국 유치…“인공지능 데이터 허브 기반 마련”",
-      "summary": "새만금 국가산업단지에 초고속 국제 해저광케이블 육양국(Cable Landing Station)이 들어서게 돼 새만금이 글로벌 인공지능(AI) 데이터 중심으로 도약할 기반이 될 전망이다. 새만금개발청과 전북도, 군산시, 한국농어촌공사는 8일 드림라인㈜와 새만금 국가산단 2공구에 대규모 국제 해저 케이블 구축 사업인 ‘AUG(Asia United Gateway ...",
-      "source": "세계일보",
-      "publishedAt": "2026-07-08",
-      "url": "https://www.segye.com/newsView/20260708518600",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.YOkYbz-8CvwW4oFWkFHGAw&pid=News&w=1200&h=675&c=14"
+      "title": "상하이서 세계인공지능대회 17일 개막…미중경쟁 속 AI자립 과시",
+      "summary": "(상하이=연합뉴스) 차병섭 특파원 = 인공지능(AI)·반도체 등 과학기술 자립·자강을 통해 미국과의 기술경쟁에서 우위를 점하고자 하는 중국이 17일 상하이에서 개막하는 2026 세계인공지능대회(WAIC)를 통해 그동안의 성과를 선보인다. 중국은 'AI 파트너, 함께 만드는 미래'를 주제로 17∼20일 상하이에서 2026 WAIC와 'AI 글로벌 거버넌스 고 ...",
+      "source": "연합뉴스",
+      "publishedAt": "2026-07-15",
+      "url": "https://www.yna.co.kr/view/AKR20260715153200089",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.wQ_zY2t9ri6XwR4RjfUn-w&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "\"산업혁명 10배 충격 닥친다\"… 구글 딥마인드 CEO, AI 표준기구 촉구",
+      "summary": "노벨상 수상자인 데미스 허사비스 구글 딥마인드 최고경영자(CEO)가 수년 내 인공일반지능(AGI) 시대가 도래할 수 있다며, 첨단 인공지능(AI) 모델의 안전성을 평가하고 감독할 독립적 표준 기구 설립을 제안했다. AI 기술 ...",
+      "source": "한국일보 on MSN",
+      "publishedAt": "2026-07-15",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%82%B0%EC%97%85%ED%98%81%EB%AA%85-10%EB%B0%B0-%EC%B6%A9%EA%B2%A9-%EB%8B%A5%EC%B9%9C%EB%8B%A4-%EA%B5%AC%EA%B8%80-%EB%94%A5%EB%A7%88%EC%9D%B8%EB%93%9C-ceo-ai-%ED%91%9C%EC%A4%80%EA%B8%B0%EA%B5%AC-%EC%B4%89%EA%B5%AC/ar-AA27WiSD",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.8ip-RCUixqurAtZW33iYgQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "AI 서비스 힘주는 네카오... 네이버 \"AI탭 1000만 돌파\" 카카오 \"톡방서 이미지 수정\"",
+      "summary": "국산 플랫폼 기업 네이버와 카카오의 서비스가 빠르게 인공지능(AI)화하고 있다. 네이버의 대화형 AI 검색 서비스는 출시 한 달도 되지 않아 이용자가 1,000만 명을 넘어섰고, 카카오는 카카오톡 대화방에서 이미지를 생성하고 대화를 요약하는 서비스를 내놓았다. 네이버는 15일 대화형 AI 검색 서비스 'AI탭' 이용자가 전날 1,000만 명을 넘었다고 밝혔 ...",
+      "source": "한국일보",
+      "publishedAt": "2026-07-15",
+      "url": "https://www.hankookilbo.com/news/article/A2026071513390003387",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.7DStbRyTJwUoMKLeDFVzBA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "구글 AI 책임자 “범용인공지능시대 임박… 미국이 주도하는 AI 규제기관 신설해야”",
+      "summary": "구글 인공지능(AI) 부문 책임자인 데미스 허사비스 구글 딥마인드 최고경영자(CEO)가 범용인공지능(AGI) 시대가 임박했다며 미국이 주도하는 AI 규제기구를 신설해야 한다고 제안했다.노벨화학상 수상자인 허사비스 CEO는 14일(현지시간) 엑스(X)를 통해 “AGI가 ...",
+      "source": "서울신문 on MSN",
+      "publishedAt": "2026-07-15",
+      "url": "https://www.msn.com/ko-kr/money/topstories/%EA%B5%AC%EA%B8%80-ai-%EC%B1%85%EC%9E%84%EC%9E%90-%EB%B2%94%EC%9A%A9%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%8B%9C%EB%8C%80-%EC%9E%84%EB%B0%95-%EB%AF%B8%EA%B5%AD%EC%9D%B4-%EC%A3%BC%EB%8F%84%ED%95%98%EB%8A%94-ai-%EA%B7%9C%EC%A0%9C%EA%B8%B0%EA%B4%80-%EC%8B%A0%EC%84%A4%ED%95%B4%EC%95%BC/ar-AA27Y7Hl",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.79cc4b9a0368ef3000190593541317c9&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "아이에이, 퓨리오사AI NPU 기반 '소형 AI 데이터센터' 짓는다",
+      "summary": "아이에이와 자회사 아이에이클라우드가 국산 인공지능(AI) 반도체 기업 퓨리오사AI와 손잡고 국산 반도체 기반의 소형 AI 데이터센터를 함께 실증하고 사업화한다. 3사는 이를 통해 소형 AI 데이터센터의 국산화율을 최대 95%까지 끌어올린다는 목표를 제시했다. 3사는 지난 14일 이 같은 내용의 '국산 NPU 기반 소형 모듈형 AI 데이터센터 공동 실증 및 ...",
+      "source": "전자신문",
+      "publishedAt": "2026-07-15",
+      "url": "https://www.etnews.com/20260715000370",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.qSBZeLIlN60R4FuWOyeImg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
