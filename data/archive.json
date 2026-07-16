@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-07-17",
+    "windowStart": "2026-07-15T22:00:00.000Z",
+    "windowEnd": "2026-07-16T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\"",
+        "summary": "(서울=연합뉴스) 이주영 기자 = 소셜미디어에서 게시물을 작성하거나 다듬고 내용을 설명해주는 생성형 인공지능 (AI)이 글에 미묘한 편향을 주입하고, 이런 변화가 온라인에서 증폭돼 사회 전체 여론에 영향을 줄 수 있다는 연구 결과가 나왔다.",
+        "source": "연합뉴스",
+        "publishedAt": "2026-07-06",
+        "url": "https://www.yna.co.kr/view/AKR20260704042200017",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.D5-t_huNF117ltaJn9KT-g&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "연금·주거정책 만들 때 청년 영향부터 따진다… 반영 여부까지 공개",
+        "summary": "【파이낸셜뉴스 제주=정용복 기자】 연금과 노동, 교육, 주거, 복지, 금융처럼 청년의 삶과 미래 부담을 좌우하는 정책을 만들 때 청년에게 미칠 영향을 먼저 따지는 제도 도입이 추진된다. 10일 문대림 더불어민주당 의원실에 따르면 문 의원은 전날 국가와 지방자치단체가 청년의 권익에 중대한 영향을 미치는 주요 정책과 중장기 계획을 수립·변경할 때 '청년영향평가 ...",
+        "source": "파이낸셜뉴스 on MSN",
+        "publishedAt": "2026-07-10",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%97%B0%EA%B8%88-%EC%A3%BC%EA%B1%B0%EC%A0%95%EC%B1%85-%EB%A7%8C%EB%93%A4-%EB%95%8C-%EC%B2%AD%EB%85%84-%EC%98%81%ED%96%A5%EB%B6%80%ED%84%B0-%EB%94%B0%EC%A7%84%EB%8B%A4-%EB%B0%98%EC%98%81-%EC%97%AC%EB%B6%80%EA%B9%8C%EC%A7%80-%EA%B3%B5%EA%B0%9C/ar-AA27BgSH",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.39ac28cb9ccf9ba14b61d15bb256ef27&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "“노동·주거·자산 격차와 불공정·불평등 심화가 청년세대 불안의 본질”…전문가들 제시한 해법은?",
+        "summary": "“청년 문제는 일자리 등 삶의 주요 단계에서 불안정이 누적되는 구조적 문제입니다.” 10일 기획예산처 주최로 서울 중구 프레스센터에서 열린 ‘청년정책 전문가 토론회’에서 조은주 리워크연구소 대표는 청년 문제를 두고 이렇게 진단했다. 특정 시기나 분야가 아니라 교육, 일자리, 주거, 자산 결혼 등 청년층이 겪는 각 단계별로 청년들이 어려움을 겪고 있다는 것이 ...",
+        "source": "세계일보 on MSN",
+        "publishedAt": "2026-07-12",
+        "url": "https://www.msn.com/ko-kr/money/topstories/%EB%85%B8%EB%8F%99-%EC%A3%BC%EA%B1%B0-%EC%9E%90%EC%82%B0-%EA%B2%A9%EC%B0%A8%EC%99%80-%EB%B6%88%EA%B3%B5%EC%A0%95-%EB%B6%88%ED%8F%89%EB%93%B1-%EC%8B%AC%ED%99%94%EA%B0%80-%EC%B2%AD%EB%85%84%EC%84%B8%EB%8C%80-%EB%B6%88%EC%95%88%EC%9D%98-%EB%B3%B8%EC%A7%88-%EC%A0%84%EB%AC%B8%EA%B0%80%EB%93%A4-%EC%A0%9C%EC%8B%9C%ED%95%9C-%ED%95%B4%EB%B2%95%EC%9D%80/ar-AA27HwR1",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.5dd5a0e06fc40a088a22403c4624d282&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[인천시론] 모두의 복지 넘어 ‘사회정책’으로",
+        "summary": "보건복지부는 5월 ‘제3차 사회보장기본계획 수정계획’을 발표하며 ‘선별적 보호를 넘어 모두의 복지’를 새로운 복지 철학으로 제시했다. 국민 모두의 생애 전 과정을 국가가 책임지고 보편적 권리로 복지를 누리는 사회를 만들겠다는 선언은 분명 이전의 선별복지 중심 정책보다 ...",
+        "source": "경기일보",
+        "publishedAt": "2026-07-06",
+        "url": "https://www.kyeonggi.com/article/20260706580508",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.e9Wg6VLoxlcZLfwS4w0wUg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "\"불공정·불평등이 청년 불안 본질…정책 참여 늘려야\"",
+        "summary": "현재 청년 세대의 불안은 교육, 일자리, 주거, 자산, 결혼 등 삶의 주요 단계에서 불안정이 누적되는 구조적 문제라는 지적이 나왔다. 청년들이 느끼는 불공정·불평등이 심화하고 있는 만큼 주요 정책 결정 과정에 청년들의 참여 기회를 늘려야 한다는 의견도 제기됐다. 청년 전문가인 조은주 리워크연구소 대표는 10일 기획예산처 주최로 열린 '청년정책 전문가 토론회 ...",
+        "source": "뉴시스 on MSN",
+        "publishedAt": "2026-07-10",
+        "url": "https://www.msn.com/ko-kr/money/topstories/%EB%B6%88%EA%B3%B5%EC%A0%95-%EB%B6%88%ED%8F%89%EB%93%B1%EC%9D%B4-%EC%B2%AD%EB%85%84-%EB%B6%88%EC%95%88-%EB%B3%B8%EC%A7%88-%EC%A0%95%EC%B1%85-%EC%B0%B8%EC%97%AC-%EB%8A%98%EB%A0%A4%EC%95%BC/ar-AA27CtH4",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.YrqnUp1H1Shoh-NsbTt_8w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "상하이서 '세계인공지능대회' 개막…中 AI·로봇 성과 한자리에",
+        "summary": "1천100개사 3천개 제품 전시…화웨이·유니트리 등 첨단 기술 과시 미중 경쟁 속 시진핑 개막식 연설 주목…中 AI정책방향 제시 전망 (상하이=연합뉴스) 차병섭 특파원 = 미중 기술 경쟁이 격화하는 가운데 중국이 17일(현지시간) 자국의 인공지능(AI)·휴머노이드 분야 성과를 선보이는 2026 ...",
+        "source": "연합뉴스 on MSN",
+        "publishedAt": "2026-07-17",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%83%81%ED%95%98%EC%9D%B4%EC%84%9C-%EC%84%B8%EA%B3%84%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%ED%9A%8C-%EA%B0%9C%EB%A7%89-%E4%B8%AD-ai-%EB%A1%9C%EB%B4%87-%EC%84%B1%EA%B3%BC-%ED%95%9C%EC%9E%90%EB%A6%AC%EC%97%90/ar-AA2859EH",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ywa3QeeJ5xU0sduU7cayZQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "이 대통령 “인공지능 생성물 표시 과태료 유예…악용 많다”",
+        "summary": "이재명 대통령이 16일 인공지능(AI)으로 제작한 영상·이미지에 대한 표시 의무의 실효성을 강화해야 한다고 밝혔다. 인공지능 생성물과 실제 영상의 구분이 어려워진 만큼 표시 의무 위반에 대한 제재를 강화해 허위정보 확산을 막아야 한다는 취지다. 이 대통령은 이날 청와대 ...",
+        "source": "한겨레",
+        "publishedAt": "2026-07-16",
+        "url": "https://www.hani.co.kr/arti/politics/bluehouse/1268518.html",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.0jt1GshCK9FFetFIBJfpaQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "한국, 독자 AI로 세계 2강 도전…'모두의 AI'로 판 키운다",
+        "summary": "배경훈 부총리 겸 과학기술정보통신부 장관은 16일 한국의 인공지능(AI) 경쟁력이 국제 평가기관에서 세계 3위로 평가됐다며 세계 2위권 진입에 도전하겠다고 밝혔다. 나아가 미국이 전략 무기로 판단해 접근을 통제한 '미토스'급 프론티어 AI 모델을 대한민국도 만들 수 있다며, 그래픽처리장치(GPU) 등 인프라 지원만 뒷받침된다면 최고 수준의 성능 달성이 가능 ...",
+        "source": "세계일보 on MSN",
+        "publishedAt": "2026-07-16",
+        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%95%9C%EA%B5%AD-%EB%8F%85%EC%9E%90-ai%EB%A1%9C-%EC%84%B8%EA%B3%84-2%EA%B0%95-%EB%8F%84%EC%A0%84-%EB%AA%A8%EB%91%90%EC%9D%98-ai-%EB%A1%9C-%ED%8C%90-%ED%82%A4%EC%9A%B4%EB%8B%A4/ar-AA281rqW",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.QJGiIcqdppH16cjtl0U45Q&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "이 대통령 “AI는 ‘불의 발견’ 수준”…쿠팡 겨냥 논란엔 “특정기업 아냐”",
+        "summary": "이재명 대통령은 16일 인공지능(AI)을 ‘인류가 불을 발견한 수준의 문명사적 대전환’으로 규정하며 대한민국이 AI 선도국으로 도약할 결정적 기회를 맞았다고 강조했다. 동시에 개인정보 유출에 대한 과징금 강화는 특정 기업을 겨냥한 조치가 아니라 법과 원칙에 따른 것이라고 선을 그었다. 이 대통령은 이날 청와대 영빈관에서 열린 과학기술정보통신부(우주항공청)· ...",
+        "source": "매일경제",
+        "publishedAt": "2026-07-16",
+        "url": "https://www.mk.co.kr/news/politics/12100192",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.XFsEdUTfNgCii7iOpBvnQQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "범용 AI챗봇 올해 안 출시·미토스급 모델 개발도 지원…과기부 '두 토끼' 노린다",
+        "summary": "정부가 올 하반기 글로벌 10위권 수준의 독자 인공지능(AI) 모델을 확보하고, 2027년에는 세계 최상위급 모델 개발에 도전한다. 국민 누구나 비용 부담과 이용량 제한 없이 이용할 수 있는 범용 AI 챗봇 서비스 '모두의 ...",
+        "source": "한국일보 on MSN",
+        "publishedAt": "2026-07-16",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%B2%94%EC%9A%A9-ai%EC%B1%97%EB%B4%87-%EC%98%AC%ED%95%B4-%EC%95%88-%EC%B6%9C%EC%8B%9C-%EB%AF%B8%ED%86%A0%EC%8A%A4%EA%B8%89-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%EB%8F%84-%EC%A7%80%EC%9B%90-%EA%B3%BC%EA%B8%B0%EB%B6%80-%EB%91%90-%ED%86%A0%EB%81%BC-%EB%85%B8%EB%A6%B0%EB%8B%A4/ar-AA280NPR",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.i6lmcqNHlmdE-SxQ4UOuoA&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-07-16",
     "windowStart": "2026-07-14T22:00:00.000Z",
     "windowEnd": "2026-07-15T22:00:00.000Z",
@@ -560,103 +657,6 @@
         "publishedAt": "2026-07-08",
         "url": "https://www.segye.com/newsView/20260708518600",
         "imageUrl": "https://www.bing.com/th?id=ONUT.YOkYbz-8CvwW4oFWkFHGAw&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-07-10",
-    "windowStart": "2026-07-08T22:00:00.000Z",
-    "windowEnd": "2026-07-09T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "오세훈 시장 주택정책 그리는 G3 서울플랜, ‘중앙주거복지센터’ 첫 방문",
-        "summary": "오세훈 서울시장의 민선 9기 주택정책 청사진을 그리는 ‘G3 서울플랜 기획위원회’ 주거안정 도시분과가 주거취약계층 보호를 위해 민생 현장을 찾았다. 서울시는 지난 8일 G3 서울플랜 주거안정 도시분과가 용산구 ‘중앙주거복지센터’를 방문해 운영 사례를 직접 점검하고 민선 9기 주거복지 공약의 구체화 방안을 논의했다고 9일 밝혔다. G3 서울플랜 주거안경 도시 ...",
-        "source": "매일경제",
-        "publishedAt": "2026-07-09",
-        "url": "https://www.mk.co.kr/news/realestate/12094198",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.2svOp5ZnvTHm7dvUkjQdRA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\"",
-        "summary": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\" 英 연구팀 \"AI가 게시물 논조 변화시켜…은밀한 편향, 사회 전체로 확산\" (서울=연합뉴스) 이주영 기자 = 소셜미디어에서 게시물을 작성하거나 다듬고 내용을 설명해주는 생성형 인공지능(A..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-07-06",
-        "url": "https://www.fnnews.com/news/202607060816311040",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.NIqRG4l0en_KQSJFY7z8Ew&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "노동부, 초과이익 재분배 논의 재개...토론회로 의견 수렴 예정",
-        "summary": "【투데이신문 권신영 기자】정부가 기업의 초과이익 재분배와 원·하청 간 격차 완화 방안을 다시 논의한다. 사회연대임금의 실효성을 둘러싼 비판이 이어지는 가운데 정부 권한을 활용한 직접적인 격차 해소와 기업 성과의 사회적 재투자가 주요 쟁점으로 떠올랐다.6일 투데이신문 취재에 따르면 고용노동부(이하 노동부)는 이달 중순 기업의 초과이익 재분배 방안 등을 논의하 ...",
-        "source": "투데이신문",
-        "publishedAt": "2026-07-06",
-        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128024",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.WfxOlKiRFVgqu5AWIsVeAw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[박준규의 이슈언박싱] 응징이 교육을 삼켰다…배재고 야구부에 내려진 '사회적 사형'",
-        "summary": "지난달 29일 청룡기 전국고교야구선수권대회 배재고와 광주제일고의 경기 8회초, 앞서가던 배재고 더그아웃에서 \"스타벅스 가야지\"라는 구호가 터져 나왔습니다. 한 달 전 '5·18 탱크데이' 논란을 그대로 끌어와 광주 팀을 향해 던진 구호였습니다. 정치나 이념이 개입해서는 안 되는 스포츠 현장에 사회적 논란이 된 구호를 끌어들인 것은 분명 부적절한 처신이었습니 ...",
-        "source": "펜앤드마이크",
-        "publishedAt": "2026-07-05",
-        "url": "https://www.pennmike.com/news/articleView.html?idxno=123179",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.eCBTP8LU9UsTmYQBxrV2JA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈플러스] '장윤기 사건' 봐주기 수사 의혹...경찰, 특별수사팀 확대 편성",
-        "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스PLUS] 명시해주시기 바랍니다. [앵커] 장윤기 사건 수사 과정에서경찰의 증거인멸 정황이 확인되면서사건을 담당한 수사팀장이 긴급체포됐죠. 경찰은 광주 지휘라인을 배제하고경찰청 본청 수사팀을 투입했는데'제식구 감싸기' 부실수사 ...",
-        "source": "YTN",
-        "publishedAt": "2026-07-06",
-        "url": "https://www.ytn.co.kr/_ln/0103_202607061925132468",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.oDJFw5vmAjmgk4kWAu6pKg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "중·러·이란 미 인공지능 데이터 센터 갈등 부채질",
-        "summary": "중국과 러시아, 이란의 대미 여론공작이 인공지능 데이터건설에 따른 전력 공급 부족과 가격 인상, 기타 각종 부작용을 강조하는데 집중되고 있다고 미 뉴욕타임스(NYT)가 9일(현지시각) 보도했다. NYT는 이들의 여론 공작이 미국에서 인공지능 데이터센터 확산에 대한 적대감이 커지는 것을 겨냥한 것으로 중간 선거를 앞두고 논란을 키우려는 의도를 가진 것으로 보 ...",
-        "source": "뉴시스 on MSN",
-        "publishedAt": "2026-07-10",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%A4%91-%EB%9F%AC-%EC%9D%B4%EB%9E%80-%EB%AF%B8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%84%BC%ED%84%B0-%EA%B0%88%EB%93%B1-%EB%B6%80%EC%B1%84%EC%A7%88/ar-AA27ARII",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.skx8eAxtKwB9EQQ2IYMCwA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "한수원, AI·스마트 산업안전기술 경진대회서 고용부 장관상 수상",
-        "summary": "한국수력원자력은 8일 고용노동부와 한국산업안전보건공단이 주관한 2026 인공지능(AI)·스마트 산업안전기술 우수사례 챌린지에서 최우수상인 고용노동부 장관상을 받았다. ⓒ한국수력원자력 제공[데일리한국 정백현 기자] 한국수력원자력(한수원)은 8일 고용노동부와 한국산업안전보건공단이 주관한 2026 인공지능(AI)·스마트 산업안전기술 우수사례 챌린지에서 최우수상인 ...",
-        "source": "데일리한국 on MSN",
-        "publishedAt": "2026-07-09",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%ED%95%9C%EC%88%98%EC%9B%90-ai-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%82%B0%EC%97%85%EC%95%88%EC%A0%84%EA%B8%B0%EC%88%A0-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%EC%84%9C-%EA%B3%A0%EC%9A%A9%EB%B6%80-%EC%9E%A5%EA%B4%80%EC%83%81-%EC%88%98%EC%83%81/ar-AA27xPpO",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.SF82GEq6VI7qcNMBuzfFsw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "울산시, 제조산업 ‘인공지능 전환(AX)’ 본격 시동… 13개 기관 맞손",
-        "summary": "울산시가 지역 주력 산업의 미래 경쟁력을 확보하기 위해 산·학·연·관을 아우르는 인공지능 전환(AX·AI Transformation) 협력체계를 가동한다.울산시는 9일 오후 시청 대회의실에서 ‘울산 제조산업 인공지능 전환(AX) 확산을 위한 업무협약’을 체결하고, 민관 협력 거버넌스인 ‘울산산업 인공지능 전환(AX) 협의체’를 출범했다고 밝혔다.협약에는 울 ...",
-        "source": "국민일보 on MSN",
-        "publishedAt": "2026-07-09",
-        "url": "https://www.msn.com/ko-kr/news/national/%EC%9A%B8%EC%82%B0%EC%8B%9C-%EC%A0%9C%EC%A1%B0%EC%82%B0%EC%97%85-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-ax-%EB%B3%B8%EA%B2%A9-%EC%8B%9C%EB%8F%99-13%EA%B0%9C-%EA%B8%B0%EA%B4%80-%EB%A7%9E%EC%86%90/ar-AA27wuGL",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.6vAPtakBkmjBpevjOm0zgA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "새만금, 국제 해저광케이블 육양국 유치…“인공지능 데이터 허브 기반 마련”",
-        "summary": "새만금 국가산업단지에 초고속 국제 해저광케이블 육양국(Cable Landing Station)이 들어서게 돼 새만금이 글로벌 인공지능(AI) 데이터 중심으로 도약할 기반이 될 전망이다. 새만금개발청과 전북도, 군산시, 한국농어촌공사는 8일 드림라인㈜와 새만금 국가산단 2공구에 대규모 국제 해저 케이블 구축 사업인 ‘AUG(Asia United Gateway ...",
-        "source": "세계일보",
-        "publishedAt": "2026-07-08",
-        "url": "https://www.segye.com/newsView/20260708518600",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.YOkYbz-8CvwW4oFWkFHGAw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "서강대, ‘설명가능 인공지능 워크숍’서 융합 연구 성과 공개",
-        "summary": "서강대학교가 6월 25일 제주 국제컨벤션센터에서 열린 ‘KCC 설명가능 인공지능(XAI) 워크숍 2026’에 제3세부과제 참여기관으로 참가했다. 이번 워크숍은 KAIST 설명가능 인공지능연구센터가 주관하고, 서울대·서강대·한국전자통신연구원(ETRI)이 세부 과제 ...",
-        "source": "중앙일보",
-        "publishedAt": "2026-07-02",
-        "url": "https://www.koreadaily.com/article/20260701225033683",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.NPELvlREuiYh_FiW2130Kg&pid=News&w=1200&h=675&c=14"
       }
     ]
   }

@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-07-16",
-  "windowStart": "2026-07-14T22:00:00.000Z",
-  "windowEnd": "2026-07-15T22:00:00.000Z",
+  "updatedAt": "2026-07-17",
+  "windowStart": "2026-07-15T22:00:00.000Z",
+  "windowEnd": "2026-07-16T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\"",
+      "summary": "(서울=연합뉴스) 이주영 기자 = 소셜미디어에서 게시물을 작성하거나 다듬고 내용을 설명해주는 생성형 인공지능 (AI)이 글에 미묘한 편향을 주입하고, 이런 변화가 온라인에서 증폭돼 사회 전체 여론에 영향을 줄 수 있다는 연구 결과가 나왔다.",
+      "source": "연합뉴스",
+      "publishedAt": "2026-07-06",
+      "url": "https://www.yna.co.kr/view/AKR20260704042200017",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.D5-t_huNF117ltaJn9KT-g&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "연금·주거정책 만들 때 청년 영향부터 따진다… 반영 여부까지 공개",
@@ -23,15 +32,6 @@
     },
     {
       "category": "society",
-      "title": "\"불공정·불평등이 청년 불안 본질…정책 참여 늘려야\"",
-      "summary": "현재 청년 세대의 불안은 교육, 일자리, 주거, 자산, 결혼 등 삶의 주요 단계에서 불안정이 누적되는 구조적 문제라는 지적이 나왔다. 청년들이 느끼는 불공정·불평등이 심화하고 있는 만큼 주요 정책 결정 과정에 청년들의 참여 기회를 늘려야 한다는 의견도 제기됐다. 청년 전문가인 조은주 리워크연구소 대표는 10일 기획예산처 주최로 열린 '청년정책 전문가 토론회 ...",
-      "source": "뉴시스 on MSN",
-      "publishedAt": "2026-07-10",
-      "url": "https://www.msn.com/ko-kr/money/topstories/%EB%B6%88%EA%B3%B5%EC%A0%95-%EB%B6%88%ED%8F%89%EB%93%B1%EC%9D%B4-%EC%B2%AD%EB%85%84-%EB%B6%88%EC%95%88-%EB%B3%B8%EC%A7%88-%EC%A0%95%EC%B1%85-%EC%B0%B8%EC%97%AC-%EB%8A%98%EB%A0%A4%EC%95%BC/ar-AA27CtH4",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.YrqnUp1H1Shoh-NsbTt_8w&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
       "title": "[인천시론] 모두의 복지 넘어 ‘사회정책’으로",
       "summary": "보건복지부는 5월 ‘제3차 사회보장기본계획 수정계획’을 발표하며 ‘선별적 보호를 넘어 모두의 복지’를 새로운 복지 철학으로 제시했다. 국민 모두의 생애 전 과정을 국가가 책임지고 보편적 권리로 복지를 누리는 사회를 만들겠다는 선언은 분명 이전의 선별복지 중심 정책보다 ...",
       "source": "경기일보",
@@ -41,57 +41,57 @@
     },
     {
       "category": "society",
-      "title": "서울시, 주거정책 청사진…'중앙주거복지센터' 현장 점검",
-      "summary": "민선 9기 서울의 주거정책 청사진을 그리는 'G3 서울플랜 기획위원회' 주거안정 도시분과가 민생 현장을 찾았다. 최근 임차 수요 불균형과 주거비 부담으로 무주택 시민의 주거 불안정성이 커진 만큼, 현장 점검을 ...",
-      "source": "아시아경제 on MSN",
-      "publishedAt": "2026-07-09",
-      "url": "https://www.msn.com/ko-kr/money/topstories/%EC%84%9C%EC%9A%B8%EC%8B%9C-%EC%A3%BC%EA%B1%B0%EC%A0%95%EC%B1%85-%EC%B2%AD%EC%82%AC%EC%A7%84-%EC%A4%91%EC%95%99%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-%ED%98%84%EC%9E%A5-%EC%A0%90%EA%B2%80/ar-AA27vZVD",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.805a92a1a228b6acf2269513a17c99ed&pid=News&w=1200&h=675&c=14"
+      "title": "\"불공정·불평등이 청년 불안 본질…정책 참여 늘려야\"",
+      "summary": "현재 청년 세대의 불안은 교육, 일자리, 주거, 자산, 결혼 등 삶의 주요 단계에서 불안정이 누적되는 구조적 문제라는 지적이 나왔다. 청년들이 느끼는 불공정·불평등이 심화하고 있는 만큼 주요 정책 결정 과정에 청년들의 참여 기회를 늘려야 한다는 의견도 제기됐다. 청년 전문가인 조은주 리워크연구소 대표는 10일 기획예산처 주최로 열린 '청년정책 전문가 토론회 ...",
+      "source": "뉴시스 on MSN",
+      "publishedAt": "2026-07-10",
+      "url": "https://www.msn.com/ko-kr/money/topstories/%EB%B6%88%EA%B3%B5%EC%A0%95-%EB%B6%88%ED%8F%89%EB%93%B1%EC%9D%B4-%EC%B2%AD%EB%85%84-%EB%B6%88%EC%95%88-%EB%B3%B8%EC%A7%88-%EC%A0%95%EC%B1%85-%EC%B0%B8%EC%97%AC-%EB%8A%98%EB%A0%A4%EC%95%BC/ar-AA27CtH4",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.YrqnUp1H1Shoh-NsbTt_8w&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "상하이서 세계인공지능대회 17일 개막…미중경쟁 속 AI자립 과시",
-      "summary": "(상하이=연합뉴스) 차병섭 특파원 = 인공지능(AI)·반도체 등 과학기술 자립·자강을 통해 미국과의 기술경쟁에서 우위를 점하고자 하는 중국이 17일 상하이에서 개막하는 2026 세계인공지능대회(WAIC)를 통해 그동안의 성과를 선보인다. 중국은 'AI 파트너, 함께 만드는 미래'를 주제로 17∼20일 상하이에서 2026 WAIC와 'AI 글로벌 거버넌스 고 ...",
-      "source": "연합뉴스",
-      "publishedAt": "2026-07-15",
-      "url": "https://www.yna.co.kr/view/AKR20260715153200089",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.wQ_zY2t9ri6XwR4RjfUn-w&pid=News&w=1200&h=675&c=14"
+      "title": "상하이서 '세계인공지능대회' 개막…中 AI·로봇 성과 한자리에",
+      "summary": "1천100개사 3천개 제품 전시…화웨이·유니트리 등 첨단 기술 과시 미중 경쟁 속 시진핑 개막식 연설 주목…中 AI정책방향 제시 전망 (상하이=연합뉴스) 차병섭 특파원 = 미중 기술 경쟁이 격화하는 가운데 중국이 17일(현지시간) 자국의 인공지능(AI)·휴머노이드 분야 성과를 선보이는 2026 ...",
+      "source": "연합뉴스 on MSN",
+      "publishedAt": "2026-07-17",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%83%81%ED%95%98%EC%9D%B4%EC%84%9C-%EC%84%B8%EA%B3%84%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%ED%9A%8C-%EA%B0%9C%EB%A7%89-%E4%B8%AD-ai-%EB%A1%9C%EB%B4%87-%EC%84%B1%EA%B3%BC-%ED%95%9C%EC%9E%90%EB%A6%AC%EC%97%90/ar-AA2859EH",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ywa3QeeJ5xU0sduU7cayZQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "\"산업혁명 10배 충격 닥친다\"… 구글 딥마인드 CEO, AI 표준기구 촉구",
-      "summary": "노벨상 수상자인 데미스 허사비스 구글 딥마인드 최고경영자(CEO)가 수년 내 인공일반지능(AGI) 시대가 도래할 수 있다며, 첨단 인공지능(AI) 모델의 안전성을 평가하고 감독할 독립적 표준 기구 설립을 제안했다. AI 기술 ...",
+      "title": "이 대통령 “인공지능 생성물 표시 과태료 유예…악용 많다”",
+      "summary": "이재명 대통령이 16일 인공지능(AI)으로 제작한 영상·이미지에 대한 표시 의무의 실효성을 강화해야 한다고 밝혔다. 인공지능 생성물과 실제 영상의 구분이 어려워진 만큼 표시 의무 위반에 대한 제재를 강화해 허위정보 확산을 막아야 한다는 취지다. 이 대통령은 이날 청와대 ...",
+      "source": "한겨레",
+      "publishedAt": "2026-07-16",
+      "url": "https://www.hani.co.kr/arti/politics/bluehouse/1268518.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.0jt1GshCK9FFetFIBJfpaQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "한국, 독자 AI로 세계 2강 도전…'모두의 AI'로 판 키운다",
+      "summary": "배경훈 부총리 겸 과학기술정보통신부 장관은 16일 한국의 인공지능(AI) 경쟁력이 국제 평가기관에서 세계 3위로 평가됐다며 세계 2위권 진입에 도전하겠다고 밝혔다. 나아가 미국이 전략 무기로 판단해 접근을 통제한 '미토스'급 프론티어 AI 모델을 대한민국도 만들 수 있다며, 그래픽처리장치(GPU) 등 인프라 지원만 뒷받침된다면 최고 수준의 성능 달성이 가능 ...",
+      "source": "세계일보 on MSN",
+      "publishedAt": "2026-07-16",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%95%9C%EA%B5%AD-%EB%8F%85%EC%9E%90-ai%EB%A1%9C-%EC%84%B8%EA%B3%84-2%EA%B0%95-%EB%8F%84%EC%A0%84-%EB%AA%A8%EB%91%90%EC%9D%98-ai-%EB%A1%9C-%ED%8C%90-%ED%82%A4%EC%9A%B4%EB%8B%A4/ar-AA281rqW",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.QJGiIcqdppH16cjtl0U45Q&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "이 대통령 “AI는 ‘불의 발견’ 수준”…쿠팡 겨냥 논란엔 “특정기업 아냐”",
+      "summary": "이재명 대통령은 16일 인공지능(AI)을 ‘인류가 불을 발견한 수준의 문명사적 대전환’으로 규정하며 대한민국이 AI 선도국으로 도약할 결정적 기회를 맞았다고 강조했다. 동시에 개인정보 유출에 대한 과징금 강화는 특정 기업을 겨냥한 조치가 아니라 법과 원칙에 따른 것이라고 선을 그었다. 이 대통령은 이날 청와대 영빈관에서 열린 과학기술정보통신부(우주항공청)· ...",
+      "source": "매일경제",
+      "publishedAt": "2026-07-16",
+      "url": "https://www.mk.co.kr/news/politics/12100192",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.XFsEdUTfNgCii7iOpBvnQQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "범용 AI챗봇 올해 안 출시·미토스급 모델 개발도 지원…과기부 '두 토끼' 노린다",
+      "summary": "정부가 올 하반기 글로벌 10위권 수준의 독자 인공지능(AI) 모델을 확보하고, 2027년에는 세계 최상위급 모델 개발에 도전한다. 국민 누구나 비용 부담과 이용량 제한 없이 이용할 수 있는 범용 AI 챗봇 서비스 '모두의 ...",
       "source": "한국일보 on MSN",
-      "publishedAt": "2026-07-15",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%82%B0%EC%97%85%ED%98%81%EB%AA%85-10%EB%B0%B0-%EC%B6%A9%EA%B2%A9-%EB%8B%A5%EC%B9%9C%EB%8B%A4-%EA%B5%AC%EA%B8%80-%EB%94%A5%EB%A7%88%EC%9D%B8%EB%93%9C-ceo-ai-%ED%91%9C%EC%A4%80%EA%B8%B0%EA%B5%AC-%EC%B4%89%EA%B5%AC/ar-AA27WiSD",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.8ip-RCUixqurAtZW33iYgQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "AI 서비스 힘주는 네카오... 네이버 \"AI탭 1000만 돌파\" 카카오 \"톡방서 이미지 수정\"",
-      "summary": "국산 플랫폼 기업 네이버와 카카오의 서비스가 빠르게 인공지능(AI)화하고 있다. 네이버의 대화형 AI 검색 서비스는 출시 한 달도 되지 않아 이용자가 1,000만 명을 넘어섰고, 카카오는 카카오톡 대화방에서 이미지를 생성하고 대화를 요약하는 서비스를 내놓았다. 네이버는 15일 대화형 AI 검색 서비스 'AI탭' 이용자가 전날 1,000만 명을 넘었다고 밝혔 ...",
-      "source": "한국일보",
-      "publishedAt": "2026-07-15",
-      "url": "https://www.hankookilbo.com/news/article/A2026071513390003387",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.7DStbRyTJwUoMKLeDFVzBA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "구글 AI 책임자 “범용인공지능시대 임박… 미국이 주도하는 AI 규제기관 신설해야”",
-      "summary": "구글 인공지능(AI) 부문 책임자인 데미스 허사비스 구글 딥마인드 최고경영자(CEO)가 범용인공지능(AGI) 시대가 임박했다며 미국이 주도하는 AI 규제기구를 신설해야 한다고 제안했다.노벨화학상 수상자인 허사비스 CEO는 14일(현지시간) 엑스(X)를 통해 “AGI가 ...",
-      "source": "서울신문 on MSN",
-      "publishedAt": "2026-07-15",
-      "url": "https://www.msn.com/ko-kr/money/topstories/%EA%B5%AC%EA%B8%80-ai-%EC%B1%85%EC%9E%84%EC%9E%90-%EB%B2%94%EC%9A%A9%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%8B%9C%EB%8C%80-%EC%9E%84%EB%B0%95-%EB%AF%B8%EA%B5%AD%EC%9D%B4-%EC%A3%BC%EB%8F%84%ED%95%98%EB%8A%94-ai-%EA%B7%9C%EC%A0%9C%EA%B8%B0%EA%B4%80-%EC%8B%A0%EC%84%A4%ED%95%B4%EC%95%BC/ar-AA27Y7Hl",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.79cc4b9a0368ef3000190593541317c9&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "아이에이, 퓨리오사AI NPU 기반 '소형 AI 데이터센터' 짓는다",
-      "summary": "아이에이와 자회사 아이에이클라우드가 국산 인공지능(AI) 반도체 기업 퓨리오사AI와 손잡고 국산 반도체 기반의 소형 AI 데이터센터를 함께 실증하고 사업화한다. 3사는 이를 통해 소형 AI 데이터센터의 국산화율을 최대 95%까지 끌어올린다는 목표를 제시했다. 3사는 지난 14일 이 같은 내용의 '국산 NPU 기반 소형 모듈형 AI 데이터센터 공동 실증 및 ...",
-      "source": "전자신문",
-      "publishedAt": "2026-07-15",
-      "url": "https://www.etnews.com/20260715000370",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.qSBZeLIlN60R4FuWOyeImg&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-07-16",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%B2%94%EC%9A%A9-ai%EC%B1%97%EB%B4%87-%EC%98%AC%ED%95%B4-%EC%95%88-%EC%B6%9C%EC%8B%9C-%EB%AF%B8%ED%86%A0%EC%8A%A4%EA%B8%89-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%EB%8F%84-%EC%A7%80%EC%9B%90-%EA%B3%BC%EA%B8%B0%EB%B6%80-%EB%91%90-%ED%86%A0%EB%81%BC-%EB%85%B8%EB%A6%B0%EB%8B%A4/ar-AA280NPR",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.i6lmcqNHlmdE-SxQ4UOuoA&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
