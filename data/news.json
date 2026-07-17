@@ -1,97 +1,88 @@
 {
-  "updatedAt": "2026-07-17",
-  "windowStart": "2026-07-15T22:00:00.000Z",
-  "windowEnd": "2026-07-16T22:00:00.000Z",
+  "updatedAt": "2026-07-18",
+  "windowStart": "2026-07-16T22:00:00.000Z",
+  "windowEnd": "2026-07-17T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\"",
-      "summary": "(서울=연합뉴스) 이주영 기자 = 소셜미디어에서 게시물을 작성하거나 다듬고 내용을 설명해주는 생성형 인공지능 (AI)이 글에 미묘한 편향을 주입하고, 이런 변화가 온라인에서 증폭돼 사회 전체 여론에 영향을 줄 수 있다는 연구 결과가 나왔다.",
-      "source": "연합뉴스",
-      "publishedAt": "2026-07-06",
-      "url": "https://www.yna.co.kr/view/AKR20260704042200017",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.D5-t_huNF117ltaJn9KT-g&pid=News&w=1200&h=675&c=14"
+      "title": "[복지뉴스] 한국사회보장정보원, AI 시대 이끌 미래 사회복지사 키운다 外",
+      "summary": "【베이비뉴스 심주인 기자】아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 정책과 아동·가족 복지 제도, 취약계층 지원 사업 등 다양한 소식 가운 ...",
+      "source": "베이비뉴스 on MSN",
+      "publishedAt": "2026-07-13",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-ai-%EC%8B%9C%EB%8C%80-%EC%9D%B4%EB%81%8C-%EB%AF%B8%EB%9E%98-%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%82%AC-%ED%82%A4%EC%9A%B4%EB%8B%A4-%E5%A4%96/ar-AA27N3C0",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.aVGmgdkcfKF8yTtvA1yl2A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "연금·주거정책 만들 때 청년 영향부터 따진다… 반영 여부까지 공개",
-      "summary": "【파이낸셜뉴스 제주=정용복 기자】 연금과 노동, 교육, 주거, 복지, 금융처럼 청년의 삶과 미래 부담을 좌우하는 정책을 만들 때 청년에게 미칠 영향을 먼저 따지는 제도 도입이 추진된다. 10일 문대림 더불어민주당 의원실에 따르면 문 의원은 전날 국가와 지방자치단체가 청년의 권익에 중대한 영향을 미치는 주요 정책과 중장기 계획을 수립·변경할 때 '청년영향평가 ...",
-      "source": "파이낸셜뉴스 on MSN",
-      "publishedAt": "2026-07-10",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%97%B0%EA%B8%88-%EC%A3%BC%EA%B1%B0%EC%A0%95%EC%B1%85-%EB%A7%8C%EB%93%A4-%EB%95%8C-%EC%B2%AD%EB%85%84-%EC%98%81%ED%96%A5%EB%B6%80%ED%84%B0-%EB%94%B0%EC%A7%84%EB%8B%A4-%EB%B0%98%EC%98%81-%EC%97%AC%EB%B6%80%EA%B9%8C%EC%A7%80-%EA%B3%B5%EA%B0%9C/ar-AA27BgSH",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.39ac28cb9ccf9ba14b61d15bb256ef27&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "“노동·주거·자산 격차와 불공정·불평등 심화가 청년세대 불안의 본질”…전문가들 제시한 해법은?",
-      "summary": "“청년 문제는 일자리 등 삶의 주요 단계에서 불안정이 누적되는 구조적 문제입니다.” 10일 기획예산처 주최로 서울 중구 프레스센터에서 열린 ‘청년정책 전문가 토론회’에서 조은주 리워크연구소 대표는 청년 문제를 두고 이렇게 진단했다. 특정 시기나 분야가 아니라 교육, 일자리, 주거, 자산 결혼 등 청년층이 겪는 각 단계별로 청년들이 어려움을 겪고 있다는 것이 ...",
-      "source": "세계일보 on MSN",
-      "publishedAt": "2026-07-12",
-      "url": "https://www.msn.com/ko-kr/money/topstories/%EB%85%B8%EB%8F%99-%EC%A3%BC%EA%B1%B0-%EC%9E%90%EC%82%B0-%EA%B2%A9%EC%B0%A8%EC%99%80-%EB%B6%88%EA%B3%B5%EC%A0%95-%EB%B6%88%ED%8F%89%EB%93%B1-%EC%8B%AC%ED%99%94%EA%B0%80-%EC%B2%AD%EB%85%84%EC%84%B8%EB%8C%80-%EB%B6%88%EC%95%88%EC%9D%98-%EB%B3%B8%EC%A7%88-%EC%A0%84%EB%AC%B8%EA%B0%80%EB%93%A4-%EC%A0%9C%EC%8B%9C%ED%95%9C-%ED%95%B4%EB%B2%95%EC%9D%80/ar-AA27HwR1",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.5dd5a0e06fc40a088a22403c4624d282&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[인천시론] 모두의 복지 넘어 ‘사회정책’으로",
-      "summary": "보건복지부는 5월 ‘제3차 사회보장기본계획 수정계획’을 발표하며 ‘선별적 보호를 넘어 모두의 복지’를 새로운 복지 철학으로 제시했다. 국민 모두의 생애 전 과정을 국가가 책임지고 보편적 권리로 복지를 누리는 사회를 만들겠다는 선언은 분명 이전의 선별복지 중심 정책보다 ...",
-      "source": "경기일보",
-      "publishedAt": "2026-07-06",
-      "url": "https://www.kyeonggi.com/article/20260706580508",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.e9Wg6VLoxlcZLfwS4w0wUg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "\"불공정·불평등이 청년 불안 본질…정책 참여 늘려야\"",
-      "summary": "현재 청년 세대의 불안은 교육, 일자리, 주거, 자산, 결혼 등 삶의 주요 단계에서 불안정이 누적되는 구조적 문제라는 지적이 나왔다. 청년들이 느끼는 불공정·불평등이 심화하고 있는 만큼 주요 정책 결정 과정에 청년들의 참여 기회를 늘려야 한다는 의견도 제기됐다. 청년 전문가인 조은주 리워크연구소 대표는 10일 기획예산처 주최로 열린 '청년정책 전문가 토론회 ...",
-      "source": "뉴시스 on MSN",
-      "publishedAt": "2026-07-10",
-      "url": "https://www.msn.com/ko-kr/money/topstories/%EB%B6%88%EA%B3%B5%EC%A0%95-%EB%B6%88%ED%8F%89%EB%93%B1%EC%9D%B4-%EC%B2%AD%EB%85%84-%EB%B6%88%EC%95%88-%EB%B3%B8%EC%A7%88-%EC%A0%95%EC%B1%85-%EC%B0%B8%EC%97%AC-%EB%8A%98%EB%A0%A4%EC%95%BC/ar-AA27CtH4",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.YrqnUp1H1Shoh-NsbTt_8w&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "상하이서 '세계인공지능대회' 개막…中 AI·로봇 성과 한자리에",
-      "summary": "1천100개사 3천개 제품 전시…화웨이·유니트리 등 첨단 기술 과시 미중 경쟁 속 시진핑 개막식 연설 주목…中 AI정책방향 제시 전망 (상하이=연합뉴스) 차병섭 특파원 = 미중 기술 경쟁이 격화하는 가운데 중국이 17일(현지시간) 자국의 인공지능(AI)·휴머노이드 분야 성과를 선보이는 2026 ...",
+      "title": "한국 시민사회, 공적개발원조 공동 설계자…유엔 무대서 주목",
+      "summary": "KCOC, 고위급정치포럼(HLPF)서 정부-민간 협력 우수 사례 소개 (서울=연합뉴스) 성도현 기자 = 대한민국 국제개발협력 시민사회가 유엔(UN) 무대에서 정부와 시민사회 간 성공적인 파트너십 모델을 글로벌 우수 사례로 소개해 국제사회의 주목을 받았다. 시민사회는 또 전 지구적 복합위기 속에서 ...",
       "source": "연합뉴스 on MSN",
-      "publishedAt": "2026-07-17",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%83%81%ED%95%98%EC%9D%B4%EC%84%9C-%EC%84%B8%EA%B3%84%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%ED%9A%8C-%EA%B0%9C%EB%A7%89-%E4%B8%AD-ai-%EB%A1%9C%EB%B4%87-%EC%84%B1%EA%B3%BC-%ED%95%9C%EC%9E%90%EB%A6%AC%EC%97%90/ar-AA2859EH",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ywa3QeeJ5xU0sduU7cayZQ&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-07-13",
+      "url": "https://www.msn.com/ko-kr/%EC%82%AC%ED%9A%8C-%EB%AC%B8%ED%99%94-%EB%B0%8F-%EC%97%AD%EC%82%AC/%EC%86%8C%EC%85%9C-%EB%AC%B8%EC%A0%9C/%ED%95%9C%EA%B5%AD-%EC%8B%9C%EB%AF%BC%EC%82%AC%ED%9A%8C-%EA%B3%B5%EC%A0%81%EA%B0%9C%EB%B0%9C%EC%9B%90%EC%A1%B0-%EA%B3%B5%EB%8F%99-%EC%84%A4%EA%B3%84%EC%9E%90-%EC%9C%A0%EC%97%94-%EB%AC%B4%EB%8C%80%EC%84%9C-%EC%A3%BC%EB%AA%A9/ar-AA27LYOn",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.7QkEQ-CnbSqcfipQ97wZ9w&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "마틴 파의 눈으로 본 한국 사회",
+      "summary": "(서울=연합뉴스) 강민지 기자 = 15일 서울 도봉구 서울시립 사진미술관에서 열린 현대 다큐멘터리 사진 거장 마틴 파 아시아 최초 대규모 회고전 '마틴 파: We Are Martin Parr'에서 관람객이 연작 '남한'을 둘러보고 있다. 2026.7.15 ...",
+      "source": "연합뉴스",
+      "publishedAt": "2026-07-15",
+      "url": "https://www.yna.co.kr/view/PYH20260715109000013",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.UNsd34d2Y8yE7-bXSNeXvw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "“한국 사회 갈등 1위는 보수·진보”…진보층 늘고 보수층 감소",
+      "summary": "우리 사회에서 가장 심각한 갈등은 보수와 진보 간 이념 갈등이라는 조사 결과가 나왔다. 자신을 진보 성향이라고 인식하는 국민은 늘어난 반면, 보수 성향이라고 답한 비율은 소폭 감소한 것으로 나타났다.7일 한국행정연구원이 발표한 ‘2025년 사회통합 실태조사’에 따르면 ...",
+      "source": "서울신문 on MSN",
+      "publishedAt": "2026-07-07",
+      "url": "https://www.msn.com/ko-kr/news/national/%ED%95%9C%EA%B5%AD-%EC%82%AC%ED%9A%8C-%EA%B0%88%EB%93%B1-1%EC%9C%84%EB%8A%94-%EB%B3%B4%EC%88%98-%EC%A7%84%EB%B3%B4-%EC%A7%84%EB%B3%B4%EC%B8%B5-%EB%8A%98%EA%B3%A0-%EB%B3%B4%EC%88%98%EC%B8%B5-%EA%B0%90%EC%86%8C/ar-AA27mqcf",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.c2f4f51643bb29a0125c637eccffd890&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "이 대통령 “인공지능 생성물 표시 과태료 유예…악용 많다”",
-      "summary": "이재명 대통령이 16일 인공지능(AI)으로 제작한 영상·이미지에 대한 표시 의무의 실효성을 강화해야 한다고 밝혔다. 인공지능 생성물과 실제 영상의 구분이 어려워진 만큼 표시 의무 위반에 대한 제재를 강화해 허위정보 확산을 막아야 한다는 취지다. 이 대통령은 이날 청와대 ...",
-      "source": "한겨레",
-      "publishedAt": "2026-07-16",
-      "url": "https://www.hani.co.kr/arti/politics/bluehouse/1268518.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.0jt1GshCK9FFetFIBJfpaQ&pid=News&w=1200&h=675&c=14"
+      "title": "[조성준의 스케치] AI 데이터센터, 변압기 수요 급증…전력기기 공급망 '새 변수'",
+      "summary": "생성형 인공지능(AI) 경쟁이 반도체에서 전력 인프라 경쟁으로 확대되고 있다. AI 데이터센터가 기가와트(GW)급으로 대형화되면서 GPU 확보보다 변압기와 개폐기 등 전력설비를 얼마나 빨리 확보하느냐가 사업 속도를 좌우하는 변수로 떠오르고 있어서다.13일 전력기기 및 ...",
+      "source": "아주경제 on MSN",
+      "publishedAt": "2026-07-13",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%A1%B0%EC%84%B1%EC%A4%80%EC%9D%98-%EC%8A%A4%EC%BC%80%EC%B9%98-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EB%B3%80%EC%95%95%EA%B8%B0-%EC%88%98%EC%9A%94-%EA%B8%89%EC%A6%9D-%EC%A0%84%EB%A0%A5%EA%B8%B0%EA%B8%B0-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EC%83%88-%EB%B3%80%EC%88%98/ar-AA27NBLN",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.2b7e6027063ffc709141784387908e3f&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "한국, 독자 AI로 세계 2강 도전…'모두의 AI'로 판 키운다",
-      "summary": "배경훈 부총리 겸 과학기술정보통신부 장관은 16일 한국의 인공지능(AI) 경쟁력이 국제 평가기관에서 세계 3위로 평가됐다며 세계 2위권 진입에 도전하겠다고 밝혔다. 나아가 미국이 전략 무기로 판단해 접근을 통제한 '미토스'급 프론티어 AI 모델을 대한민국도 만들 수 있다며, 그래픽처리장치(GPU) 등 인프라 지원만 뒷받침된다면 최고 수준의 성능 달성이 가능 ...",
-      "source": "세계일보 on MSN",
+      "title": "백준호 퓨리오사AI 대표 \"추론형 AI 데이터센터, 반도체 최대 시장 될 것\"",
+      "summary": "국내 인공지능(AI) 반도체 기업 퓨리오사AI의 백준호 대표는 16일 \"앞으로 새롭게 구축될 AI 데이터센터의 중심축은 '훈련'에서 '추론' 영역으로 이동할 것이며, 추론형 데이터센터가 향후 반도체 산업 전체 섹터를 ...",
+      "source": "아시아경제 on MSN",
       "publishedAt": "2026-07-16",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%95%9C%EA%B5%AD-%EB%8F%85%EC%9E%90-ai%EB%A1%9C-%EC%84%B8%EA%B3%84-2%EA%B0%95-%EB%8F%84%EC%A0%84-%EB%AA%A8%EB%91%90%EC%9D%98-ai-%EB%A1%9C-%ED%8C%90-%ED%82%A4%EC%9A%B4%EB%8B%A4/ar-AA281rqW",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.QJGiIcqdppH16cjtl0U45Q&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/money/markets/%EB%B0%B1%EC%A4%80%ED%98%B8-%ED%93%A8%EB%A6%AC%EC%98%A4%EC%82%ACai-%EB%8C%80%ED%91%9C-%EC%B6%94%EB%A1%A0%ED%98%95-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%B5%9C%EB%8C%80-%EC%8B%9C%EC%9E%A5-%EB%90%A0-%EA%B2%83/ar-AA280CMf",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.00ef1449fe8de4e2664f350865c12e45&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "이 대통령 “AI는 ‘불의 발견’ 수준”…쿠팡 겨냥 논란엔 “특정기업 아냐”",
-      "summary": "이재명 대통령은 16일 인공지능(AI)을 ‘인류가 불을 발견한 수준의 문명사적 대전환’으로 규정하며 대한민국이 AI 선도국으로 도약할 결정적 기회를 맞았다고 강조했다. 동시에 개인정보 유출에 대한 과징금 강화는 특정 기업을 겨냥한 조치가 아니라 법과 원칙에 따른 것이라고 선을 그었다. 이 대통령은 이날 청와대 영빈관에서 열린 과학기술정보통신부(우주항공청)· ...",
-      "source": "매일경제",
-      "publishedAt": "2026-07-16",
-      "url": "https://www.mk.co.kr/news/politics/12100192",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.XFsEdUTfNgCii7iOpBvnQQ&pid=News&w=1200&h=675&c=14"
+      "title": "아이에이·퓨리오사AI, 국산 NPU로 소형 AI 데이터센터 구축 나서",
+      "summary": "소형 AIDC에 퓨리오사 NPU 적용 실증 올해 화성·광주 실증단지 구축 추진 네오큐브 국산화 최대 95% 목표 백준호 퓨리오사AI 대표, 한성용 아이에이 대표, 김성동 아이에이클라우드 대표(왼쪽부터)가 지난 14일 업무협약을 체결한 뒤 기념촬영을 하고 있다. 아이에이 아이에이와 아이에이클라우드가 퓨리오사AI와 손잡고 국산 인공지능(AI) 반도체 기반 소형 ...",
+      "source": "매일경제 on MSN",
+      "publishedAt": "2026-07-15",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%95%84%EC%9D%B4%EC%97%90%EC%9D%B4-%ED%93%A8%EB%A6%AC%EC%98%A4%EC%82%ACai-%EA%B5%AD%EC%82%B0-npu%EB%A1%9C-%EC%86%8C%ED%98%95-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B5%AC%EC%B6%95-%EB%82%98%EC%84%9C/ar-AA27VUOa",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.43379ca9bd05f9dc08b5741bb75afdd4&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "범용 AI챗봇 올해 안 출시·미토스급 모델 개발도 지원…과기부 '두 토끼' 노린다",
-      "summary": "정부가 올 하반기 글로벌 10위권 수준의 독자 인공지능(AI) 모델을 확보하고, 2027년에는 세계 최상위급 모델 개발에 도전한다. 국민 누구나 비용 부담과 이용량 제한 없이 이용할 수 있는 범용 AI 챗봇 서비스 '모두의 ...",
-      "source": "한국일보 on MSN",
-      "publishedAt": "2026-07-16",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%B2%94%EC%9A%A9-ai%EC%B1%97%EB%B4%87-%EC%98%AC%ED%95%B4-%EC%95%88-%EC%B6%9C%EC%8B%9C-%EB%AF%B8%ED%86%A0%EC%8A%A4%EA%B8%89-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%EB%8F%84-%EC%A7%80%EC%9B%90-%EA%B3%BC%EA%B8%B0%EB%B6%80-%EB%91%90-%ED%86%A0%EB%81%BC-%EB%85%B8%EB%A6%B0%EB%8B%A4/ar-AA280NPR",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.i6lmcqNHlmdE-SxQ4UOuoA&pid=News&w=1200&h=675&c=14"
+      "title": "아이에이, 퓨리오사AI NPU 기반 '소형 AI 데이터센터' 짓는다",
+      "summary": "아이에이와 자회사 아이에이클라우드가 국산 인공지능(AI) 반도체 기업 퓨리오사AI와 손잡고 국산 반도체 기반의 소형 AI 데이터센터를 함께 실증하고 사업화한다. 3사는 이를 통해 소형 AI 데이터센터의 국산화율을 최대 95%까지 끌어올린다는 목표를 제시했다. 3사는 지난 14일 이 같은 내용의 '국산 NPU 기반 소형 모듈형 AI 데이터센터 공동 실증 및 ...",
+      "source": "전자신문",
+      "publishedAt": "2026-07-15",
+      "url": "https://www.etnews.com/20260715000370",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.qSBZeLIlN60R4FuWOyeImg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "AI 다음 격전지는 인프라?…AIDC 경쟁 치열한 이유는 [트랜D]",
+      "summary": "인공지능(AI) 패권 경쟁의 중심이 반도체와 AI 모델 개발을 넘어 데이터센터 인프라로 옮겨가고 있다. 그만큼 AI 데이터센터(AIDC) 설립 경쟁도 치열하다. 생성형 AI가 자리 잡으며 뛰어난 알고리즘을 개발에서 대규모 컴퓨팅 인프라를 확보로 승부처가 이동하고 있기 때문이다. AIDC란 생성형 AI와 대규모 AI 모델의 학습·추론을 위해 구축된 고성능 데 ...",
+      "source": "중앙일보 on MSN",
+      "publishedAt": "2026-07-10",
+      "url": "https://www.msn.com/ko-kr/money/topstories/ai-%EB%8B%A4%EC%9D%8C-%EA%B2%A9%EC%A0%84%EC%A7%80%EB%8A%94-%EC%9D%B8%ED%94%84%EB%9D%BC-aidc-%EA%B2%BD%EC%9F%81-%EC%B9%98%EC%97%B4%ED%95%9C-%EC%9D%B4%EC%9C%A0%EB%8A%94-%ED%8A%B8%EB%9E%9Cd/ar-AA27AOW5",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.wh2QFAzFFWIuTQ_bBiLuPw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }

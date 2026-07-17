@@ -1,5 +1,93 @@
 [
   {
+    "updatedAt": "2026-07-18",
+    "windowStart": "2026-07-16T22:00:00.000Z",
+    "windowEnd": "2026-07-17T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[복지뉴스] 한국사회보장정보원, AI 시대 이끌 미래 사회복지사 키운다 外",
+        "summary": "【베이비뉴스 심주인 기자】아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 정책과 아동·가족 복지 제도, 취약계층 지원 사업 등 다양한 소식 가운 ...",
+        "source": "베이비뉴스 on MSN",
+        "publishedAt": "2026-07-13",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-ai-%EC%8B%9C%EB%8C%80-%EC%9D%B4%EB%81%8C-%EB%AF%B8%EB%9E%98-%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%82%AC-%ED%82%A4%EC%9A%B4%EB%8B%A4-%E5%A4%96/ar-AA27N3C0",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.aVGmgdkcfKF8yTtvA1yl2A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "한국 시민사회, 공적개발원조 공동 설계자…유엔 무대서 주목",
+        "summary": "KCOC, 고위급정치포럼(HLPF)서 정부-민간 협력 우수 사례 소개 (서울=연합뉴스) 성도현 기자 = 대한민국 국제개발협력 시민사회가 유엔(UN) 무대에서 정부와 시민사회 간 성공적인 파트너십 모델을 글로벌 우수 사례로 소개해 국제사회의 주목을 받았다. 시민사회는 또 전 지구적 복합위기 속에서 ...",
+        "source": "연합뉴스 on MSN",
+        "publishedAt": "2026-07-13",
+        "url": "https://www.msn.com/ko-kr/%EC%82%AC%ED%9A%8C-%EB%AC%B8%ED%99%94-%EB%B0%8F-%EC%97%AD%EC%82%AC/%EC%86%8C%EC%85%9C-%EB%AC%B8%EC%A0%9C/%ED%95%9C%EA%B5%AD-%EC%8B%9C%EB%AF%BC%EC%82%AC%ED%9A%8C-%EA%B3%B5%EC%A0%81%EA%B0%9C%EB%B0%9C%EC%9B%90%EC%A1%B0-%EA%B3%B5%EB%8F%99-%EC%84%A4%EA%B3%84%EC%9E%90-%EC%9C%A0%EC%97%94-%EB%AC%B4%EB%8C%80%EC%84%9C-%EC%A3%BC%EB%AA%A9/ar-AA27LYOn",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.7QkEQ-CnbSqcfipQ97wZ9w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "마틴 파의 눈으로 본 한국 사회",
+        "summary": "(서울=연합뉴스) 강민지 기자 = 15일 서울 도봉구 서울시립 사진미술관에서 열린 현대 다큐멘터리 사진 거장 마틴 파 아시아 최초 대규모 회고전 '마틴 파: We Are Martin Parr'에서 관람객이 연작 '남한'을 둘러보고 있다. 2026.7.15 ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-07-15",
+        "url": "https://www.yna.co.kr/view/PYH20260715109000013",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.UNsd34d2Y8yE7-bXSNeXvw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "“한국 사회 갈등 1위는 보수·진보”…진보층 늘고 보수층 감소",
+        "summary": "우리 사회에서 가장 심각한 갈등은 보수와 진보 간 이념 갈등이라는 조사 결과가 나왔다. 자신을 진보 성향이라고 인식하는 국민은 늘어난 반면, 보수 성향이라고 답한 비율은 소폭 감소한 것으로 나타났다.7일 한국행정연구원이 발표한 ‘2025년 사회통합 실태조사’에 따르면 ...",
+        "source": "서울신문 on MSN",
+        "publishedAt": "2026-07-07",
+        "url": "https://www.msn.com/ko-kr/news/national/%ED%95%9C%EA%B5%AD-%EC%82%AC%ED%9A%8C-%EA%B0%88%EB%93%B1-1%EC%9C%84%EB%8A%94-%EB%B3%B4%EC%88%98-%EC%A7%84%EB%B3%B4-%EC%A7%84%EB%B3%B4%EC%B8%B5-%EB%8A%98%EA%B3%A0-%EB%B3%B4%EC%88%98%EC%B8%B5-%EA%B0%90%EC%86%8C/ar-AA27mqcf",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.c2f4f51643bb29a0125c637eccffd890&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[조성준의 스케치] AI 데이터센터, 변압기 수요 급증…전력기기 공급망 '새 변수'",
+        "summary": "생성형 인공지능(AI) 경쟁이 반도체에서 전력 인프라 경쟁으로 확대되고 있다. AI 데이터센터가 기가와트(GW)급으로 대형화되면서 GPU 확보보다 변압기와 개폐기 등 전력설비를 얼마나 빨리 확보하느냐가 사업 속도를 좌우하는 변수로 떠오르고 있어서다.13일 전력기기 및 ...",
+        "source": "아주경제 on MSN",
+        "publishedAt": "2026-07-13",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%A1%B0%EC%84%B1%EC%A4%80%EC%9D%98-%EC%8A%A4%EC%BC%80%EC%B9%98-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EB%B3%80%EC%95%95%EA%B8%B0-%EC%88%98%EC%9A%94-%EA%B8%89%EC%A6%9D-%EC%A0%84%EB%A0%A5%EA%B8%B0%EA%B8%B0-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EC%83%88-%EB%B3%80%EC%88%98/ar-AA27NBLN",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.2b7e6027063ffc709141784387908e3f&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "백준호 퓨리오사AI 대표 \"추론형 AI 데이터센터, 반도체 최대 시장 될 것\"",
+        "summary": "국내 인공지능(AI) 반도체 기업 퓨리오사AI의 백준호 대표는 16일 \"앞으로 새롭게 구축될 AI 데이터센터의 중심축은 '훈련'에서 '추론' 영역으로 이동할 것이며, 추론형 데이터센터가 향후 반도체 산업 전체 섹터를 ...",
+        "source": "아시아경제 on MSN",
+        "publishedAt": "2026-07-16",
+        "url": "https://www.msn.com/ko-kr/money/markets/%EB%B0%B1%EC%A4%80%ED%98%B8-%ED%93%A8%EB%A6%AC%EC%98%A4%EC%82%ACai-%EB%8C%80%ED%91%9C-%EC%B6%94%EB%A1%A0%ED%98%95-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%B5%9C%EB%8C%80-%EC%8B%9C%EC%9E%A5-%EB%90%A0-%EA%B2%83/ar-AA280CMf",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.00ef1449fe8de4e2664f350865c12e45&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "아이에이·퓨리오사AI, 국산 NPU로 소형 AI 데이터센터 구축 나서",
+        "summary": "소형 AIDC에 퓨리오사 NPU 적용 실증 올해 화성·광주 실증단지 구축 추진 네오큐브 국산화 최대 95% 목표 백준호 퓨리오사AI 대표, 한성용 아이에이 대표, 김성동 아이에이클라우드 대표(왼쪽부터)가 지난 14일 업무협약을 체결한 뒤 기념촬영을 하고 있다. 아이에이 아이에이와 아이에이클라우드가 퓨리오사AI와 손잡고 국산 인공지능(AI) 반도체 기반 소형 ...",
+        "source": "매일경제 on MSN",
+        "publishedAt": "2026-07-15",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%95%84%EC%9D%B4%EC%97%90%EC%9D%B4-%ED%93%A8%EB%A6%AC%EC%98%A4%EC%82%ACai-%EA%B5%AD%EC%82%B0-npu%EB%A1%9C-%EC%86%8C%ED%98%95-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B5%AC%EC%B6%95-%EB%82%98%EC%84%9C/ar-AA27VUOa",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.43379ca9bd05f9dc08b5741bb75afdd4&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "아이에이, 퓨리오사AI NPU 기반 '소형 AI 데이터센터' 짓는다",
+        "summary": "아이에이와 자회사 아이에이클라우드가 국산 인공지능(AI) 반도체 기업 퓨리오사AI와 손잡고 국산 반도체 기반의 소형 AI 데이터센터를 함께 실증하고 사업화한다. 3사는 이를 통해 소형 AI 데이터센터의 국산화율을 최대 95%까지 끌어올린다는 목표를 제시했다. 3사는 지난 14일 이 같은 내용의 '국산 NPU 기반 소형 모듈형 AI 데이터센터 공동 실증 및 ...",
+        "source": "전자신문",
+        "publishedAt": "2026-07-15",
+        "url": "https://www.etnews.com/20260715000370",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.qSBZeLIlN60R4FuWOyeImg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI 다음 격전지는 인프라?…AIDC 경쟁 치열한 이유는 [트랜D]",
+        "summary": "인공지능(AI) 패권 경쟁의 중심이 반도체와 AI 모델 개발을 넘어 데이터센터 인프라로 옮겨가고 있다. 그만큼 AI 데이터센터(AIDC) 설립 경쟁도 치열하다. 생성형 AI가 자리 잡으며 뛰어난 알고리즘을 개발에서 대규모 컴퓨팅 인프라를 확보로 승부처가 이동하고 있기 때문이다. AIDC란 생성형 AI와 대규모 AI 모델의 학습·추론을 위해 구축된 고성능 데 ...",
+        "source": "중앙일보 on MSN",
+        "publishedAt": "2026-07-10",
+        "url": "https://www.msn.com/ko-kr/money/topstories/ai-%EB%8B%A4%EC%9D%8C-%EA%B2%A9%EC%A0%84%EC%A7%80%EB%8A%94-%EC%9D%B8%ED%94%84%EB%9D%BC-aidc-%EA%B2%BD%EC%9F%81-%EC%B9%98%EC%97%B4%ED%95%9C-%EC%9D%B4%EC%9C%A0%EB%8A%94-%ED%8A%B8%EB%9E%9Cd/ar-AA27AOW5",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.wh2QFAzFFWIuTQ_bBiLuPw&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-07-17",
     "windowStart": "2026-07-15T22:00:00.000Z",
     "windowEnd": "2026-07-16T22:00:00.000Z",
@@ -551,103 +639,6 @@
         "publishedAt": "2026-07-09",
         "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%9A%B8%EC%82%B0%EC%8B%9C-%EC%A0%9C%EC%A1%B0%EC%82%B0%EC%97%85-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-ax-%EB%B3%B8%EA%B2%A9-%EC%8B%9C%EB%8F%99-13%EA%B0%9C-%EA%B8%B0%EA%B4%80-%EB%A7%9E%EC%86%90/ar-AA27wuGL",
         "imageUrl": "https://www.bing.com/th?id=ONUT.6vAPtakBkmjBpevjOm0zgA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "새만금, 국제 해저광케이블 육양국 유치…“인공지능 데이터 허브 기반 마련”",
-        "summary": "새만금 국가산업단지에 초고속 국제 해저광케이블 육양국(Cable Landing Station)이 들어서게 돼 새만금이 글로벌 인공지능(AI) 데이터 중심으로 도약할 기반이 될 전망이다. 새만금개발청과 전북도, 군산시, 한국농어촌공사는 8일 드림라인㈜와 새만금 국가산단 2공구에 대규모 국제 해저 케이블 구축 사업인 ‘AUG(Asia United Gateway ...",
-        "source": "세계일보",
-        "publishedAt": "2026-07-08",
-        "url": "https://www.segye.com/newsView/20260708518600",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.YOkYbz-8CvwW4oFWkFHGAw&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-07-11",
-    "windowStart": "2026-07-09T22:00:00.000Z",
-    "windowEnd": "2026-07-10T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\"",
-        "summary": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\" 英 연구팀 \"AI가 게시물 논조 변화시켜…은밀한 편향, 사회 전체로 확산\" (서울=연합뉴스) 이주영 기자 = 소셜미디어에서 게시물을 작성하거나 다듬고 내용을 설명해주는 생성형 인공지능(A..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-07-06",
-        "url": "https://www.fnnews.com/news/202607060816311040",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.NIqRG4l0en_KQSJFY7z8Ew&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "노동부, 초과이익 재분배 논의 재개...토론회로 의견 수렴 예정",
-        "summary": "【투데이신문 권신영 기자】정부가 기업의 초과이익 재분배와 원·하청 간 격차 완화 방안을 다시 논의한다. 사회연대임금의 실효성을 둘러싼 비판이 이어지는 가운데 정부 권한을 활용한 직접적인 격차 해소와 기업 성과의 사회적 재투자가 주요 쟁점으로 떠올랐다.6일 투데이신문 취재에 따르면 고용노동부(이하 노동부)는 이달 중순 기업의 초과이익 재분배 방안 등을 논의하 ...",
-        "source": "투데이신문",
-        "publishedAt": "2026-07-06",
-        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128024",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.WfxOlKiRFVgqu5AWIsVeAw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[박준규의 이슈언박싱] 응징이 교육을 삼켰다…배재고 야구부에 내려진 '사회적 사형'",
-        "summary": "지난달 29일 청룡기 전국고교야구선수권대회 배재고와 광주제일고의 경기 8회초, 앞서가던 배재고 더그아웃에서 \"스타벅스 가야지\"라는 구호가 터져 나왔습니다. 한 달 전 '5·18 탱크데이' 논란을 그대로 끌어와 광주 팀을 향해 던진 구호였습니다. 정치나 이념이 개입해서는 안 되는 스포츠 현장에 사회적 논란이 된 구호를 끌어들인 것은 분명 부적절한 처신이었습니 ...",
-        "source": "펜앤드마이크",
-        "publishedAt": "2026-07-05",
-        "url": "https://www.pennmike.com/news/articleView.html?idxno=123179",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.eCBTP8LU9UsTmYQBxrV2JA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈플러스] '장윤기 사건' 봐주기 수사 의혹...경찰, 특별수사팀 확대 편성",
-        "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스PLUS] 명시해주시기 바랍니다. [앵커] 장윤기 사건 수사 과정에서경찰의 증거인멸 정황이 확인되면서사건을 담당한 수사팀장이 긴급체포됐죠. 경찰은 광주 지휘라인을 배제하고경찰청 본청 수사팀을 투입했는데'제식구 감싸기' 부실수사 ...",
-        "source": "YTN",
-        "publishedAt": "2026-07-06",
-        "url": "https://www.ytn.co.kr/_ln/0103_202607061925132468",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.oDJFw5vmAjmgk4kWAu6pKg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "빗썸, ‘빗썸나눔’으로 사회공헌 생태계 확대",
-        "summary": "빗썸의 사회공헌 브랜드 빗썸나눔이 임직원 중심의 봉사활동을 넘어 시민과 지역사회가 함께하는 참여형 사회공헌 플랫폼으로 확장되고 있다. 빗썸나눔은 ‘작은 나눔이 모여 큰 변화를 만든다’는 슬로건 아래 임직원이 직접 기획하고 참여하는 봉사활동을 비롯해 지역사회 지원과 재난 및 재해 긴급 지원 등을 이어가고 있다. 빗썸나눔 사회공헌 활동의 가장 큰 특징은 임직원 ...",
-        "source": "경향게임스",
-        "publishedAt": "2026-07-01",
-        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305939",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.aNVBt6pL_EspqOeqDpunVw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "초지능 시대 온다면 인간이 고민할 것들",
-        "summary": "딥 유토피아 닉 보스트롬 지음 김의석 옮김 까치 “기술이 나쁜 것이라면 어떨까”라는 질문으로 유명해진 저자가 이번엔 “기술이 좋은 것이면 어떨까” 하는 질문을 던진다. 전작 『슈퍼인텔리전스』가 악의적인 초지능AI의 위험을 경고했다면 『딥 유토피아』는 초지능이 모든 문제를 해결한 유토피아를 실현했을 때 인간이 어떻게 살아갈지 탐구한다. 저자는 결핍이 없고 노 ...",
-        "source": "중앙SUNDAY on MSN",
-        "publishedAt": "2026-07-10",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%B4%88%EC%A7%80%EB%8A%A5-%EC%8B%9C%EB%8C%80-%EC%98%A8%EB%8B%A4%EB%A9%B4-%EC%9D%B8%EA%B0%84%EC%9D%B4-%EA%B3%A0%EB%AF%BC%ED%95%A0-%EA%B2%83%EB%93%A4/ar-AA27ElDf",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.iabLUlN0k5WK9l-aBaqLuw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "기아 오토랜드 광주, ‘AI·스마트 산업안전기술 우수사례 챌린지’ 대상 수상",
-        "summary": "기아가 오토랜드 광주가 고용노동부와 안전보건공단이 주관하는 ‘2026 AI·스마트 산업안전기술 우수사례 챌린지’에서 대상(고용노동부 장관상)을 수상했다고 밝혔다. 이번 수상은 자동화 공정 내 안전사고를 예방하기 위해 AI 기술을 접목한 스마트 안전관리 시스템을 국내 최초로 도입한 성과를 인정받은 결과다. 기아는 기존 LOTO(Lock-Out, Tag-Out ...",
-        "source": "스포츠한국 on MSN",
-        "publishedAt": "2026-07-10",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B8%B0%EC%95%84-%EC%98%A4%ED%86%A0%EB%9E%9C%EB%93%9C-%EA%B4%91%EC%A3%BC-ai-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%82%B0%EC%97%85%EC%95%88%EC%A0%84%EA%B8%B0%EC%88%A0-%EC%9A%B0%EC%88%98%EC%82%AC%EB%A1%80-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EB%8C%80%EC%83%81-%EC%88%98%EC%83%81/ar-AA27CRij",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ED2HOf8DLa-Ai3sVFuhYqA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "오케스트로 인공지능연구소, 과기부 '우수 기업부설연구소' 지정",
-        "summary": "(서울=뉴스1) 유수연 기자 = 오케스트로 그룹은 자사 인공지능(AI)연구소가 과학기술정보통신부의 '2026년 상반기 우수 기업부설연구소'로 지정됐다고 10일 밝혔다. 오케스트로 그룹은 4개의 기업부설연구소를 중심으로 AI 인프라와 클라우드 기술 분야의 연구개발 역량을 강화하고 있다. 86건의 특허 등록과 누적 110건 ...",
-        "source": "뉴스1 on MSN",
-        "publishedAt": "2026-07-10",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A1%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%97%B0%EA%B5%AC%EC%86%8C-%EA%B3%BC%EA%B8%B0%EB%B6%80-%EC%9A%B0%EC%88%98-%EA%B8%B0%EC%97%85%EB%B6%80%EC%84%A4%EC%97%B0%EA%B5%AC%EC%86%8C-%EC%A7%80%EC%A0%95/ar-AA27Bhww",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.zb4RmKUQrgil6XjIgQLWhg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "인공지능이 미술 해설한다…경기도미술관 'AI 도슨트' 도입",
-        "summary": "[이데일리 이윤정 기자] 경기도미술관이 인공지능(AI) 기술을 접목한 ‘AI 미술 도슨트’ 서비스를 오는 16일부터 본격 운영한다. 새롭게 도입되는 ‘AI 미술 도슨트’는 기존의 정형화된 오디오 가이드에서 벗어나 관람객이 원하는 시간에 자유롭게 작품 해설을 들을 수 있도록 구축됐다. 서비스는 7월 16일 개막하는 기획전 ‘우리의 여름에게’(7월 16일~9월 ...",
-        "source": "이데일리 on MSN",
-        "publishedAt": "2026-07-10",
-        "url": "https://www.msn.com/ko-kr/entertainment/%EC%9D%BC%EB%B0%98/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4-%EB%AF%B8%EC%88%A0-%ED%95%B4%EC%84%A4%ED%95%9C%EB%8B%A4-%EA%B2%BD%EA%B8%B0%EB%8F%84%EB%AF%B8%EC%88%A0%EA%B4%80-ai-%EB%8F%84%EC%8A%A8%ED%8A%B8-%EB%8F%84%EC%9E%85/ar-AA27BeZc",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.hfTqalEXEuEN-ShPwTDjKw&pid=News&w=1200&h=675&c=14"
       },
       {
         "category": "ai",
