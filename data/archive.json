@@ -1,5 +1,84 @@
 [
   {
+    "updatedAt": "2026-07-20",
+    "windowStart": "2026-07-18T22:00:00.000Z",
+    "windowEnd": "2026-07-19T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[이슈] 민주당 현역 의원, 보완수사권 폐지에 일침",
+        "summary": "정부·여당이 검찰 보완수사권 폐지에 속도를 내는 가운데 여권을 비롯한 진보 진영 각계에서도 비판이 만만찮다. 정부는 6월 25일 국무총리 현안 브리핑을 통해 검사의 보완수사권 폐지를 기본 입장으로 최종 정리하고 여당에 이를 전달하며 국회의 결정을 존중하겠다고 밝혔다. 더불어민주당은 7월 8일 국회 법제사법위원회에서 검찰 보완수사권 전면 폐지를 담은 형사소송 ...",
+        "source": "월간조선",
+        "publishedAt": "2026-07-19",
+        "url": "https://monthly.chosun.com/news/articleView.html?idxno=70779",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ZhWDReGDue8d07ZtxCmSUw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "대형 로펌서 전업 공익 변호사로…\"난민은 현대 사회의 자화상\"",
+        "summary": "[프로보노] ⑤ 공익법센터 '어필' 이종찬 변호사 가혹한 입증책임·법률 조력 부재…\"국선변호 필요\" 난민. 미디어 속 혹은 우리 머릿속 이들은 세금이라는 사회의 '입장권'을 구매하지 않은 불청객이자 수용 찬반 논란의 대상이다.우리는 국가라는 테두리 안에서 난민을 ...",
+        "source": "뉴스1",
+        "publishedAt": "2026-07-19",
+        "url": "https://www.news1.kr/society/general-society/6232109",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.To3blmEUD2vddP7DVwzSnQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[N% 후폭풍]① N% 성과급에 쪼개진 한국, 'N차' 분열 시작됐다",
+        "summary": "韓 대표 삼성전자 내부 분열…車·IT 이어 하청노조까지 요구 확산 주주 반발·노동시장 이중 구조 심화…韓 사회 새로운 갈등 요인 #1. 지난 14일 오전 10시 경기도 수원시 삼성전자 수원사업장. 삼성중앙교 인근에는 상가(喪家)에서나 볼법한 근조화환이 늘어져 있었고 검은색 옷을 입은 사 ...",
+        "source": "뉴스1",
+        "publishedAt": "2026-07-19",
+        "url": "https://www.news1.kr/industry/general-industry/6231708",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.765FR_zrQkD5Tq7XgEfiPA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "역시 ‘신공지능’! 최강 바둑 인공지능 꺾었다",
+        "summary": "신진서 9단이 바둑 AI 카타고와의 공식 대국에서 처음 승리했다. 5시간 가까운 접전 끝에 흑 4집반승을 거두며 1승1패를 만들었다. 대부분 국면에서 98% 이상 승률을 지키며 주도권을 놓치지 않았고, 중앙 전투에서 과감한 판단으로 승기를 잡았다.",
+        "source": "서울신문",
+        "publishedAt": "2026-07-19",
+        "url": "https://www.seoul.co.kr/news/sport/2026/07/20/20260720023001",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.tGqqjNx9kdF3gJGKCjdUcQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "‘인공지능’ 잡은 ‘신공지능’…현존 최강 카타고에 인류 첫 승리",
+        "summary": "‘신공지능’라 불리는 현역 최강 프로기사 신진서(26) 9단이 ‘인공지능(AI)’의 벽을 넘어섰다. 신 9단은 19일 서울 중구 청파로의 한국경제TV스튜디오에서 열린 바둑 AI 카타고(Katago)와의 '쎈수학·한경 기신전' ...",
+        "source": "한국일보 on MSN",
+        "publishedAt": "2026-07-19",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9E%A1%EC%9D%80-%EC%8B%A0%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%98%84%EC%A1%B4-%EC%B5%9C%EA%B0%95-%EC%B9%B4%ED%83%80%EA%B3%A0%EC%97%90-%EC%9D%B8%EB%A5%98-%EC%B2%AB-%EC%8A%B9%EB%A6%AC/ar-AA28dN04",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.slYd2nfqsnxEKE-6C928CQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "'신공지능, 인공지능 넘었다' 신진서 9단, 카타고에 4집 반승…이세돌 이후 10년",
+        "summary": "바둑 세계 랭킹 1위 신진서 9단이 최고 수준의 바둑 AI 프로그램 카타고(KataGo)와 쎈수학·한경 기신전(棋神戰)을 치르는 모습. 연합뉴스 신공지능이 인공지능(AI)을 넘었다. 세계 최강의 프로 바둑 기사 신진서 9단이다. 신진서는 19일 서울 중구 청파로 한국경제TV스튜디오에서 열린 쎈수학·한경 기신전(棋神戰) ...",
+        "source": "노컷뉴스 on MSN",
+        "publishedAt": "2026-07-19",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%8B%A0%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%84%98%EC%97%88%EB%8B%A4-%EC%8B%A0%EC%A7%84%EC%84%9C-9%EB%8B%A8-%EC%B9%B4%ED%83%80%EA%B3%A0%EC%97%90-4%EC%A7%91-%EB%B0%98%EC%8A%B9-%EC%9D%B4%EC%84%B8%EB%8F%8C-%EC%9D%B4%ED%9B%84-10%EB%85%84/ar-AA28ddQF",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.pYUe4QuSoLEAUsg6aDvpuQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "우리 소리가 인공지능을 만나면… 전주세계소리축제, 창작 공모전 본선작 공개",
+        "summary": "전주세계소리축제가 전통 판소리와 인공지능(AI) 기술을 접목한 참여형 공모전 본선 진출작을 공개하고 국민이 직접 참여하는 최종 심사에 나선다. 전주세계소리축제는 생성형 AI를 활용한 참여형 공모전 ‘AI 판소리 창작 프로젝트–AI 판소리 한마당 : 신소리, 신바람’의 1차 외부 심사를 마치고 선정작 6편을 20일 오후 3시 소리축제 공식 유튜브 채널을 통해 ...",
+        "source": "세계일보 on MSN",
+        "publishedAt": "2026-07-19",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9A%B0%EB%A6%AC-%EC%86%8C%EB%A6%AC%EA%B0%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84-%EB%A7%8C%EB%82%98%EB%A9%B4-%EC%A0%84%EC%A3%BC%EC%84%B8%EA%B3%84%EC%86%8C%EB%A6%AC%EC%B6%95%EC%A0%9C-%EC%B0%BD%EC%9E%91-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EB%B3%B8%EC%84%A0%EC%9E%91-%EA%B3%B5%EA%B0%9C/ar-AA28dAiP",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.0YoRJFKXs4lD1RJyVb6ZSA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "가설 세우고 실험까지… 정부, 'AI 과학자' 개발한다",
+        "summary": "정부는 우선 2028년 인간과 AI가 협업하는 연구 동료형 AI를 구현할 계획이다. AI가 가설을 제안하면 인간 연구자가 실험으로 이를 검증하는 방식이다. 2030, 31년에는 인간이 연구 방향을 정하면 여러 AI 에이전트가 연구를 수행하는 자율과학시스템을 구축한다. 2035년에는 AI의 판단에 따라 자동화 장비가 실제 실험을 수행하는 자율실험실까지 한다는 ...",
+        "source": "한국일보",
+        "publishedAt": "2026-07-19",
+        "url": "https://www.hankookilbo.com/news/article/A2026071915020001827",
+        "imageUrl": "https://www.bing.com/th?id=ONUT._jJyfxLkevW--vWMsknDDg&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-07-19",
     "windowStart": "2026-07-17T22:00:00.000Z",
     "windowEnd": "2026-07-18T22:00:00.000Z",
@@ -560,94 +639,6 @@
         "publishedAt": "2026-07-13",
         "url": "https://www.msn.com/ko-kr/news/other/%EC%BD%94%ED%8A%B8%EB%9D%BC-%E7%BE%8E-%EC%A0%9C%EC%A1%B0%EC%97%85-%ED%98%84%EC%9E%A5-ai-%EB%8F%84%EC%9E%85-%ED%8A%B8%EB%A0%8C%EB%93%9C-%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%9C%EA%B0%84-%EA%B5%AD%EB%82%B4-%EA%B8%B0%EC%97%85-%EC%A7%84%EC%B6%9C-%EC%A7%80%EC%9B%90/ar-AA27PY8U",
         "imageUrl": "https://www.bing.com/th?id=ORMS.a512da0a3877143c8d650071edf43260&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-07-13",
-    "windowStart": "2026-07-11T22:00:00.000Z",
-    "windowEnd": "2026-07-12T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\"",
-        "summary": "[사이테크+] \"소셜미디어 내장 AI, 사회 이슈 관련 여론에 영향 줄 수 있어\" 英 연구팀 \"AI가 게시물 논조 변화시켜…은밀한 편향, 사회 전체로 확산\" (서울=연합뉴스) 이주영 기자 = 소셜미디어에서 게시물을 작성하거나 다듬고 내용을 설명해주는 생성형 인공지능(A..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-07-06",
-        "url": "https://www.fnnews.com/news/202607060816311040",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.NIqRG4l0en_KQSJFY7z8Ew&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "노동부, 초과이익 재분배 논의 재개...토론회로 의견 수렴 예정",
-        "summary": "【투데이신문 권신영 기자】정부가 기업의 초과이익 재분배와 원·하청 간 격차 완화 방안을 다시 논의한다. 사회연대임금의 실효성을 둘러싼 비판이 이어지는 가운데 정부 권한을 활용한 직접적인 격차 해소와 기업 성과의 사회적 재투자가 주요 쟁점으로 떠올랐다.6일 투데이신문 취재에 따르면 고용노동부(이하 노동부)는 이달 중순 기업의 초과이익 재분배 방안 등을 논의하 ...",
-        "source": "투데이신문",
-        "publishedAt": "2026-07-06",
-        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128024",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.WfxOlKiRFVgqu5AWIsVeAw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈플러스] '장윤기 사건' 봐주기 수사 의혹...경찰, 특별수사팀 확대 편성",
-        "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스PLUS] 명시해주시기 바랍니다. [앵커] 장윤기 사건 수사 과정에서경찰의 증거인멸 정황이 확인되면서사건을 담당한 수사팀장이 긴급체포됐죠. 경찰은 광주 지휘라인을 배제하고경찰청 본청 수사팀을 투입했는데'제식구 감싸기' 부실수사 ...",
-        "source": "YTN",
-        "publishedAt": "2026-07-06",
-        "url": "https://www.ytn.co.kr/_ln/0103_202607061925132468",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.oDJFw5vmAjmgk4kWAu6pKg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "빗썸, ‘빗썸나눔’으로 사회공헌 생태계 확대",
-        "summary": "빗썸의 사회공헌 브랜드 빗썸나눔이 임직원 중심의 봉사활동을 넘어 시민과 지역사회가 함께하는 참여형 사회공헌 플랫폼으로 확장되고 있다. 빗썸나눔은 ‘작은 나눔이 모여 큰 변화를 만든다’는 슬로건 아래 임직원이 직접 기획하고 참여하는 봉사활동을 비롯해 지역사회 지원과 재난 및 재해 긴급 지원 등을 이어가고 있다. 빗썸나눔 사회공헌 활동의 가장 큰 특징은 임직원 ...",
-        "source": "경향게임스",
-        "publishedAt": "2026-07-01",
-        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305939",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.aNVBt6pL_EspqOeqDpunVw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "연금·주거정책 만들 때 청년 영향부터 따진다… 반영 여부까지 공개",
-        "summary": "【파이낸셜뉴스 제주=정용복 기자】 연금과 노동, 교육, 주거, 복지, 금융처럼 청년의 삶과 미래 부담을 좌우하는 정책을 만들 때 청년에게 미칠 영향을 먼저 따지는 제도 도입이 추진된다. 10일 문대림 더불어민주당 의원실에 따르면 문 의원은 전날 국가와 지방자치단체가 청년의 권익에 중대한 영향을 미치는 주요 정책과 중장기 계획을 수립·변경할 때 '청년영향평가 ...",
-        "source": "파이낸셜뉴스 on MSN",
-        "publishedAt": "2026-07-10",
-        "url": "https://www.msn.com/ko-kr/%EC%A0%95%EC%B9%98/%EC%A0%95%EB%B6%80%EA%B8%B0%EA%B4%80/%EC%97%B0%EA%B8%88-%EC%A3%BC%EA%B1%B0%EC%A0%95%EC%B1%85-%EB%A7%8C%EB%93%A4-%EB%95%8C-%EC%B2%AD%EB%85%84-%EC%98%81%ED%96%A5%EB%B6%80%ED%84%B0-%EB%94%B0%EC%A7%84%EB%8B%A4-%EB%B0%98%EC%98%81-%EC%97%AC%EB%B6%80%EA%B9%8C%EC%A7%80-%EA%B3%B5%EA%B0%9C/ar-AA27BgSH",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.7aQ_dqIL2Yz0Tf_OiOLQaw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "구미·포항국가산단 ‘인공지능 전환’ 가속화...제조업 ‘대전환’ 추진",
-        "summary": "경북도청사 전경. 경북도 제공 경북도는 구미국가산업단지와 포항국가산업단지가 산업통상부 주관 올해 ‘인공지능 전환(AX) 실증산단 구축사업’에 각각 선정됐다고 12일 밝혔다. 올해부터 2029년까지 4년간 총 481억원을 투입해 지역 주력 제조업의 인공지능(AI) 전환을 추진하는 것이 이 사업의 핵심이다. 경북도는 사업 대상지에 AX 인프라를 구축하고, AX ...",
-        "source": "경향신문 on MSN",
-        "publishedAt": "2026-07-12",
-        "url": "https://www.msn.com/ko-kr/news/national/%EA%B5%AC%EB%AF%B8-%ED%8F%AC%ED%95%AD%EA%B5%AD%EA%B0%80%EC%82%B0%EB%8B%A8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%EA%B0%80%EC%86%8D%ED%99%94%EC%A0%9C%EC%A1%B0%EC%97%85-%EB%8C%80%EC%A0%84%ED%99%98-%EC%B6%94%EC%A7%84/ar-AA27J4Es",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Ha62OBc82sj2vIqmAPh_PA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "포항·구미 국가산단, 인공지능 전환 사업 선정… 481억 투입",
-        "summary": "경북도는 12일 산업통상자원부가 주관하는 '2026년 인공지능 전환(AX) 실증 산단 구축사업' 공모에 포항국가산업단지와 구미국가산업단지가 최종 선정됐다고 밝혔다. 이번 사업은 오는 2029년까지 4년간 총사업비 481억원을 들여 반도체·전자·방산·철강 등 지역 주력 제조업의 인공지능(AI) 전환을 지원하는 것이 핵심이다. 포항국가산단에는 철강 제조공정을 ...",
-        "source": "세계일보 on MSN",
-        "publishedAt": "2026-07-12",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%ED%8F%AC%ED%95%AD-%EA%B5%AC%EB%AF%B8-%EA%B5%AD%EA%B0%80%EC%82%B0%EB%8B%A8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%EC%82%AC%EC%97%85-%EC%84%A0%EC%A0%95-481%EC%96%B5-%ED%88%AC%EC%9E%85/ar-AA27JIXe",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.HhwpelCd5Lc61g7tqSnPdQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "“경부고속도로, 인터넷 이은 초대형 국가 프로젝트”…SK가 꺼내든 비장의 카드, 뭐길래",
-        "summary": "SK텔레콤에 심상치 않은 변화가 일어나고 있다. 통신 요금 받아 운영하던 회사가 느닷없이 미국 스타게이트 프로젝트의 3배 규모인 15GW짜리 인공지능 데이터센터 ... Read more ...",
-        "source": "더위드카 on MSN",
-        "publishedAt": "2026-07-13",
-        "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EB%B6%80%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C-%EC%9D%B8%ED%84%B0%EB%84%B7-%EC%9D%B4%EC%9D%80-%EC%B4%88%EB%8C%80%ED%98%95-%EA%B5%AD%EA%B0%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-sk%EA%B0%80-%EA%BA%BC%EB%82%B4%EB%93%A0-%EB%B9%84%EC%9E%A5%EC%9D%98-%EC%B9%B4%EB%93%9C-%EB%AD%90%EA%B8%B8%EB%9E%98/ar-AA27LNi2",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.15e635b2e0cd02178f34fb6237bb4a50&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "송기헌, ‘원주뿌리기술지원센터’ 산업혁신 기반 구축사업 선정…국비 등 100억원 확보",
-        "summary": "더불어민주당 송기헌(원주 을) 국회의원은 지난 10일 원주시가 산업통상자원부가 주관하는 ‘2026년 제2차 산업혁신기반 구축사업’ 공모에 최종 선정돼 총사업비 100억 원(국비 70억 원)을 확보했다고 밝혔다.이번 사업은 연구시설과 장비 운영 실적이 우수한 기존 연구기반을 고도화해 산업 현장의 기술 수요에 대응하고 지역 제조산업의 경쟁력을 높이기 위한 사업 ...",
-        "source": "강원도민일보 on MSN",
-        "publishedAt": "2026-07-12",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%86%A1%EA%B8%B0%ED%97%8C-%EC%9B%90%EC%A3%BC%EB%BF%8C%EB%A6%AC%EA%B8%B0%EC%88%A0%EC%A7%80%EC%9B%90%EC%84%BC%ED%84%B0-%EC%82%B0%EC%97%85%ED%98%81%EC%8B%A0-%EA%B8%B0%EB%B0%98-%EA%B5%AC%EC%B6%95%EC%82%AC%EC%97%85-%EC%84%A0%EC%A0%95-%EA%B5%AD%EB%B9%84-%EB%93%B1-100%EC%96%B5%EC%9B%90-%ED%99%95%EB%B3%B4/ar-AA27JBZb",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.1463c9c507970a7d30b3679be84b9e51&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
