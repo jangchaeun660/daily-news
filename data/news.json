@@ -1,34 +1,52 @@
 {
-  "updatedAt": "2026-07-20",
-  "windowStart": "2026-07-18T22:00:00.000Z",
-  "windowEnd": "2026-07-19T22:00:00.000Z",
+  "updatedAt": "2026-07-21",
+  "windowStart": "2026-07-19T22:00:00.000Z",
+  "windowEnd": "2026-07-20T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[이슈] 민주당 현역 의원, 보완수사권 폐지에 일침",
-      "summary": "정부·여당이 검찰 보완수사권 폐지에 속도를 내는 가운데 여권을 비롯한 진보 진영 각계에서도 비판이 만만찮다. 정부는 6월 25일 국무총리 현안 브리핑을 통해 검사의 보완수사권 폐지를 기본 입장으로 최종 정리하고 여당에 이를 전달하며 국회의 결정을 존중하겠다고 밝혔다. 더불어민주당은 7월 8일 국회 법제사법위원회에서 검찰 보완수사권 전면 폐지를 담은 형사소송 ...",
-      "source": "월간조선",
-      "publishedAt": "2026-07-19",
-      "url": "https://monthly.chosun.com/news/articleView.html?idxno=70779",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ZhWDReGDue8d07ZtxCmSUw&pid=News&w=1200&h=675&c=14"
+      "title": "‘13세 미만’ 권고에도 결론 보류…촉법소년 개편 또 늦춰지나",
+      "summary": "【투데이신문 박효령 기자】 형사미성년자(촉법소년) 연령 기준을 둘러싼 정부의 결론이 미뤄졌다. 성평등가족부가 수개월간의 공론화 끝에 강력·중대·반복 범죄에 한해 형사미성년자 연령을 만 13세 미만으로 낮추는 방안을 제시했지만 이재명 대통령이 추가 토론을 지시하면서 제도 개편 방향은 다시 불확실해졌다. 15일 본보 취재에 따르면 지난 3·4월 두 달간 ‘형사 ...",
+      "source": "투데이신문",
+      "publishedAt": "2026-07-15",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128201",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.y6nZAGQT3m9pVJsVXZLR4Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "대형 로펌서 전업 공익 변호사로…\"난민은 현대 사회의 자화상\"",
-      "summary": "[프로보노] ⑤ 공익법센터 '어필' 이종찬 변호사 가혹한 입증책임·법률 조력 부재…\"국선변호 필요\" 난민. 미디어 속 혹은 우리 머릿속 이들은 세금이라는 사회의 '입장권'을 구매하지 않은 불청객이자 수용 찬반 논란의 대상이다.우리는 국가라는 테두리 안에서 난민을 ...",
-      "source": "뉴스1",
-      "publishedAt": "2026-07-19",
-      "url": "https://www.news1.kr/society/general-society/6232109",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.To3blmEUD2vddP7DVwzSnQ&pid=News&w=1200&h=675&c=14"
+      "title": "[복지뉴스] 한국사회보장정보원, AI 시대 이끌 미래 사회복지사 키운다 外",
+      "summary": "【베이비뉴스 심주인 기자】아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 정책과 아동·가족 복지 제도, 취약계층 지원 사업 등 다양한 소식 가운 ...",
+      "source": "베이비뉴스 on MSN",
+      "publishedAt": "2026-07-13",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-ai-%EC%8B%9C%EB%8C%80-%EC%9D%B4%EB%81%8C-%EB%AF%B8%EB%9E%98-%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%82%AC-%ED%82%A4%EC%9A%B4%EB%8B%A4-%E5%A4%96/ar-AA27N3C0",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.aVGmgdkcfKF8yTtvA1yl2A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "[N% 후폭풍]① N% 성과급에 쪼개진 한국, 'N차' 분열 시작됐다",
-      "summary": "韓 대표 삼성전자 내부 분열…車·IT 이어 하청노조까지 요구 확산 주주 반발·노동시장 이중 구조 심화…韓 사회 새로운 갈등 요인 #1. 지난 14일 오전 10시 경기도 수원시 삼성전자 수원사업장. 삼성중앙교 인근에는 상가(喪家)에서나 볼법한 근조화환이 늘어져 있었고 검은색 옷을 입은 사 ...",
-      "source": "뉴스1",
-      "publishedAt": "2026-07-19",
-      "url": "https://www.news1.kr/industry/general-industry/6231708",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.765FR_zrQkD5Tq7XgEfiPA&pid=News&w=1200&h=675&c=14"
+      "title": "한국 시민사회, 공적개발원조 공동 설계자…유엔 무대서 주목",
+      "summary": "KCOC, 고위급정치포럼(HLPF)서 정부-민간 협력 우수 사례 소개 (서울=연합뉴스) 성도현 기자 = 대한민국 국제개발협력 시민사회가 유엔(UN) 무대에서 정부와 시민사회 간 성공적인 파트너십 모델을 글로벌 우수 사례로 소개해 국제사회의 주목을 받았다. 시민사회는 또 전 지구적 복합위기 속에서 ...",
+      "source": "연합뉴스 on MSN",
+      "publishedAt": "2026-07-13",
+      "url": "https://www.msn.com/ko-kr/%EC%82%AC%ED%9A%8C-%EB%AC%B8%ED%99%94-%EB%B0%8F-%EC%97%AD%EC%82%AC/%EC%86%8C%EC%85%9C-%EB%AC%B8%EC%A0%9C/%ED%95%9C%EA%B5%AD-%EC%8B%9C%EB%AF%BC%EC%82%AC%ED%9A%8C-%EA%B3%B5%EC%A0%81%EA%B0%9C%EB%B0%9C%EC%9B%90%EC%A1%B0-%EA%B3%B5%EB%8F%99-%EC%84%A4%EA%B3%84%EC%9E%90-%EC%9C%A0%EC%97%94-%EB%AC%B4%EB%8C%80%EC%84%9C-%EC%A3%BC%EB%AA%A9/ar-AA27LYOn",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.7QkEQ-CnbSqcfipQ97wZ9w&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "마틴 파의 눈으로 본 한국 사회",
+      "summary": "(서울=연합뉴스) 강민지 기자 = 15일 서울 도봉구 서울시립 사진미술관에서 열린 현대 다큐멘터리 사진 거장 마틴 파 아시아 최초 대규모 회고전 '마틴 파: We Are Martin Parr'에서 관람객이 연작 '남한'을 둘러보고 있다. 2026.7.15 ...",
+      "source": "연합뉴스",
+      "publishedAt": "2026-07-15",
+      "url": "https://www.yna.co.kr/view/PYH20260715109000013",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.UNsd34d2Y8yE7-bXSNeXvw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "“한국 사회 갈등 1위는 보수·진보”…진보층 늘고 보수층 감소",
+      "summary": "우리 사회에서 가장 심각한 갈등은 보수와 진보 간 이념 갈등이라는 조사 결과가 나왔다. 자신을 진보 성향이라고 인식하는 국민은 늘어난 반면, 보수 성향이라고 답한 비율은 소폭 감소한 것으로 나타났다.7일 한국행정연구원이 발표한 ‘2025년 사회통합 실태조사’에 따르면 ...",
+      "source": "서울신문 on MSN",
+      "publishedAt": "2026-07-07",
+      "url": "https://www.msn.com/ko-kr/news/national/%ED%95%9C%EA%B5%AD-%EC%82%AC%ED%9A%8C-%EA%B0%88%EB%93%B1-1%EC%9C%84%EB%8A%94-%EB%B3%B4%EC%88%98-%EC%A7%84%EB%B3%B4-%EC%A7%84%EB%B3%B4%EC%B8%B5-%EB%8A%98%EA%B3%A0-%EB%B3%B4%EC%88%98%EC%B8%B5-%EA%B0%90%EC%86%8C/ar-AA27mqcf",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.c2f4f51643bb29a0125c637eccffd890&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
@@ -56,24 +74,6 @@
       "publishedAt": "2026-07-19",
       "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%8B%A0%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%84%98%EC%97%88%EB%8B%A4-%EC%8B%A0%EC%A7%84%EC%84%9C-9%EB%8B%A8-%EC%B9%B4%ED%83%80%EA%B3%A0%EC%97%90-4%EC%A7%91-%EB%B0%98%EC%8A%B9-%EC%9D%B4%EC%84%B8%EB%8F%8C-%EC%9D%B4%ED%9B%84-10%EB%85%84/ar-AA28ddQF",
       "imageUrl": "https://www.bing.com/th?id=ONUT.pYUe4QuSoLEAUsg6aDvpuQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "우리 소리가 인공지능을 만나면… 전주세계소리축제, 창작 공모전 본선작 공개",
-      "summary": "전주세계소리축제가 전통 판소리와 인공지능(AI) 기술을 접목한 참여형 공모전 본선 진출작을 공개하고 국민이 직접 참여하는 최종 심사에 나선다. 전주세계소리축제는 생성형 AI를 활용한 참여형 공모전 ‘AI 판소리 창작 프로젝트–AI 판소리 한마당 : 신소리, 신바람’의 1차 외부 심사를 마치고 선정작 6편을 20일 오후 3시 소리축제 공식 유튜브 채널을 통해 ...",
-      "source": "세계일보 on MSN",
-      "publishedAt": "2026-07-19",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9A%B0%EB%A6%AC-%EC%86%8C%EB%A6%AC%EA%B0%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84-%EB%A7%8C%EB%82%98%EB%A9%B4-%EC%A0%84%EC%A3%BC%EC%84%B8%EA%B3%84%EC%86%8C%EB%A6%AC%EC%B6%95%EC%A0%9C-%EC%B0%BD%EC%9E%91-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EB%B3%B8%EC%84%A0%EC%9E%91-%EA%B3%B5%EA%B0%9C/ar-AA28dAiP",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.0YoRJFKXs4lD1RJyVb6ZSA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "가설 세우고 실험까지… 정부, 'AI 과학자' 개발한다",
-      "summary": "정부는 우선 2028년 인간과 AI가 협업하는 연구 동료형 AI를 구현할 계획이다. AI가 가설을 제안하면 인간 연구자가 실험으로 이를 검증하는 방식이다. 2030, 31년에는 인간이 연구 방향을 정하면 여러 AI 에이전트가 연구를 수행하는 자율과학시스템을 구축한다. 2035년에는 AI의 판단에 따라 자동화 장비가 실제 실험을 수행하는 자율실험실까지 한다는 ...",
-      "source": "한국일보",
-      "publishedAt": "2026-07-19",
-      "url": "https://www.hankookilbo.com/news/article/A2026071915020001827",
-      "imageUrl": "https://www.bing.com/th?id=ONUT._jJyfxLkevW--vWMsknDDg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
