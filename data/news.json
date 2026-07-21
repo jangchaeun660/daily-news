@@ -1,79 +1,97 @@
 {
-  "updatedAt": "2026-07-21",
-  "windowStart": "2026-07-19T22:00:00.000Z",
-  "windowEnd": "2026-07-20T22:00:00.000Z",
+  "updatedAt": "2026-07-22",
+  "windowStart": "2026-07-20T22:00:00.000Z",
+  "windowEnd": "2026-07-21T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "‘13세 미만’ 권고에도 결론 보류…촉법소년 개편 또 늦춰지나",
-      "summary": "【투데이신문 박효령 기자】 형사미성년자(촉법소년) 연령 기준을 둘러싼 정부의 결론이 미뤄졌다. 성평등가족부가 수개월간의 공론화 끝에 강력·중대·반복 범죄에 한해 형사미성년자 연령을 만 13세 미만으로 낮추는 방안을 제시했지만 이재명 대통령이 추가 토론을 지시하면서 제도 개편 방향은 다시 불확실해졌다. 15일 본보 취재에 따르면 지난 3·4월 두 달간 ‘형사 ...",
-      "source": "투데이신문",
-      "publishedAt": "2026-07-15",
-      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128201",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.y6nZAGQT3m9pVJsVXZLR4Q&pid=News&w=1200&h=675&c=14"
+      "title": "정치·경제·사회 이슈 다 다루라니, 학교가 뉴스센터냐, 교실 갈등 커질 것",
+      "summary": "한국교원단체총연합회(한국교총)가 국가교육위원회가 공개한 ‘학교시민교육 국가 기본 원칙(안)’에 대해 “교실 내 진영 논리와 갈등을 심화시킬 수 있다”며 신중히 검토해야 한다는 의견서를 냈다. 교사의 정치적 중립성을 담보할 장치가 부족한 채 원칙을 내세울 경우, 교실이 진영 갈등의 무대로 변질될 수 있다는 것이다.",
+      "source": "조선일보 on MSN",
+      "publishedAt": "2026-07-21",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%95%EC%B9%98-%EA%B2%BD%EC%A0%9C-%EC%82%AC%ED%9A%8C-%EC%9D%B4%EC%8A%88-%EB%8B%A4-%EB%8B%A4%EB%A3%A8%EB%9D%BC%EB%8B%88-%ED%95%99%EA%B5%90%EA%B0%80-%EB%89%B4%EC%8A%A4%EC%84%BC%ED%84%B0%EB%83%90-%EA%B5%90%EC%8B%A4-%EA%B0%88%EB%93%B1-%EC%BB%A4%EC%A7%88-%EA%B2%83/ar-AA28lUG6",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.0MuAysu8ahVR-GpHphmFVw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "[복지뉴스] 한국사회보장정보원, AI 시대 이끌 미래 사회복지사 키운다 外",
-      "summary": "【베이비뉴스 심주인 기자】아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 정책과 아동·가족 복지 제도, 취약계층 지원 사업 등 다양한 소식 가운 ...",
-      "source": "베이비뉴스 on MSN",
-      "publishedAt": "2026-07-13",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-ai-%EC%8B%9C%EB%8C%80-%EC%9D%B4%EB%81%8C-%EB%AF%B8%EB%9E%98-%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%82%AC-%ED%82%A4%EC%9A%B4%EB%8B%A4-%E5%A4%96/ar-AA27N3C0",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.aVGmgdkcfKF8yTtvA1yl2A&pid=News&w=1200&h=675&c=14"
+      "title": "[이슈플러스] '장윤기 사건' 봐주기 수사 의혹...경찰, 특별수사팀 확대 편성",
+      "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스PLUS] 명시해주시기 바랍니다. [앵커] 장윤기 사건 수사 과정에서경찰의 증거인멸 정황이 확인되면서사건을 담당한 수사팀장이 긴급체포됐죠. 경찰은 광주 지휘라인을 배제하고경찰청 본청 수사팀을 투입했는데'제식구 감싸기' 부실수사 ...",
+      "source": "YTN",
+      "publishedAt": "2026-07-06",
+      "url": "https://www.ytn.co.kr/_ln/0103_202607061925132468",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.oDJFw5vmAjmgk4kWAu6pKg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "한국 시민사회, 공적개발원조 공동 설계자…유엔 무대서 주목",
-      "summary": "KCOC, 고위급정치포럼(HLPF)서 정부-민간 협력 우수 사례 소개 (서울=연합뉴스) 성도현 기자 = 대한민국 국제개발협력 시민사회가 유엔(UN) 무대에서 정부와 시민사회 간 성공적인 파트너십 모델을 글로벌 우수 사례로 소개해 국제사회의 주목을 받았다. 시민사회는 또 전 지구적 복합위기 속에서 ...",
-      "source": "연합뉴스 on MSN",
-      "publishedAt": "2026-07-13",
-      "url": "https://www.msn.com/ko-kr/%EC%82%AC%ED%9A%8C-%EB%AC%B8%ED%99%94-%EB%B0%8F-%EC%97%AD%EC%82%AC/%EC%86%8C%EC%85%9C-%EB%AC%B8%EC%A0%9C/%ED%95%9C%EA%B5%AD-%EC%8B%9C%EB%AF%BC%EC%82%AC%ED%9A%8C-%EA%B3%B5%EC%A0%81%EA%B0%9C%EB%B0%9C%EC%9B%90%EC%A1%B0-%EA%B3%B5%EB%8F%99-%EC%84%A4%EA%B3%84%EC%9E%90-%EC%9C%A0%EC%97%94-%EB%AC%B4%EB%8C%80%EC%84%9C-%EC%A3%BC%EB%AA%A9/ar-AA27LYOn",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.7QkEQ-CnbSqcfipQ97wZ9w&pid=News&w=1200&h=675&c=14"
+      "title": "서울복지교육센터, 예비 사회복지사 대상 부트캠프 운영",
+      "summary": "[HBN뉴스 = 김혜연 기자] 서울복지교육센터는 지난 6일부터 20일까지 총 10일간 예비 사회복지사의 현장 이해와 실무 역량 강화를 위한 교육과정을 운영했다고 21일 밝혔다.이번 과정은 사회복지학과의 이론 중심 교육을 보완하고, 졸업 전 사회복지 실 ...",
+      "source": "하비엔뉴스 on MSN",
+      "publishedAt": "2026-07-21",
+      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%A4%91%EB%93%B1-%EA%B5%90%EC%9C%A1/%EC%84%9C%EC%9A%B8%EB%B3%B5%EC%A7%80%EA%B5%90%EC%9C%A1%EC%84%BC%ED%84%B0-%EC%98%88%EB%B9%84-%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%82%AC-%EB%8C%80%EC%83%81-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-%EC%9A%B4%EC%98%81/ar-AA28kg5m",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.nSsVcfBtMaIfU7GDyHJrbQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "마틴 파의 눈으로 본 한국 사회",
-      "summary": "(서울=연합뉴스) 강민지 기자 = 15일 서울 도봉구 서울시립 사진미술관에서 열린 현대 다큐멘터리 사진 거장 마틴 파 아시아 최초 대규모 회고전 '마틴 파: We Are Martin Parr'에서 관람객이 연작 '남한'을 둘러보고 있다. 2026.7.15 ...",
+      "title": "연금·주거정책 만들 때 청년 영향부터 따진다… 반영 여부까지 공개",
+      "summary": "【파이낸셜뉴스 제주=정용복 기자】 연금과 노동, 교육, 주거, 복지, 금융처럼 청년의 삶과 미래 부담을 좌우하는 정책을 만들 때 청년에게 미칠 영향을 먼저 따지는 제도 도입이 추진된다. 10일 문대림 더불어민주당 의원실에 따르면 문 의원은 전날 국가와 지방자치단체가 청년의 권익에 중대한 영향을 미치는 주요 정책과 중장기 계획을 수립·변경할 때 '청년영향평가 ...",
+      "source": "파이낸셜뉴스 on MSN",
+      "publishedAt": "2026-07-10",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%97%B0%EA%B8%88-%EC%A3%BC%EA%B1%B0%EC%A0%95%EC%B1%85-%EB%A7%8C%EB%93%A4-%EB%95%8C-%EC%B2%AD%EB%85%84-%EC%98%81%ED%96%A5%EB%B6%80%ED%84%B0-%EB%94%B0%EC%A7%84%EB%8B%A4-%EB%B0%98%EC%98%81-%EC%97%AC%EB%B6%80%EA%B9%8C%EC%A7%80-%EA%B3%B5%EA%B0%9C/ar-AA27BgSH",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.39ac28cb9ccf9ba14b61d15bb256ef27&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "“노동·주거·자산 격차와 불공정·불평등 심화가 청년세대 불안의 본질”…전문가들 제시한 해법은?",
+      "summary": "“청년 문제는 일자리 등 삶의 주요 단계에서 불안정이 누적되는 구조적 문제입니다.” 10일 기획예산처 주최로 서울 중구 프레스센터에서 열린 ‘청년정책 전문가 토론회’에서 조은주 리워크연구소 대표는 청년 문제를 두고 이렇게 진단했다. 특정 시기나 분야가 아니라 교육, 일자리, 주거, 자산 결혼 등 청년층이 겪는 각 단계별로 청년들이 어려움을 겪고 있다는 것이 ...",
+      "source": "세계일보 on MSN",
+      "publishedAt": "2026-07-12",
+      "url": "https://www.msn.com/ko-kr/money/topstories/%EB%85%B8%EB%8F%99-%EC%A3%BC%EA%B1%B0-%EC%9E%90%EC%82%B0-%EA%B2%A9%EC%B0%A8%EC%99%80-%EB%B6%88%EA%B3%B5%EC%A0%95-%EB%B6%88%ED%8F%89%EB%93%B1-%EC%8B%AC%ED%99%94%EA%B0%80-%EC%B2%AD%EB%85%84%EC%84%B8%EB%8C%80-%EB%B6%88%EC%95%88%EC%9D%98-%EB%B3%B8%EC%A7%88-%EC%A0%84%EB%AC%B8%EA%B0%80%EB%93%A4-%EC%A0%9C%EC%8B%9C%ED%95%9C-%ED%95%B4%EB%B2%95%EC%9D%80/ar-AA27HwR1",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.5dd5a0e06fc40a088a22403c4624d282&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "靑 김용범 “모두의 AI로 인공지능 주권 확보…시장 돌면 정부는 퇴장”",
+      "summary": "청와대가 인공지능(AI)을 국민에게 무료로 제공하는 이른바 '모두의 AI'를 통해 AI 주권을 확보하고 민간 중심의 인공지능 생태계를 조성하겠다는 구상을 밝혔다. 초기 도입에 따른 위험은 정부가 부담하되 시장이 자생력을 확보한 뒤에는 정부가 물러나는 이른바 '시장 조직자' 역할을 맡겠다는 의미다. 김용범 청와대 청책실장은 21일 페이스북을 통해 “AI는 사 ...",
+      "source": "전자신문 on MSN",
+      "publishedAt": "2026-07-21",
+      "url": "https://www.msn.com/ko-kr/news/other/%E9%9D%91-%EA%B9%80%EC%9A%A9%EB%B2%94-%EB%AA%A8%EB%91%90%EC%9D%98-ai%EB%A1%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A3%BC%EA%B6%8C-%ED%99%95%EB%B3%B4-%EC%8B%9C%EC%9E%A5-%EB%8F%8C%EB%A9%B4-%EC%A0%95%EB%B6%80%EB%8A%94-%ED%87%B4%EC%9E%A5/ar-AA28miGJ",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.HSzt3oHzUQnbe2bESHtOeQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "시흥시, '인공지능 전환(AX) 상생·협력 선포'…제조산업 인공지능(AI) 전환 본격화",
+      "summary": "시흥시(시장 임병택)는 지난 20일 시흥비즈니스센터 컨벤션홀에서 열린 '반월시화 AX(AI Transformation·인공지능 전환) 상생·협력 선포식'에 참여해 반월·시화국가산업단지의 인공지능(AI) 기반 제조혁신과 기업의 디지털 전환을 위한 협력체계를 구축하고 제조혁신 추진 의지를 밝혔다. 이번 선포식은 민선 9기 출범에 맞춰 반월·시화산업단지의 제조 ...",
       "source": "연합뉴스",
-      "publishedAt": "2026-07-15",
-      "url": "https://www.yna.co.kr/view/PYH20260715109000013",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.UNsd34d2Y8yE7-bXSNeXvw&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-07-21",
+      "url": "https://www.yna.co.kr/view/RPR20260721004600353",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.S__HrhXzjnggWAfuUX3FFg&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "society",
-      "title": "“한국 사회 갈등 1위는 보수·진보”…진보층 늘고 보수층 감소",
-      "summary": "우리 사회에서 가장 심각한 갈등은 보수와 진보 간 이념 갈등이라는 조사 결과가 나왔다. 자신을 진보 성향이라고 인식하는 국민은 늘어난 반면, 보수 성향이라고 답한 비율은 소폭 감소한 것으로 나타났다.7일 한국행정연구원이 발표한 ‘2025년 사회통합 실태조사’에 따르면 ...",
+      "category": "ai",
+      "title": "광양시, 지역 산업 인공지능 전환 실증 생태계 구축 협약",
+      "summary": "전남 광양시가 지역 제조업의 인공지능 전환(AX)을 본격적으로 추진하기 위해 행정·기업·교육기관과 손을 잡았다. 광양시는 전남테크노파크, 광양만권HRD센터와 함께 커뮤니티센터에서 열린 '스마트제조 스케일업 컨퍼런스'에서 지역 산업 AX 실증 생태계 구축과 제조기업 경쟁력 강화를 위한 업무 협약을 체결했다고 21일 밝혔다. 협약은 광양시를 비롯해 포스코DX, ...",
+      "source": "뉴시스 on MSN",
+      "publishedAt": "2026-07-21",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B4%91%EC%96%91%EC%8B%9C-%EC%A7%80%EC%97%AD-%EC%82%B0%EC%97%85-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%EC%8B%A4%EC%A6%9D-%EC%83%9D%ED%83%9C%EA%B3%84-%EA%B5%AC%EC%B6%95-%ED%98%91%EC%95%BD/ar-AA28lBvh",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.qjjDFTF2dcCuOeZtoFrc2g&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "역시 신공지능! 최고 성능 인공지능에 2승 거뒀다",
+      "summary": "인류 최강 바둑기사 ‘신공지능’ 신진서(26) 9단 현존 최고 성능 바둑 인공지능(AI) 카타고와의 최종국에서 승리했다. 10년 전 알파고와 이세돌 전 바둑기사의 대결로 확인된 인간과 AI의 격차가 다시 한번 인간에 의해 좁혀졌다는 점에서 의미가 크다.신 9단은 ...",
       "source": "서울신문 on MSN",
-      "publishedAt": "2026-07-07",
-      "url": "https://www.msn.com/ko-kr/news/national/%ED%95%9C%EA%B5%AD-%EC%82%AC%ED%9A%8C-%EA%B0%88%EB%93%B1-1%EC%9C%84%EB%8A%94-%EB%B3%B4%EC%88%98-%EC%A7%84%EB%B3%B4-%EC%A7%84%EB%B3%B4%EC%B8%B5-%EB%8A%98%EA%B3%A0-%EB%B3%B4%EC%88%98%EC%B8%B5-%EA%B0%90%EC%86%8C/ar-AA27mqcf",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.c2f4f51643bb29a0125c637eccffd890&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-07-21",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%97%AD%EC%8B%9C-%EC%8B%A0%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%B5%9C%EA%B3%A0-%EC%84%B1%EB%8A%A5-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%97%90-2%EC%8A%B9-%EA%B1%B0%EB%92%80%EB%8B%A4/ar-AA28mgjG",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.8OPM1HKa2uGkoxQBrUXnYA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "역시 ‘신공지능’! 최강 바둑 인공지능 꺾었다",
-      "summary": "신진서 9단이 바둑 AI 카타고와의 공식 대국에서 처음 승리했다. 5시간 가까운 접전 끝에 흑 4집반승을 거두며 1승1패를 만들었다. 대부분 국면에서 98% 이상 승률을 지키며 주도권을 놓치지 않았고, 중앙 전투에서 과감한 판단으로 승기를 잡았다.",
-      "source": "서울신문",
-      "publishedAt": "2026-07-19",
-      "url": "https://www.seoul.co.kr/news/sport/2026/07/20/20260720023001",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.tGqqjNx9kdF3gJGKCjdUcQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "‘인공지능’ 잡은 ‘신공지능’…현존 최강 카타고에 인류 첫 승리",
-      "summary": "‘신공지능’라 불리는 현역 최강 프로기사 신진서(26) 9단이 ‘인공지능(AI)’의 벽을 넘어섰다. 신 9단은 19일 서울 중구 청파로의 한국경제TV스튜디오에서 열린 바둑 AI 카타고(Katago)와의 '쎈수학·한경 기신전' ...",
-      "source": "한국일보 on MSN",
-      "publishedAt": "2026-07-19",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9E%A1%EC%9D%80-%EC%8B%A0%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%98%84%EC%A1%B4-%EC%B5%9C%EA%B0%95-%EC%B9%B4%ED%83%80%EA%B3%A0%EC%97%90-%EC%9D%B8%EB%A5%98-%EC%B2%AB-%EC%8A%B9%EB%A6%AC/ar-AA28dN04",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.slYd2nfqsnxEKE-6C928CQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "'신공지능, 인공지능 넘었다' 신진서 9단, 카타고에 4집 반승…이세돌 이후 10년",
-      "summary": "바둑 세계 랭킹 1위 신진서 9단이 최고 수준의 바둑 AI 프로그램 카타고(KataGo)와 쎈수학·한경 기신전(棋神戰)을 치르는 모습. 연합뉴스 신공지능이 인공지능(AI)을 넘었다. 세계 최강의 프로 바둑 기사 신진서 9단이다. 신진서는 19일 서울 중구 청파로 한국경제TV스튜디오에서 열린 쎈수학·한경 기신전(棋神戰) ...",
-      "source": "노컷뉴스 on MSN",
-      "publishedAt": "2026-07-19",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%8B%A0%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%84%98%EC%97%88%EB%8B%A4-%EC%8B%A0%EC%A7%84%EC%84%9C-9%EB%8B%A8-%EC%B9%B4%ED%83%80%EA%B3%A0%EC%97%90-4%EC%A7%91-%EB%B0%98%EC%8A%B9-%EC%9D%B4%EC%84%B8%EB%8F%8C-%EC%9D%B4%ED%9B%84-10%EB%85%84/ar-AA28ddQF",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.pYUe4QuSoLEAUsg6aDvpuQ&pid=News&w=1200&h=675&c=14"
+      "title": "中, 자국산 반도체만 사용해 1GW급 데이터센터 완공",
+      "summary": "중국 인공지능(AI) 기업 Z.AI(옛 즈푸AI)가 중국산 반도체만으로 구축한 초대형 데이터센터를 완공했다. 미국의 대중 반도체 수출 규제가 이어지는 가운데 중국이 AI 핵심 인프라와 반도체 기술의 자립을 추진하는 과정에서 큰 진전을 이뤘다는 평가가 나온다. 21일(현지시간) 블룸버그에 따르면 Z.AI는 자사의 AI 모델인 GLM의 차세대 플랫폼 개발을 위 ...",
+      "source": "매일경제",
+      "publishedAt": "2026-07-21",
+      "url": "https://www.mk.co.kr/news/world/12103155",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.BK4OFH789FvxO7QmvVpmKg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
