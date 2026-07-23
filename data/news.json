@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-23",
-  "windowStart": "2026-07-21T22:00:00.000Z",
-  "windowEnd": "2026-07-22T22:00:00.000Z",
+  "updatedAt": "2026-07-24",
+  "windowStart": "2026-07-22T22:00:00.000Z",
+  "windowEnd": "2026-07-23T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
@@ -23,57 +23,75 @@
     },
     {
       "category": "society",
-      "title": "[이슈플러스] '장윤기 사건' 봐주기 수사 의혹...경찰, 특별수사팀 확대 편성",
-      "summary": "* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용 시 [YTN 뉴스PLUS] 명시해주시기 바랍니다. [앵커] 장윤기 사건 수사 과정에서경찰의 증거인멸 정황이 확인되면서사건을 담당한 수사팀장이 긴급체포됐죠. 경찰은 광주 지휘라인을 배제하고경찰청 본청 수사팀을 투입했는데'제식구 감싸기' 부실수사 ...",
-      "source": "YTN",
-      "publishedAt": "2026-07-06",
-      "url": "https://www.ytn.co.kr/_ln/0103_202607061925132468",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.oDJFw5vmAjmgk4kWAu6pKg&pid=News&w=1200&h=675&c=14"
+      "title": "[이슈] 민주당 현역 의원, 보완수사권 폐지에 일침",
+      "summary": "정부·여당이 검찰 보완수사권 폐지에 속도를 내는 가운데 여권을 비롯한 진보 진영 각계에서도 비판이 만만찮다. 정부는 6월 25일 국무총리 현안 브리핑을 통해 검사의 보완수사권 폐지를 기본 입장으로 최종 정리하고 여당에 이를 전달하며 국회의 결정을 존중하겠다고 밝혔다. 더불어민주당은 7월 8일 국회 법제사법위원회에서 검찰 보완수사권 전면 폐지를 담은 형사소송 ...",
+      "source": "월간조선",
+      "publishedAt": "2026-07-19",
+      "url": "https://monthly.chosun.com/news/articleView.html?idxno=70779",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ZhWDReGDue8d07ZtxCmSUw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "연금·주거정책 만들 때 청년 영향부터 따진다… 반영 여부까지 공개",
+      "summary": "【파이낸셜뉴스 제주=정용복 기자】 연금과 노동, 교육, 주거, 복지, 금융처럼 청년의 삶과 미래 부담을 좌우하는 정책을 만들 때 청년에게 미칠 영향을 먼저 따지는 제도 도입이 추진된다. 10일 문대림 더불어민주당 의원실에 따르면 문 의원은 전날 국가와 지방자치단체가 청년의 권익에 중대한 영향을 미치는 주요 정책과 중장기 계획을 수립·변경할 때 '청년영향평가 ...",
+      "source": "파이낸셜뉴스 on MSN",
+      "publishedAt": "2026-07-10",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%97%B0%EA%B8%88-%EC%A3%BC%EA%B1%B0%EC%A0%95%EC%B1%85-%EB%A7%8C%EB%93%A4-%EB%95%8C-%EC%B2%AD%EB%85%84-%EC%98%81%ED%96%A5%EB%B6%80%ED%84%B0-%EB%94%B0%EC%A7%84%EB%8B%A4-%EB%B0%98%EC%98%81-%EC%97%AC%EB%B6%80%EA%B9%8C%EC%A7%80-%EA%B3%B5%EA%B0%9C/ar-AA27BgSH",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.39ac28cb9ccf9ba14b61d15bb256ef27&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[장용동의 우리들의 주거복지] 주택·주거 정책 로드맵, 재설계 시급",
+      "summary": "아무리 좋은 정책이라도 환경과 여건이 성숙하지 않으면 실패하고 만다. 정책 실현 과정에서 발생하는 부작용까지도 다수의 의견을 모아 철저하게 검증하고 이를 해소할 시나리오를 제대로 수립한 후 집행할 때 좋은 정책은 더욱 단단해지고 그 효과는 더욱 커진다. 토지 수용 및 ...",
+      "source": "아시아투데이 on MSN",
+      "publishedAt": "2026-07-22",
+      "url": "https://www.msn.com/ko-kr/%EB%8F%84%EC%8B%9C-%EC%9D%B8%ED%94%84%EB%9D%BC/%EC%A3%BC%ED%83%9D-%EB%B0%8F-%EB%8F%84%EC%8B%9C-%EA%B0%9C%EB%B0%9C/%EC%9E%A5%EC%9A%A9%EB%8F%99%EC%9D%98-%EC%9A%B0%EB%A6%AC%EB%93%A4%EC%9D%98-%EC%A3%BC%EA%B1%B0%EB%B3%B5%EC%A7%80-%EC%A3%BC%ED%83%9D-%EC%A3%BC%EA%B1%B0-%EC%A0%95%EC%B1%85-%EB%A1%9C%EB%93%9C%EB%A7%B5-%EC%9E%AC%EC%84%A4%EA%B3%84-%EC%8B%9C%EA%B8%89/ar-AA28rvAA",
+      "imageUrl": "https://www.bing.com/th?id=ONUT._UJhDhBX5eUL6Bm2mCqRaQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "신세계百 AI 고객 분석 기술, 세계 최고 인공지능 학회 논문 채택",
-      "summary": "신세계백화점이 서울대학교와 공동 연구한 인공지능(AI) 기반 초개인화 고객 분석 기술이 세계 최고 권위의 AI 학술대회인 국제 머신러닝 학회(ICML) 논문으로 채택됐다. 신세계백화점은 서울대 데이터사이언스대학원과 1년여간 공동 연구한 AI 기반 고객 분석 기술이 ICML에 채택됐다고 23일 밝혔다. 국내 백화점 업계의 산학협력 연구 성과가 ICML에 등재 ...",
-      "source": "뉴시스 on MSN",
-      "publishedAt": "2026-07-22",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%8B%A0%EC%84%B8%EA%B3%84%E7%99%BE-ai-%EA%B3%A0%EA%B0%9D-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%88%A0-%EC%84%B8%EA%B3%84-%EC%B5%9C%EA%B3%A0-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%95%99%ED%9A%8C-%EB%85%BC%EB%AC%B8-%EC%B1%84%ED%83%9D/ar-AA28u3MX",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.lhCYCol-4dVCgPFDGsBz9g&pid=News&w=1200&h=675&c=14"
+      "title": "리벨리온 NPU로 SKT 초거대 인공지능 모델 구동 성공",
+      "summary": "리벨리온이 자체 신경망처리장치(NPU)를 활용해 SK텔레콤의 초거대 인공지능(AI) 모델 '에이닷엑스 케이원(A.X K1)'을 구동하는 데 성공했다.리벨리온은 5000억개 이상의 파라미터를 갖춘 SK텔레콤의 초거대 언어모델 A.X K1을 자사의 ...",
+      "source": "아이뉴스24 on MSN",
+      "publishedAt": "2026-07-23",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EB%A6%AC%EB%B2%A8%EB%A6%AC%EC%98%A8-npu%EB%A1%9C-skt-%EC%B4%88%EA%B1%B0%EB%8C%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%EB%8F%99-%EC%84%B1%EA%B3%B5/ar-AA28vHMG",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.MpDytLh7XvI-nBwBPIuqEg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "차세대 인공지능 주도권 쟁탈전… '네오 클라우드'가 뭐길래",
-      "summary": "생성형 인공지능(AI) 확산으로 연산 수요가 폭증하면서 인공지능 모델 학습·추론에 특화된 ‘네오 클라우드’(Neo Cloud)가 새로운 성장 산업으로 떠오르고 있다. 메타와 소프트뱅크, 네이버까지 인공지능 컴퓨팅을 전문으로 제공하는 시장에 잇달아 뛰어들면서 차세대 인공지능 인프라 주도권 경쟁도 본격화하는 모양새다.",
-      "source": "한겨레 on MSN",
-      "publishedAt": "2026-07-22",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A3%BC%EB%8F%84%EA%B6%8C-%EC%9F%81%ED%83%88%EC%A0%84-%EB%84%A4%EC%98%A4-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B0%80-%EB%AD%90%EA%B8%B8%EB%9E%98/ar-AA28r0c4",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.5BK32PoQPYwM3JRV1iBHrw&pid=News&w=1200&h=675&c=14"
+      "title": "“미국 인공지능의 자율 해킹 공격, 중국 AI로 방어했다”",
+      "summary": "미국의 스타트업 기업이 자국의 최신 인공지능(AI) 모델로부터 자율적 해킹 공격을 받고 이를 방어하는데 중국산 AI를 사용해 논란이다.개발자 커뮤니티인 ‘허깅 페이스’는 지난 16일 보안 사건이 발생했다면서 “자율 AI 에이전트 시스템의 무단 접근을 확인했고, 주로 ...",
+      "source": "서울신문 on MSN",
+      "publishedAt": "2026-07-23",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EB%AF%B8%EA%B5%AD-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%98-%EC%9E%90%EC%9C%A8-%ED%95%B4%ED%82%B9-%EA%B3%B5%EA%B2%A9-%EC%A4%91%EA%B5%AD-ai%EB%A1%9C-%EB%B0%A9%EC%96%B4%ED%96%88%EB%8B%A4/ar-AA28uyiV",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.r35v5HVFTtwlGsPFuKk2Hg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "인공지능 시대 첨단기술 접목한 농업혁신 방안은?",
-      "summary": "인공지능(AI)과 첨단 기술을 접목한 농업 혁신 방안을 모색하는 제40회 농림식품산업 미래성장포럼(이하 '미래성장포럼')이 7월 22일 서울의 한 호텔에서 개최됐다. 이번 포럼은 지난 7월 7일 대한민국 최초의 농림특화위성(차세대중형위성 4호) 발사 성공을 계기로 '인공지능(AI) 전환 시대의 농업 융합기술에 대한 전망'이라는 주제로 진행됐다. 포럼에서는 ...",
-      "source": "노컷뉴스",
-      "publishedAt": "2026-07-22",
-      "url": "https://www.nocutnews.co.kr/news/6551780",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.rYHwayL6uSjxlmgLTIAMPw&pid=News&w=1200&h=675&c=14"
+      "title": "‘인공지능·농생명…’ 전북대, 순창군과 미래산업 인재 양성 맞손",
+      "summary": "전북대학교와 전북 순창군이 인공지능(AI)과 농생명·바이오 등 지역 미래 산업을 이끌 맞춤형 인재 양성과 산학협력 강화를 위해 손을 맞잡았다. 전북대는 23일 대학본부에서 양오봉 총장과 최영일 순창군수 등이 참석한 가운데 ‘성장엔진 연계 지역인재 양성’을 위한 업무협약(MOU)을 체결했다고 밝혔다. 이번 협약은 교육부의 ‘성장엔진 연계 지역인재 양성 방안( ...",
+      "source": "세계일보 on MSN",
+      "publishedAt": "2026-07-23",
+      "url": "https://www.msn.com/ko-kr/news/national/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%86%8D%EC%83%9D%EB%AA%85-%EC%A0%84%EB%B6%81%EB%8C%80-%EC%88%9C%EC%B0%BD%EA%B5%B0%EA%B3%BC-%EB%AF%B8%EB%9E%98%EC%82%B0%EC%97%85-%EC%9D%B8%EC%9E%AC-%EC%96%91%EC%84%B1-%EB%A7%9E%EC%86%90/ar-AA28uvql",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.1d4ac6e7e5fca68a47a10b24270b0387&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "KDI “10년 후 AI가 일자리 25만개 대체…생산성은 향상”",
-      "summary": "인공지능(AI)의 발달로 10년 후 연간 25만개 이상의 일자리가 사라질 거란 국책연구원의 분석이 나왔다. 전문직·사무직 등의 대체 가능성이 상대적으로 높았다. 한국개발연구원(KDI)이 22일 발간한 ‘인공지능의 거시경제 영향 분석’ 보고서를 보면, 10년 후 연간 6 ...",
-      "source": "한겨레",
-      "publishedAt": "2026-07-22",
-      "url": "https://www.hani.co.kr/arti/economy/economy_general/1269433.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.OZSPwAE7fBC4-lOYXoRlmA&pid=News&w=1200&h=675&c=14"
+      "title": "AI 시대, 수능 봐야 하나요?…입시 판도 바꾸는 인공지능",
+      "summary": "'Let美Inside'는 미국에 상주하는 기자가 발 빠르게 수집한 정보들을 싹싹 긁어모아 말해주는 경제 비하인드 스토리입니다. 이달 들어 미국 오클라호마주에서 법 하나가 조용히 발효됐다. 학교가 학생의 성적을 매기거나, 징계를 내리거나, 대학 진학을 추천할 때 인공지능(AI)을 주된 근거로 쓰는 것을 금지하는 내용이다. 권고가 아니라 어기면 법 위반이다.",
+      "source": "머니투데이 on MSN",
+      "publishedAt": "2026-07-23",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/ai-%EC%8B%9C%EB%8C%80-%EC%88%98%EB%8A%A5-%EB%B4%90%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94-%EC%9E%85%EC%8B%9C-%ED%8C%90%EB%8F%84-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/ar-AA28vSxw",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.cwAAFQucuva1O6x77hq9cw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "지식재산처, 정책업무용 AI 에이전트 3종 개발해 실무 활용",
-      "summary": "지식재산처는 정책 기획 업무 등에 활용할 인공지능(AI) 에이전트 3종을 만들어 부처 내 업무에 활용 중이라고 23일 밝혔다. 이번 지식재산처의 AI 에이전트는 올해 5월 출범한 지식재산인공지능전환추진단(IP-AX 추진단)이 개발했다. IP-AX 추진단은 △지식재산처 ...",
-      "source": "서울경제",
-      "publishedAt": "2026-07-22",
-      "url": "https://www.sedaily.com/article/20070661",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.cr2rMX6QuNCzB7TJY-zfEQ&pid=News&w=1200&h=675&c=14"
+      "title": "AI 전력난 해법 찾았다…KIST, 저전력 뉴로모픽 AI 학습기술 개발[과학을읽다]",
+      "summary": "생성형 인공지능(AI) 확산으로 데이터센터의 막대한 전력 소비가 새로운 사회적 문제로 떠오른 가운데 국내 연구진이 사람의 뇌처럼 적은 전력으로 동작하는 차세대 인공지능의 성능을 획기적으로 높일 수 있는 ...",
+      "source": "아시아경제 on MSN",
+      "publishedAt": "2026-07-23",
+      "url": "https://www.msn.com/ko-kr/money/markets/ai-%EC%A0%84%EB%A0%A5%EB%82%9C-%ED%95%B4%EB%B2%95-%EC%B0%BE%EC%95%98%EB%8B%A4-kist-%EC%A0%80%EC%A0%84%EB%A0%A5-%EB%89%B4%EB%A1%9C%EB%AA%A8%ED%94%BD-ai-%ED%95%99%EC%8A%B5%EA%B8%B0%EC%88%A0-%EA%B0%9C%EB%B0%9C-%EA%B3%BC%ED%95%99%EC%9D%84%EC%9D%BD%EB%8B%A4/ar-AA28ukUj",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.f56fb529ca423bbba3f9786caff2c839&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
