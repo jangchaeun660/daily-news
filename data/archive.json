@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-07-25",
+    "windowStart": "2026-07-23T22:00:00.000Z",
+    "windowEnd": "2026-07-24T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "부정수급 신고 포상금 신설, 최소 10만원 보장…시민들 관심 집중",
+        "summary": "[공감신문] 이상민 기자=정부는 사회보장급여의 부정수급을 신고한 국민에게 최소 10만원의 포상금을 보장하는 제도를 도입하기로 하고, 이를 전담할 포상심의위원회를 신설하기로 결정했다. 보건복지부는 이러한 내용을 담은 '사회보장급여 부정수급 신고 처리 및 신고포상금 지급에 관한 고시'의 ...",
+        "source": "공감신문",
+        "publishedAt": "2026-07-24",
+        "url": "https://www.gokorea.kr/news/articleView.html?idxno=872950",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.PKVd0V_EPOxdKtrcnLHr2g&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "정치·경제·사회 이슈 다 다루라니, 학교가 뉴스센터냐, 교실 갈등 커질 것",
+        "summary": "한국교원단체총연합회(한국교총)가 국가교육위원회가 공개한 ‘학교시민교육 국가 기본 원칙(안)’에 대해 “교실 내 진영 논리와 갈등을 심화시킬 수 있다”며 신중히 검토해야 한다는 의견서를 냈다. 교사의 정치적 중립성을 담보할 장치가 부족한 채 원칙을 내세울 경우, 교실이 진영 갈등의 무대로 변질될 수 있다는 것이다.",
+        "source": "조선일보 on MSN",
+        "publishedAt": "2026-07-21",
+        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%95%EC%B9%98-%EA%B2%BD%EC%A0%9C-%EC%82%AC%ED%9A%8C-%EC%9D%B4%EC%8A%88-%EB%8B%A4-%EB%8B%A4%EB%A3%A8%EB%9D%BC%EB%8B%88-%ED%95%99%EA%B5%90%EA%B0%80-%EB%89%B4%EC%8A%A4%EC%84%BC%ED%84%B0%EB%83%90-%EA%B5%90%EC%8B%A4-%EA%B0%88%EB%93%B1-%EC%BB%A4%EC%A7%88-%EA%B2%83/ar-AA28lUG6",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.0MuAysu8ahVR-GpHphmFVw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "두달 새 자진신고만 800건 넘어…청소년 사이버도박 ‘빨간불’",
+        "summary": "【투데이신문 박효령 기자】최근 두 달간 경찰에 접수된 청소년 사이버도박 자진신고가 800건을 넘어서면서 청소년 도박 문제가 심각한 사회문제로 떠오르고 있다. 스마트폰 보급으로 온라인 도박에 대한 접근성이 높아진 가운데, 도박이 불법 사채와 또래 간 금전거래, 가족 계좌 무단 인출 등 각종 범죄로까지 번지는 사례가 잇따르면서 예방 체계를 전면 재점검해야 한다 ...",
+        "source": "투데이신문",
+        "publishedAt": "2026-07-21",
+        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128286",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.KOapfZyn7ukQ5TGLG89GBw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈] 민주당 현역 의원, 보완수사권 폐지에 일침",
+        "summary": "정부·여당이 검찰 보완수사권 폐지에 속도를 내는 가운데 여권을 비롯한 진보 진영 각계에서도 비판이 만만찮다. 정부는 6월 25일 국무총리 현안 브리핑을 통해 검사의 보완수사권 폐지를 기본 입장으로 최종 정리하고 여당에 이를 전달하며 국회의 결정을 존중하겠다고 밝혔다. 더불어민주당은 7월 8일 국회 법제사법위원회에서 검찰 보완수사권 전면 폐지를 담은 형사소송 ...",
+        "source": "월간조선",
+        "publishedAt": "2026-07-19",
+        "url": "https://monthly.chosun.com/news/articleView.html?idxno=70779",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ZhWDReGDue8d07ZtxCmSUw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "연금·주거정책 만들 때 청년 영향부터 따진다… 반영 여부까지 공개",
+        "summary": "【파이낸셜뉴스 제주=정용복 기자】 연금과 노동, 교육, 주거, 복지, 금융처럼 청년의 삶과 미래 부담을 좌우하는 정책을 만들 때 청년에게 미칠 영향을 먼저 따지는 제도 도입이 추진된다. 10일 문대림 더불어민주당 의원실에 따르면 문 의원은 전날 국가와 지방자치단체가 청년의 권익에 중대한 영향을 미치는 주요 정책과 중장기 계획을 수립·변경할 때 '청년영향평가 ...",
+        "source": "파이낸셜뉴스 on MSN",
+        "publishedAt": "2026-07-10",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%97%B0%EA%B8%88-%EC%A3%BC%EA%B1%B0%EC%A0%95%EC%B1%85-%EB%A7%8C%EB%93%A4-%EB%95%8C-%EC%B2%AD%EB%85%84-%EC%98%81%ED%96%A5%EB%B6%80%ED%84%B0-%EB%94%B0%EC%A7%84%EB%8B%A4-%EB%B0%98%EC%98%81-%EC%97%AC%EB%B6%80%EA%B9%8C%EC%A7%80-%EA%B3%B5%EA%B0%9C/ar-AA27BgSH",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.39ac28cb9ccf9ba14b61d15bb256ef27&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "‘안전한 인공지능’ 목표, AI 노블레스 오블리주를 논하다",
+        "summary": "빅테크 설계자들 ② 다리오 아모데이 지난해 세계경제포럼에 참석한 다리오 아모데이. 그는 AI의 위험성을 강력하게 경고하며 기술에 대한 규제를 요구한다. [AFP=연합뉴스] 앤더슨 쿠퍼가 지난해 자신의 프로그램 ‘60분’에 출연한 다리오 아모데이 앤트로픽 CEO에게 물었다. “우리는 이 거대한 사회적 변화를 원한 적이 없어요. 누가 당신과 샘 올트먼(오픈AI ...",
+        "source": "중앙SUNDAY on MSN",
+        "publishedAt": "2026-07-24",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%95%88%EC%A0%84%ED%95%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%AA%A9%ED%91%9C-ai-%EB%85%B8%EB%B8%94%EB%A0%88%EC%8A%A4-%EC%98%A4%EB%B8%94%EB%A6%AC%EC%A3%BC%EB%A5%BC-%EB%85%BC%ED%95%98%EB%8B%A4/ar-AA28CnO7",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.MSHAIxT8u_lVZvZ0q49rbw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "차세대 인공지능 주도권 쟁탈전… '네오 클라우드'가 뭐길래",
+        "summary": "생성형 인공지능(AI) 확산으로 연산 수요가 폭증하면서 인공지능 모델 학습·추론에 특화된 ‘네오 클라우드’(Neo Cloud)가 새로운 성장 산업으로 떠오르고 있다. 메타와 소프트뱅크, 네이버까지 인공지능 컴퓨팅을 전문으로 제공하는 시장에 잇달아 뛰어들면서 차세대 인공지능 인프라 주도권 경쟁도 본격화하는 모양새다.",
+        "source": "한겨레 on MSN",
+        "publishedAt": "2026-07-22",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A3%BC%EB%8F%84%EA%B6%8C-%EC%9F%81%ED%83%88%EC%A0%84-%EB%84%A4%EC%98%A4-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B0%80-%EB%AD%90%EA%B8%B8%EB%9E%98/ar-AA28r0c4",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.5BK32PoQPYwM3JRV1iBHrw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "인공지능 시대 첨단기술 접목한 농업혁신 방안은?",
+        "summary": "인공지능(AI)과 첨단 기술을 접목한 농업 혁신 방안을 모색하는 제40회 농림식품산업 미래성장포럼(이하 '미래성장포럼')이 7월 22일 서울의 한 호텔에서 개최됐다. 이번 포럼은 지난 7월 7일 대한민국 최초의 농림특화위성(차세대중형위성 4호) 발사 성공을 계기로 '인공지능(AI) 전환 시대의 농업 융합기술에 대한 전망'이라는 주제로 진행됐다. 포럼에서는 ...",
+        "source": "노컷뉴스",
+        "publishedAt": "2026-07-22",
+        "url": "https://www.nocutnews.co.kr/news/6551780",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.rYHwayL6uSjxlmgLTIAMPw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "시흥시, '인공지능 전환(AX) 상생·협력 선포'…제조산업 인공지능(AI) 전환 본격화",
+        "summary": "시흥시(시장 임병택)는 지난 20일 시흥비즈니스센터 컨벤션홀에서 열린 '반월시화 AX(AI Transformation·인공지능 전환) 상생·협력 선포식'에 참여해 반월·시화국가산업단지의 인공지능(AI) 기반 제조혁신과 기업의 디지털 전환을 위한 협력체계를 구축하고 제조혁신 추진 의지를 밝혔다. 이번 선포식은 민선 9기 출범에 맞춰 반월·시화산업단지의 제조 ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-07-21",
+        "url": "https://www.yna.co.kr/view/RPR20260721004600353",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.S__HrhXzjnggWAfuUX3FFg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "함평군, 생활개선회원 대상 농작업 안전 및 인공지능 활용 교육 성료",
+        "summary": "23일 함평군 농업기술센터에서 열린 '농작업 안전재해 예방 및 인공지능 역량강화 교육'에 참석한 생활개선회원들이 단체 기념촬영을 하고 있다. 사진=함평군 제공[함평(전남)=데일리한국 나성주 기자] 전남 함평군이 지역 여성농업인들의 영농 현장 안전 확보와 디지털 실무 역량 끌어올리기에 나섰다.한국생활개선함평군연합회 회원 50여 명은 지난 23일 함평군 농업기 ...",
+        "source": "데일리한국 on MSN",
+        "publishedAt": "2026-07-24",
+        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%A8%ED%8F%89%EA%B5%B0-%EC%83%9D%ED%99%9C%EA%B0%9C%EC%84%A0%ED%9A%8C%EC%9B%90-%EB%8C%80%EC%83%81-%EB%86%8D%EC%9E%91%EC%97%85-%EC%95%88%EC%A0%84-%EB%B0%8F-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%99%9C%EC%9A%A9-%EA%B5%90%EC%9C%A1-%EC%84%B1%EB%A3%8C/ar-AA28z6IX",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.hyWXX-uMgXXSuuxSaZH4kA&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-07-24",
     "windowStart": "2026-07-22T22:00:00.000Z",
     "windowEnd": "2026-07-23T22:00:00.000Z",
@@ -524,94 +621,6 @@
         "publishedAt": "2026-07-17",
         "url": "https://www.msn.com/ko-kr/news/world/%EC%83%81%ED%95%98%EC%9D%B4%EC%84%9C-%EC%84%B8%EA%B3%84%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%ED%9A%8C-%EA%B0%9C%EB%A7%89-%E4%B8%AD-ai-%EB%A1%9C%EB%B4%87-%EC%84%B1%EA%B3%BC-%ED%95%9C%EC%9E%90%EB%A6%AC%EC%97%90-%EC%A2%85%ED%95%A9/ar-AA285sFM",
         "imageUrl": "https://www.bing.com/th?id=ONUT.IK0WTr6TvdmTKY3F7p4_FQ&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-07-18",
-    "windowStart": "2026-07-16T22:00:00.000Z",
-    "windowEnd": "2026-07-17T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "[복지뉴스] 한국사회보장정보원, AI 시대 이끌 미래 사회복지사 키운다 外",
-        "summary": "【베이비뉴스 심주인 기자】아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 정책과 아동·가족 복지 제도, 취약계층 지원 사업 등 다양한 소식 가운 ...",
-        "source": "베이비뉴스 on MSN",
-        "publishedAt": "2026-07-13",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-ai-%EC%8B%9C%EB%8C%80-%EC%9D%B4%EB%81%8C-%EB%AF%B8%EB%9E%98-%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%82%AC-%ED%82%A4%EC%9A%B4%EB%8B%A4-%E5%A4%96/ar-AA27N3C0",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.aVGmgdkcfKF8yTtvA1yl2A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "한국 시민사회, 공적개발원조 공동 설계자…유엔 무대서 주목",
-        "summary": "KCOC, 고위급정치포럼(HLPF)서 정부-민간 협력 우수 사례 소개 (서울=연합뉴스) 성도현 기자 = 대한민국 국제개발협력 시민사회가 유엔(UN) 무대에서 정부와 시민사회 간 성공적인 파트너십 모델을 글로벌 우수 사례로 소개해 국제사회의 주목을 받았다. 시민사회는 또 전 지구적 복합위기 속에서 ...",
-        "source": "연합뉴스 on MSN",
-        "publishedAt": "2026-07-13",
-        "url": "https://www.msn.com/ko-kr/%EC%82%AC%ED%9A%8C-%EB%AC%B8%ED%99%94-%EB%B0%8F-%EC%97%AD%EC%82%AC/%EC%86%8C%EC%85%9C-%EB%AC%B8%EC%A0%9C/%ED%95%9C%EA%B5%AD-%EC%8B%9C%EB%AF%BC%EC%82%AC%ED%9A%8C-%EA%B3%B5%EC%A0%81%EA%B0%9C%EB%B0%9C%EC%9B%90%EC%A1%B0-%EA%B3%B5%EB%8F%99-%EC%84%A4%EA%B3%84%EC%9E%90-%EC%9C%A0%EC%97%94-%EB%AC%B4%EB%8C%80%EC%84%9C-%EC%A3%BC%EB%AA%A9/ar-AA27LYOn",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.7QkEQ-CnbSqcfipQ97wZ9w&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "마틴 파의 눈으로 본 한국 사회",
-        "summary": "(서울=연합뉴스) 강민지 기자 = 15일 서울 도봉구 서울시립 사진미술관에서 열린 현대 다큐멘터리 사진 거장 마틴 파 아시아 최초 대규모 회고전 '마틴 파: We Are Martin Parr'에서 관람객이 연작 '남한'을 둘러보고 있다. 2026.7.15 ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-07-15",
-        "url": "https://www.yna.co.kr/view/PYH20260715109000013",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.UNsd34d2Y8yE7-bXSNeXvw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "“한국 사회 갈등 1위는 보수·진보”…진보층 늘고 보수층 감소",
-        "summary": "우리 사회에서 가장 심각한 갈등은 보수와 진보 간 이념 갈등이라는 조사 결과가 나왔다. 자신을 진보 성향이라고 인식하는 국민은 늘어난 반면, 보수 성향이라고 답한 비율은 소폭 감소한 것으로 나타났다.7일 한국행정연구원이 발표한 ‘2025년 사회통합 실태조사’에 따르면 ...",
-        "source": "서울신문 on MSN",
-        "publishedAt": "2026-07-07",
-        "url": "https://www.msn.com/ko-kr/news/national/%ED%95%9C%EA%B5%AD-%EC%82%AC%ED%9A%8C-%EA%B0%88%EB%93%B1-1%EC%9C%84%EB%8A%94-%EB%B3%B4%EC%88%98-%EC%A7%84%EB%B3%B4-%EC%A7%84%EB%B3%B4%EC%B8%B5-%EB%8A%98%EA%B3%A0-%EB%B3%B4%EC%88%98%EC%B8%B5-%EA%B0%90%EC%86%8C/ar-AA27mqcf",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.c2f4f51643bb29a0125c637eccffd890&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[조성준의 스케치] AI 데이터센터, 변압기 수요 급증…전력기기 공급망 '새 변수'",
-        "summary": "생성형 인공지능(AI) 경쟁이 반도체에서 전력 인프라 경쟁으로 확대되고 있다. AI 데이터센터가 기가와트(GW)급으로 대형화되면서 GPU 확보보다 변압기와 개폐기 등 전력설비를 얼마나 빨리 확보하느냐가 사업 속도를 좌우하는 변수로 떠오르고 있어서다.13일 전력기기 및 ...",
-        "source": "아주경제 on MSN",
-        "publishedAt": "2026-07-13",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%A1%B0%EC%84%B1%EC%A4%80%EC%9D%98-%EC%8A%A4%EC%BC%80%EC%B9%98-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EB%B3%80%EC%95%95%EA%B8%B0-%EC%88%98%EC%9A%94-%EA%B8%89%EC%A6%9D-%EC%A0%84%EB%A0%A5%EA%B8%B0%EA%B8%B0-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EC%83%88-%EB%B3%80%EC%88%98/ar-AA27NBLN",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.2b7e6027063ffc709141784387908e3f&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "백준호 퓨리오사AI 대표 \"추론형 AI 데이터센터, 반도체 최대 시장 될 것\"",
-        "summary": "국내 인공지능(AI) 반도체 기업 퓨리오사AI의 백준호 대표는 16일 \"앞으로 새롭게 구축될 AI 데이터센터의 중심축은 '훈련'에서 '추론' 영역으로 이동할 것이며, 추론형 데이터센터가 향후 반도체 산업 전체 섹터를 ...",
-        "source": "아시아경제 on MSN",
-        "publishedAt": "2026-07-16",
-        "url": "https://www.msn.com/ko-kr/money/markets/%EB%B0%B1%EC%A4%80%ED%98%B8-%ED%93%A8%EB%A6%AC%EC%98%A4%EC%82%ACai-%EB%8C%80%ED%91%9C-%EC%B6%94%EB%A1%A0%ED%98%95-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%B5%9C%EB%8C%80-%EC%8B%9C%EC%9E%A5-%EB%90%A0-%EA%B2%83/ar-AA280CMf",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.00ef1449fe8de4e2664f350865c12e45&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "아이에이·퓨리오사AI, 국산 NPU로 소형 AI 데이터센터 구축 나서",
-        "summary": "소형 AIDC에 퓨리오사 NPU 적용 실증 올해 화성·광주 실증단지 구축 추진 네오큐브 국산화 최대 95% 목표 백준호 퓨리오사AI 대표, 한성용 아이에이 대표, 김성동 아이에이클라우드 대표(왼쪽부터)가 지난 14일 업무협약을 체결한 뒤 기념촬영을 하고 있다. 아이에이 아이에이와 아이에이클라우드가 퓨리오사AI와 손잡고 국산 인공지능(AI) 반도체 기반 소형 ...",
-        "source": "매일경제 on MSN",
-        "publishedAt": "2026-07-15",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%95%84%EC%9D%B4%EC%97%90%EC%9D%B4-%ED%93%A8%EB%A6%AC%EC%98%A4%EC%82%ACai-%EA%B5%AD%EC%82%B0-npu%EB%A1%9C-%EC%86%8C%ED%98%95-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B5%AC%EC%B6%95-%EB%82%98%EC%84%9C/ar-AA27VUOa",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.43379ca9bd05f9dc08b5741bb75afdd4&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "아이에이, 퓨리오사AI NPU 기반 '소형 AI 데이터센터' 짓는다",
-        "summary": "아이에이와 자회사 아이에이클라우드가 국산 인공지능(AI) 반도체 기업 퓨리오사AI와 손잡고 국산 반도체 기반의 소형 AI 데이터센터를 함께 실증하고 사업화한다. 3사는 이를 통해 소형 AI 데이터센터의 국산화율을 최대 95%까지 끌어올린다는 목표를 제시했다. 3사는 지난 14일 이 같은 내용의 '국산 NPU 기반 소형 모듈형 AI 데이터센터 공동 실증 및 ...",
-        "source": "전자신문",
-        "publishedAt": "2026-07-15",
-        "url": "https://www.etnews.com/20260715000370",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.qSBZeLIlN60R4FuWOyeImg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "AI 다음 격전지는 인프라?…AIDC 경쟁 치열한 이유는 [트랜D]",
-        "summary": "인공지능(AI) 패권 경쟁의 중심이 반도체와 AI 모델 개발을 넘어 데이터센터 인프라로 옮겨가고 있다. 그만큼 AI 데이터센터(AIDC) 설립 경쟁도 치열하다. 생성형 AI가 자리 잡으며 뛰어난 알고리즘을 개발에서 대규모 컴퓨팅 인프라를 확보로 승부처가 이동하고 있기 때문이다. AIDC란 생성형 AI와 대규모 AI 모델의 학습·추론을 위해 구축된 고성능 데 ...",
-        "source": "중앙일보 on MSN",
-        "publishedAt": "2026-07-10",
-        "url": "https://www.msn.com/ko-kr/money/topstories/ai-%EB%8B%A4%EC%9D%8C-%EA%B2%A9%EC%A0%84%EC%A7%80%EB%8A%94-%EC%9D%B8%ED%94%84%EB%9D%BC-aidc-%EA%B2%BD%EC%9F%81-%EC%B9%98%EC%97%B4%ED%95%9C-%EC%9D%B4%EC%9C%A0%EB%8A%94-%ED%8A%B8%EB%9E%9Cd/ar-AA27AOW5",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.wh2QFAzFFWIuTQ_bBiLuPw&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
