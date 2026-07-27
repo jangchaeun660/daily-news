@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-07-27",
-  "windowStart": "2026-07-25T22:00:00.000Z",
-  "windowEnd": "2026-07-26T22:00:00.000Z",
+  "updatedAt": "2026-07-28",
+  "windowStart": "2026-07-26T22:00:00.000Z",
+  "windowEnd": "2026-07-27T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "염태영 의원, 청년정책 대전환 모색…고용·주거부터 민주교육까지",
+      "summary": "[이뉴스투데이 경기1취재본부 김승희 기자] 청년이 삶에서 변화를 체감할 수 있도록 고용과 주거, 소득보장 정책의 전달체계를 재설계하고 민주시민교육을 강화해야 한다는 제언이 국회에서 나왔다.염태영 더불어민주당 국회의원(수원무·국토교통위원회)이 대표 주최한 ‘청년정책 대전환 국회 연속 토 ...",
+      "source": "이뉴스투데이",
+      "publishedAt": "2026-07-27",
+      "url": "https://www.enewstoday.co.kr/news/articleView.html?idxno=2452970",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.NdXV6kiarqPg8doMf2S06Q&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "정치·경제·사회 이슈 다 다루라니, 학교가 뉴스센터냐, 교실 갈등 커질 것",
@@ -10,7 +19,7 @@
       "source": "조선일보 on MSN",
       "publishedAt": "2026-07-21",
       "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%95%EC%B9%98-%EA%B2%BD%EC%A0%9C-%EC%82%AC%ED%9A%8C-%EC%9D%B4%EC%8A%88-%EB%8B%A4-%EB%8B%A4%EB%A3%A8%EB%9D%BC%EB%8B%88-%ED%95%99%EA%B5%90%EA%B0%80-%EB%89%B4%EC%8A%A4%EC%84%BC%ED%84%B0%EB%83%90-%EA%B5%90%EC%8B%A4-%EA%B0%88%EB%93%B1-%EC%BB%A4%EC%A7%88-%EA%B2%83/ar-AA28lUG6",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Qyk-eoGu4Uh50s1x1WkJKQ&pid=News&w=1200&h=675&c=14"
+      "imageUrl": "https://www.bing.com/th?id=ONUT.0MuAysu8ahVR-GpHphmFVw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -19,7 +28,7 @@
       "source": "투데이신문",
       "publishedAt": "2026-07-21",
       "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128286",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.7-rC2rnpmUd2lnsYmdfLbw&pid=News&w=1200&h=675&c=14"
+      "imageUrl": "https://www.bing.com/th?id=ONUT.KOapfZyn7ukQ5TGLG89GBw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -28,52 +37,61 @@
       "source": "공감신문",
       "publishedAt": "2026-07-24",
       "url": "https://www.gokorea.kr/news/articleView.html?idxno=872950",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ZFUpxA-xwgqLAMPNG2078Q&pid=News&w=1200&h=675&c=14"
+      "imageUrl": "https://www.bing.com/th?id=ONUT.PKVd0V_EPOxdKtrcnLHr2g&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[이슈] 민주당 현역 의원, 보완수사권 폐지에 일침",
+      "summary": "정부·여당이 검찰 보완수사권 폐지에 속도를 내는 가운데 여권을 비롯한 진보 진영 각계에서도 비판이 만만찮다. 정부는 6월 25일 국무총리 현안 브리핑을 통해 검사의 보완수사권 폐지를 기본 입장으로 최종 정리하고 여당에 이를 전달하며 국회의 결정을 존중하겠다고 밝혔다. 더불어민주당은 7월 8일 국회 법제사법위원회에서 검찰 보완수사권 전면 폐지를 담은 형사소송 ...",
+      "source": "월간조선",
+      "publishedAt": "2026-07-19",
+      "url": "https://monthly.chosun.com/news/articleView.html?idxno=70779",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ZhWDReGDue8d07ZtxCmSUw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "삼성전자 이재용과 오픈AI 샘 올트먼이 만났다: 인공지능 분야 협력 확대에 속도가 붙는다",
-      "summary": "이재용 삼성전자 회장과 샘 올트먼 오픈AI 최고경영자(CEO)가 미국 샌프란시스코 오픈AI 본사에서 회동을 가졌다. 구체적 내용이 공개되진 않았지만 삼성전자와 오픈AI 사이 인공지능(AI) 관련 협력이 지속돼온 만큼 AI 인프라 분야, AI 전환 등에 관한 논의를 했을 것으로 추측된다. 7월26일 재계에 따르면 이 회장과 올트먼 CEO가 25일(현지시각) ...",
-      "source": "허프포스트코리아 on MSN",
-      "publishedAt": "2026-07-26",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%9D%B4%EC%9E%AC%EC%9A%A9%EA%B3%BC-%EC%98%A4%ED%94%88ai-%EC%83%98-%EC%98%AC%ED%8A%B8%EB%A8%BC%EC%9D%B4-%EB%A7%8C%EB%82%AC%EB%8B%A4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B6%84%EC%95%BC-%ED%98%91%EB%A0%A5-%ED%99%95%EB%8C%80%EC%97%90-%EC%86%8D%EB%8F%84%EA%B0%80-%EB%B6%99%EB%8A%94%EB%8B%A4/ar-AA28HP3J",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.l5CjmvCkzydE0pIOCl9lYA&pid=News&w=1200&h=675&c=14"
+      "title": "‘김부장’ 액션신에 기안84 연애 파트너까지…방송 인공지능 활용 어디까지?",
+      "summary": "인간병기에 가까운 공작원 김부장(소지섭)은 대한민국 군 수뇌부로부터 특수 임무를 받는다. 북한의 대남 첩보 총국 부국장 김정선을 제거하라는 것이다. 김부장은 홀로 김정선의 차량을 추격하고 터널 안에서 총을 쏘며 경호원들을 제압한다. 총알이 다 떨어지자 맨손으로 남은 경 ...",
+      "source": "한겨레",
+      "publishedAt": "2026-07-27",
+      "url": "https://www.hani.co.kr/arti/culture/culture_general/1270140.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.7155jRtvH9elaNjkz0K_hQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[AsiaNet] 2026 세계인공지능대회, 글로벌 AI 공동 발전을 집중 조명하며 개막",
-      "summary": "상하이 2026년 7월 23일 /AsiaNet=연합뉴스/ -- 글로벌 AI 거버넌스 고위급 회의(High-level Meeting on Global AI Governance)와 함께 개최된 2026 세계인공지능대회(World Artificial Intelligence Conference, WAIC)가 7월 17일 상하이에서 개막했다. '더 밝은 미래를 위한 ...",
-      "source": "연합뉴스",
-      "publishedAt": "2026-07-23",
-      "url": "https://www.yna.co.kr/view/RPR20260723003100353",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.04fwqB863ItTbpS0u9wlqg&pid=News&w=1200&h=675&c=14"
+      "title": "전성비가 성패를 가른다… AI 데이터센터 핵심 기술 3가지",
+      "summary": "폭증하는 국내 AI 데이터센터 수요AI 열풍은 데이터센터를 ‘전기 먹는 하마’로 바꿔놓았다. 그래픽처리장치(GPU)가 24시간 연산하는 동안 전력 수요와 열이 폭증하기 때문이다. 이를 감당하지 못한 데이터센터는 완공하고도 가동하지 못하는 사례까지 나오는 실정이다. 미국 캘리포니아주 샌타클래라에서 스택인프라는 48MW(메가와트) 규모 시설을 완공했지만 지역 ...",
+      "source": "매일경제",
+      "publishedAt": "2026-07-27",
+      "url": "https://www.mk.co.kr/news/business/12108482",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.lXy_2rzhnJbaycoygxzbeQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "시흥시, '인공지능 전환(AX) 상생·협력 선포'…제조산업 인공지능(AI) 전환 본격화",
-      "summary": "시흥시(시장 임병택)는 지난 20일 시흥비즈니스센터 컨벤션홀에서 열린 '반월시화 AX(AI Transformation·인공지능 전환) 상생·협력 선포식'에 참여해 반월·시화국가산업단지의 인공지능(AI) 기반 제조혁신과 기업의 디지털 전환을 위한 협력체계를 구축하고 제조혁신 추진 의지를 밝혔다. 이번 선포식은 민선 9기 출범에 맞춰 반월·시화산업단지의 제조 ...",
-      "source": "연합뉴스",
-      "publishedAt": "2026-07-21",
-      "url": "https://www.yna.co.kr/view/RPR20260721004600353",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.S__HrhXzjnggWAfuUX3FFg&pid=News&w=1200&h=675&c=14"
+      "title": "경남 창원에 국내 첫 ‘방산 전용 AI 데이터센터’ 유치…1조6555억 투자",
+      "summary": "경남 창원에 국내 최초의 방위산업 전용 인공지능 (AI) 데이터센터가 들어설 전망이다. 총사업비는 1조6555억원으로 경남이 방산 AI와 첨단 제조혁신의 핵심 거점으로 도약하는 계기가 될지 주목된다.",
+      "source": "매일경제",
+      "publishedAt": "2026-07-27",
+      "url": "https://www.mk.co.kr/news/society/12108489",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.hjCD0zh2BV7hOu6j5XWGjg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "인공지능 시대 첨단기술 접목한 농업혁신 방안은?",
-      "summary": "인공지능(AI)과 첨단 기술을 접목한 농업 혁신 방안을 모색하는 제40회 농림식품산업 미래성장포럼(이하 '미래성장포럼')이 7월 22일 서울의 한 호텔에서 개최됐다. 이번 포럼은 지난 7월 7일 대한민국 최초의 농림특화위성(차세대중형위성 4호) 발사 성공을 계기로 '인공지능(AI) 전환 시대의 농업 융합기술에 대한 전망'이라는 주제로 진행됐다. 포럼에서는 ...",
-      "source": "노컷뉴스",
-      "publishedAt": "2026-07-22",
-      "url": "https://www.nocutnews.co.kr/news/6551780",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.rYHwayL6uSjxlmgLTIAMPw&pid=News&w=1200&h=675&c=14"
+      "title": "한국환경산업기술원, 국민 아이디어로 찾는 기후위기 해법…기업 AI 기술 상용화에 410억원 투입",
+      "summary": "기후에너지환경부와 한국환경산업기술원(KEITI)이 인공지능(AI)을 활용한 기후·환경 문제 해결에 발벗고 나섰다. 기후·환경 관련 기업의 AI 기술 상용화를 지원하는 사업과 국민 아이디어를 발굴하는 경진대회를 동시에 추진하며 ‘AI 기반 환경기술 혁신 생태계’ 구축을 본격화하고 있다.◇ 410억원 투입해 ‘AI 기후테크’ 상용화기후부와 환경산업기술원은 지난 ...",
+      "source": "한국경제 on MSN",
+      "publishedAt": "2026-07-27",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%ED%99%98%EA%B2%BD%EC%82%B0%EC%97%85%EA%B8%B0%EC%88%A0%EC%9B%90-%EA%B5%AD%EB%AF%BC-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A1%9C-%EC%B0%BE%EB%8A%94-%EA%B8%B0%ED%9B%84%EC%9C%84%EA%B8%B0-%ED%95%B4%EB%B2%95-%EA%B8%B0%EC%97%85-ai-%EA%B8%B0%EC%88%A0-%EC%83%81%EC%9A%A9%ED%99%94%EC%97%90-410%EC%96%B5%EC%9B%90-%ED%88%AC%EC%9E%85/ar-AA28KSCe",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.A9QUWmvYWouEUU6DNhenMw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "중국 문샷, 차세대 AI 'Kimi K3' 발표... 제2의 '딥시크 사태' 재현될까?",
-      "summary": "특히 독립 벤치마크 테스트에서 키미 K3는 웹 인터페이스 엔지니어링 부문 1위를 기록했으며, 사람들에게 어느 모델인지 밝히지 않은 상태에서 선호도를 평가하는 '블라인드 테스트'에서는 앤트로픽의 페이블 모델을 앞섰다.",
-      "source": "BBC",
-      "publishedAt": "2026-07-18",
-      "url": "https://www.bbc.com/korean/articles/c07rnpeme90o",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.BhViOsh9RCdmfiz0_OLQ-Q&pid=News&w=1200&h=675&c=14"
+      "title": "미중 AI 패권경쟁 속 개방형 AI 놓고 美 실리콘밸리 갈등 격화",
+      "summary": "오픈AI·앤트로픽 \"中 AI, 증류 방식으로 美 AI 모델 모방\" 엔비디아·MS \"개방형 모델, 혁신 촉진…AI 생태계 필수\" 중국의 개방형 인공지능(AI)을 놓고 미국 빅테크 업체들이 갈등을 빚고 있다. 프런티어(최상위) AI 모델 분야 선두 주자로 꼽히는 오픈AI와 앤트로픽은 중국 ...",
+      "source": "뉴스1",
+      "publishedAt": "2026-07-27",
+      "url": "https://www.news1.kr/it-science/general-it/6240608",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.yLptPySx6KjWsjPrzmE-Fg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
