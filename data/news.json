@@ -1,61 +1,52 @@
 {
-  "updatedAt": "2026-07-31",
-  "windowStart": "2026-07-29T22:00:00.000Z",
-  "windowEnd": "2026-07-30T22:00:00.000Z",
+  "updatedAt": "2026-08-01",
+  "windowStart": "2026-07-30T22:00:00.000Z",
+  "windowEnd": "2026-07-31T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[이슈] 돌봄도 AI 시대…서울시, 실증·공공구매로 신시장 연다",
-      "summary": "[아웃소싱타임스 이윤희 기자] 서울시가 초고령사회에 대비한 AI 돌봄산업 육성을 위해 연구개발(R&D)부터 병원 실증, 공공구매까지 이어지는 성장 지원체계를 본격적으로 점검하고 정책화에 나섰다. 서울시는 지난 29일 고려대학교 안암병원 스포츠의학센터에서 G3 서울플랜 미래경제분과 첫 현장 방문을 열고 재활로봇과 AI 기반 돌봄서비스 운영 현장을 살펴본 뒤 ...",
-      "source": "아웃소싱타임스",
-      "publishedAt": "2026-07-30",
-      "url": "https://www.outsourcing.co.kr/news/articleView.html?idxno=203374",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.5xkTQXRvCy4vazfsfv_V3Q&pid=News&w=1200&h=675&c=14"
+      "title": "압구정 현대 보고 ‘깜놀’…30년만에 한국 온 교수, 충격받은 이유",
+      "summary": "한국 아파트 연구 30년…프랑스 지리학자 발레리 줄레조 지난 30년간 한국 사회에서 아파트가 갖는 공간적 의미를 탐구해온 발레리 줄레조 프랑스 사회과학고등연구원 교수. [사진 Nadia Abdelwahed] “30년이 지나면 다시 짓는다.” 한국 아파트를 처음 연구하던 시절 수없이 들었던 그 말을 확인하기 위해 프랑스 지리학자는 다시 카메라를 들었다. 대표 ...",
+      "source": "중앙일보 on MSN",
+      "publishedAt": "2026-07-31",
+      "url": "https://www.msn.com/ko-kr/news/national/%EC%95%95%EA%B5%AC%EC%A0%95-%ED%98%84%EB%8C%80-%EB%B3%B4%EA%B3%A0-%EA%B9%9C%EB%86%80-30%EB%85%84%EB%A7%8C%EC%97%90-%ED%95%9C%EA%B5%AD-%EC%98%A8-%EA%B5%90%EC%88%98-%EC%B6%A9%EA%B2%A9%EB%B0%9B%EC%9D%80-%EC%9D%B4%EC%9C%A0/ar-AA299xNV",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.ada1ee23eacd9e196a83ecd61e5eb801&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "한국열린사이버대학교 평생교육원, 사회복지사 2급 과정 8월 12일까지 모집",
-      "summary": "[메가경제=정진성 기자] 한국열린사이버대학교 평생교육원이 학점은행제 기반 사회복지사 2급 교육과정 수강생을 8월 12일까지 모집한다. 개강일은 8월 13일이다. 고령화와 복지서비스 확대에 따라 노인·아동·장애인·가족 등 다양한 영역에서 사회복지 인력의 ...",
-      "source": "메가경제 on MSN",
-      "publishedAt": "2026-07-30",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%97%B4%EB%A6%B0%EC%82%AC%EC%9D%B4%EB%B2%84%EB%8C%80%ED%95%99%EA%B5%90-%ED%8F%89%EC%83%9D%EA%B5%90%EC%9C%A1%EC%9B%90-%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%82%AC-2%EA%B8%89-%EA%B3%BC%EC%A0%95-8%EC%9B%94-12%EC%9D%BC%EA%B9%8C%EC%A7%80-%EB%AA%A8%EC%A7%91/ar-AA2923qY",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.xQ374bjfDHK8RQjUgOBskA&pid=News&w=1200&h=675&c=14"
+      "title": "박문성 \"이런 사람들이 한국 축구 이끌었다고? 자괴감\"…축구협회 직격",
+      "summary": "축구 해설위원 박문성씨가 대한축구협회 청문회와 관련해 \"왜 아무도 사과하지 않는지 모르겠다\"며 축구계 책임 회피 문화를 강하게 비판했다. 박 해설위원은 31일 CBS 라디오 '박성태의 뉴스쇼'에 출연해 전날 국회 문화체육관광위원회에서 열린 대한축구협회 청문회 관련 심경을 밝혔다. 그는 \"'왜 아무도 고개 숙이지 않지', '진심으로 사과하지 않지'라는 생각이 ...",
+      "source": "머니투데이 on MSN",
+      "publishedAt": "2026-07-31",
+      "url": "https://www.msn.com/ko-kr/news/national/%EB%B0%95%EB%AC%B8%EC%84%B1-%EC%9D%B4%EB%9F%B0-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%ED%95%9C%EA%B5%AD-%EC%B6%95%EA%B5%AC-%EC%9D%B4%EB%81%8C%EC%97%88%EB%8B%A4%EA%B3%A0-%EC%9E%90%EA%B4%B4%EA%B0%90-%EC%B6%95%EA%B5%AC%ED%98%91%ED%9A%8C-%EC%A7%81%EA%B2%A9/ar-AA298IGi",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Y0HlhTV8u_wUn6JNzDQkEA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "[이슈] 조직개편이 부른 공직사회 균열…광주·전남 왜 싸우나",
-      "summary": "편집자주전남광주통합특별시 출범 이후 처음 추진되는 조직개편을 둘러싸고 광주 전남 공직사회가 정면으로 충돌하고 있다. 겉으로는 기획·예산·인사·조직·감사 등 핵심부서를 어느 청사에 둘 것인지를 놓고 ...",
-      "source": "아시아경제 on MSN",
-      "publishedAt": "2026-07-28",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4%EC%8A%88-%EC%A1%B0%EC%A7%81%EA%B0%9C%ED%8E%B8%EC%9D%B4-%EB%B6%80%EB%A5%B8-%EA%B3%B5%EC%A7%81%EC%82%AC%ED%9A%8C-%EA%B7%A0%EC%97%B4-%EA%B4%91%EC%A3%BC-%EC%A0%84%EB%82%A8-%EC%99%9C-%EC%8B%B8%EC%9A%B0%EB%82%98/ar-AA28QItx",
-      "imageUrl": "https://www.bing.com/th?id=ONUT._EUqOWrb_7ptMjJCr52XMg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "정치·경제·사회 이슈 다 다루라니, 학교가 뉴스센터냐, 교실 갈등 커질 것",
-      "summary": "한국교원단체총연합회(한국교총)가 국가교육위원회가 공개한 ‘학교시민교육 국가 기본 원칙(안)’에 대해 “교실 내 진영 논리와 갈등을 심화시킬 수 있다”며 신중히 검토해야 한다는 의견서를 냈다. 교사의 정치적 중립성을 담보할 장치가 부족한 채 원칙을 내세울 경우, 교실이 진영 갈등의 무대로 변질될 수 있다는 것이다.",
-      "source": "조선일보 on MSN",
-      "publishedAt": "2026-07-21",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%95%EC%B9%98-%EA%B2%BD%EC%A0%9C-%EC%82%AC%ED%9A%8C-%EC%9D%B4%EC%8A%88-%EB%8B%A4-%EB%8B%A4%EB%A3%A8%EB%9D%BC%EB%8B%88-%ED%95%99%EA%B5%90%EA%B0%80-%EB%89%B4%EC%8A%A4%EC%84%BC%ED%84%B0%EB%83%90-%EA%B5%90%EC%8B%A4-%EA%B0%88%EB%93%B1-%EC%BB%A4%EC%A7%88-%EA%B2%83/ar-AA28lUG6",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.0MuAysu8ahVR-GpHphmFVw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "헌재, 교수노조 정치활동 전면 금지에 ‘위헌’ 판단…교직사회 파장",
-      "summary": "【투데이신문 권신영 기자】헌법재판소(이하 헌재)가 대학교원 노동조합의 정치활동을 전면 금지한 현행 교원노조법 조항에 대해 위헌 결정을 내리면서 정부가 관련 법 개정에 나서기로 했다. 교원단체들은 이번 결정을 환영하는 한편 유·초·중등 교원노조에도 정치적 기본권을 보장해야 한다고 촉구했다. 고용노동부(이하 노동부)는 24일 헌재 결정 취지에 맞춰 교원의 노동 ...",
-      "source": "투데이신문",
-      "publishedAt": "2026-07-24",
-      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128356",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.S0XirIkVVFwQaAL73bUqag&pid=News&w=1200&h=675&c=14"
+      "title": "한국건강관리협회-서초구청·서초청년센터, 취약청년 건강·취업 지원 강화",
+      "summary": "한국건강관리협회-서초구청·서초청년센터, 취약청년 건강·취업 지원 강화 한국건강관리협회가 서초구청·서초청년센터와 함께 추진하는 ‘청년, 리커넥트 프로젝트’를 통해 고립·은둔·쉬었음 청년들의 건강 회복과 사회 진입 지원에 나선다. 건강검진과 건강관리 지원을 비롯해 맞춤형 진로·취업 프로그램을 연계 운영하고 있다. ‘청년, 리커넥트 프로젝트’는 사회와 단절된 채 ...",
+      "source": "중앙일보 on MSN",
+      "publishedAt": "2026-07-31",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EA%B1%B4%EA%B0%95%EA%B4%80%EB%A6%AC%ED%98%91%ED%9A%8C-%EC%84%9C%EC%B4%88%EA%B5%AC%EC%B2%AD-%EC%84%9C%EC%B4%88%EC%B2%AD%EB%85%84%EC%84%BC%ED%84%B0-%EC%B7%A8%EC%95%BD%EC%B2%AD%EB%85%84-%EA%B1%B4%EA%B0%95-%EC%B7%A8%EC%97%85-%EC%A7%80%EC%9B%90-%EA%B0%95%ED%99%94/ar-AA295VDK",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.6dfaa98012692fe5cc5e0b6b3c64435c&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "“인공지능 통제 필요하지만 중국에 뒤질라”… 트럼프, 오픈AI 해킹 사고에 규제 딜레마",
-      "summary": "도널드 트럼프 미국 대통령은 최근 오픈에이아이(AI)의 인공지능(AI) 모델들이 다른 기업의 시스템에 침입한 사건이 잇따르자 새로운 통제 방안을 검토하고 있다고 밝혔다. 29일(현지시각) 트럼프 대통령은 백악관 집무실에서 인공지능 모델의 해킹 사고와 관련한 취재진의 질문에 “우리는 인공지능을 살펴보고 있고, 통제 방안도 ...",
-      "source": "한겨레 on MSN",
-      "publishedAt": "2026-07-30",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%86%B5%EC%A0%9C-%ED%95%84%EC%9A%94%ED%95%98%EC%A7%80%EB%A7%8C-%EC%A4%91%EA%B5%AD%EC%97%90-%EB%92%A4%EC%A7%88%EB%9D%BC-%ED%8A%B8%EB%9F%BC%ED%94%84-%EC%98%A4%ED%94%88ai-%ED%95%B4%ED%82%B9-%EC%82%AC%EA%B3%A0%EC%97%90-%EA%B7%9C%EC%A0%9C-%EB%94%9C%EB%A0%88%EB%A7%88/ar-AA2921h9",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.DlK54uF6F8MKNwhToYad_A&pid=News&w=1200&h=675&c=14"
+      "title": "[SW키트] 중국 AI 붐, 소수 도시 집중…고용·소비도 제자리",
+      "summary": "(지디넷코리아=김미정 기자)인공지능(AI) 산업이 중국 경제 성장을 이끌고 있지만 실질적 효과는 허페이와 우한 등 일부 도시에 집중된 것으로 나타났다. 해당 도시 역시 공장 자동화와 임시 고용 확대로 일자리와 가계소득이 늘지 않아 AI 호황이 소비 회복으로 이어지지 않은 것으로 분석됐다. 31일 노무라홀딩스에 따르면 '스마트 도시'로 분류된 베이징과 상하이 ...",
+      "source": "지디넷코리아 on MSN",
+      "publishedAt": "2026-07-31",
+      "url": "https://www.msn.com/ko-kr/news/techandscience/sw%ED%82%A4%ED%8A%B8-%EC%A4%91%EA%B5%AD-ai-%EB%B6%90-%EC%86%8C%EC%88%98-%EB%8F%84%EC%8B%9C-%EC%A7%91%EC%A4%91-%EA%B3%A0%EC%9A%A9-%EC%86%8C%EB%B9%84%EB%8F%84-%EC%A0%9C%EC%9E%90%EB%A6%AC/ar-AA295QyX",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.ad45056fb330b3c8d7d15e1641feb8b1&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "국립광주과학관, 인공지능 특별전 '모두의 AI(On-AI)' 개막",
+      "summary": "'체험하고 만들며 함께 생각해보는 AI의 모든 것'…11월 8까지 (광주=뉴스1) 조영석 기자 = 국립광주과학관은 인공지능 특별전 '모두의 A.I.(On-AI)' 개막식을 개최했다고 31일 밝혔다. 전날 열린 개막식에는 이은영 국립중앙과학관장과 국립아시아문화전당 김상욱 전당장, 국립부산과학관 송삼종 관장, ...",
+      "source": "뉴스1 on MSN",
+      "publishedAt": "2026-07-31",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B5%AD%EB%A6%BD%EA%B4%91%EC%A3%BC%EA%B3%BC%ED%95%99%EA%B4%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%8A%B9%EB%B3%84%EC%A0%84-%EB%AA%A8%EB%91%90%EC%9D%98-ai-on-ai-%EA%B0%9C%EB%A7%89/ar-AA2964hh",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.PIv0zhqcrbrHk4ZqpNbt7A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
@@ -68,30 +59,21 @@
     },
     {
       "category": "ai",
-      "title": "인공지능·우주·무인체계 한눈에 방사청 '국방과학기술 대제전' 개막",
-      "summary": "[파이낸셜뉴스] 대한민국 자주국방과 경제 성장을 동시에 견인하는 K-방산의 핵심 원동력인 국방과학기술을 한자리에서 확인하고, 온 국민이 함께 즐길 수 있는 대규모 국방 과학 축제가 서울에서 막을 올렸다.30일 방위사업청은 \"국가를 지키는 기술, 경제를 이끄는 기술\"을 주제로 이날부터 오는 8월 1일까지 사흘간 서울 서초구 양재동 aT센터에서 '제9회 국방과 ...",
-      "source": "파이낸셜뉴스 on MSN",
-      "publishedAt": "2026-07-30",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9A%B0%EC%A3%BC-%EB%AC%B4%EC%9D%B8%EC%B2%B4%EA%B3%84-%ED%95%9C%EB%88%88%EC%97%90-%EB%B0%A9%EC%82%AC%EC%B2%AD-%EA%B5%AD%EB%B0%A9%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EB%8C%80%EC%A0%9C%EC%A0%84-%EA%B0%9C%EB%A7%89/ar-AA291GBT",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Mtj8tKBHiFtreZD_OqDDCw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "'역대급 풍요'냐 '문명 파국'이냐…AI가 가져올 '두 가지 미래' 엇갈린 전망",
-      "summary": "인공지능(AI)이 인간의 지능을 뛰어넘어 새로운 풍요의 시대를 열 것이라는 전망과 함께, AI가 인류에 대형 참사를 초래할 위험도 상당하다는 연구 결과가 나왔다. 지난 24일(현지 시간) 악시오스에 따르면, 인공지능(AI) 기술이 향후 수년 내 인류의 존립을 위협할 수 있는 대형 참사를 일으킬 확률이 20%를 웃돈다는 국제 연구 결과가 발표됐다. MIT 퓨 ...",
-      "source": "뉴시스 on MSN",
-      "publishedAt": "2026-07-31",
-      "url": "https://www.msn.com/ko-kr/news/world/%EC%97%AD%EB%8C%80%EA%B8%89-%ED%92%8D%EC%9A%94%EB%83%90-%EB%AC%B8%EB%AA%85-%ED%8C%8C%EA%B5%AD%EC%9D%B4%EB%83%90-ai%EA%B0%80-%EA%B0%80%EC%A0%B8%EC%98%AC-%EB%91%90-%EA%B0%80%EC%A7%80-%EB%AF%B8%EB%9E%98-%EC%97%87%EA%B0%88%EB%A6%B0-%EC%A0%84%EB%A7%9D/ar-AA2956ui",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.31fabcdb5c6bfe93ddc801ee8099261e&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
       "title": "광주은행, 전남대와 '인공지능 거점국립대학' 육성 나선다",
       "summary": "Google 검색에서 한국경제 기사를 더 자주 볼 수 있습니다. AI 인재 양성 전주기 협력체계 구축 정일선 광주은행장(왼쪽)과 이근배 전남대 총장이 지난 29일 인공지능(AI) 인재 양성 업무협약을 체결한 뒤 기념촬영을 하고 있다. 광주은행 제공 광주은행이 전남대학교와 함께 지역 인공지능(AI) 인재 양성 및 국가대표 거점국립대학 육성에 힘을 모은다. 광 ...",
       "source": "한국경제",
       "publishedAt": "2026-07-30",
       "url": "https://www.hankyung.com/article/202607305831h",
       "imageUrl": "https://www.bing.com/th?id=ONUT.O_ITbxxCRrrrShaEcrGPHQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "포스코 현장 기술력 인공지능 시대로 잇는다: 이상휘 파트장 용광로·전로 분야 첫 '명장' 선정",
+      "summary": "이희근 포스코 대표이사 사장이 현장 기술직 최고 영예로 꼽히는 '포스코 명장'을 노재 분야에서 선발했다. 제철소 현장의 핵심 설비를 유지하고 보수하는 분야에서 오랜 기간 기술력을 쌓아온 현장 직원을 명장으로 우대하며 기술 경쟁력 강화에 나선다. 포스코는 7월15일 열린 사운영회의에서 '포스코 명장' 임명식을 열고 이상휘 광양제철소 노재그룹 파트장을 올해의 ...",
+      "source": "허프포스트코리아 on MSN",
+      "publishedAt": "2026-07-31",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%BC%EB%B0%98/%ED%8F%AC%EC%8A%A4%EC%BD%94-%ED%98%84%EC%9E%A5-%EA%B8%B0%EC%88%A0%EB%A0%A5-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%8B%9C%EB%8C%80%EB%A1%9C-%EC%9E%87%EB%8A%94%EB%8B%A4-%EC%9D%B4%EC%83%81%ED%9C%98-%ED%8C%8C%ED%8A%B8%EC%9E%A5-%EC%9A%A9%EA%B4%91%EB%A1%9C-%EC%A0%84%EB%A1%9C-%EB%B6%84%EC%95%BC-%EC%B2%AB-%EB%AA%85%EC%9E%A5-%EC%84%A0%EC%A0%95/ar-AA296aZE",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.YG4zkqrZ-DRz_yf5_spNiA&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
