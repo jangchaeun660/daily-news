@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-08-02",
+    "windowStart": "2026-07-31T22:00:00.000Z",
+    "windowEnd": "2026-08-01T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "정치·경제·사회 이슈 다 다루라니, 학교가 뉴스센터냐, 교실 갈등 커질 것",
+        "summary": "한국교원단체총연합회(한국교총)가 국가교육위원회가 공개한 ‘학교시민교육 국가 기본 원칙(안)’에 대해 “교실 내 진영 논리와 갈등을 심화시킬 수 있다”며 신중히 검토해야 한다는 의견서를 냈다. 교사의 정치적 중립성을 담보할 장치가 부족한 채 원칙을 내세울 경우, 교실이 진영 갈등의 무대로 변질될 수 있다는 것이다.",
+        "source": "조선일보 on MSN",
+        "publishedAt": "2026-07-21",
+        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%95%EC%B9%98-%EA%B2%BD%EC%A0%9C-%EC%82%AC%ED%9A%8C-%EC%9D%B4%EC%8A%88-%EB%8B%A4-%EB%8B%A4%EB%A3%A8%EB%9D%BC%EB%8B%88-%ED%95%99%EA%B5%90%EA%B0%80-%EB%89%B4%EC%8A%A4%EC%84%BC%ED%84%B0%EB%83%90-%EA%B5%90%EC%8B%A4-%EA%B0%88%EB%93%B1-%EC%BB%A4%EC%A7%88-%EA%B2%83/ar-AA28lUG6",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.0MuAysu8ahVR-GpHphmFVw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈] 조직개편이 부른 공직사회 균열…광주·전남 왜 싸우나",
+        "summary": "편집자주전남광주통합특별시 출범 이후 처음 추진되는 조직개편을 둘러싸고 광주 전남 공직사회가 정면으로 충돌하고 있다. 겉으로는 기획·예산·인사·조직·감사 등 핵심부서를 어느 청사에 둘 것인지를 놓고 ...",
+        "source": "아시아경제 on MSN",
+        "publishedAt": "2026-07-28",
+        "url": "https://www.msn.com/ko-kr/money/topstories/%EC%9D%B4%EC%8A%88-%EC%A1%B0%EC%A7%81%EA%B0%9C%ED%8E%B8%EC%9D%B4-%EB%B6%80%EB%A5%B8-%EA%B3%B5%EC%A7%81%EC%82%AC%ED%9A%8C-%EA%B7%A0%EC%97%B4-%EA%B4%91%EC%A3%BC-%EC%A0%84%EB%82%A8-%EC%99%9C-%EC%8B%B8%EC%9A%B0%EB%82%98/ar-AA28QItx",
+        "imageUrl": "https://www.bing.com/th?id=ONUT._EUqOWrb_7ptMjJCr52XMg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "헌재, 교수노조 정치활동 전면 금지에 ‘위헌’ 판단…교직사회 파장",
+        "summary": "【투데이신문 권신영 기자】헌법재판소(이하 헌재)가 대학교원 노동조합의 정치활동을 전면 금지한 현행 교원노조법 조항에 대해 위헌 결정을 내리면서 정부가 관련 법 개정에 나서기로 했다. 교원단체들은 이번 결정을 환영하는 한편 유·초·중등 교원노조에도 정치적 기본권을 보장해야 한다고 촉구했다. 고용노동부(이하 노동부)는 24일 헌재 결정 취지에 맞춰 교원의 노동 ...",
+        "source": "투데이신문",
+        "publishedAt": "2026-07-24",
+        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128356",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.S0XirIkVVFwQaAL73bUqag&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "세무사회 \"1주택 양도세·종부세 혜택, 실거주 중심으로\"",
+        "summary": "한국세무사회는 현행 주택세금제도의 핵심인 '1세대 1주택 과세제도 합리화 방안' 토론회를 지난 27일 개최했다고 밝혔다. 이번 토론회는 최근 국민과 정부에 큰 사회적 이슈가 되고 있는 1세대 1주택의 취득, 보유, 처분에 대해 △실거주 보호 △과세형평 △주택공급을 확대할 수 있는 방향으로 개선 방안을 마련하기 위해 열렸다. 세무사회는 1세대 1주택 과세제도 ...",
+        "source": "노컷뉴스",
+        "publishedAt": "2026-07-28",
+        "url": "https://www.nocutnews.co.kr/news/6554453",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.WM62yV9oOEUamDoLlS1_hg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈] 돌봄도 AI 시대…서울시, 실증·공공구매로 신시장 연다",
+        "summary": "[아웃소싱타임스 이윤희 기자] 서울시가 초고령사회에 대비한 AI 돌봄산업 육성을 위해 연구개발(R&D)부터 병원 실증, 공공구매까지 이어지는 성장 지원체계를 본격적으로 점검하고 정책화에 나섰다. 서울시는 지난 29일 고려대학교 안암병원 스포츠의학센터에서 G3 서울플랜 미래경제분과 첫 현장 방문을 열고 재활로봇과 AI 기반 돌봄서비스 운영 현장을 살펴본 뒤 ...",
+        "source": "아웃소싱타임스",
+        "publishedAt": "2026-07-30",
+        "url": "https://www.outsourcing.co.kr/news/articleView.html?idxno=203374",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.5xkTQXRvCy4vazfsfv_V3Q&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "“반도체 조정 끝?”…아마존·MS 15% 폭등에 다시 달린 나스닥",
+        "summary": "뉴욕증권거래소 [REUTERS=연합뉴스] 아마존의 ‘어닝 서프라이즈’가 인공지능(AI) 투자에 대한 시장의 불안감을 크게 덜어내면서 뉴욕증시가 일제히 상승 마감했다. 최근 AI 관련주의 급격한 조정을 이끌었던 ‘과도한 설비투자’ 논란도 한층 잦아드는 분위기다. 31일(현지시간) 뉴욕증시에서 다우존스30 산업평균지수는 전장보다 276.97포인트(0.53%) ...",
+        "source": "매일경제 on MSN",
+        "publishedAt": "2026-08-01",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A1%B0%EC%A0%95-%EB%81%9D-%EC%95%84%EB%A7%88%EC%A1%B4-ms-15-%ED%8F%AD%EB%93%B1%EC%97%90-%EB%8B%A4%EC%8B%9C-%EB%8B%AC%EB%A6%B0-%EB%82%98%EC%8A%A4%EB%8B%A5/ar-AA29ahm1",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Fh2m4EQEQ5nCUX3XqLoAVQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "시흥시, '복지행정 인공지능(AI) 정책실험실' 공모 선정…인공지능 기반 복지행정",
+        "summary": "시흥시 (시장 임병택)는 보건복지부가 주관한 '복지행정 인공지능 (AI) 정책실험실 실증사업' 공모에 최종 선정돼, 8월부터 연말까지 복지행정 전 과정에 생성형 인공지능을 적용하는 실증사업을 시작한다.",
+        "source": "연합뉴스",
+        "publishedAt": "2026-07-31",
+        "url": "https://www.yna.co.kr/view/RPR20260731004600353",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.9ZLJWC1bmXlcqfA-MyDztQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "“인공지능 통제 필요하지만 중국에 뒤질라”…트럼프, 오픈AI 해킹 사고에 규제 딜레마",
+        "summary": "도널드 트럼프 미국 대통령은 최근 오픈에이아이(AI)의 인공지능(AI) 모델들이 다른 기업의 시스템에 침입한 사건이 잇따르자 새로운 통제 방안을 검토하고 있다고 밝혔다. 29일(현지시각) 트럼프 대통령은 백악관 집무실에서 인공지능 모델의 해킹 사고와 관련한 취재진의 질 ...",
+        "source": "한겨레",
+        "publishedAt": "2026-07-30",
+        "url": "https://www.hani.co.kr/arti/international/america/1270680.html",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.gHTQZakgdMIEoOeg3GHteQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "완주군, 인공지능 기초부터 전문 지도사 양성까지 활발",
+        "summary": "완주군이 군민의 디지털 역량 강화와 경제활동 지원을 위해 인공지능(AI) 전문 교육과정을 개설해 지도사들을 대거 배출했다. 군은 급변하는 인공지능 시대에 발맞춰 실생활과 창업 현장에서 바로 활용할 수 있는 실무 인재를 양성하고자 지난 3월부터 7월까지 '인공지능(AI)＆디지털 실전학교'를 운영했다. 교육은 과정별 8∼16차시로 진행됐으며, 일반 군민과 학부 ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-07-30",
+        "url": "https://www.yna.co.kr/view/RPR20260730006200353",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.6pPzrEYOh6KdAIQ3H93lvw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "국립광주과학관, 인공지능 특별전 '모두의 AI(On-AI)' 개막",
+        "summary": "'체험하고 만들며 함께 생각해보는 AI의 모든 것'…11월 8까지 (광주=뉴스1) 조영석 기자 = 국립광주과학관은 인공지능 특별전 '모두의 A.I.(On-AI)' 개막식을 개최했다고 31일 밝혔다. 전날 열린 개막식에는 이은영 국립중앙과학관장과 국립아시아문화전당 김상욱 전당장, 국립부산과학관 송삼종 관장, ...",
+        "source": "뉴스1 on MSN",
+        "publishedAt": "2026-07-31",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B5%AD%EB%A6%BD%EA%B4%91%EC%A3%BC%EA%B3%BC%ED%95%99%EA%B4%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%8A%B9%EB%B3%84%EC%A0%84-%EB%AA%A8%EB%91%90%EC%9D%98-ai-on-ai-%EA%B0%9C%EB%A7%89/ar-AA2964hh",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.PIv0zhqcrbrHk4ZqpNbt7A&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-08-01",
     "windowStart": "2026-07-30T22:00:00.000Z",
     "windowEnd": "2026-07-31T22:00:00.000Z",
@@ -542,103 +639,6 @@
         "publishedAt": "2026-07-18",
         "url": "https://www.bbc.com/korean/articles/c07rnpeme90o",
         "imageUrl": "https://www.bing.com/th?id=ONUT.BhViOsh9RCdmfiz0_OLQ-Q&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-07-26",
-    "windowStart": "2026-07-24T22:00:00.000Z",
-    "windowEnd": "2026-07-25T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "정치·경제·사회 이슈 다 다루라니, 학교가 뉴스센터냐, 교실 갈등 커질 것",
-        "summary": "한국교원단체총연합회(한국교총)가 국가교육위원회가 공개한 ‘학교시민교육 국가 기본 원칙(안)’에 대해 “교실 내 진영 논리와 갈등을 심화시킬 수 있다”며 신중히 검토해야 한다는 의견서를 냈다. 교사의 정치적 중립성을 담보할 장치가 부족한 채 원칙을 내세울 경우, 교실이 진영 갈등의 무대로 변질될 수 있다는 것이다.",
-        "source": "조선일보 on MSN",
-        "publishedAt": "2026-07-21",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%95%EC%B9%98-%EA%B2%BD%EC%A0%9C-%EC%82%AC%ED%9A%8C-%EC%9D%B4%EC%8A%88-%EB%8B%A4-%EB%8B%A4%EB%A3%A8%EB%9D%BC%EB%8B%88-%ED%95%99%EA%B5%90%EA%B0%80-%EB%89%B4%EC%8A%A4%EC%84%BC%ED%84%B0%EB%83%90-%EA%B5%90%EC%8B%A4-%EA%B0%88%EB%93%B1-%EC%BB%A4%EC%A7%88-%EA%B2%83/ar-AA28lUG6",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Qyk-eoGu4Uh50s1x1WkJKQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "두달 새 자진신고만 800건 넘어…청소년 사이버도박 ‘빨간불’",
-        "summary": "【투데이신문 박효령 기자】최근 두 달간 경찰에 접수된 청소년 사이버도박 자진신고가 800건을 넘어서면서 청소년 도박 문제가 심각한 사회문제로 떠오르고 있다. 스마트폰 보급으로 온라인 도박에 대한 접근성이 높아진 가운데, 도박이 불법 사채와 또래 간 금전거래, 가족 계좌 무단 인출 등 각종 범죄로까지 번지는 사례가 잇따르면서 예방 체계를 전면 재점검해야 한다 ...",
-        "source": "투데이신문",
-        "publishedAt": "2026-07-21",
-        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128286",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.7-rC2rnpmUd2lnsYmdfLbw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "부정수급 신고 포상금 신설, 최소 10만원 보장…시민들 관심 집중",
-        "summary": "[공감신문] 이상민 기자=정부는 사회보장급여의 부정수급을 신고한 국민에게 최소 10만원의 포상금을 보장하는 제도를 도입하기로 하고, 이를 전담할 포상심의위원회를 신설하기로 결정했다. 보건복지부는 이러한 내용을 담은 '사회보장급여 부정수급 신고 처리 및 신고포상금 지급에 관한 고시'의 ...",
-        "source": "공감신문",
-        "publishedAt": "2026-07-24",
-        "url": "https://www.gokorea.kr/news/articleView.html?idxno=872950",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ZFUpxA-xwgqLAMPNG2078Q&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈] 민주당 현역 의원, 보완수사권 폐지에 일침",
-        "summary": "정부·여당이 검찰 보완수사권 폐지에 속도를 내는 가운데 여권을 비롯한 진보 진영 각계에서도 비판이 만만찮다. 정부는 6월 25일 국무총리 현안 브리핑을 통해 검사의 보완수사권 폐지를 기본 입장으로 최종 정리하고 여당에 이를 전달하며 국회의 결정을 존중하겠다고 밝혔다. 더불어민주당은 7월 8일 국회 법제사법위원회에서 검찰 보완수사권 전면 폐지를 담은 형사소송 ...",
-        "source": "월간조선",
-        "publishedAt": "2026-07-19",
-        "url": "https://monthly.chosun.com/news/articleView.html?idxno=70779",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ZhWDReGDue8d07ZtxCmSUw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "연금·주거정책 만들 때 청년 영향부터 따진다… 반영 여부까지 공개",
-        "summary": "【파이낸셜뉴스 제주=정용복 기자】 연금과 노동, 교육, 주거, 복지, 금융처럼 청년의 삶과 미래 부담을 좌우하는 정책을 만들 때 청년에게 미칠 영향을 먼저 따지는 제도 도입이 추진된다. 10일 문대림 더불어민주당 의원실에 따르면 문 의원은 전날 국가와 지방자치단체가 청년의 권익에 중대한 영향을 미치는 주요 정책과 중장기 계획을 수립·변경할 때 '청년영향평가 ...",
-        "source": "파이낸셜뉴스 on MSN",
-        "publishedAt": "2026-07-10",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%97%B0%EA%B8%88-%EC%A3%BC%EA%B1%B0%EC%A0%95%EC%B1%85-%EB%A7%8C%EB%93%A4-%EB%95%8C-%EC%B2%AD%EB%85%84-%EC%98%81%ED%96%A5%EB%B6%80%ED%84%B0-%EB%94%B0%EC%A7%84%EB%8B%A4-%EB%B0%98%EC%98%81-%EC%97%AC%EB%B6%80%EA%B9%8C%EC%A7%80-%EA%B3%B5%EA%B0%9C/ar-AA27BgSH",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.39ac28cb9ccf9ba14b61d15bb256ef27&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "엔비디아, 서울대와 '인공지능 인재' 키운다…'AI 기술센터' 추진",
-        "summary": "파운데이션 모델·가속 컴퓨팅·피지컬 AI 등 공동 연구 ...",
-        "source": "한겨레 on MSN",
-        "publishedAt": "2026-07-25",
-        "url": "https://www.msn.com/ko-kr/news/national/%EC%97%94%EB%B9%84%EB%94%94%EC%95%84-%EC%84%9C%EC%9A%B8%EB%8C%80%EC%99%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9D%B8%EC%9E%AC-%ED%82%A4%EC%9A%B4%EB%8B%A4-ai-%EA%B8%B0%EC%88%A0%EC%84%BC%ED%84%B0-%EC%B6%94%EC%A7%84/ar-AA28FgFO",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.XULwwQrf27m_wc4M1U14EQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[AsiaNet] 2026 세계인공지능대회, 글로벌 AI 공동 발전을 집중 조명하며 개막",
-        "summary": "상하이 2026년 7월 23일 /AsiaNet=연합뉴스/ -- 글로벌 AI 거버넌스 고위급 회의(High-level Meeting on Global AI Governance)와 함께 개최된 2026 세계인공지능대회(World Artificial Intelligence Conference, WAIC)가 7월 17일 상하이에서 개막했다. '더 밝은 미래를 위한 ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-07-23",
-        "url": "https://www.yna.co.kr/view/RPR20260723003100353",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.04fwqB863ItTbpS0u9wlqg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "시흥시, '인공지능 전환(AX) 상생·협력 선포'…제조산업 인공지능(AI) 전환 본격화",
-        "summary": "시흥시(시장 임병택)는 지난 20일 시흥비즈니스센터 컨벤션홀에서 열린 '반월시화 AX(AI Transformation·인공지능 전환) 상생·협력 선포식'에 참여해 반월·시화국가산업단지의 인공지능(AI) 기반 제조혁신과 기업의 디지털 전환을 위한 협력체계를 구축하고 제조혁신 추진 의지를 밝혔다. 이번 선포식은 민선 9기 출범에 맞춰 반월·시화산업단지의 제조 ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-07-21",
-        "url": "https://www.yna.co.kr/view/RPR20260721004600353",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.S__HrhXzjnggWAfuUX3FFg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "AI 시대, 수능 봐야 하나요?…입시 판도 바꾸는 인공지능",
-        "summary": "'Let美Inside'는 미국에 상주하는 기자가 발 빠르게 수집한 정보들을 싹싹 긁어모아 말해주는 경제 비하인드 스토리입니다. 이달 들어 미국 오클라호마주에서 법 하나가 조용히 발효됐다. 학교가 학생의 성적을 매기거나, 징계를 내리거나, 대학 진학을 추천할 때 인공지능(AI)을 주된 근거로 쓰는 것을 금지하는 내용이다. 권고가 아니라 어기면 법 위반이다.",
-        "source": "머니투데이 on MSN",
-        "publishedAt": "2026-07-23",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/ai-%EC%8B%9C%EB%8C%80-%EC%88%98%EB%8A%A5-%EB%B4%90%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94-%EC%9E%85%EC%8B%9C-%ED%8C%90%EB%8F%84-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/ar-AA28vSxw",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.cwAAFQucuva1O6x77hq9cw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "인공지능 시대 첨단기술 접목한 농업혁신 방안은?",
-        "summary": "인공지능(AI)과 첨단 기술을 접목한 농업 혁신 방안을 모색하는 제40회 농림식품산업 미래성장포럼(이하 '미래성장포럼')이 7월 22일 서울의 한 호텔에서 개최됐다. 이번 포럼은 지난 7월 7일 대한민국 최초의 농림특화위성(차세대중형위성 4호) 발사 성공을 계기로 '인공지능(AI) 전환 시대의 농업 융합기술에 대한 전망'이라는 주제로 진행됐다. 포럼에서는 ...",
-        "source": "노컷뉴스",
-        "publishedAt": "2026-07-22",
-        "url": "https://www.nocutnews.co.kr/news/6551780",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.rYHwayL6uSjxlmgLTIAMPw&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
