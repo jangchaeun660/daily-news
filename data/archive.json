@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-08-04",
+    "windowStart": "2026-08-02T22:00:00.000Z",
+    "windowEnd": "2026-08-03T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "한국세무사회 \"실거주 1주택 종부세 제외해야\"…개편안 보완 촉구",
+        "summary": "실거주 중심 부동산세 개편 긍정평가물가연동세제·상속세 개편도 제안 (수원=뉴스1) 송용환 기자 = 한국세무사회가 정부의 '2026 세제개편안' 발표와 관련해 실거주 중심의 부동산 세제 개편 방향을 긍정적으로 평가하면서도 실거주 1주택자의 세 부담 확대 등은 보완이 필요하다는 입장을 밝혔다. 4일 세무사회에 따르면 논평을 ...",
+        "source": "뉴스1 on MSN",
+        "publishedAt": "2026-08-04",
+        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%84%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-%EC%8B%A4%EA%B1%B0%EC%A3%BC-1%EC%A3%BC%ED%83%9D-%EC%A2%85%EB%B6%80%EC%84%B8-%EC%A0%9C%EC%99%B8%ED%95%B4%EC%95%BC-%EA%B0%9C%ED%8E%B8%EC%95%88-%EB%B3%B4%EC%99%84-%EC%B4%89%EA%B5%AC/ar-AA29kzBB",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.tu8YpfkLum25y4REvKBCaw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "'올공 시위' 건드린 이수지·최시원… 연예인 사회이슈 발언 '득'인가 '독'인가",
+        "summary": "최근 연예인들이 '올림픽공원 시위' 등 민감한 사회적 이슈를 직접·간접적으로 언급한 이후 갑론을박이 확산하고 있다. 연예인들의 신념 표명이나 정치적 발언은 SNS와 온라인 커뮤니티를 통해 대중의 즉각 낙인으로 이어질 수 있다는 점에서 신중해야 한다는 분석이 나온다. ━민원인이 \"재선거!\" 외치는 장면에…\"시위 참가자 희화화\" 논란 일파만파 ━개그우먼 이수지 ...",
+        "source": "머니투데이 on MSN",
+        "publishedAt": "2026-08-02",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%98%AC%EA%B3%B5-%EC%8B%9C%EC%9C%84-%EA%B1%B4%EB%93%9C%EB%A6%B0-%EC%9D%B4%EC%88%98%EC%A7%80-%EC%B5%9C%EC%8B%9C%EC%9B%90-%EC%97%B0%EC%98%88%EC%9D%B8-%EC%82%AC%ED%9A%8C%EC%9D%B4%EC%8A%88-%EB%B0%9C%EC%96%B8-%EB%93%9D-%EC%9D%B8%EA%B0%80-%EB%8F%85-%EC%9D%B8%EA%B0%80/ar-AA29ghzh",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.XRR6JKq74j_2PNT4ObaDOg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "두달 새 자진신고만 800건 넘어…청소년 사이버도박 ‘빨간불’",
+        "summary": "【투데이신문 박효령 기자】최근 두 달간 경찰에 접수된 청소년 사이버도박 자진신고가 800건을 넘어서면서 청소년 도박 문제가 심각한 사회문제로 떠오르고 있다. 스마트폰 보급으로 온라인 도박에 대한 접근성이 높아진 가운데, 도박이 불법 사채와 또래 간 금전거래, 가족 계좌 무단 인출 등 각종 범죄로까지 번지는 사례가 잇따르면서 예방 체계를 전면 재점검해야 한다 ...",
+        "source": "투데이신문",
+        "publishedAt": "2026-07-21",
+        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128286",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.KOapfZyn7ukQ5TGLG89GBw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈] 조직개편이 부른 공직사회 균열…광주·전남 왜 싸우나",
+        "summary": "편집자주전남광주통합특별시 출범 이후 처음 추진되는 조직개편을 둘러싸고 광주 전남 공직사회가 정면으로 충돌하고 있다. 겉으로는 기획·예산·인사·조직·감사 등 핵심부서를 어느 청사에 둘 것인지를 놓고 ...",
+        "source": "아시아경제 on MSN",
+        "publishedAt": "2026-07-28",
+        "url": "https://www.msn.com/ko-kr/money/topstories/%EC%9D%B4%EC%8A%88-%EC%A1%B0%EC%A7%81%EA%B0%9C%ED%8E%B8%EC%9D%B4-%EB%B6%80%EB%A5%B8-%EA%B3%B5%EC%A7%81%EC%82%AC%ED%9A%8C-%EA%B7%A0%EC%97%B4-%EA%B4%91%EC%A3%BC-%EC%A0%84%EB%82%A8-%EC%99%9C-%EC%8B%B8%EC%9A%B0%EB%82%98/ar-AA28QItx",
+        "imageUrl": "https://www.bing.com/th?id=ONUT._EUqOWrb_7ptMjJCr52XMg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "부정수급 신고 포상금 신설, 최소 10만원 보장…시민들 관심 집중",
+        "summary": "[공감신문] 이상민 기자=정부는 사회보장급여의 부정수급을 신고한 국민에게 최소 10만원의 포상금을 보장하는 제도를 도입하기로 하고, 이를 전담할 포상심의위원회를 신설하기로 결정했다. 보건복지부는 이러한 내용을 담은 '사회보장급여 부정수급 신고 처리 및 신고포상금 지급에 관한 고시'의 ...",
+        "source": "공감신문",
+        "publishedAt": "2026-07-24",
+        "url": "https://www.gokorea.kr/news/articleView.html?idxno=872950",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.PKVd0V_EPOxdKtrcnLHr2g&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "동서발전, 중소기업 대상 실무중심 생성형 인공지능 활용 교육 실시",
+        "summary": "[스포츠한국 홍성완 기자] 한국동서발전은 중소기업의 업무 생산성 향상과 디지털 격차 해소를 위해 중소기업 실무자를 대상으로 생성형 인공지능 활용 교육을 시행했다고 3일 밝혔다.7월 중 총 2회에 걸쳐 진행된 이번 교육에는 현우산업, HPC홍성 등 발전기자재 관련 중소기업 27개사의 영업·기획·행정·개발 분야 등 실무자 51명이 참여했다.교육 첫날에는 △생성 ...",
+        "source": "스포츠한국 on MSN",
+        "publishedAt": "2026-08-03",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%8F%99%EC%84%9C%EB%B0%9C%EC%A0%84-%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85-%EB%8C%80%EC%83%81-%EC%8B%A4%EB%AC%B4%EC%A4%91%EC%8B%AC-%EC%83%9D%EC%84%B1%ED%98%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%99%9C%EC%9A%A9-%EA%B5%90%EC%9C%A1-%EC%8B%A4%EC%8B%9C/ar-AA29io6r",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.0pnpBgLu9kIRo4QQcvWq3A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "삼성SDS, 해남 '국가 AI 컴퓨팅센터' 착공…\"인공지능 핵심 인프라\"",
+        "summary": "국가 AI 컴퓨팅센터 착공식 세레모니. 삼성SDS 제공 삼성SDS가 컨소시엄 대표사로서 주도하는 2조원 대 '국가 AI 컴퓨팅센터' 구축 사업이 본격화됐다. 전라남도 해남군 솔라시도 데이터센터파크에 조성되는 해당 센터는 초거대 AI(인공지능) 모델 개발을 지원하고, 대규모 데이터 처리 수요도 소화하게 된다. 삼성SDS는 ...",
+        "source": "노컷뉴스 on MSN",
+        "publishedAt": "2026-08-03",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%82%BC%EC%84%B1sds-%ED%95%B4%EB%82%A8-%EA%B5%AD%EA%B0%80-ai-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%84%BC%ED%84%B0-%EC%B0%A9%EA%B3%B5-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%95%B5%EC%8B%AC-%EC%9D%B8%ED%94%84%EB%9D%BC/ar-AA29hHY4",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.uB1EVhDheCLkRhpkzJoEKA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "인공지능과 대화하는 배경훈 부총리",
+        "summary": "(전남광주=연합뉴스) 민현기 기자 = 배경훈 부총리 겸 과학기술정보통신부 장관이 3일 오전 전남광주 광산구 국립광주과학관에서 AI 인공지능 전시관을 체험하고 있다. 2026.8.3 ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-03",
+        "url": "https://www.yna.co.kr/view/PYH20260803081100054",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ZNX3qacPqwY0neLPYrxrpQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "디지털 트윈으로 불량 13% 뚝…“AI가 최적의 도장 조건 찾아내”",
+        "summary": "■ 제조AX 선도하는 한국알프스가상공간에서 71만건 공정 실험멈춤 없는 생산라인 혁신 이뤄내불량 피드백 반영 알고리즘 고도화車 넘어 다양한 산업에 적용 가능 업력 40년의 중견 부품업체 한국알프스가 인공지능 전환(AX)의 선도주자로 거듭나고 있다. 수많은 부품의 외형에 맞춰 AI가 최적의 도장 공정을 제안하는 기술을 개발해 생산성을 끌어올리고 있다. 한국알 ...",
+        "source": "서울경제 on MSN",
+        "publishedAt": "2026-08-03",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EB%94%94%EC%A7%80%ED%84%B8-%ED%8A%B8%EC%9C%88%EC%9C%BC%EB%A1%9C-%EB%B6%88%EB%9F%89-13-%EB%9A%9D-ai%EA%B0%80-%EC%B5%9C%EC%A0%81%EC%9D%98-%EB%8F%84%EC%9E%A5-%EC%A1%B0%EA%B1%B4-%EC%B0%BE%EC%95%84%EB%82%B4/ar-AA29iqqr",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.EwenLAk_TOrDppfqrLrTuQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "국가AI컴퓨팅센터 ‘첫 삽’...배경훈 “아시아 AI 인프라 허브로 도약”",
+        "summary": "2028년 준공…AI 반도체 1.5만장 규모 내년엔 삼성SDS DC서 조기 서비스 국산 AI반도체 실증·상용화까지 지원 국가 AI 컴퓨팅센터 착공식 세레모니. 정부가 민간과 손잡고 인공지능(AI) 연산 자원을 산·학·연에 공급할 ‘국가AI컴퓨팅센터’ 건설에 착수했다. 2028년까지 첨단 AI반도체 1만5000장 규모의 컴퓨팅 인프라를 갖춰 스타트업과 중소기 ...",
+        "source": "매일경제 on MSN",
+        "publishedAt": "2026-08-03",
+        "url": "https://www.msn.com/ko-kr/news/other/%EA%B5%AD%EA%B0%80ai%EC%BB%B4%ED%93%A8%ED%8C%85%EC%84%BC%ED%84%B0-%EC%B2%AB-%EC%82%BD-%EB%B0%B0%EA%B2%BD%ED%9B%88-%EC%95%84%EC%8B%9C%EC%95%84-ai-%EC%9D%B8%ED%94%84%EB%9D%BC-%ED%97%88%EB%B8%8C%EB%A1%9C-%EB%8F%84%EC%95%BD/ar-AA29hemc",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.97cd51d499a7ce023d93bf93f447599f&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-08-03",
     "windowStart": "2026-08-01T22:00:00.000Z",
     "windowEnd": "2026-08-02T22:00:00.000Z",
@@ -551,103 +648,6 @@
         "publishedAt": "2026-07-28",
         "url": "https://www.msn.com/ko-kr/news/other/2026-4%EC%B0%A8-%EC%82%B0%EC%97%85%ED%98%81%EB%AA%85-ai-korea-%EB%8C%80%EC%A0%84-ai%EA%B0%80-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%82%B0%EC%97%85%EC%9D%98-%EB%AF%B8%EB%9E%98-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%ED%98%81%EC%8B%A0%EC%9D%84-%EC%9D%B4%EB%81%84%EB%8A%94-%EA%B8%B0%EC%88%A0%EA%B3%BC-%EC%82%AC%EB%9E%8C/ar-AA28QWkc",
         "imageUrl": "https://www.bing.com/th?id=ONUT.H4XbOR778ZkckKO6w6AXTg&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-07-28",
-    "windowStart": "2026-07-26T22:00:00.000Z",
-    "windowEnd": "2026-07-27T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "염태영 의원, 청년정책 대전환 모색…고용·주거부터 민주교육까지",
-        "summary": "[이뉴스투데이 경기1취재본부 김승희 기자] 청년이 삶에서 변화를 체감할 수 있도록 고용과 주거, 소득보장 정책의 전달체계를 재설계하고 민주시민교육을 강화해야 한다는 제언이 국회에서 나왔다.염태영 더불어민주당 국회의원(수원무·국토교통위원회)이 대표 주최한 ‘청년정책 대전환 국회 연속 토 ...",
-        "source": "이뉴스투데이",
-        "publishedAt": "2026-07-27",
-        "url": "https://www.enewstoday.co.kr/news/articleView.html?idxno=2452970",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.NdXV6kiarqPg8doMf2S06Q&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "정치·경제·사회 이슈 다 다루라니, 학교가 뉴스센터냐, 교실 갈등 커질 것",
-        "summary": "한국교원단체총연합회(한국교총)가 국가교육위원회가 공개한 ‘학교시민교육 국가 기본 원칙(안)’에 대해 “교실 내 진영 논리와 갈등을 심화시킬 수 있다”며 신중히 검토해야 한다는 의견서를 냈다. 교사의 정치적 중립성을 담보할 장치가 부족한 채 원칙을 내세울 경우, 교실이 진영 갈등의 무대로 변질될 수 있다는 것이다.",
-        "source": "조선일보 on MSN",
-        "publishedAt": "2026-07-21",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%95%EC%B9%98-%EA%B2%BD%EC%A0%9C-%EC%82%AC%ED%9A%8C-%EC%9D%B4%EC%8A%88-%EB%8B%A4-%EB%8B%A4%EB%A3%A8%EB%9D%BC%EB%8B%88-%ED%95%99%EA%B5%90%EA%B0%80-%EB%89%B4%EC%8A%A4%EC%84%BC%ED%84%B0%EB%83%90-%EA%B5%90%EC%8B%A4-%EA%B0%88%EB%93%B1-%EC%BB%A4%EC%A7%88-%EA%B2%83/ar-AA28lUG6",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.0MuAysu8ahVR-GpHphmFVw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "두달 새 자진신고만 800건 넘어…청소년 사이버도박 ‘빨간불’",
-        "summary": "【투데이신문 박효령 기자】최근 두 달간 경찰에 접수된 청소년 사이버도박 자진신고가 800건을 넘어서면서 청소년 도박 문제가 심각한 사회문제로 떠오르고 있다. 스마트폰 보급으로 온라인 도박에 대한 접근성이 높아진 가운데, 도박이 불법 사채와 또래 간 금전거래, 가족 계좌 무단 인출 등 각종 범죄로까지 번지는 사례가 잇따르면서 예방 체계를 전면 재점검해야 한다 ...",
-        "source": "투데이신문",
-        "publishedAt": "2026-07-21",
-        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128286",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.KOapfZyn7ukQ5TGLG89GBw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "부정수급 신고 포상금 신설, 최소 10만원 보장…시민들 관심 집중",
-        "summary": "[공감신문] 이상민 기자=정부는 사회보장급여의 부정수급을 신고한 국민에게 최소 10만원의 포상금을 보장하는 제도를 도입하기로 하고, 이를 전담할 포상심의위원회를 신설하기로 결정했다. 보건복지부는 이러한 내용을 담은 '사회보장급여 부정수급 신고 처리 및 신고포상금 지급에 관한 고시'의 ...",
-        "source": "공감신문",
-        "publishedAt": "2026-07-24",
-        "url": "https://www.gokorea.kr/news/articleView.html?idxno=872950",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.PKVd0V_EPOxdKtrcnLHr2g&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈] 민주당 현역 의원, 보완수사권 폐지에 일침",
-        "summary": "정부·여당이 검찰 보완수사권 폐지에 속도를 내는 가운데 여권을 비롯한 진보 진영 각계에서도 비판이 만만찮다. 정부는 6월 25일 국무총리 현안 브리핑을 통해 검사의 보완수사권 폐지를 기본 입장으로 최종 정리하고 여당에 이를 전달하며 국회의 결정을 존중하겠다고 밝혔다. 더불어민주당은 7월 8일 국회 법제사법위원회에서 검찰 보완수사권 전면 폐지를 담은 형사소송 ...",
-        "source": "월간조선",
-        "publishedAt": "2026-07-19",
-        "url": "https://monthly.chosun.com/news/articleView.html?idxno=70779",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ZhWDReGDue8d07ZtxCmSUw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "‘김부장’ 액션신에 기안84 연애 파트너까지…방송 인공지능 활용 어디까지?",
-        "summary": "인간병기에 가까운 공작원 김부장(소지섭)은 대한민국 군 수뇌부로부터 특수 임무를 받는다. 북한의 대남 첩보 총국 부국장 김정선을 제거하라는 것이다. 김부장은 홀로 김정선의 차량을 추격하고 터널 안에서 총을 쏘며 경호원들을 제압한다. 총알이 다 떨어지자 맨손으로 남은 경 ...",
-        "source": "한겨레",
-        "publishedAt": "2026-07-27",
-        "url": "https://www.hani.co.kr/arti/culture/culture_general/1270140.html",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.7155jRtvH9elaNjkz0K_hQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "전성비가 성패를 가른다… AI 데이터센터 핵심 기술 3가지",
-        "summary": "폭증하는 국내 AI 데이터센터 수요AI 열풍은 데이터센터를 ‘전기 먹는 하마’로 바꿔놓았다. 그래픽처리장치(GPU)가 24시간 연산하는 동안 전력 수요와 열이 폭증하기 때문이다. 이를 감당하지 못한 데이터센터는 완공하고도 가동하지 못하는 사례까지 나오는 실정이다. 미국 캘리포니아주 샌타클래라에서 스택인프라는 48MW(메가와트) 규모 시설을 완공했지만 지역 ...",
-        "source": "매일경제",
-        "publishedAt": "2026-07-27",
-        "url": "https://www.mk.co.kr/news/business/12108482",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.lXy_2rzhnJbaycoygxzbeQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "경남 창원에 국내 첫 ‘방산 전용 AI 데이터센터’ 유치…1조6555억 투자",
-        "summary": "경남 창원에 국내 최초의 방위산업 전용 인공지능 (AI) 데이터센터가 들어설 전망이다. 총사업비는 1조6555억원으로 경남이 방산 AI와 첨단 제조혁신의 핵심 거점으로 도약하는 계기가 될지 주목된다.",
-        "source": "매일경제",
-        "publishedAt": "2026-07-27",
-        "url": "https://www.mk.co.kr/news/society/12108489",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.hjCD0zh2BV7hOu6j5XWGjg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "한국환경산업기술원, 국민 아이디어로 찾는 기후위기 해법…기업 AI 기술 상용화에 410억원 투입",
-        "summary": "기후에너지환경부와 한국환경산업기술원(KEITI)이 인공지능(AI)을 활용한 기후·환경 문제 해결에 발벗고 나섰다. 기후·환경 관련 기업의 AI 기술 상용화를 지원하는 사업과 국민 아이디어를 발굴하는 경진대회를 동시에 추진하며 ‘AI 기반 환경기술 혁신 생태계’ 구축을 본격화하고 있다.◇ 410억원 투입해 ‘AI 기후테크’ 상용화기후부와 환경산업기술원은 지난 ...",
-        "source": "한국경제 on MSN",
-        "publishedAt": "2026-07-27",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%ED%99%98%EA%B2%BD%EC%82%B0%EC%97%85%EA%B8%B0%EC%88%A0%EC%9B%90-%EA%B5%AD%EB%AF%BC-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A1%9C-%EC%B0%BE%EB%8A%94-%EA%B8%B0%ED%9B%84%EC%9C%84%EA%B8%B0-%ED%95%B4%EB%B2%95-%EA%B8%B0%EC%97%85-ai-%EA%B8%B0%EC%88%A0-%EC%83%81%EC%9A%A9%ED%99%94%EC%97%90-410%EC%96%B5%EC%9B%90-%ED%88%AC%EC%9E%85/ar-AA28KSCe",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.A9QUWmvYWouEUU6DNhenMw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "미중 AI 패권경쟁 속 개방형 AI 놓고 美 실리콘밸리 갈등 격화",
-        "summary": "오픈AI·앤트로픽 \"中 AI, 증류 방식으로 美 AI 모델 모방\" 엔비디아·MS \"개방형 모델, 혁신 촉진…AI 생태계 필수\" 중국의 개방형 인공지능(AI)을 놓고 미국 빅테크 업체들이 갈등을 빚고 있다. 프런티어(최상위) AI 모델 분야 선두 주자로 꼽히는 오픈AI와 앤트로픽은 중국 ...",
-        "source": "뉴스1",
-        "publishedAt": "2026-07-27",
-        "url": "https://www.news1.kr/it-science/general-it/6240608",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.yLptPySx6KjWsjPrzmE-Fg&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
