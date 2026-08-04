@@ -1,5 +1,84 @@
 [
   {
+    "updatedAt": "2026-08-05",
+    "windowStart": "2026-08-03T22:00:00.000Z",
+    "windowEnd": "2026-08-04T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[복지뉴스] 한국사회보장정보원-독거노인종합지원센터, '현장 밀착형 복지 홍보' 추진 外",
+        "summary": "【베이비뉴스 소장섭 기자】아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 정책과 아동·가족 복지 제도, 취약계층 지원 사업 등 다양한 소식 가운 ...",
+        "source": "베이비뉴스 on MSN",
+        "publishedAt": "2026-07-30",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EB%8F%85%EA%B1%B0%EB%85%B8%EC%9D%B8%EC%A2%85%ED%95%A9%EC%A7%80%EC%9B%90%EC%84%BC%ED%84%B0-%ED%98%84%EC%9E%A5-%EB%B0%80%EC%B0%A9%ED%98%95-%EB%B3%B5%EC%A7%80-%ED%99%8D%EB%B3%B4-%EC%B6%94%EC%A7%84-%E5%A4%96/ar-AA291PO8",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.5rcmPL_4mJePMA2iPzSDCQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "한국세무사회 \"실거주 1주택 종부세 제외해야\"…개편안 보완 촉구",
+        "summary": "실거주 중심 부동산세 개편 긍정평가물가연동세제·상속세 개편도 제안 (수원=뉴스1) 송용환 기자 = 한국세무사회가 정부의 '2026 세제개편안' 발표와 관련해 실거주 중심의 부동산 세제 개편 방향을 긍정적으로 평가하면서도 실거주 1주택자의 세 부담 확대 등은 보완이 필요하다는 입장을 밝혔다. 4일 세무사회에 따르면 논평을 ...",
+        "source": "뉴스1 on MSN",
+        "publishedAt": "2026-08-04",
+        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%84%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-%EC%8B%A4%EA%B1%B0%EC%A3%BC-1%EC%A3%BC%ED%83%9D-%EC%A2%85%EB%B6%80%EC%84%B8-%EC%A0%9C%EC%99%B8%ED%95%B4%EC%95%BC-%EA%B0%9C%ED%8E%B8%EC%95%88-%EB%B3%B4%EC%99%84-%EC%B4%89%EA%B5%AC/ar-AA29kzBB",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.tu8YpfkLum25y4REvKBCaw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[벼랑끝노인] ①초고령층 절반이 빈곤…'가난한노후'에 갇힌 한국",
+        "summary": "비영리 연구재단인 사회적가치연구원 (CSES)과 트리플라잇이 내놓은 '2025 한국인이 바라본 사회문제' 보고서를 보면 전국 성인 1천명을 대상으로 실시한 조사를 보면 '미래'에 국민에게 부정적 영향을 미칠 이슈에 '노인 일자리 및 노후 대비 문제'가 1위로 꼽혔다.",
+        "source": "연합뉴스",
+        "publishedAt": "2026-07-27",
+        "url": "https://www.yna.co.kr/view/AKR20260724156900530",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.IDPDsoiONd-Cq263IfSi6g&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "“한국 사회 갈등 1위는 보수·진보”…진보층 늘고 보수층 감소",
+        "summary": "한국행정연구원 조사에서 우리 사회의 가장 큰 갈등은 보수·진보 간 이념 갈등으로 나타났다. 진보 성향은 늘고 보수 성향은 줄었으며, 중도 비중은 감소했다. 갈등 원인으로는 이익 추구와 이해 부족이 가장 많이 꼽혔고, 정책에선 성장 중시 응답이 늘었다.",
+        "source": "서울신문",
+        "publishedAt": "2026-07-07",
+        "url": "https://www.seoul.co.kr/news/world/2026/07/07/20260707500090",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.oa1yl2UGDm5D6dPnZ92YBg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "압구정 현대 보고 ‘깜놀’…30년만에 한국 온 교수, 충격받은 이유",
+        "summary": "한국 아파트 연구 30년…프랑스 지리학자 발레리 줄레조 지난 30년간 한국 사회에서 아파트가 갖는 공간적 의미를 탐구해온 발레리 줄레조 프랑스 사회과학고등연구원 교수. [사진 Nadia Abdelwahed] “30년이 지나면 다시 짓는다.” 한국 아파트를 처음 연구하던 시절 수없이 들었던 그 말을 확인하기 위해 프랑스 지리학자는 다시 카메라를 들었다. 대표 ...",
+        "source": "중앙일보 on MSN",
+        "publishedAt": "2026-07-31",
+        "url": "https://www.msn.com/ko-kr/news/national/%EC%95%95%EA%B5%AC%EC%A0%95-%ED%98%84%EB%8C%80-%EB%B3%B4%EA%B3%A0-%EA%B9%9C%EB%86%80-30%EB%85%84%EB%A7%8C%EC%97%90-%ED%95%9C%EA%B5%AD-%EC%98%A8-%EA%B5%90%EC%88%98-%EC%B6%A9%EA%B2%A9%EB%B0%9B%EC%9D%80-%EC%9D%B4%EC%9C%A0/ar-AA299xNV",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.ada1ee23eacd9e196a83ecd61e5eb801&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "동서발전, 중소기업 대상 실무중심 생성형 인공지능 활용 교육 실시",
+        "summary": "[스포츠한국 홍성완 기자] 한국동서발전은 중소기업의 업무 생산성 향상과 디지털 격차 해소를 위해 중소기업 실무자를 대상으로 생성형 인공지능 활용 교육을 시행했다고 3일 밝혔다.7월 중 총 2회에 걸쳐 진행된 이번 교육에는 현우산업, HPC홍성 등 발전기자재 관련 중소기업 27개사의 영업·기획·행정·개발 분야 등 실무자 51명이 참여했다.교육 첫날에는 △생성 ...",
+        "source": "스포츠한국 on MSN",
+        "publishedAt": "2026-08-03",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%8F%99%EC%84%9C%EB%B0%9C%EC%A0%84-%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85-%EB%8C%80%EC%83%81-%EC%8B%A4%EB%AC%B4%EC%A4%91%EC%8B%AC-%EC%83%9D%EC%84%B1%ED%98%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%99%9C%EC%9A%A9-%EA%B5%90%EC%9C%A1-%EC%8B%A4%EC%8B%9C/ar-AA29io6r",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.0pnpBgLu9kIRo4QQcvWq3A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "삼성SDS, 해남 '국가 AI 컴퓨팅센터' 착공…\"인공지능 핵심 인프라\"",
+        "summary": "국가 AI 컴퓨팅센터 착공식 세레모니. 삼성SDS 제공 삼성SDS가 컨소시엄 대표사로서 주도하는 2조원 대 '국가 AI 컴퓨팅센터' 구축 사업이 본격화됐다. 전라남도 해남군 솔라시도 데이터센터파크에 조성되는 해당 센터는 초거대 AI(인공지능) 모델 개발을 지원하고, 대규모 데이터 처리 수요도 소화하게 된다. 삼성SDS는 ...",
+        "source": "노컷뉴스 on MSN",
+        "publishedAt": "2026-08-03",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%82%BC%EC%84%B1sds-%ED%95%B4%EB%82%A8-%EA%B5%AD%EA%B0%80-ai-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%84%BC%ED%84%B0-%EC%B0%A9%EA%B3%B5-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%95%B5%EC%8B%AC-%EC%9D%B8%ED%94%84%EB%9D%BC/ar-AA29hHY4",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.uB1EVhDheCLkRhpkzJoEKA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "인공지능과 대화하는 배경훈 부총리",
+        "summary": "(전남광주=연합뉴스) 민현기 기자 = 배경훈 부총리 겸 과학기술정보통신부 장관이 3일 오전 전남광주 광산구 국립광주과학관에서 AI 인공지능 전시관을 체험하고 있다. 2026.8.3 ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-03",
+        "url": "https://www.yna.co.kr/view/PYH20260803081100054",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ZNX3qacPqwY0neLPYrxrpQ&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-08-04",
     "windowStart": "2026-08-02T22:00:00.000Z",
     "windowEnd": "2026-08-03T22:00:00.000Z",
@@ -551,103 +630,6 @@
         "publishedAt": "2026-07-29",
         "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EB%82%A8%EB%8F%84-2035%EB%85%84%EA%B9%8C%EC%A7%80-21%EC%A1%B0-%ED%88%AC%EC%9E%85-%EC%A0%9C%EC%A1%B0-%ED%94%BC%EC%A7%80%EC%BB%AC-ai-%EA%B8%80%EB%A1%9C%EB%B2%8C-%ED%97%88%EB%B8%8C-%EB%8F%84%EC%95%BD/ar-AA28Y1kM",
         "imageUrl": "https://www.bing.com/th?id=ONUT.o7MwGai0Kcjjkm0jiSR9kg&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-07-29",
-    "windowStart": "2026-07-27T22:00:00.000Z",
-    "windowEnd": "2026-07-28T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "[이슈] 조직개편이 부른 공직사회 균열…광주·전남 왜 싸우나",
-        "summary": "편집자주전남광주통합특별시 출범 이후 처음 추진되는 조직개편을 둘러싸고 광주 전남 공직사회가 정면으로 충돌하고 있다. 겉으로는 기획·예산·인사·조직·감사 등 핵심부서를 어느 청사에 둘 것인지를 놓고 ...",
-        "source": "아시아경제 on MSN",
-        "publishedAt": "2026-07-28",
-        "url": "https://www.msn.com/ko-kr/%EC%82%AC%ED%9A%8C-%EB%AC%B8%ED%99%94-%EB%B0%8F-%EC%97%AD%EC%82%AC/%EC%86%8C%EC%85%9C-%EB%AC%B8%EC%A0%9C/%EC%9D%B4%EC%8A%88-%EC%A1%B0%EC%A7%81%EA%B0%9C%ED%8E%B8%EC%9D%B4-%EB%B6%80%EB%A5%B8-%EA%B3%B5%EC%A7%81%EC%82%AC%ED%9A%8C-%EA%B7%A0%EC%97%B4-%EA%B4%91%EC%A3%BC-%EC%A0%84%EB%82%A8-%EC%99%9C-%EC%8B%B8%EC%9A%B0%EB%82%98/ar-AA28QItx",
-        "imageUrl": "https://www.bing.com/th?id=ONUT._EUqOWrb_7ptMjJCr52XMg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "흩어진 청년정책 한 권에…'알기 쉬운 청년 정책.zip' 발간",
-        "summary": "청년들이 부처별로 흩어진 정부 지원 정책을 한눈에 찾아볼 수 있도록 일자리부터 주거·금융·복지까지 한 권에 담은 종합 안내서가 나왔다. 고용노동부는 청년들이 자신에게 필요한 정책을 쉽게 찾고 곧바로 참여할 수 있도록 돕는 안내서 '알기 쉬운 청년 정책.zip'을 발간해 배포한다고 28일 밝혔다. 그동안 청년 지원 정책은 일자리와 주거, 교육, 금융, 복지 ...",
-        "source": "노컷뉴스",
-        "publishedAt": "2026-07-28",
-        "url": "https://www.nocutnews.co.kr/news/6554240",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.wndEGvnyozV4WI9dn1ZsaA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "다양한 청년정책 한 권에 담았다…QR코드로 바로 신청",
-        "summary": "정부가 취업과 노동, 주거, 금융 등 분야별 청년 지원정책을 한 권에 담은 안내서를 발간했다. 정책별 QR코드를 통해 신청 페이지까지 바로 연결되도록 해 청년들의 정책 접근성을 높였다. 고용노동부는 28일 취업·노동·주거·금융·복지 등 분야별 청년 정책을 한데 모아 만든 정책 안내서 '알기 쉬운 청년 정책.zip'을 온·오프라인으로 발간‧배포했다고 밝혔다.",
-        "source": "머니투데이",
-        "publishedAt": "2026-07-28",
-        "url": "https://www.mt.co.kr/economy/2026/07/28/2026072809454235449",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.VjKktOaiahgJeEh6Ffg1Ng&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "노동부 '청년 정책.zip' 발간…일자리·주거·금융정책 한 권에",
-        "summary": "고용노동부가 청년들이 정부 정책을 쉽게 찾아보고 신청할 수 있도록 종합 안내서 '알기 쉬운 청년 정책.zip'을 발간한다고 28일 밝혔다. 오는 29일부터 배포되는 안내서는 취업을 준비하는 청년과 사회에 첫발을 내딛는 청년들이 알아야 할 일자리 지원사업, 노동·안전보건 상식, 일·가정 양립제도, 청년뉴딜, 주거·교육·금융·복지 등을 담겼다. 정책별 QR코드 ...",
-        "source": "아주경제",
-        "publishedAt": "2026-07-28",
-        "url": "https://www.ajunews.com/view/20260728101351680",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.fjWq7FfCQV5V9Ayr69Oz-g&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "일자리·주거 등 흩어진 청년정책 한권에…노동부 안내서 발간",
-        "summary": "일자리·주거 등 흩어진 청년정책 한권에…노동부 안내서 발간 노동·안전보건 상식 담아…온라인 및 청년센터 등 배포 (서울=연합뉴스) 옥성구 기자 = 일자리 지원사업과 주거·복지 등 청년들이 자신에게 필요한 정부 정책을 쉽게 찾고 이해할 수 있도록 고용노동..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-07-28",
-        "url": "https://www.fnnews.com/news/202607281202457296",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ydzzH1M-jrD7w9kcoRe8NQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "인공지능 전문가들 “5년 안에 AI가 무기 만들어 수백만 살상 가능성 21%”",
-        "summary": "앞으로 5년 안에 인공지능(AI)이 위험한 무기 등을 만들어 수백만명의 목숨을 앗아갈 확률이 5분의 1에 이른다는 전문가 설문 결과가 나왔다. 인공지능이 인간 통제를 벗어나지 않도록 안전장치를 강화해야 한다는 경고음이 커진다. 미국 매사추세츠 공과대학(MIT)과 오스트레일리아 퀸즐랜드대 연구진은 지난해 연말 전 세계 ...",
-        "source": "한겨레 on MSN",
-        "publishedAt": "2026-07-28",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%EB%AC%B8%EA%B0%80%EB%93%A4-5%EB%85%84-%EC%95%88%EC%97%90-ai%EA%B0%80-%EB%AC%B4%EA%B8%B0-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%88%98%EB%B0%B1%EB%A7%8C-%EC%82%B4%EC%83%81-%EA%B0%80%EB%8A%A5%EC%84%B1-21/ar-AA28QbJL",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.mwBE7AZEWyxveqfaclrJ1A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[28일 평택시] 인공지능기반 가축 이상 징후 탐지시스템 보급 등",
-        "summary": "[아시아타임즈 경기취재본부=강성규 기자]평택시가 한우농가의 노동력 절감과 생산성 향상을 위해 ‘인공지능(AI) 기반 가축 이상 징후 탐지시스템 보급 시범사업’을 추진하고 있다고 28일 밝혔다. 이번 사업은 인공지능(AI) 기반 기술을 활용해 가축의 상태 변화를 항상 확인하고, 이상 징후를 미리 파악할 수 있도록 지원하는 데 목적이 있다. 시범사업에 참여한 ...",
-        "source": "아시아타임즈 on MSN",
-        "publishedAt": "2026-07-28",
-        "url": "https://www.msn.com/ko-kr/news/other/28%EC%9D%BC-%ED%8F%89%ED%83%9D%EC%8B%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B8%B0%EB%B0%98-%EA%B0%80%EC%B6%95-%EC%9D%B4%EC%83%81-%EC%A7%95%ED%9B%84-%ED%83%90%EC%A7%80%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%B3%B4%EA%B8%89-%EB%93%B1/ar-AA28Ppa7",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.2OWO8vMeJjnHPpDjMnDWhQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "충남도, 인공지능 기반 ‘주민자치 혁신’ 선도",
-        "summary": "충남도가 광역 차원의 주민자치 협력체계를 공식 법제화하고, 전국 최초로 인공지능(AI) 기반의 주민자치 통합 플랫폼을 구축하는 등 대한민국 풀뿌리 주민자치 혁신을 선도하고 나섰다. 도는 28일 내포신도시 통일플러스센터 대회의실에서 도 및 15개 시군 주민자치 담당부서, 시군 주민자치협의회장 등 30여 명이 참석한 가운데 ‘주민자치회 실무 간담회’를 개최했다 ...",
-        "source": "전국매일신문",
-        "publishedAt": "2026-07-28",
-        "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1278502",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.oXuXo_SuRQyZXtWxvKG4OA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "LX, 인공지능·드론 활용 보상업무 첫 출사표",
-        "summary": "기사의 본문 내용은 이 글자크기로 변경됩니다. 한국국토정보공사 본사 전경 [사진=LX 제공] 한국국토정보공사(LX, 사장 어명소)가 보상전문기관 지정 이후 공공보상 시장에 본격적인 출사표를 던졌다. 한국국토정보공사는 지난 20일 충청남도 아산시와 ‘둔포원도심 연결도로 구축사업’에 대한 보상업무 위ㆍ수탁 협약 체결을 완료했다. 지난 5월 토지보상법 개정으로 ...",
-        "source": "위클리한국주택경제신문",
-        "publishedAt": "2026-07-28",
-        "url": "https://www.arunews.com/news/articleView.html?idxno=65450",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.0V-xkcsrxPpUJr-xuVyrKw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[2026 4차 산업혁명 AI Korea 대전] AI가 바꾸는 산업의 미래…대한민국 혁신을 이끄는 기술과 사람",
-        "summary": "인공지능(AI)이 산업과 경제, 사회 전반의 패러다임을 바꾸며 국가 경쟁력을 좌우하는 핵심 기술로 자리 잡고 있다. 생성형 AI를 넘어 스스로 판단하고 실행하는 AI 에이전트 시대가 본격화되면서 기술 혁신과 산업 경쟁력 확보는 물론 안전과 보안, 정책, 인재 양성까지 아우르는 국가 차원의 대응이 요구되고 있다. 이 같은 변화 속에서 한국언론인협회와 국회 디 ...",
-        "source": "전자신문 on MSN",
-        "publishedAt": "2026-07-28",
-        "url": "https://www.msn.com/ko-kr/news/other/2026-4%EC%B0%A8-%EC%82%B0%EC%97%85%ED%98%81%EB%AA%85-ai-korea-%EB%8C%80%EC%A0%84-ai%EA%B0%80-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%82%B0%EC%97%85%EC%9D%98-%EB%AF%B8%EB%9E%98-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%ED%98%81%EC%8B%A0%EC%9D%84-%EC%9D%B4%EB%81%84%EB%8A%94-%EA%B8%B0%EC%88%A0%EA%B3%BC-%EC%82%AC%EB%9E%8C/ar-AA28QWkc",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.H4XbOR778ZkckKO6w6AXTg&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
