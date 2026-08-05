@@ -1,79 +1,97 @@
 {
-  "updatedAt": "2026-08-05",
-  "windowStart": "2026-08-03T22:00:00.000Z",
-  "windowEnd": "2026-08-04T22:00:00.000Z",
+  "updatedAt": "2026-08-06",
+  "windowStart": "2026-08-04T22:00:00.000Z",
+  "windowEnd": "2026-08-05T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[복지뉴스] 한국사회보장정보원-독거노인종합지원센터, '현장 밀착형 복지 홍보' 추진 外",
-      "summary": "【베이비뉴스 소장섭 기자】아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 정책과 아동·가족 복지 제도, 취약계층 지원 사업 등 다양한 소식 가운 ...",
-      "source": "베이비뉴스 on MSN",
-      "publishedAt": "2026-07-30",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EB%8F%85%EA%B1%B0%EB%85%B8%EC%9D%B8%EC%A2%85%ED%95%A9%EC%A7%80%EC%9B%90%EC%84%BC%ED%84%B0-%ED%98%84%EC%9E%A5-%EB%B0%80%EC%B0%A9%ED%98%95-%EB%B3%B5%EC%A7%80-%ED%99%8D%EB%B3%B4-%EC%B6%94%EC%A7%84-%E5%A4%96/ar-AA291PO8",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.5rcmPL_4mJePMA2iPzSDCQ&pid=News&w=1200&h=675&c=14"
+      "title": "한국세무사회 \"정부 세제개편안, 투기주택 과세 환영…실거주 1주택 종부세 강화는 우려\"",
+      "summary": "세무사회는 \"그동안 불합리하게 운영되던 부동산 세제를 수술해 과도한 세금 혜택을 박탈하고 실거주 위주의 '국민 주거권 보호 체계'로 전면 전환한 점과 총 241건에 달하는 비과세·감면제도 가운데 절반에 가까운 조세 지출 항목에 대한 정비를 추진하는 등 정부가 강력한 세제개편에 나선 건 높이 평가할 만하다\"고 밝혔습니다.",
+      "source": "SBS 뉴스",
+      "publishedAt": "2026-08-05",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008691670",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.e4ZqH1zA-OoFotyeKQkiBQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "한국세무사회 \"실거주 1주택 종부세 제외해야\"…개편안 보완 촉구",
-      "summary": "실거주 중심 부동산세 개편 긍정평가물가연동세제·상속세 개편도 제안 (수원=뉴스1) 송용환 기자 = 한국세무사회가 정부의 '2026 세제개편안' 발표와 관련해 실거주 중심의 부동산 세제 개편 방향을 긍정적으로 평가하면서도 실거주 1주택자의 세 부담 확대 등은 보완이 필요하다는 입장을 밝혔다. 4일 세무사회에 따르면 논평을 ...",
-      "source": "뉴스1 on MSN",
-      "publishedAt": "2026-08-04",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%84%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-%EC%8B%A4%EA%B1%B0%EC%A3%BC-1%EC%A3%BC%ED%83%9D-%EC%A2%85%EB%B6%80%EC%84%B8-%EC%A0%9C%EC%99%B8%ED%95%B4%EC%95%BC-%EA%B0%9C%ED%8E%B8%EC%95%88-%EB%B3%B4%EC%99%84-%EC%B4%89%EA%B5%AC/ar-AA29kzBB",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.tu8YpfkLum25y4REvKBCaw&pid=News&w=1200&h=675&c=14"
+      "title": "'올공 시위' 건드린 이수지·최시원… 연예인 사회이슈 발언 '득'인가 '독'인가",
+      "summary": "최근 연예인들이 '올림픽공원 시위' 등 민감한 사회적 이슈를 직접·간접적으로 언급한 이후 갑론을박이 확산하고 있다. 연예인들의 신념 표명이나 정치적 발언은 SNS와 온라인 커뮤니티를 통해 대중의 즉각 낙인으로 이어질 수 있다는 점에서 신중해야 한다는 분석이 나온다. ━민원인이 \"재선거!\" 외치는 장면에…\"시위 참가자 희화화\" 논란 일파만파 ━개그우먼 이수지 ...",
+      "source": "머니투데이 on MSN",
+      "publishedAt": "2026-08-02",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%98%AC%EA%B3%B5-%EC%8B%9C%EC%9C%84-%EA%B1%B4%EB%93%9C%EB%A6%B0-%EC%9D%B4%EC%88%98%EC%A7%80-%EC%B5%9C%EC%8B%9C%EC%9B%90-%EC%97%B0%EC%98%88%EC%9D%B8-%EC%82%AC%ED%9A%8C%EC%9D%B4%EC%8A%88-%EB%B0%9C%EC%96%B8-%EB%93%9D-%EC%9D%B8%EA%B0%80-%EB%8F%85-%EC%9D%B8%EA%B0%80/ar-AA29ghzh",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.XRR6JKq74j_2PNT4ObaDOg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "[벼랑끝노인] ①초고령층 절반이 빈곤…'가난한노후'에 갇힌 한국",
-      "summary": "비영리 연구재단인 사회적가치연구원 (CSES)과 트리플라잇이 내놓은 '2025 한국인이 바라본 사회문제' 보고서를 보면 전국 성인 1천명을 대상으로 실시한 조사를 보면 '미래'에 국민에게 부정적 영향을 미칠 이슈에 '노인 일자리 및 노후 대비 문제'가 1위로 꼽혔다.",
-      "source": "연합뉴스",
-      "publishedAt": "2026-07-27",
-      "url": "https://www.yna.co.kr/view/AKR20260724156900530",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.IDPDsoiONd-Cq263IfSi6g&pid=News&w=1200&h=675&c=14"
+      "title": "헌재, 교수노조 정치활동 전면 금지에 ‘위헌’ 판단…교직사회 파장",
+      "summary": "【투데이신문 권신영 기자】헌법재판소(이하 헌재)가 대학교원 노동조합의 정치활동을 전면 금지한 현행 교원노조법 조항에 대해 위헌 결정을 내리면서 정부가 관련 법 개정에 나서기로 했다. 교원단체들은 이번 결정을 환영하는 한편 유·초·중등 교원노조에도 정치적 기본권을 보장해야 한다고 촉구했다. 고용노동부(이하 노동부)는 24일 헌재 결정 취지에 맞춰 교원의 노동 ...",
+      "source": "투데이신문",
+      "publishedAt": "2026-07-24",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128356",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.S0XirIkVVFwQaAL73bUqag&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "“한국 사회 갈등 1위는 보수·진보”…진보층 늘고 보수층 감소",
-      "summary": "한국행정연구원 조사에서 우리 사회의 가장 큰 갈등은 보수·진보 간 이념 갈등으로 나타났다. 진보 성향은 늘고 보수 성향은 줄었으며, 중도 비중은 감소했다. 갈등 원인으로는 이익 추구와 이해 부족이 가장 많이 꼽혔고, 정책에선 성장 중시 응답이 늘었다.",
-      "source": "서울신문",
-      "publishedAt": "2026-07-07",
-      "url": "https://www.seoul.co.kr/news/world/2026/07/07/20260707500090",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.oa1yl2UGDm5D6dPnZ92YBg&pid=News&w=1200&h=675&c=14"
+      "title": "[이슈] 조직개편이 부른 공직사회 균열…광주·전남 왜 싸우나",
+      "summary": "편집자주전남광주통합특별시 출범 이후 처음 추진되는 조직개편을 둘러싸고 광주 전남 공직사회가 정면으로 충돌하고 있다. 겉으로는 기획·예산·인사·조직·감사 등 핵심부서를 어느 청사에 둘 것인지를 놓고 ...",
+      "source": "아시아경제 on MSN",
+      "publishedAt": "2026-07-28",
+      "url": "https://www.msn.com/ko-kr/money/topstories/%EC%9D%B4%EC%8A%88-%EC%A1%B0%EC%A7%81%EA%B0%9C%ED%8E%B8%EC%9D%B4-%EB%B6%80%EB%A5%B8-%EA%B3%B5%EC%A7%81%EC%82%AC%ED%9A%8C-%EA%B7%A0%EC%97%B4-%EA%B4%91%EC%A3%BC-%EC%A0%84%EB%82%A8-%EC%99%9C-%EC%8B%B8%EC%9A%B0%EB%82%98/ar-AA28QItx",
+      "imageUrl": "https://www.bing.com/th?id=ONUT._EUqOWrb_7ptMjJCr52XMg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "압구정 현대 보고 ‘깜놀’…30년만에 한국 온 교수, 충격받은 이유",
-      "summary": "한국 아파트 연구 30년…프랑스 지리학자 발레리 줄레조 지난 30년간 한국 사회에서 아파트가 갖는 공간적 의미를 탐구해온 발레리 줄레조 프랑스 사회과학고등연구원 교수. [사진 Nadia Abdelwahed] “30년이 지나면 다시 짓는다.” 한국 아파트를 처음 연구하던 시절 수없이 들었던 그 말을 확인하기 위해 프랑스 지리학자는 다시 카메라를 들었다. 대표 ...",
-      "source": "중앙일보 on MSN",
-      "publishedAt": "2026-07-31",
-      "url": "https://www.msn.com/ko-kr/news/national/%EC%95%95%EA%B5%AC%EC%A0%95-%ED%98%84%EB%8C%80-%EB%B3%B4%EA%B3%A0-%EA%B9%9C%EB%86%80-30%EB%85%84%EB%A7%8C%EC%97%90-%ED%95%9C%EA%B5%AD-%EC%98%A8-%EA%B5%90%EC%88%98-%EC%B6%A9%EA%B2%A9%EB%B0%9B%EC%9D%80-%EC%9D%B4%EC%9C%A0/ar-AA299xNV",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.ada1ee23eacd9e196a83ecd61e5eb801&pid=News&w=1200&h=675&c=14"
+      "title": "부정수급 신고 포상금 신설, 최소 10만원 보장…시민들 관심 집중",
+      "summary": "[공감신문] 이상민 기자=정부는 사회보장급여의 부정수급을 신고한 국민에게 최소 10만원의 포상금을 보장하는 제도를 도입하기로 하고, 이를 전담할 포상심의위원회를 신설하기로 결정했다. 보건복지부는 이러한 내용을 담은 '사회보장급여 부정수급 신고 처리 및 신고포상금 지급에 관한 고시'의 ...",
+      "source": "공감신문",
+      "publishedAt": "2026-07-24",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=872950",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.PKVd0V_EPOxdKtrcnLHr2g&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "동서발전, 중소기업 대상 실무중심 생성형 인공지능 활용 교육 실시",
-      "summary": "[스포츠한국 홍성완 기자] 한국동서발전은 중소기업의 업무 생산성 향상과 디지털 격차 해소를 위해 중소기업 실무자를 대상으로 생성형 인공지능 활용 교육을 시행했다고 3일 밝혔다.7월 중 총 2회에 걸쳐 진행된 이번 교육에는 현우산업, HPC홍성 등 발전기자재 관련 중소기업 27개사의 영업·기획·행정·개발 분야 등 실무자 51명이 참여했다.교육 첫날에는 △생성 ...",
-      "source": "스포츠한국 on MSN",
-      "publishedAt": "2026-08-03",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%8F%99%EC%84%9C%EB%B0%9C%EC%A0%84-%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85-%EB%8C%80%EC%83%81-%EC%8B%A4%EB%AC%B4%EC%A4%91%EC%8B%AC-%EC%83%9D%EC%84%B1%ED%98%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%99%9C%EC%9A%A9-%EA%B5%90%EC%9C%A1-%EC%8B%A4%EC%8B%9C/ar-AA29io6r",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.0pnpBgLu9kIRo4QQcvWq3A&pid=News&w=1200&h=675&c=14"
+      "title": "상명대, 소프트웨어 기업 틸론과 교류협약 체결",
+      "summary": "상명대학교는 지난 3일 서울캠퍼스에서 소프트웨어 기업 틸론과 교류협력협약(MOU)를 체결했다고 4일 밝혔다. 이번 협약은 양 기관이 인공지능 가상화 분야에서 기술 협력을 이루고 실무형 인재를 양성해 상생 발전을 도모하기 위해 추진됐다. 인공지능 가상화는 GPU 등 고성능 컴퓨팅 자원이나 AI 모델·데이터를 분할하거나 하나로 묶어 관리하는 기술을 뜻한다. 협 ...",
+      "source": "전자신문 on MSN",
+      "publishedAt": "2026-08-05",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%83%81%EB%AA%85%EB%8C%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B8%B0%EC%97%85-%ED%8B%B8%EB%A1%A0%EA%B3%BC-%EA%B5%90%EB%A5%98%ED%98%91%EC%95%BD-%EC%B2%B4%EA%B2%B0/ar-AA29m80E",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.KISiVG2L7K2twCzrK2OpFg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "삼성SDS, 해남 '국가 AI 컴퓨팅센터' 착공…\"인공지능 핵심 인프라\"",
-      "summary": "국가 AI 컴퓨팅센터 착공식 세레모니. 삼성SDS 제공 삼성SDS가 컨소시엄 대표사로서 주도하는 2조원 대 '국가 AI 컴퓨팅센터' 구축 사업이 본격화됐다. 전라남도 해남군 솔라시도 데이터센터파크에 조성되는 해당 센터는 초거대 AI(인공지능) 모델 개발을 지원하고, 대규모 데이터 처리 수요도 소화하게 된다. 삼성SDS는 ...",
-      "source": "노컷뉴스 on MSN",
-      "publishedAt": "2026-08-03",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%82%BC%EC%84%B1sds-%ED%95%B4%EB%82%A8-%EA%B5%AD%EA%B0%80-ai-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%84%BC%ED%84%B0-%EC%B0%A9%EA%B3%B5-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%95%B5%EC%8B%AC-%EC%9D%B8%ED%94%84%EB%9D%BC/ar-AA29hHY4",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.uB1EVhDheCLkRhpkzJoEKA&pid=News&w=1200&h=675&c=14"
+      "title": "영상빅테크 AI 투자 1260조 돌파…MS 웃고 구글·메타 흔들",
+      "summary": "[주요 이슈 브리핑] ■ AI투자 폭증: 세계 9대 클라우드서비스공급자(CSP)의 올해 총 자본지출이 전년보다 약 90% 증가한 8867억 달러(약 1263조 원)에 달할 전망이다. 인공지능(AI) 서버 수요 증가와 하이퍼스케일러 간 실적 엇갈림이 동시에 나타나는 모습 ...",
+      "source": "서울경제",
+      "publishedAt": "2026-08-05",
+      "url": "https://www.sedaily.com/article/20075922",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-dM_kbnH5Fk66T7d0yzp6w&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "인공지능과 대화하는 배경훈 부총리",
-      "summary": "(전남광주=연합뉴스) 민현기 기자 = 배경훈 부총리 겸 과학기술정보통신부 장관이 3일 오전 전남광주 광산구 국립광주과학관에서 AI 인공지능 전시관을 체험하고 있다. 2026.8.3 ...",
-      "source": "연합뉴스",
-      "publishedAt": "2026-08-03",
-      "url": "https://www.yna.co.kr/view/PYH20260803081100054",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ZNX3qacPqwY0neLPYrxrpQ&pid=News&w=1200&h=675&c=14"
+      "title": "\"유럽 데이터센터에 토종 반도체 깔린다\"...퓨리오사AI, 8800장 공급",
+      "summary": "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 ‘데이터랩’에서 볼 수 있습니다. ] AI(인공지능) 반도체 스타트업 퓨리오사AI가 스웨덴 AI 데이터센터에 1230억원 규모의 NPU(신경망처리장치)를 공급한다.",
+      "source": "머니투데이",
+      "publishedAt": "2026-08-05",
+      "url": "https://www.mt.co.kr/future/2026/08/06/2026080515374468314",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.YX7hw2eNsJXL3B3MTYIZkA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "퓨리오사AI, 스웨덴 차세대 AI 데이터센터 구축 참여…유럽 시장 진출 가속",
+      "summary": "스톡홀름 15㎿ AI 데이터센터 구축 참여 내년 초 2㎿ 1단계 가동 후 점차 확대 RNGD 8800장 이상 단계적 도입 퓨리오사AI는 미국 AI 인프라 기업 아이오엔엑스 HPC(I/ONX HPC) 및 데이터센터 개발·운영 기업 벨록스(Velox)와 함께 스웨덴 스톡홀름에서 추진되는 차세대 AI 데이터센터 구축 프로젝트에 참여한다. ...",
+      "source": "매일경제",
+      "publishedAt": "2026-08-05",
+      "url": "https://www.mk.co.kr/news/pick/12117682",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.pdI2_Au3tzgQfdBHgJoDNg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "아이에이, 리벨리온과 국산 NPU 기반 AI 데이터센터 구축 협력",
+      "summary": "퓨리오사AI 이어 리벨리온과도 MOU 국산 NPU 기반 ‘네오큐브’ 공동 실증 화성·광주 테스트베드 구축 추진 GPU·NPU 통합 운영 환경 검증 5일 리벨리온 본사에서 한성용 아이에이 대표, 박성현 리벨리온 대표, 김성동 아이에이클라우드 대표(왼쪽부터)가 업무협약을 체결하고 기념촬영을 하고 있다. 아이에이 아이에이와 자회사 아이에이클라우드가 인공지능(AI ...",
+      "source": "매일경제 on MSN",
+      "publishedAt": "2026-08-05",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%95%84%EC%9D%B4%EC%97%90%EC%9D%B4-%EB%A6%AC%EB%B2%A8%EB%A6%AC%EC%98%A8%EA%B3%BC-%EA%B5%AD%EC%82%B0-npu-%EA%B8%B0%EB%B0%98-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B5%AC%EC%B6%95-%ED%98%91%EB%A0%A5/ar-AA29qSYX",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.nGCQpCXJ6zkBJxv6ch-vBA&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
