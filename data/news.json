@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-08-07",
-  "windowStart": "2026-08-05T22:00:00.000Z",
-  "windowEnd": "2026-08-06T22:00:00.000Z",
+  "updatedAt": "2026-08-08",
+  "windowStart": "2026-08-06T22:00:00.000Z",
+  "windowEnd": "2026-08-07T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "[OST 금주브리핑] 이번 주 아웃소싱기업이 체크해야 할 노동·산업 이슈 6선",
+      "summary": "폭염과 열악한 휴게시설 논란, 유통업계 변화와 내년도 최저임금 등 이번주 아웃소싱 기업에 확인해야할 노동산업 이슈를 정리했다. 사진은 인공지능 생성 [아웃소싱타임스 이윤희 기자] 연일 이어지는 기록적인 폭염부터 노동환경 논란, 정부 정책 발표, 노동시장 통계까지 이번 주에도 기업 경영과 인력 운영에 영향을 미칠 노동·산업 이슈가 잇따랐다. 특히 산업현장을 ...",
+      "source": "아웃소싱타임스",
+      "publishedAt": "2026-08-07",
+      "url": "https://www.outsourcing.co.kr/news/articleView.html?idxno=203445",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.8H-vK4feExIG_fxdH3fOQg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "김규원, 사회복무요원 시절 미담 뒤늦게 화제… ‘우리 가족 연예인 0순위’ [MK★이슈]",
+      "summary": "개그맨 김규원의 사회복무요원 시절 선행이 뒤늦게 알려지며 훈훈함을 전하고 있다. 7일 일러스트레이터 키크니 작가는 자신의 SNS를 통해 팬으로부터 제보받은 사연을 직접 그림으로 풀어 공개했다. 사연 속 주인공은 현재 활발하게 활동 중인 개그맨 김규원이었다. “저희 아이는 선천적 근육병으로 초등학교 4학년 때부터 휠체어를 타게 됐다”고 알린 사연자는 “학교에 ...",
+      "source": "매일경제 on MSN",
+      "publishedAt": "2026-08-07",
+      "url": "https://www.msn.com/ko-kr/%EC%B7%A8%EB%AF%B8-%EB%B0%8F-%EA%B4%80%EC%8B%AC%EC%82%AC/%EC%9D%BC%EB%B0%98/%EA%B9%80%EA%B7%9C%EC%9B%90-%EC%82%AC%ED%9A%8C%EB%B3%B5%EB%AC%B4%EC%9A%94%EC%9B%90-%EC%8B%9C%EC%A0%88-%EB%AF%B8%EB%8B%B4-%EB%92%A4%EB%8A%A6%EA%B2%8C-%ED%99%94%EC%A0%9C-%EC%9A%B0%EB%A6%AC-%EA%B0%80%EC%A1%B1-%EC%97%B0%EC%98%88%EC%9D%B8-0%EC%88%9C%EC%9C%84-mk-%EC%9D%B4%EC%8A%88/ar-AA29zZse",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.7q88a2qpwyYabUjpvwY_KA&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "[외신사진 속 이슈人] 美 민주당 흔드는 '민주사회주의', 한국계 프란체스카 홍 주목",
@@ -14,21 +32,21 @@
     },
     {
       "category": "society",
-      "title": "李대통령 \"청년들 취약계층 돼가…교육·취업·주거 등 정책 재편 검토\"",
-      "summary": "(서울=뉴스1) 임윤지 김근욱 기자 = 이재명 대통령은 6일 \"청년들은 지금 거의 취약계층이 되어 가고 있다\"며 청년 정책을 교육·취업·소득·자산·주거·결혼 등 삶의 핵심 영역 중심으로 재편하는 방안을 검토하라고 지시했다.이 대통령은 이날 오후 청와대 여민관에..",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-08-06",
-      "url": "https://www.fnnews.com/news/202608061423440554",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ZKAG3oLVA5bFkx0IRaIgHQ&pid=News&w=1200&h=675&c=14"
+      "title": "[복지뉴스] 한국사회보장정보원-독거노인종합지원센터, '현장 밀착형 복지 홍보' 추진 外",
+      "summary": "【베이비뉴스 소장섭 기자】아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 정책과 아동·가족 복지 제도, 취약계층 지원 사업 등 다양한 소식 가운 ...",
+      "source": "베이비뉴스 on MSN",
+      "publishedAt": "2026-07-30",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EB%8F%85%EA%B1%B0%EB%85%B8%EC%9D%B8%EC%A2%85%ED%95%A9%EC%A7%80%EC%9B%90%EC%84%BC%ED%84%B0-%ED%98%84%EC%9E%A5-%EB%B0%80%EC%B0%A9%ED%98%95-%EB%B3%B5%EC%A7%80-%ED%99%8D%EB%B3%B4-%EC%B6%94%EC%A7%84-%E5%A4%96/ar-AA291PO8",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.5rcmPL_4mJePMA2iPzSDCQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "[나눔 트렌드] 유니세프 한국위원회, 롯데자이언츠와 ‘2026 유니세프 데이’ 개최 外",
-      "summary": "【베이비뉴스 소장섭 기자】‘나눔 트렌드’는 아이를 키우는 가정과 우리 사회에 긍정적인 변화를 만드는 나눔·사회공헌 분야의 주요 이슈를 모아 전하기 위해 기획된 코너다. 기업과 기관, 단체 등이 펼치는 기부, 캠페인, 지역사회 지원, 아동·가족 대상 사회공헌 활동 등 다양한 소식 가운데 일상 속에서 의미를 더하는 나눔 사례를 선별해 소개한다. -편집자 말◇ ...",
-      "source": "베이비뉴스 on MSN",
-      "publishedAt": "2026-08-06",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%82%98%EB%88%94-%ED%8A%B8%EB%A0%8C%EB%93%9C-%EC%9C%A0%EB%8B%88%EC%84%B8%ED%94%84-%ED%95%9C%EA%B5%AD%EC%9C%84%EC%9B%90%ED%9A%8C-%EB%A1%AF%EB%8D%B0%EC%9E%90%EC%9D%B4%EC%96%B8%EC%B8%A0%EC%99%80-2026-%EC%9C%A0%EB%8B%88%EC%84%B8%ED%94%84-%EB%8D%B0%EC%9D%B4-%EA%B0%9C%EC%B5%9C-%E5%A4%96/ar-AA29tz50",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.rIDDESSyKcK_vwHQN6JNSA&pid=News&w=1200&h=675&c=14"
+      "title": "한국세무사회 \"실거주 1주택 종부세 제외해야\"…개편안 보완 촉구",
+      "summary": "실거주 중심 부동산세 개편 긍정평가물가연동세제·상속세 개편도 제안 (수원=뉴스1) 송용환 기자 = 한국세무사회가 정부의 '2026 세제개편안' 발표와 관련해 실거주 중심의 부동산 세제 개편 방향을 긍정적으로 평가하면서도 실거주 1주택자의 세 부담 확대 등은 보완이 필요하다는 입장을 밝혔다. 4일 세무사회에 따르면 논평을 ...",
+      "source": "뉴스1 on MSN",
+      "publishedAt": "2026-08-04",
+      "url": "https://www.msn.com/ko-kr/money/%EB%B6%80%EB%8F%99%EC%82%B0/%ED%95%9C%EA%B5%AD%EC%84%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-%EC%8B%A4%EA%B1%B0%EC%A3%BC-1%EC%A3%BC%ED%83%9D-%EC%A2%85%EB%B6%80%EC%84%B8-%EC%A0%9C%EC%99%B8%ED%95%B4%EC%95%BC-%EA%B0%9C%ED%8E%B8%EC%95%88-%EB%B3%B4%EC%99%84-%EC%B4%89%EA%B5%AC/ar-AA29kzBB",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.tu8YpfkLum25y4REvKBCaw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
@@ -56,24 +74,6 @@
       "publishedAt": "2026-08-07",
       "url": "https://www.msn.com/ko-kr/news/other/%EB%AF%BC%EC%84%A0-9%EA%B8%B0-%EC%B2%AB-%EC%A1%B0%EC%A7%81%EA%B0%9C%ED%8E%B8-%EC%9D%B8%EC%82%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%B2%AD%EB%85%84-%EC%A4%91%EC%8B%AC-%EC%A7%84%EC%9A%A9-%EA%B0%96%EC%B7%84%EB%8B%A4/ar-AA29vzaM",
       "imageUrl": "https://www.bing.com/th?id=ONUT.6e6PsVPk70WiNKSCr-Kp2w&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "인공지능 플랫폼으로 K푸드 세계화…CJ제일제당, 'Food AI 360' 글로벌 론칭",
-      "summary": "CJ제일제당은 동종 업계 최초로 실시간 트렌드 분석부터 마케팅, 상품 기획·개발, 소비자 반응 시뮬레이션까지 지원하는 인공지능(AI) 플랫폼 '푸드 AI 360(Food AI 360)'을 글로벌 시장으로 확대한다고 6일 ...",
-      "source": "아시아경제 on MSN",
-      "publishedAt": "2026-08-06",
-      "url": "https://www.msn.com/ko-kr/money/topstories/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9C%BC%EB%A1%9C-k%ED%91%B8%EB%93%9C-%EC%84%B8%EA%B3%84%ED%99%94-cj%EC%A0%9C%EC%9D%BC%EC%A0%9C%EB%8B%B9-food-ai-360-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%A1%A0%EC%B9%AD/ar-AA29ub9T",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.04374f093b5eb12d5cdd928d6e2a2a58&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "AI는 인류공영 위한 도구, 모두 함께 누려야",
-      "summary": "인공지능(AI)이란 개념은 이미 21세기를 상징하는 말처럼 자리 잡으며 20세기 말부터 화두가 돼왔다. 그러나 2020년께까지만 해도 ‘뜬구름 잡는 식’의 이야기로 치부되곤 했다. AI가 인간을 도울 수는 있겠지만 진짜 인간을 대체하겠느냐며 비웃던 것이 엊그제였다. 어 ...",
-      "source": "한겨레",
-      "publishedAt": "2026-08-06",
-      "url": "https://www.hani.co.kr/arti/economy/economy_general/1271838.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.hL-t3c7rS-Xib0mmUl-JTg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
