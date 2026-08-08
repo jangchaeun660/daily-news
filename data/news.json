@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-08",
-  "windowStart": "2026-08-06T22:00:00.000Z",
-  "windowEnd": "2026-08-07T22:00:00.000Z",
+  "updatedAt": "2026-08-09",
+  "windowStart": "2026-08-07T22:00:00.000Z",
+  "windowEnd": "2026-08-08T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
@@ -29,24 +29,6 @@
       "publishedAt": "2026-08-06",
       "url": "https://www.msn.com/ko-kr/news/other/%EC%99%B8%EC%8B%A0%EC%82%AC%EC%A7%84-%EC%86%8D-%EC%9D%B4%EC%8A%88%E4%BA%BA-%E7%BE%8E-%EB%AF%BC%EC%A3%BC%EB%8B%B9-%ED%9D%94%EB%93%9C%EB%8A%94-%EB%AF%BC%EC%A3%BC%EC%82%AC%ED%9A%8C%EC%A3%BC%EC%9D%98-%ED%95%9C%EA%B5%AD%EA%B3%84-%ED%94%84%EB%9E%80%EC%B2%B4%EC%8A%A4%EC%B9%B4-%ED%99%8D-%EC%A3%BC%EB%AA%A9/ar-AA29vpGU",
       "imageUrl": "https://www.bing.com/th?id=ONUT.eCQ5X6Uj5moq_BL_rX_ebg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[복지뉴스] 한국사회보장정보원-독거노인종합지원센터, '현장 밀착형 복지 홍보' 추진 外",
-      "summary": "【베이비뉴스 소장섭 기자】아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 정책과 아동·가족 복지 제도, 취약계층 지원 사업 등 다양한 소식 가운 ...",
-      "source": "베이비뉴스 on MSN",
-      "publishedAt": "2026-07-30",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EB%8F%85%EA%B1%B0%EB%85%B8%EC%9D%B8%EC%A2%85%ED%95%A9%EC%A7%80%EC%9B%90%EC%84%BC%ED%84%B0-%ED%98%84%EC%9E%A5-%EB%B0%80%EC%B0%A9%ED%98%95-%EB%B3%B5%EC%A7%80-%ED%99%8D%EB%B3%B4-%EC%B6%94%EC%A7%84-%E5%A4%96/ar-AA291PO8",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.5rcmPL_4mJePMA2iPzSDCQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "한국세무사회 \"실거주 1주택 종부세 제외해야\"…개편안 보완 촉구",
-      "summary": "실거주 중심 부동산세 개편 긍정평가물가연동세제·상속세 개편도 제안 (수원=뉴스1) 송용환 기자 = 한국세무사회가 정부의 '2026 세제개편안' 발표와 관련해 실거주 중심의 부동산 세제 개편 방향을 긍정적으로 평가하면서도 실거주 1주택자의 세 부담 확대 등은 보완이 필요하다는 입장을 밝혔다. 4일 세무사회에 따르면 논평을 ...",
-      "source": "뉴스1 on MSN",
-      "publishedAt": "2026-08-04",
-      "url": "https://www.msn.com/ko-kr/money/%EB%B6%80%EB%8F%99%EC%82%B0/%ED%95%9C%EA%B5%AD%EC%84%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-%EC%8B%A4%EA%B1%B0%EC%A3%BC-1%EC%A3%BC%ED%83%9D-%EC%A2%85%EB%B6%80%EC%84%B8-%EC%A0%9C%EC%99%B8%ED%95%B4%EC%95%BC-%EA%B0%9C%ED%8E%B8%EC%95%88-%EB%B3%B4%EC%99%84-%EC%B4%89%EA%B5%AC/ar-AA29kzBB",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.tu8YpfkLum25y4REvKBCaw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",

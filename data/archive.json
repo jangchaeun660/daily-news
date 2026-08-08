@@ -1,5 +1,66 @@
 [
   {
+    "updatedAt": "2026-08-09",
+    "windowStart": "2026-08-07T22:00:00.000Z",
+    "windowEnd": "2026-08-08T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[OST 금주브리핑] 이번 주 아웃소싱기업이 체크해야 할 노동·산업 이슈 6선",
+        "summary": "폭염과 열악한 휴게시설 논란, 유통업계 변화와 내년도 최저임금 등 이번주 아웃소싱 기업에 확인해야할 노동산업 이슈를 정리했다. 사진은 인공지능 생성 [아웃소싱타임스 이윤희 기자] 연일 이어지는 기록적인 폭염부터 노동환경 논란, 정부 정책 발표, 노동시장 통계까지 이번 주에도 기업 경영과 인력 운영에 영향을 미칠 노동·산업 이슈가 잇따랐다. 특히 산업현장을 ...",
+        "source": "아웃소싱타임스",
+        "publishedAt": "2026-08-07",
+        "url": "https://www.outsourcing.co.kr/news/articleView.html?idxno=203445",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.8H-vK4feExIG_fxdH3fOQg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "김규원, 사회복무요원 시절 미담 뒤늦게 화제… ‘우리 가족 연예인 0순위’ [MK★이슈]",
+        "summary": "개그맨 김규원의 사회복무요원 시절 선행이 뒤늦게 알려지며 훈훈함을 전하고 있다. 7일 일러스트레이터 키크니 작가는 자신의 SNS를 통해 팬으로부터 제보받은 사연을 직접 그림으로 풀어 공개했다. 사연 속 주인공은 현재 활발하게 활동 중인 개그맨 김규원이었다. “저희 아이는 선천적 근육병으로 초등학교 4학년 때부터 휠체어를 타게 됐다”고 알린 사연자는 “학교에 ...",
+        "source": "매일경제 on MSN",
+        "publishedAt": "2026-08-07",
+        "url": "https://www.msn.com/ko-kr/%EC%B7%A8%EB%AF%B8-%EB%B0%8F-%EA%B4%80%EC%8B%AC%EC%82%AC/%EC%9D%BC%EB%B0%98/%EA%B9%80%EA%B7%9C%EC%9B%90-%EC%82%AC%ED%9A%8C%EB%B3%B5%EB%AC%B4%EC%9A%94%EC%9B%90-%EC%8B%9C%EC%A0%88-%EB%AF%B8%EB%8B%B4-%EB%92%A4%EB%8A%A6%EA%B2%8C-%ED%99%94%EC%A0%9C-%EC%9A%B0%EB%A6%AC-%EA%B0%80%EC%A1%B1-%EC%97%B0%EC%98%88%EC%9D%B8-0%EC%88%9C%EC%9C%84-mk-%EC%9D%B4%EC%8A%88/ar-AA29zZse",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.7q88a2qpwyYabUjpvwY_KA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[외신사진 속 이슈人] 美 민주당 흔드는 '민주사회주의', 한국계 프란체스카 홍 주목",
+        "summary": "미국 민주당 내 민주사회주의 세력이 존재감을 빠르게 키우고 있습니다. 미시간주 민주당 연방 상원의원 후보 경선에서 진보 성향 압둘 엘사예드 후보가 승리한 데 이어 위스콘신주에서는 한국계 프란체스카 홍(37·한국명 홍윤정)이 ...",
+        "source": "디지털타임스 on MSN",
+        "publishedAt": "2026-08-06",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%99%B8%EC%8B%A0%EC%82%AC%EC%A7%84-%EC%86%8D-%EC%9D%B4%EC%8A%88%E4%BA%BA-%E7%BE%8E-%EB%AF%BC%EC%A3%BC%EB%8B%B9-%ED%9D%94%EB%93%9C%EB%8A%94-%EB%AF%BC%EC%A3%BC%EC%82%AC%ED%9A%8C%EC%A3%BC%EC%9D%98-%ED%95%9C%EA%B5%AD%EA%B3%84-%ED%94%84%EB%9E%80%EC%B2%B4%EC%8A%A4%EC%B9%B4-%ED%99%8D-%EC%A3%BC%EB%AA%A9/ar-AA29vpGU",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.eCQ5X6Uj5moq_BL_rX_ebg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "인공지능 특이점(singlularity) 지나고 있다",
+        "summary": "[서울=뉴시스] 강영진 기자 = 최고 인공지능 설계자들이 인공지능 기술이 스스로 진화를 가속화하는 특이점(singularity)에 이미 도달했다고 입을 모아 말하는 것으로 미 액시오스(AXIOS)가 6일(현지시각) 보도했다. 이 거물들의 말이 옳다면, 인류는 역사상 가장 중대한 기술적 전환기에 진입하고 있을지 모른다. 인류가 이해하거나 통제할 수 있는 속도 ...",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-06",
+        "url": "https://www.newsis.com/view/NISX20260807_0003740095",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ryPhp5kAekQkzIvYwGhgCA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "박윤영 KT 대표, 인공지능 데이터센터 현장 점검… \"그룹 역량 모아 경쟁력 높여야\"",
+        "summary": "박윤영 KT 대표가 인공지능 데이터센터(AIDC) 사업 경쟁력 강화를 위한 현장경영에 나섰다. KT는 데이터센터 운영 경험과 네트워크 역량을 기반으로 실수요 중심의 ...",
+        "source": "스포츠조선 on MSN",
+        "publishedAt": "2026-08-06",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EB%B0%95%EC%9C%A4%EC%98%81-kt-%EB%8C%80%ED%91%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%ED%98%84%EC%9E%A5-%EC%A0%90%EA%B2%80-%EA%B7%B8%EB%A3%B9-%EC%97%AD%EB%9F%89-%EB%AA%A8%EC%95%84-%EA%B2%BD%EC%9F%81%EB%A0%A5-%EB%86%92%EC%97%AC%EC%95%BC/ar-AA29vlmt",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.3kBRfEvdPumn4jr8xlU7Yg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "민선 9기 첫 조직개편 인사… 인공지능·청년 중심 진용 갖췄다",
+        "summary": "충남도가 민선 9기 도정 비전 실행과 조직개편의 조기 안착을 위해 4급 이상 정기인사를 단행했다. 인공지능(AI)과 청년, 사회연대경제 등 새 조직의 기능을 강화하는 데 초점을 맞춘 인사라는 설명이다.도는 2026년 조직개편에 따른 4급 이상 인사를 단행했다고 6일 밝혔다. 인사 규모는 3급 이상 실·국장급 12명과 과장급 65명 등 모두 77명으로, 승진 ...",
+        "source": "대전일보 on MSN",
+        "publishedAt": "2026-08-07",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%AF%BC%EC%84%A0-9%EA%B8%B0-%EC%B2%AB-%EC%A1%B0%EC%A7%81%EA%B0%9C%ED%8E%B8-%EC%9D%B8%EC%82%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%B2%AD%EB%85%84-%EC%A4%91%EC%8B%AC-%EC%A7%84%EC%9A%A9-%EA%B0%96%EC%B7%84%EB%8B%A4/ar-AA29vzaM",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.6e6PsVPk70WiNKSCr-Kp2w&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-08-08",
     "windowStart": "2026-08-06T22:00:00.000Z",
     "windowEnd": "2026-08-07T22:00:00.000Z",
@@ -515,103 +576,6 @@
         "publishedAt": "2026-08-02",
         "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008686290",
         "imageUrl": "https://www.bing.com/th?id=ONUT.2rkfpeDNrjojiZ7OFzTGZQ&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-08-02",
-    "windowStart": "2026-07-31T22:00:00.000Z",
-    "windowEnd": "2026-08-01T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "정치·경제·사회 이슈 다 다루라니, 학교가 뉴스센터냐, 교실 갈등 커질 것",
-        "summary": "한국교원단체총연합회(한국교총)가 국가교육위원회가 공개한 ‘학교시민교육 국가 기본 원칙(안)’에 대해 “교실 내 진영 논리와 갈등을 심화시킬 수 있다”며 신중히 검토해야 한다는 의견서를 냈다. 교사의 정치적 중립성을 담보할 장치가 부족한 채 원칙을 내세울 경우, 교실이 진영 갈등의 무대로 변질될 수 있다는 것이다.",
-        "source": "조선일보 on MSN",
-        "publishedAt": "2026-07-21",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%95%EC%B9%98-%EA%B2%BD%EC%A0%9C-%EC%82%AC%ED%9A%8C-%EC%9D%B4%EC%8A%88-%EB%8B%A4-%EB%8B%A4%EB%A3%A8%EB%9D%BC%EB%8B%88-%ED%95%99%EA%B5%90%EA%B0%80-%EB%89%B4%EC%8A%A4%EC%84%BC%ED%84%B0%EB%83%90-%EA%B5%90%EC%8B%A4-%EA%B0%88%EB%93%B1-%EC%BB%A4%EC%A7%88-%EA%B2%83/ar-AA28lUG6",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.0MuAysu8ahVR-GpHphmFVw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈] 조직개편이 부른 공직사회 균열…광주·전남 왜 싸우나",
-        "summary": "편집자주전남광주통합특별시 출범 이후 처음 추진되는 조직개편을 둘러싸고 광주 전남 공직사회가 정면으로 충돌하고 있다. 겉으로는 기획·예산·인사·조직·감사 등 핵심부서를 어느 청사에 둘 것인지를 놓고 ...",
-        "source": "아시아경제 on MSN",
-        "publishedAt": "2026-07-28",
-        "url": "https://www.msn.com/ko-kr/money/topstories/%EC%9D%B4%EC%8A%88-%EC%A1%B0%EC%A7%81%EA%B0%9C%ED%8E%B8%EC%9D%B4-%EB%B6%80%EB%A5%B8-%EA%B3%B5%EC%A7%81%EC%82%AC%ED%9A%8C-%EA%B7%A0%EC%97%B4-%EA%B4%91%EC%A3%BC-%EC%A0%84%EB%82%A8-%EC%99%9C-%EC%8B%B8%EC%9A%B0%EB%82%98/ar-AA28QItx",
-        "imageUrl": "https://www.bing.com/th?id=ONUT._EUqOWrb_7ptMjJCr52XMg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "헌재, 교수노조 정치활동 전면 금지에 ‘위헌’ 판단…교직사회 파장",
-        "summary": "【투데이신문 권신영 기자】헌법재판소(이하 헌재)가 대학교원 노동조합의 정치활동을 전면 금지한 현행 교원노조법 조항에 대해 위헌 결정을 내리면서 정부가 관련 법 개정에 나서기로 했다. 교원단체들은 이번 결정을 환영하는 한편 유·초·중등 교원노조에도 정치적 기본권을 보장해야 한다고 촉구했다. 고용노동부(이하 노동부)는 24일 헌재 결정 취지에 맞춰 교원의 노동 ...",
-        "source": "투데이신문",
-        "publishedAt": "2026-07-24",
-        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128356",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.S0XirIkVVFwQaAL73bUqag&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "세무사회 \"1주택 양도세·종부세 혜택, 실거주 중심으로\"",
-        "summary": "한국세무사회는 현행 주택세금제도의 핵심인 '1세대 1주택 과세제도 합리화 방안' 토론회를 지난 27일 개최했다고 밝혔다. 이번 토론회는 최근 국민과 정부에 큰 사회적 이슈가 되고 있는 1세대 1주택의 취득, 보유, 처분에 대해 △실거주 보호 △과세형평 △주택공급을 확대할 수 있는 방향으로 개선 방안을 마련하기 위해 열렸다. 세무사회는 1세대 1주택 과세제도 ...",
-        "source": "노컷뉴스",
-        "publishedAt": "2026-07-28",
-        "url": "https://www.nocutnews.co.kr/news/6554453",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.WM62yV9oOEUamDoLlS1_hg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈] 돌봄도 AI 시대…서울시, 실증·공공구매로 신시장 연다",
-        "summary": "[아웃소싱타임스 이윤희 기자] 서울시가 초고령사회에 대비한 AI 돌봄산업 육성을 위해 연구개발(R&D)부터 병원 실증, 공공구매까지 이어지는 성장 지원체계를 본격적으로 점검하고 정책화에 나섰다. 서울시는 지난 29일 고려대학교 안암병원 스포츠의학센터에서 G3 서울플랜 미래경제분과 첫 현장 방문을 열고 재활로봇과 AI 기반 돌봄서비스 운영 현장을 살펴본 뒤 ...",
-        "source": "아웃소싱타임스",
-        "publishedAt": "2026-07-30",
-        "url": "https://www.outsourcing.co.kr/news/articleView.html?idxno=203374",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.5xkTQXRvCy4vazfsfv_V3Q&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "“반도체 조정 끝?”…아마존·MS 15% 폭등에 다시 달린 나스닥",
-        "summary": "뉴욕증권거래소 [REUTERS=연합뉴스] 아마존의 ‘어닝 서프라이즈’가 인공지능(AI) 투자에 대한 시장의 불안감을 크게 덜어내면서 뉴욕증시가 일제히 상승 마감했다. 최근 AI 관련주의 급격한 조정을 이끌었던 ‘과도한 설비투자’ 논란도 한층 잦아드는 분위기다. 31일(현지시간) 뉴욕증시에서 다우존스30 산업평균지수는 전장보다 276.97포인트(0.53%) ...",
-        "source": "매일경제 on MSN",
-        "publishedAt": "2026-08-01",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A1%B0%EC%A0%95-%EB%81%9D-%EC%95%84%EB%A7%88%EC%A1%B4-ms-15-%ED%8F%AD%EB%93%B1%EC%97%90-%EB%8B%A4%EC%8B%9C-%EB%8B%AC%EB%A6%B0-%EB%82%98%EC%8A%A4%EB%8B%A5/ar-AA29ahm1",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Fh2m4EQEQ5nCUX3XqLoAVQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "시흥시, '복지행정 인공지능(AI) 정책실험실' 공모 선정…인공지능 기반 복지행정",
-        "summary": "시흥시 (시장 임병택)는 보건복지부가 주관한 '복지행정 인공지능 (AI) 정책실험실 실증사업' 공모에 최종 선정돼, 8월부터 연말까지 복지행정 전 과정에 생성형 인공지능을 적용하는 실증사업을 시작한다.",
-        "source": "연합뉴스",
-        "publishedAt": "2026-07-31",
-        "url": "https://www.yna.co.kr/view/RPR20260731004600353",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.9ZLJWC1bmXlcqfA-MyDztQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "“인공지능 통제 필요하지만 중국에 뒤질라”…트럼프, 오픈AI 해킹 사고에 규제 딜레마",
-        "summary": "도널드 트럼프 미국 대통령은 최근 오픈에이아이(AI)의 인공지능(AI) 모델들이 다른 기업의 시스템에 침입한 사건이 잇따르자 새로운 통제 방안을 검토하고 있다고 밝혔다. 29일(현지시각) 트럼프 대통령은 백악관 집무실에서 인공지능 모델의 해킹 사고와 관련한 취재진의 질 ...",
-        "source": "한겨레",
-        "publishedAt": "2026-07-30",
-        "url": "https://www.hani.co.kr/arti/international/america/1270680.html",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.gHTQZakgdMIEoOeg3GHteQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "완주군, 인공지능 기초부터 전문 지도사 양성까지 활발",
-        "summary": "완주군이 군민의 디지털 역량 강화와 경제활동 지원을 위해 인공지능(AI) 전문 교육과정을 개설해 지도사들을 대거 배출했다. 군은 급변하는 인공지능 시대에 발맞춰 실생활과 창업 현장에서 바로 활용할 수 있는 실무 인재를 양성하고자 지난 3월부터 7월까지 '인공지능(AI)＆디지털 실전학교'를 운영했다. 교육은 과정별 8∼16차시로 진행됐으며, 일반 군민과 학부 ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-07-30",
-        "url": "https://www.yna.co.kr/view/RPR20260730006200353",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.6pPzrEYOh6KdAIQ3H93lvw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "국립광주과학관, 인공지능 특별전 '모두의 AI(On-AI)' 개막",
-        "summary": "'체험하고 만들며 함께 생각해보는 AI의 모든 것'…11월 8까지 (광주=뉴스1) 조영석 기자 = 국립광주과학관은 인공지능 특별전 '모두의 A.I.(On-AI)' 개막식을 개최했다고 31일 밝혔다. 전날 열린 개막식에는 이은영 국립중앙과학관장과 국립아시아문화전당 김상욱 전당장, 국립부산과학관 송삼종 관장, ...",
-        "source": "뉴스1 on MSN",
-        "publishedAt": "2026-07-31",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B5%AD%EB%A6%BD%EA%B4%91%EC%A3%BC%EA%B3%BC%ED%95%99%EA%B4%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%8A%B9%EB%B3%84%EC%A0%84-%EB%AA%A8%EB%91%90%EC%9D%98-ai-on-ai-%EA%B0%9C%EB%A7%89/ar-AA2964hh",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.PIv0zhqcrbrHk4ZqpNbt7A&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
