@@ -1,61 +1,97 @@
 {
-  "updatedAt": "2026-08-09",
-  "windowStart": "2026-08-07T22:00:00.000Z",
-  "windowEnd": "2026-08-08T22:00:00.000Z",
+  "updatedAt": "2026-08-10",
+  "windowStart": "2026-08-08T22:00:00.000Z",
+  "windowEnd": "2026-08-09T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[OST 금주브리핑] 이번 주 아웃소싱기업이 체크해야 할 노동·산업 이슈 6선",
-      "summary": "폭염과 열악한 휴게시설 논란, 유통업계 변화와 내년도 최저임금 등 이번주 아웃소싱 기업에 확인해야할 노동산업 이슈를 정리했다. 사진은 인공지능 생성 [아웃소싱타임스 이윤희 기자] 연일 이어지는 기록적인 폭염부터 노동환경 논란, 정부 정책 발표, 노동시장 통계까지 이번 주에도 기업 경영과 인력 운영에 영향을 미칠 노동·산업 이슈가 잇따랐다. 특히 산업현장을 ...",
-      "source": "아웃소싱타임스",
-      "publishedAt": "2026-08-07",
-      "url": "https://www.outsourcing.co.kr/news/articleView.html?idxno=203445",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.8H-vK4feExIG_fxdH3fOQg&pid=News&w=1200&h=675&c=14"
+      "title": "[박준규의 이슈 언박싱] \"가입해놨더니 뭐 하는 겁니까\"…ISA 개편안, 나흘 만에 뒤집힌 이유",
+      "summary": "정부가 발표한 세금 정책이 나흘 만에 대통령의 재검토 지시를 받았습니다. 재정경제부가 지난 3일 '2026년 세제개편안'을 내놨는데, 이재명 대통령은 7일 참모들과의 회의에서 ISA 개편안을 전면 재검토하라고 주문한 것으로 전해졌습니다.",
+      "source": "펜앤드마이크",
+      "publishedAt": "2026-08-09",
+      "url": "https://www.pennmike.com/news/articleView.html?idxno=125291",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.jl5GbzYYIAioH7GeyXC03g&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "김규원, 사회복무요원 시절 미담 뒤늦게 화제… ‘우리 가족 연예인 0순위’ [MK★이슈]",
-      "summary": "개그맨 김규원의 사회복무요원 시절 선행이 뒤늦게 알려지며 훈훈함을 전하고 있다. 7일 일러스트레이터 키크니 작가는 자신의 SNS를 통해 팬으로부터 제보받은 사연을 직접 그림으로 풀어 공개했다. 사연 속 주인공은 현재 활발하게 활동 중인 개그맨 김규원이었다. “저희 아이는 선천적 근육병으로 초등학교 4학년 때부터 휠체어를 타게 됐다”고 알린 사연자는 “학교에 ...",
-      "source": "매일경제 on MSN",
-      "publishedAt": "2026-08-07",
-      "url": "https://www.msn.com/ko-kr/%EC%B7%A8%EB%AF%B8-%EB%B0%8F-%EA%B4%80%EC%8B%AC%EC%82%AC/%EC%9D%BC%EB%B0%98/%EA%B9%80%EA%B7%9C%EC%9B%90-%EC%82%AC%ED%9A%8C%EB%B3%B5%EB%AC%B4%EC%9A%94%EC%9B%90-%EC%8B%9C%EC%A0%88-%EB%AF%B8%EB%8B%B4-%EB%92%A4%EB%8A%A6%EA%B2%8C-%ED%99%94%EC%A0%9C-%EC%9A%B0%EB%A6%AC-%EA%B0%80%EC%A1%B1-%EC%97%B0%EC%98%88%EC%9D%B8-0%EC%88%9C%EC%9C%84-mk-%EC%9D%B4%EC%8A%88/ar-AA29zZse",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.7q88a2qpwyYabUjpvwY_KA&pid=News&w=1200&h=675&c=14"
+      "title": "사회적가치 비즈니스 모델 공모전 20일까지 접수…10개사 포상금",
+      "summary": "사회적가치 비즈니스 모델 공모전 20일까지 접수…10개사 포상금 (서울=연합뉴스) 한혜원 기자 = 고용노동부와 한국사회적기업진흥원은 '2026년 사회적 가치 비즈니스 모델 공모전' 참가 기업을 오는 20일까지 접수한다고 10일 밝혔다. 공모전은 성장 잠재력이 큰 ..",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-08-09",
+      "url": "https://www.fnnews.com/news/202608100601358808",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.VmduveynuHVgVc4H9YjNoQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "[외신사진 속 이슈人] 美 민주당 흔드는 '민주사회주의', 한국계 프란체스카 홍 주목",
-      "summary": "미국 민주당 내 민주사회주의 세력이 존재감을 빠르게 키우고 있습니다. 미시간주 민주당 연방 상원의원 후보 경선에서 진보 성향 압둘 엘사예드 후보가 승리한 데 이어 위스콘신주에서는 한국계 프란체스카 홍(37·한국명 홍윤정)이 ...",
-      "source": "디지털타임스 on MSN",
-      "publishedAt": "2026-08-06",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%99%B8%EC%8B%A0%EC%82%AC%EC%A7%84-%EC%86%8D-%EC%9D%B4%EC%8A%88%E4%BA%BA-%E7%BE%8E-%EB%AF%BC%EC%A3%BC%EB%8B%B9-%ED%9D%94%EB%93%9C%EB%8A%94-%EB%AF%BC%EC%A3%BC%EC%82%AC%ED%9A%8C%EC%A3%BC%EC%9D%98-%ED%95%9C%EA%B5%AD%EA%B3%84-%ED%94%84%EB%9E%80%EC%B2%B4%EC%8A%A4%EC%B9%B4-%ED%99%8D-%EC%A3%BC%EB%AA%A9/ar-AA29vpGU",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.eCQ5X6Uj5moq_BL_rX_ebg&pid=News&w=1200&h=675&c=14"
+      "title": "전남광주통합의회 \"특별시, 기본사회 전담부서 신설해야\"",
+      "summary": "[전남광주=뉴시스]송창헌 기자 = 전남광주통합특별시의회 기본사회상설특별위원회가 9일 \"통합특별시가 대한민국 기본사회 선도지역으로 도약하기 위해서는 기본사회 정책을 총괄·조정할 전담부서를 신설해야 한다\"고 밝혔다. 특위는 이날 성명을 내고 \"특별법 제31..",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-08-09",
+      "url": "https://www.fnnews.com/news/202608090910427323",
+      "imageUrl": "https://www.bing.com/th?id=ONUT._E4cr1_3paCfaxpnKifDnQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[다문화 3.0] 이주민 아픔 돌보는 네팔 출신 1호 한국 의사 정제한",
+      "summary": "(울산=연합뉴스) 성도현 기자 = 네팔 출신 1호 한국 의사로 통하는 라제스 천드러 조시 (한국명 정제한·55) 씨에게 한국은 처음부터 정착할 나라는 아니었다. 1992년 네팔에서 한국으로 건너올 당시만 해도 학업을 마치고 고국으로 돌아갈 생각이었다.",
+      "source": "연합뉴스",
+      "publishedAt": "2026-08-09",
+      "url": "https://www.yna.co.kr/view/AKR20260809030400371",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.HxBc18aa-E4GCRKT6cR3rw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "사회적가치 비즈니스 모델 공모전 20일까지 접수…10개사 포상금",
+      "summary": "(서울=연합뉴스) 한혜원 기자 = 고용노동부와 한국사회적기업진흥원은 '2026년 사회적 가치 비즈니스 모델 공모전' 참가 기업을 오는 20일까지 접수한다고 10일 밝혔다. 공모전은 성장 잠재력이 큰 사회적 가치 사업 모델을 발굴하고 성과를 확산하고자 마련됐다. 최근 3년(2023∼2025년) 이내 사회적가치지표(SVI) ...",
+      "source": "연합뉴스 on MSN",
+      "publishedAt": "2026-08-09",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%82%AC%ED%9A%8C%EC%A0%81%EA%B0%80%EC%B9%98-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%AA%A8%EB%8D%B8-%EA%B3%B5%EB%AA%A8%EC%A0%84-20%EC%9D%BC%EA%B9%8C%EC%A7%80-%EC%A0%91%EC%88%98-10%EA%B0%9C%EC%82%AC-%ED%8F%AC%EC%83%81%EA%B8%88/ar-AA29IYOV",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.2LhWKmJjMuhC0EjcRE0Xyw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "인공지능 특이점(singlularity) 지나고 있다",
-      "summary": "[서울=뉴시스] 강영진 기자 = 최고 인공지능 설계자들이 인공지능 기술이 스스로 진화를 가속화하는 특이점(singularity)에 이미 도달했다고 입을 모아 말하는 것으로 미 액시오스(AXIOS)가 6일(현지시각) 보도했다. 이 거물들의 말이 옳다면, 인류는 역사상 가장 중대한 기술적 전환기에 진입하고 있을지 모른다. 인류가 이해하거나 통제할 수 있는 속도 ...",
-      "source": "뉴시스",
-      "publishedAt": "2026-08-06",
-      "url": "https://www.newsis.com/view/NISX20260807_0003740095",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ryPhp5kAekQkzIvYwGhgCA&pid=News&w=1200&h=675&c=14"
+      "title": "中 AI, 자립 가속…\"2030년 가속기 절반 국산\"",
+      "summary": "중국이 '키미 K3', '딥시크 V4' 등 가성비 인공지능(AI) 모델 공급을 넘어 국산 칩부터 오픈웨이트 모델, 기업용 에이전트, 휴머노이드 등 로봇까지 연결하는 'AI 풀스택' 구축에 나섰다. 정부 주도의 기술 자립 전략에 힘입어 ...",
+      "source": "지디넷코리아",
+      "publishedAt": "2026-08-09",
+      "url": "https://zdnet.co.kr/view/?no=20260809083702",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.8bOTHI4PEhohN9HfsQVFTg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "박윤영 KT 대표, 인공지능 데이터센터 현장 점검… \"그룹 역량 모아 경쟁력 높여야\"",
-      "summary": "박윤영 KT 대표가 인공지능 데이터센터(AIDC) 사업 경쟁력 강화를 위한 현장경영에 나섰다. KT는 데이터센터 운영 경험과 네트워크 역량을 기반으로 실수요 중심의 ...",
-      "source": "스포츠조선 on MSN",
-      "publishedAt": "2026-08-06",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EB%B0%95%EC%9C%A4%EC%98%81-kt-%EB%8C%80%ED%91%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%ED%98%84%EC%9E%A5-%EC%A0%90%EA%B2%80-%EA%B7%B8%EB%A3%B9-%EC%97%AD%EB%9F%89-%EB%AA%A8%EC%95%84-%EA%B2%BD%EC%9F%81%EB%A0%A5-%EB%86%92%EC%97%AC%EC%95%BC/ar-AA29vlmt",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.3kBRfEvdPumn4jr8xlU7Yg&pid=News&w=1200&h=675&c=14"
+      "title": "경기도의회 국힘, AI·반도체 정책 전환 필요성 제기",
+      "summary": "경기도의회 국민의힘이 경기도 인공지능(AI)·반도체 정책을 전력 수급, 규제 개선, 공공데이터 활용과 연계한 산업 생태계 중심으로 전환해야 한다고 주문했다. 도의회 국민의힘은 최근 방성환 대표의원실에서 경기도 AI국 업무보고를 받고 행정 AI, 민간 지원 정책, 도내 AI 데이터센터·반도체 투자 현황, 생성형 AI와 구청사 AI 데이터센터 구축 상황 등을 ...",
+      "source": "전자신문",
+      "publishedAt": "2026-08-09",
+      "url": "https://www.etnews.com/20260810000024",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.3RNrKhZePdbjEXDz_AR19Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "민선 9기 첫 조직개편 인사… 인공지능·청년 중심 진용 갖췄다",
-      "summary": "충남도가 민선 9기 도정 비전 실행과 조직개편의 조기 안착을 위해 4급 이상 정기인사를 단행했다. 인공지능(AI)과 청년, 사회연대경제 등 새 조직의 기능을 강화하는 데 초점을 맞춘 인사라는 설명이다.도는 2026년 조직개편에 따른 4급 이상 인사를 단행했다고 6일 밝혔다. 인사 규모는 3급 이상 실·국장급 12명과 과장급 65명 등 모두 77명으로, 승진 ...",
-      "source": "대전일보 on MSN",
-      "publishedAt": "2026-08-07",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%AF%BC%EC%84%A0-9%EA%B8%B0-%EC%B2%AB-%EC%A1%B0%EC%A7%81%EA%B0%9C%ED%8E%B8-%EC%9D%B8%EC%82%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%B2%AD%EB%85%84-%EC%A4%91%EC%8B%AC-%EC%A7%84%EC%9A%A9-%EA%B0%96%EC%B7%84%EB%8B%A4/ar-AA29vzaM",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.6e6PsVPk70WiNKSCr-Kp2w&pid=News&w=1200&h=675&c=14"
+      "title": "AI 데이터센터, 전력반도체 업계 '새 먹거리' 급부상",
+      "summary": "인공지능(AI) 데이터센터가 전력반도체 업계의 새로운 성장축으로 떠오르고 있다. AI 가속기 성능 향상과 서버 랙당 소비전력 증가로 데이터센터의 병목이 그래픽처리장치(GPU) 확보를 넘어 전력 공급과 변환 효율로 확대되면서다. 9일 업계에 따르면 주요 전력반도체 기업들은 AI 데이터센터용 생산능력을 확대하고 대형 고객사와 장기 공급계약을 체결하는 등 관련 ...",
+      "source": "전자신문",
+      "publishedAt": "2026-08-09",
+      "url": "https://www.etnews.com/20260807000243",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.LwSrVjd98cQKyE0WHMi4Lw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "KOSA-KOEMA, 전기산업 AI 전환 맞손…인재·기술 연결",
+      "summary": "(지디넷코리아=한정호 기자)한국인공지능·소프트웨어산업협회(KOSA)가 전기산업 분야 인공지능(AI) 도입 활성화와 산업 경쟁력 강화에 앞장선다. KOSA는 한국전기산업진흥회(KOEMA)와 지난 7일 서울 송파구 협회 본원에서 전기산업 분야 AI 전환(AX) 확산과 산업 AI 인재양성을 위한 업무협약(MOU)을 체결했다고 9일 밝혔다. 협약식에는 서성일 KO ...",
+      "source": "지디넷코리아 on MSN",
+      "publishedAt": "2026-08-09",
+      "url": "https://www.msn.com/ko-kr/news/techandscience/kosa-koema-%EC%A0%84%EA%B8%B0%EC%82%B0%EC%97%85-ai-%EC%A0%84%ED%99%98-%EB%A7%9E%EC%86%90-%EC%9D%B8%EC%9E%AC-%EA%B8%B0%EC%88%A0-%EC%97%B0%EA%B2%B0/ar-AA29GvRK",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.cTBN_k-1pQsDDU0Nyb6COg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "[ET시론] 피지컬 AI 향한 '제조강국' 한국의 로봇 승부수",
+      "summary": "인공지능(AI)이 가상공간을 넘어 제조업이나 모빌리티 같은 실제 물리적 산업으로 변화하는 글로벌 AI협력이 글로벌 빅테크 기업이 다 모인 샌프란시스코 AI 서밋에서강화됐다. AI·반도체 다음 전장은 무엇이 될것인가? 최근 삼성전자가 로봇 사업 전담 조직을 신설하고 약 60조원 규모의 투자 구상을 가시화한 데 이어, 현대자동차그룹 역시 대규모 로봇 생태계 투 ...",
+      "source": "전자신문",
+      "publishedAt": "2026-08-09",
+      "url": "https://www.etnews.com/20260807000019",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.p0gVmFewh_x2l3c5HSy5rQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
