@@ -1,97 +1,70 @@
 {
-  "updatedAt": "2026-08-10",
-  "windowStart": "2026-08-08T22:00:00.000Z",
-  "windowEnd": "2026-08-09T22:00:00.000Z",
+  "updatedAt": "2026-08-11",
+  "windowStart": "2026-08-09T22:00:00.000Z",
+  "windowEnd": "2026-08-10T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[박준규의 이슈 언박싱] \"가입해놨더니 뭐 하는 겁니까\"…ISA 개편안, 나흘 만에 뒤집힌 이유",
-      "summary": "정부가 발표한 세금 정책이 나흘 만에 대통령의 재검토 지시를 받았습니다. 재정경제부가 지난 3일 '2026년 세제개편안'을 내놨는데, 이재명 대통령은 7일 참모들과의 회의에서 ISA 개편안을 전면 재검토하라고 주문한 것으로 전해졌습니다.",
-      "source": "펜앤드마이크",
-      "publishedAt": "2026-08-09",
-      "url": "https://www.pennmike.com/news/articleView.html?idxno=125291",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.jl5GbzYYIAioH7GeyXC03g&pid=News&w=1200&h=675&c=14"
+      "title": "'난자 동결' 공개한 美민주 대선 잠룡, 생식권 띄우며 대권도전 시사",
+      "summary": "미국 민주당의 차기 대권주자 가운데 하나로 꼽히는 알렉산드리아 오카시오-코르테스(뉴욕) 연방 하원의원이 8일(현지시간) 난자 동결 시술을 받기로 했다고 밝혔다. 사회관계망서비스(SNS)에 직접 과배란 주사를 놓는 영상을 올리기도 ...",
+      "source": "한국일보 on MSN",
+      "publishedAt": "2026-08-10",
+      "url": "https://www.msn.com/ko-kr/news/news/%EB%82%9C%EC%9E%90-%EB%8F%99%EA%B2%B0-%EA%B3%B5%EA%B0%9C%ED%95%9C-%E7%BE%8E%EB%AF%BC%EC%A3%BC-%EB%8C%80%EC%84%A0-%EC%9E%A0%EB%A3%A1-%EC%83%9D%EC%8B%9D%EA%B6%8C-%EB%9D%84%EC%9A%B0%EB%A9%B0-%EB%8C%80%EA%B6%8C%EB%8F%84%EC%A0%84-%EC%8B%9C%EC%82%AC/ar-AA29IfJw",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.QWtA03YcXU2470wV23c93A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "사회적가치 비즈니스 모델 공모전 20일까지 접수…10개사 포상금",
-      "summary": "사회적가치 비즈니스 모델 공모전 20일까지 접수…10개사 포상금 (서울=연합뉴스) 한혜원 기자 = 고용노동부와 한국사회적기업진흥원은 '2026년 사회적 가치 비즈니스 모델 공모전' 참가 기업을 오는 20일까지 접수한다고 10일 밝혔다. 공모전은 성장 잠재력이 큰 ..",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-08-09",
-      "url": "https://www.fnnews.com/news/202608100601358808",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.VmduveynuHVgVc4H9YjNoQ&pid=News&w=1200&h=675&c=14"
+      "title": "우리함께-한국사회복지사협회 '금융취약계층 지원' 협약",
+      "summary": "'더 나은 내일 금융사업'의 효율적 수행에 적극 협조 사회적협동조합 우리함께와 한국사회복지사협회가 금융취약계층 지원을 위해 힘을 모으기로 했다.우리함께는 최근 한국사회복지사협회(협회장 정석왕)와 '고금리 다중채무자 ...",
+      "source": "뉴스1",
+      "publishedAt": "2026-08-10",
+      "url": "https://www.news1.kr/local/jeonbuk/6253957",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.7ipfDiMS5ngEiVEUT9qt3Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "전남광주통합의회 \"특별시, 기본사회 전담부서 신설해야\"",
-      "summary": "[전남광주=뉴시스]송창헌 기자 = 전남광주통합특별시의회 기본사회상설특별위원회가 9일 \"통합특별시가 대한민국 기본사회 선도지역으로 도약하기 위해서는 기본사회 정책을 총괄·조정할 전담부서를 신설해야 한다\"고 밝혔다. 특위는 이날 성명을 내고 \"특별법 제31..",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-08-09",
-      "url": "https://www.fnnews.com/news/202608090910427323",
-      "imageUrl": "https://www.bing.com/th?id=ONUT._E4cr1_3paCfaxpnKifDnQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[다문화 3.0] 이주민 아픔 돌보는 네팔 출신 1호 한국 의사 정제한",
-      "summary": "(울산=연합뉴스) 성도현 기자 = 네팔 출신 1호 한국 의사로 통하는 라제스 천드러 조시 (한국명 정제한·55) 씨에게 한국은 처음부터 정착할 나라는 아니었다. 1992년 네팔에서 한국으로 건너올 당시만 해도 학업을 마치고 고국으로 돌아갈 생각이었다.",
+      "title": "\"한국 삶의 질 OECD 19위…사회적 연결 최하위\"",
+      "summary": "한국보건사회연구원이 OECD의 '더 나은 삶 지수'를 토대로 분석한 결과, 2024년 기준 우리나라의 종합 점수는 5.99점으로 중위권에 해당했습니다. 우리나라는 주거 영역에서 1위, 지식·기술 영역에서 2위를 기록했지만 사회적 연결은 뒤에서 2번째인 37위에 그쳤습니다.",
       "source": "연합뉴스",
-      "publishedAt": "2026-08-09",
-      "url": "https://www.yna.co.kr/view/AKR20260809030400371",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.HxBc18aa-E4GCRKT6cR3rw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "사회적가치 비즈니스 모델 공모전 20일까지 접수…10개사 포상금",
-      "summary": "(서울=연합뉴스) 한혜원 기자 = 고용노동부와 한국사회적기업진흥원은 '2026년 사회적 가치 비즈니스 모델 공모전' 참가 기업을 오는 20일까지 접수한다고 10일 밝혔다. 공모전은 성장 잠재력이 큰 사회적 가치 사업 모델을 발굴하고 성과를 확산하고자 마련됐다. 최근 3년(2023∼2025년) 이내 사회적가치지표(SVI) ...",
-      "source": "연합뉴스 on MSN",
-      "publishedAt": "2026-08-09",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%82%AC%ED%9A%8C%EC%A0%81%EA%B0%80%EC%B9%98-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%AA%A8%EB%8D%B8-%EA%B3%B5%EB%AA%A8%EC%A0%84-20%EC%9D%BC%EA%B9%8C%EC%A7%80-%EC%A0%91%EC%88%98-10%EA%B0%9C%EC%82%AC-%ED%8F%AC%EC%83%81%EA%B8%88/ar-AA29IYOV",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.2LhWKmJjMuhC0EjcRE0Xyw&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-08-10",
+      "url": "https://www.yna.co.kr/view/MYH20260810020600038",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.CcVwRHgYJm36UhKP_Wje7A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "中 AI, 자립 가속…\"2030년 가속기 절반 국산\"",
-      "summary": "중국이 '키미 K3', '딥시크 V4' 등 가성비 인공지능(AI) 모델 공급을 넘어 국산 칩부터 오픈웨이트 모델, 기업용 에이전트, 휴머노이드 등 로봇까지 연결하는 'AI 풀스택' 구축에 나섰다. 정부 주도의 기술 자립 전략에 힘입어 ...",
-      "source": "지디넷코리아",
-      "publishedAt": "2026-08-09",
-      "url": "https://zdnet.co.kr/view/?no=20260809083702",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.8bOTHI4PEhohN9HfsQVFTg&pid=News&w=1200&h=675&c=14"
+      "title": "AI로 업무·행정 서비스…대구시, 인공지능 활용해 행정 혁신 추진",
+      "summary": "대구시 제공 대구시가 인공지능을 적극 활용해 행정 혁신을 추구한다. 대구시는 AI행정혁신 선도도시 대구, 일명 대구 행정 AX를 본격 추진한다고 10일 밝혔다. 가장 먼저 공직자의 AI 활용 역량 강화를 위해 실습 중심의 교육을 확대한다. 이달 중 다양한 생성형 AI를 업무에 활용할 수 있도록 서비스를 구독하고 조직 ...",
+      "source": "노컷뉴스 on MSN",
+      "publishedAt": "2026-08-10",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/ai%EB%A1%9C-%EC%97%85%EB%AC%B4-%ED%96%89%EC%A0%95-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%8C%80%EA%B5%AC%EC%8B%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%99%9C%EC%9A%A9%ED%95%B4-%ED%96%89%EC%A0%95-%ED%98%81%EC%8B%A0-%EC%B6%94%EC%A7%84/ar-AA29KEaW",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ExW-3nqMaGez4fgMPKnMPg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "경기도의회 국힘, AI·반도체 정책 전환 필요성 제기",
-      "summary": "경기도의회 국민의힘이 경기도 인공지능(AI)·반도체 정책을 전력 수급, 규제 개선, 공공데이터 활용과 연계한 산업 생태계 중심으로 전환해야 한다고 주문했다. 도의회 국민의힘은 최근 방성환 대표의원실에서 경기도 AI국 업무보고를 받고 행정 AI, 민간 지원 정책, 도내 AI 데이터센터·반도체 투자 현황, 생성형 AI와 구청사 AI 데이터센터 구축 상황 등을 ...",
-      "source": "전자신문",
-      "publishedAt": "2026-08-09",
-      "url": "https://www.etnews.com/20260810000024",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.3RNrKhZePdbjEXDz_AR19Q&pid=News&w=1200&h=675&c=14"
+      "title": "인공지능, 편리한 만큼 위험한 미래: 자체 해킹, 인공 바이러스, 살인로봇까지 '위험신호'",
+      "summary": "인공지능이 사람의 지시 없이 스스로 해킹을 벌이고, 전쟁터에서 스스로 판단해 폭탄을 떨어뜨리는 공격용 드론이 등장했다. 심지어 인공지능이 자연에는 없던 새로운 '인공 바이러스'까지 만들어낸 사실이 확인되면서, 인공지능이 그려낼 미래를 두고 기대와 함께 불안감도 함께 확산하고 있다. 자체 해킹부터 인공 바이러스, 전투로봇까지 인공지능 기술 발달이 가져올 어두 ...",
+      "source": "허프포스트코리아 on MSN",
+      "publishedAt": "2026-08-10",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%8E%B8%EB%A6%AC%ED%95%9C-%EB%A7%8C%ED%81%BC-%EC%9C%84%ED%97%98%ED%95%9C-%EB%AF%B8%EB%9E%98-%EC%9E%90%EC%B2%B4-%ED%95%B4%ED%82%B9-%EC%9D%B8%EA%B3%B5-%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4-%EC%82%B4%EC%9D%B8%EB%A1%9C%EB%B4%87%EA%B9%8C%EC%A7%80-%EC%9C%84%ED%97%98%EC%8B%A0%ED%98%B8/ar-AA29KnAT",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.QP7zXFwi9tAkXKC6w4gxiA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "AI 데이터센터, 전력반도체 업계 '새 먹거리' 급부상",
-      "summary": "인공지능(AI) 데이터센터가 전력반도체 업계의 새로운 성장축으로 떠오르고 있다. AI 가속기 성능 향상과 서버 랙당 소비전력 증가로 데이터센터의 병목이 그래픽처리장치(GPU) 확보를 넘어 전력 공급과 변환 효율로 확대되면서다. 9일 업계에 따르면 주요 전력반도체 기업들은 AI 데이터센터용 생산능력을 확대하고 대형 고객사와 장기 공급계약을 체결하는 등 관련 ...",
-      "source": "전자신문",
-      "publishedAt": "2026-08-09",
-      "url": "https://www.etnews.com/20260807000243",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.LwSrVjd98cQKyE0WHMi4Lw&pid=News&w=1200&h=675&c=14"
+      "title": "AI 반도체·배터리 우주로 간다…'K-우주데이터센터' 산업 생태계 구축",
+      "summary": "인공지능(AI) 반도체와 배터리, 태양전지, 냉각 기술을 보유한 국내 기업들이 '우주데이터센터' 구축을 계기로 우주산업 진출을 모색한다. 정부는 기존 우주기업뿐 아니라 AI·정보통신기술(ICT) 기업을 우주산업 ...",
+      "source": "아시아경제 on MSN",
+      "publishedAt": "2026-08-10",
+      "url": "https://www.msn.com/ko-kr/money/topstories/ai-%EB%B0%98%EB%8F%84%EC%B2%B4-%EB%B0%B0%ED%84%B0%EB%A6%AC-%EC%9A%B0%EC%A3%BC%EB%A1%9C-%EA%B0%84%EB%8B%A4-k-%EC%9A%B0%EC%A3%BC%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%82%B0%EC%97%85-%EC%83%9D%ED%83%9C%EA%B3%84-%EA%B5%AC%EC%B6%95/ar-AA29K2zG",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.646055730b4fc9f9c52fee5fc41ce8b6&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "KOSA-KOEMA, 전기산업 AI 전환 맞손…인재·기술 연결",
-      "summary": "(지디넷코리아=한정호 기자)한국인공지능·소프트웨어산업협회(KOSA)가 전기산업 분야 인공지능(AI) 도입 활성화와 산업 경쟁력 강화에 앞장선다. KOSA는 한국전기산업진흥회(KOEMA)와 지난 7일 서울 송파구 협회 본원에서 전기산업 분야 AI 전환(AX) 확산과 산업 AI 인재양성을 위한 업무협약(MOU)을 체결했다고 9일 밝혔다. 협약식에는 서성일 KO ...",
-      "source": "지디넷코리아 on MSN",
-      "publishedAt": "2026-08-09",
-      "url": "https://www.msn.com/ko-kr/news/techandscience/kosa-koema-%EC%A0%84%EA%B8%B0%EC%82%B0%EC%97%85-ai-%EC%A0%84%ED%99%98-%EB%A7%9E%EC%86%90-%EC%9D%B8%EC%9E%AC-%EA%B8%B0%EC%88%A0-%EC%97%B0%EA%B2%B0/ar-AA29GvRK",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.cTBN_k-1pQsDDU0Nyb6COg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[ET시론] 피지컬 AI 향한 '제조강국' 한국의 로봇 승부수",
-      "summary": "인공지능(AI)이 가상공간을 넘어 제조업이나 모빌리티 같은 실제 물리적 산업으로 변화하는 글로벌 AI협력이 글로벌 빅테크 기업이 다 모인 샌프란시스코 AI 서밋에서강화됐다. AI·반도체 다음 전장은 무엇이 될것인가? 최근 삼성전자가 로봇 사업 전담 조직을 신설하고 약 60조원 규모의 투자 구상을 가시화한 데 이어, 현대자동차그룹 역시 대규모 로봇 생태계 투 ...",
-      "source": "전자신문",
-      "publishedAt": "2026-08-09",
-      "url": "https://www.etnews.com/20260807000019",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.p0gVmFewh_x2l3c5HSy5rQ&pid=News&w=1200&h=675&c=14"
+      "title": "익산시, 주얼리산업...AI·디지털 기술로 제조 경쟁력 강화",
+      "summary": "[익산=뉴스핌] 이백수 기자 = 전북 익산시는 지역 주얼리산업의 디지털 전환을 앞당기기 위해 전문기관과 대학을 연결한 산학관 협력체계 구축에 나섰다고 10일 밝혔다. 익산시는 이날 ㈔패션산업시험연구원, 한경국립대학교 귀금속보석공예전공과 'AI·디지털 기반 주얼리 뿌리산업 발전 및 인재양성을 위한 업무협약'을 체결했다.",
+      "source": "뉴스핌 on MSN",
+      "publishedAt": "2026-08-10",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EC%9D%B5%EC%82%B0%EC%8B%9C-%EC%A3%BC%EC%96%BC%EB%A6%AC%EC%82%B0%EC%97%85-ai-%EB%94%94%EC%A7%80%ED%84%B8-%EA%B8%B0%EC%88%A0%EB%A1%9C-%EC%A0%9C%EC%A1%B0-%EA%B2%BD%EC%9F%81%EB%A0%A5-%EA%B0%95%ED%99%94/ar-AA29Ka2t",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.5LxZHcecM_uoqYfk0yZJHQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
