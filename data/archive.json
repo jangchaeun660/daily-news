@@ -1,5 +1,84 @@
 [
   {
+    "updatedAt": "2026-08-12",
+    "windowStart": "2026-08-10T22:00:00.000Z",
+    "windowEnd": "2026-08-11T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "경사노위, 'N% 성과급' 사회적 대화 검토…\"노사정 협의\"",
+        "summary": "[서울=뉴시스] 고홍주 기자 = 대통령 소속 사회적 대화 기구인 경제사회노동위원회(경사노위)가 이른바 'N% 성과급' 문제를 사회적 대화 의제로 다루는 방안을 검토하고 있다. 또 인공지능(AI) 시대 반도체 초과이윤 배분 논의와 관련해서도 향후 의제로 다룰 가능성..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-08-11",
+        "url": "https://www.fnnews.com/news/202608111400197554",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.kyOujDSrqc0Jj63cjRX_DA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[장애인뉴스] 한국장애인개발원-에이블뉴스, 장애인 정보 접근권 향상 위해 맞손 外",
+        "summary": "【베이비뉴스 소장섭 기자】장애를 가진 자녀를 양육하는 가정과 장애를 가진 양육자를 위해 우리 사회는 얼마나 나아지고 있을까. ‘장애인뉴스’는 장애인과 그 가족에게 도움이 되는 정책·복지 분야의 주요 이슈와 제도 변화를 전하기 위해 기획된 코너다. 장애인 복지 정책과 교육·고용 지원, 권익 보호 활동, 사회 인식 개선 캠페인 등 다양한 소식 가운데 장애인의 ...",
+        "source": "베이비뉴스 on MSN",
+        "publishedAt": "2026-08-11",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%9E%A5%EC%95%A0%EC%9D%B8%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%9E%A5%EC%95%A0%EC%9D%B8%EA%B0%9C%EB%B0%9C%EC%9B%90-%EC%97%90%EC%9D%B4%EB%B8%94%EB%89%B4%EC%8A%A4-%EC%9E%A5%EC%95%A0%EC%9D%B8-%EC%A0%95%EB%B3%B4-%EC%A0%91%EA%B7%BC%EA%B6%8C-%ED%96%A5%EC%83%81-%EC%9C%84%ED%95%B4-%EB%A7%9E%EC%86%90-%E5%A4%96/ar-AA29Pyvx",
+        "imageUrl": "https://www.bing.com/th?id=ONUT._CagRhEgYuiwMH_ymZrsCg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[게시판] 고려대의료원·한국생명존중희망재단, 자살 예방 협약",
+        "summary": "▲ 고려대학교의료원은 한국생명존중희망재단과 자살 예방 및 생명 존중 문화 확산을 위한 업무협약을 맺었다고 11일 밝혔다. 양 기관은 자살 예방 외에도 청소년 정신건강 교육·심리 지원 및 위기 대응 등 사회공헌활동 등에서 협력할 방침이다. 윤을식 고려대의료원장은 \"자살 문제는 우리 사회가 함께 해결해야 할 가장 시급하고 중요한 과제 중 하나\"라며 \"소중한 ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-11",
+        "url": "https://www.yna.co.kr/view/AKR20260811057300530",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Wvzl2VoDGRWBI9GlOy7oWw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "성남시, 인공지능(AI)·드론 활용해 스마트 도로관리",
+        "summary": "경기 성남시가 인공지능(AI)과 드론을 활용해 포트홀과 도로 균열, 낙하물 등 도로 위험을 탐지하고 선제 대응하는 스마트 도로관리 쳬계 구축에 나섰다. 시는 11일 시청에서 ‘인공지능(AI) 기반 도로관리 플랫폼 구축사업’ 착수보고회를 열고 이 같은 내용의 실시간 도로관리 체계 구축사업을 추진하기로 했다. 시는 시민들에게 더욱 안전한 도로 환경 조성을 목표 ...",
+        "source": "쿠키뉴스 on MSN",
+        "publishedAt": "2026-08-11",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%84%B1%EB%82%A8%EC%8B%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-ai-%EB%93%9C%EB%A1%A0-%ED%99%9C%EC%9A%A9%ED%95%B4-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EB%8F%84%EB%A1%9C%EA%B4%80%EB%A6%AC/ar-AA29PrGS",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.TXuxc6iqbiLaW_9vX5rYEQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "KCL, 충남대와 AI·전략산업 기술사업화 맞손",
+        "summary": "[투데이에너지 임자성 기자] KCL(한국건설생활환경시험연구원)과 충남대학교가 손을 잡고 AI를 비롯한 국가전략산업의 핵심기술 확보와 상용화에 속도를 낸다. 양 기관은 대학의 우수한 원천 연구성과를 KCL의 시험·평가·인증 인프라와 직결해 연구실 단계의 기술이 속도감 있게 시장으로 진입 ...",
+        "source": "투데이에너지",
+        "publishedAt": "2026-08-11",
+        "url": "https://www.todayenergy.kr/news/articleView.html?idxno=301428",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.WNR2Q0dLknyGAikwFGvP1A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "성남시, 인공지능·드론으로 포트홀 잡는다...도로 위험 선제 대응",
+        "summary": "인공지능 도로 위험정보 수집 단말기로 촬영한 포트홀. 성남시 제공 경기 성남시가 인공지능(AI)과 드론을 활용해 포트홀과 도로 균열, 낙하물 등 도로 위험요소를 실시간으로 탐지하고 선제적으로 대응하는 스마트 도로관리 체계 구축에 나선다. 성남시는 11일 이같은 내용의 시청 제1회의실에서 ‘인공지능(AI) 기반 도로관리 플랫폼 구축사업’ 착수보고회를 열고 본 ...",
+        "source": "경향신문 on MSN",
+        "publishedAt": "2026-08-11",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%84%B1%EB%82%A8%EC%8B%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%93%9C%EB%A1%A0%EC%9C%BC%EB%A1%9C-%ED%8F%AC%ED%8A%B8%ED%99%80-%EC%9E%A1%EB%8A%94%EB%8B%A4%EB%8F%84%EB%A1%9C-%EC%9C%84%ED%97%98-%EC%84%A0%EC%A0%9C-%EB%8C%80%EC%9D%91/ar-AA29NRvo",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.9JSYAxAbqCcadZsyr13SLA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "시흥시, '복지행정 인공지능(AI) 정책실험실' 공모 선정…인공지능 기반 복지행정",
+        "summary": "시흥시 (시장 임병택)는 보건복지부가 주관한 '복지행정 인공지능 (AI) 정책실험실 실증사업' 공모에 최종 선정돼, 8월부터 연말까지 복지행정 전 과정에 생성형 인공지능을 적용하는 실증사업을 시작한다.",
+        "source": "연합뉴스",
+        "publishedAt": "2026-07-31",
+        "url": "https://www.yna.co.kr/view/RPR20260731004600353",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.9ZLJWC1bmXlcqfA-MyDztQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "“인공지능 통제 필요하지만 중국에 뒤질라”…트럼프, 오픈AI 해킹 사고에 규제 딜레마",
+        "summary": "도널드 트럼프 미국 대통령은 최근 오픈에이아이(AI)의 인공지능(AI) 모델들이 다른 기업의 시스템에 침입한 사건이 잇따르자 새로운 통제 방안을 검토하고 있다고 밝혔다. 29일(현지시각) 트럼프 대통령은 백악관 집무실에서 인공지능 모델의 해킹 사고와 관련한 취재진의 질 ...",
+        "source": "한겨레",
+        "publishedAt": "2026-07-30",
+        "url": "https://www.hani.co.kr/arti/international/america/1270680.html",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.gHTQZakgdMIEoOeg3GHteQ&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-08-11",
     "windowStart": "2026-08-09T22:00:00.000Z",
     "windowEnd": "2026-08-10T22:00:00.000Z",
@@ -479,85 +558,6 @@
         "publishedAt": "2026-08-05",
         "url": "https://www.msn.com/ko-kr/news/other/%EC%95%84%EC%9D%B4%EC%97%90%EC%9D%B4-%EB%A6%AC%EB%B2%A8%EB%A6%AC%EC%98%A8%EA%B3%BC-%EA%B5%AD%EC%82%B0-npu-%EA%B8%B0%EB%B0%98-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B5%AC%EC%B6%95-%ED%98%91%EB%A0%A5/ar-AA29qSYX",
         "imageUrl": "https://www.bing.com/th?id=ONUT.nGCQpCXJ6zkBJxv6ch-vBA&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-08-05",
-    "windowStart": "2026-08-03T22:00:00.000Z",
-    "windowEnd": "2026-08-04T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "[복지뉴스] 한국사회보장정보원-독거노인종합지원센터, '현장 밀착형 복지 홍보' 추진 外",
-        "summary": "【베이비뉴스 소장섭 기자】아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 정책과 아동·가족 복지 제도, 취약계층 지원 사업 등 다양한 소식 가운 ...",
-        "source": "베이비뉴스 on MSN",
-        "publishedAt": "2026-07-30",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EB%8F%85%EA%B1%B0%EB%85%B8%EC%9D%B8%EC%A2%85%ED%95%A9%EC%A7%80%EC%9B%90%EC%84%BC%ED%84%B0-%ED%98%84%EC%9E%A5-%EB%B0%80%EC%B0%A9%ED%98%95-%EB%B3%B5%EC%A7%80-%ED%99%8D%EB%B3%B4-%EC%B6%94%EC%A7%84-%E5%A4%96/ar-AA291PO8",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.5rcmPL_4mJePMA2iPzSDCQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "한국세무사회 \"실거주 1주택 종부세 제외해야\"…개편안 보완 촉구",
-        "summary": "실거주 중심 부동산세 개편 긍정평가물가연동세제·상속세 개편도 제안 (수원=뉴스1) 송용환 기자 = 한국세무사회가 정부의 '2026 세제개편안' 발표와 관련해 실거주 중심의 부동산 세제 개편 방향을 긍정적으로 평가하면서도 실거주 1주택자의 세 부담 확대 등은 보완이 필요하다는 입장을 밝혔다. 4일 세무사회에 따르면 논평을 ...",
-        "source": "뉴스1 on MSN",
-        "publishedAt": "2026-08-04",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%84%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-%EC%8B%A4%EA%B1%B0%EC%A3%BC-1%EC%A3%BC%ED%83%9D-%EC%A2%85%EB%B6%80%EC%84%B8-%EC%A0%9C%EC%99%B8%ED%95%B4%EC%95%BC-%EA%B0%9C%ED%8E%B8%EC%95%88-%EB%B3%B4%EC%99%84-%EC%B4%89%EA%B5%AC/ar-AA29kzBB",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.tu8YpfkLum25y4REvKBCaw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[벼랑끝노인] ①초고령층 절반이 빈곤…'가난한노후'에 갇힌 한국",
-        "summary": "비영리 연구재단인 사회적가치연구원 (CSES)과 트리플라잇이 내놓은 '2025 한국인이 바라본 사회문제' 보고서를 보면 전국 성인 1천명을 대상으로 실시한 조사를 보면 '미래'에 국민에게 부정적 영향을 미칠 이슈에 '노인 일자리 및 노후 대비 문제'가 1위로 꼽혔다.",
-        "source": "연합뉴스",
-        "publishedAt": "2026-07-27",
-        "url": "https://www.yna.co.kr/view/AKR20260724156900530",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.IDPDsoiONd-Cq263IfSi6g&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "“한국 사회 갈등 1위는 보수·진보”…진보층 늘고 보수층 감소",
-        "summary": "한국행정연구원 조사에서 우리 사회의 가장 큰 갈등은 보수·진보 간 이념 갈등으로 나타났다. 진보 성향은 늘고 보수 성향은 줄었으며, 중도 비중은 감소했다. 갈등 원인으로는 이익 추구와 이해 부족이 가장 많이 꼽혔고, 정책에선 성장 중시 응답이 늘었다.",
-        "source": "서울신문",
-        "publishedAt": "2026-07-07",
-        "url": "https://www.seoul.co.kr/news/world/2026/07/07/20260707500090",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.oa1yl2UGDm5D6dPnZ92YBg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "압구정 현대 보고 ‘깜놀’…30년만에 한국 온 교수, 충격받은 이유",
-        "summary": "한국 아파트 연구 30년…프랑스 지리학자 발레리 줄레조 지난 30년간 한국 사회에서 아파트가 갖는 공간적 의미를 탐구해온 발레리 줄레조 프랑스 사회과학고등연구원 교수. [사진 Nadia Abdelwahed] “30년이 지나면 다시 짓는다.” 한국 아파트를 처음 연구하던 시절 수없이 들었던 그 말을 확인하기 위해 프랑스 지리학자는 다시 카메라를 들었다. 대표 ...",
-        "source": "중앙일보 on MSN",
-        "publishedAt": "2026-07-31",
-        "url": "https://www.msn.com/ko-kr/news/national/%EC%95%95%EA%B5%AC%EC%A0%95-%ED%98%84%EB%8C%80-%EB%B3%B4%EA%B3%A0-%EA%B9%9C%EB%86%80-30%EB%85%84%EB%A7%8C%EC%97%90-%ED%95%9C%EA%B5%AD-%EC%98%A8-%EA%B5%90%EC%88%98-%EC%B6%A9%EA%B2%A9%EB%B0%9B%EC%9D%80-%EC%9D%B4%EC%9C%A0/ar-AA299xNV",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.ada1ee23eacd9e196a83ecd61e5eb801&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "동서발전, 중소기업 대상 실무중심 생성형 인공지능 활용 교육 실시",
-        "summary": "[스포츠한국 홍성완 기자] 한국동서발전은 중소기업의 업무 생산성 향상과 디지털 격차 해소를 위해 중소기업 실무자를 대상으로 생성형 인공지능 활용 교육을 시행했다고 3일 밝혔다.7월 중 총 2회에 걸쳐 진행된 이번 교육에는 현우산업, HPC홍성 등 발전기자재 관련 중소기업 27개사의 영업·기획·행정·개발 분야 등 실무자 51명이 참여했다.교육 첫날에는 △생성 ...",
-        "source": "스포츠한국 on MSN",
-        "publishedAt": "2026-08-03",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%8F%99%EC%84%9C%EB%B0%9C%EC%A0%84-%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85-%EB%8C%80%EC%83%81-%EC%8B%A4%EB%AC%B4%EC%A4%91%EC%8B%AC-%EC%83%9D%EC%84%B1%ED%98%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%99%9C%EC%9A%A9-%EA%B5%90%EC%9C%A1-%EC%8B%A4%EC%8B%9C/ar-AA29io6r",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.0pnpBgLu9kIRo4QQcvWq3A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "삼성SDS, 해남 '국가 AI 컴퓨팅센터' 착공…\"인공지능 핵심 인프라\"",
-        "summary": "국가 AI 컴퓨팅센터 착공식 세레모니. 삼성SDS 제공 삼성SDS가 컨소시엄 대표사로서 주도하는 2조원 대 '국가 AI 컴퓨팅센터' 구축 사업이 본격화됐다. 전라남도 해남군 솔라시도 데이터센터파크에 조성되는 해당 센터는 초거대 AI(인공지능) 모델 개발을 지원하고, 대규모 데이터 처리 수요도 소화하게 된다. 삼성SDS는 ...",
-        "source": "노컷뉴스 on MSN",
-        "publishedAt": "2026-08-03",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%82%BC%EC%84%B1sds-%ED%95%B4%EB%82%A8-%EA%B5%AD%EA%B0%80-ai-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%84%BC%ED%84%B0-%EC%B0%A9%EA%B3%B5-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%95%B5%EC%8B%AC-%EC%9D%B8%ED%94%84%EB%9D%BC/ar-AA29hHY4",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.uB1EVhDheCLkRhpkzJoEKA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "인공지능과 대화하는 배경훈 부총리",
-        "summary": "(전남광주=연합뉴스) 민현기 기자 = 배경훈 부총리 겸 과학기술정보통신부 장관이 3일 오전 전남광주 광산구 국립광주과학관에서 AI 인공지능 전시관을 체험하고 있다. 2026.8.3 ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-08-03",
-        "url": "https://www.yna.co.kr/view/PYH20260803081100054",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ZNX3qacPqwY0neLPYrxrpQ&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
