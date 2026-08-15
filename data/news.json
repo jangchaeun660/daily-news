@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-08-15",
-  "windowStart": "2026-08-13T22:00:00.000Z",
-  "windowEnd": "2026-08-14T22:00:00.000Z",
+  "updatedAt": "2026-08-16",
+  "windowStart": "2026-08-14T22:00:00.000Z",
+  "windowEnd": "2026-08-15T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "[속보] 조국 “주거·일자리·노동·교육·돌봄 등에서 소외되지 않는 나라 만들어야”",
+      "summary": "조국혁신당 조국 혁신정책연구원장은 “국민 누구도 주거, 일자리, 노동, 교육, 돌봄 등 삶의 모든 분야에서 소외되거나 배제되지 않는 ‘행복이 권리가 되는 나라’를 만들어야 한다”고 15일 강조했다. 조 원장은 제81주년 광복절인 이날 자신의 사회관계망서비스(SNS)에 올린 글에서 “‘불평등을 이기는 싸움’을 주저해서는 안 된다”며 이같이 밝혔다. 그는 “1 ...",
+      "source": "세계일보 on MSN",
+      "publishedAt": "2026-08-15",
+      "url": "https://www.msn.com/ko-kr/news/politics/%EC%86%8D%EB%B3%B4-%EC%A1%B0%EA%B5%AD-%EC%A3%BC%EA%B1%B0-%EC%9D%BC%EC%9E%90%EB%A6%AC-%EB%85%B8%EB%8F%99-%EA%B5%90%EC%9C%A1-%EB%8F%8C%EB%B4%84-%EB%93%B1%EC%97%90%EC%84%9C-%EC%86%8C%EC%99%B8%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%82%98%EB%9D%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%95%BC/ar-AA2aa34P",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.5jG8GO-Dv-fvgSxTK6NExQ&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "'올공 시위' 건드린 이수지·최시원… 연예인 사회이슈 발언 '득'인가 '독'인가",
@@ -14,21 +23,12 @@
     },
     {
       "category": "society",
-      "title": "李, 국가폭력 피해자에 공식 사과…시민사회 “후속 조치 이어져야”",
-      "summary": "【투데이신문 권신영 기자】이재명 대통령이 국가폭력 과거사 피해자들을 청와대로 초청해 국가를 대표해 공식 사과했다. 시민사회는 대통령의 사과를 환영하면서도 가해자 처벌과 실질적인 배·보상 등 국가의 책임을 구체적인 조치로 이어가야 한다고 촉구했다.8일 청와대에 따르면 이 대통령은 전날 청와대 영빈관에서 국가폭력 과거사 사건 피해자 70여 명과 오찬 간담회를 ...",
-      "source": "투데이신문",
-      "publishedAt": "2026-08-08",
-      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128639",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.LmI8clO-5JPe6tc-HV-srA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[박준규의 이슈 언박싱] \"가입해놨더니 뭐 하는 겁니까\"…ISA 개편안, 나흘 만에 뒤집힌 이유",
-      "summary": "정부가 발표한 세금 정책이 나흘 만에 대통령의 재검토 지시를 받았습니다. 재정경제부가 지난 3일 '2026년 세제개편안'을 내놨는데, 이재명 대통령은 7일 참모들과의 회의에서 ISA 개편안을 전면 재검토하라고 주문한 것으로 전해졌습니다.",
-      "source": "펜앤드마이크",
-      "publishedAt": "2026-08-09",
-      "url": "https://www.pennmike.com/news/articleView.html?idxno=125291",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.jl5GbzYYIAioH7GeyXC03g&pid=News&w=1200&h=675&c=14"
+      "title": "경사노위, 'N% 성과급' 사회적 대화 검토…\"노사정 협의\"",
+      "summary": "[서울=뉴시스] 고홍주 기자 = 대통령 소속 사회적 대화 기구인 경제사회노동위원회(경사노위)가 이른바 'N% 성과급' 문제를 사회적 대화 의제로 다루는 방안을 검토하고 있다. 또 인공지능(AI) 시대 반도체 초과이윤 배분 논의와 관련해서도 향후 의제로 다룰 가능성..",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-08-11",
+      "url": "https://www.fnnews.com/news/202608111400197554",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.kyOujDSrqc0Jj63cjRX_DA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -41,57 +41,48 @@
     },
     {
       "category": "society",
-      "title": "SNS에 사진 퍼져… \"남자가 왜?\"",
-      "summary": "2일 다수의 사회관계망서비스 (SNS)에는 '한강 수영장에 민폐 이용객이 나타났다'는 취지의 글과 함께 사진 한 장이 게시됐다. 한여름 폭염 속에 남녀노소 이용객들이 물놀이를 즐기고 있는 가운데, 분홍색 원피스 수영복을 입고 같은 색 수영모까지 갖춰 쓴 남성의 뒷모습을 담은 사진이었다. 게시물 작성자는 \"왜 남자가 분홍색 여성 수영복을 입고 한강 수영장에서 ...",
-      "source": "한국일보",
-      "publishedAt": "2026-08-03",
-      "url": "https://www.hankookilbo.com/news/article/A2026080315240001539",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.m5FnyMqm35bP7fKSDiCMpA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "‘교사 0점, AI 만점’…인공지능 답 틀려도 특정 단어 많으면 ‘오채점’",
-      "summary": "서·논술형 AI 자동채점 한계 ...",
-      "source": "한겨레 on MSN",
-      "publishedAt": "2026-08-14",
-      "url": "https://www.msn.com/ko-kr/news/national/%EA%B5%90%EC%82%AC-0%EC%A0%90-ai-%EB%A7%8C%EC%A0%90-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8B%B5-%ED%8B%80%EB%A0%A4%EB%8F%84-%ED%8A%B9%EC%A0%95-%EB%8B%A8%EC%96%B4-%EB%A7%8E%EC%9C%BC%EB%A9%B4-%EC%98%A4%EC%B1%84%EC%A0%90/ar-AA2a4JmB",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ERW-E3u61U4NA7Gu9ACtxw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "\"국립대병원 AI전환, 환자 맞춤 건강관리 미흡…병원간 격차 커\"",
-      "summary": "(서울=연합뉴스) 고유선 기자 = 보건·의료분야에서도 인공지능 전환 (AX) 속도가 빨라지고 있지만, 우리나라 국립대병원들은 개인 건강 데이터 접근 등 일부 분야에서 여전히 AI전환이 미흡하고 병원 간 격차도 상당하다는 분석이 나왔다.",
-      "source": "연합뉴스",
-      "publishedAt": "2026-08-14",
-      "url": "https://www.yna.co.kr/view/AKR20260814145200530",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.909xTINgaVCDcy-iOixIQA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "에이전틱·피지컬 AI 등장 흐름 반영",
-      "summary": "새 윤리원칙은 △인간의 존엄성 △사회의 공공선 △인류의 지속가능성을 3대 가치로, △인간중심성 △프라이버시 보호 △공정성과 포용성 △책임성 △안전성 △신뢰성 △투명성을 7대 원칙으로 제시했다. 최근 기술 변화를 반영해 AI에 맡길 판단 범위와 사람의 역할을 정하고, 필요하면 작동을 제한하거나 수정·중단할 수 있도록 하는 내용도 담았다. 최우석 과기정통부 ...",
-      "source": "한국일보",
-      "publishedAt": "2026-08-14",
-      "url": "https://www.hankookilbo.com/news/article/A2026081414190003102",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.kjDErAgowWKpz9Hi_TVczw&pid=News&w=1200&h=675&c=14"
+      "title": "'난자 동결' 공개한 美민주 대선 잠룡, 생식권 띄우며 대권도전 시사",
+      "summary": "미국 민주당의 차기 대권주자 가운데 하나로 꼽히는 알렉산드리아 오카시오-코르테스(뉴욕) 연방 하원의원이 8일(현지시간) 난자 동결 시술을 받기로 했다고 밝혔다. 사회관계망서비스(SNS)에 직접 과배란 주사를 놓는 영상을 올리기도 ...",
+      "source": "한국일보 on MSN",
+      "publishedAt": "2026-08-10",
+      "url": "https://www.msn.com/ko-kr/news/news/%EB%82%9C%EC%9E%90-%EB%8F%99%EA%B2%B0-%EA%B3%B5%EA%B0%9C%ED%95%9C-%E7%BE%8E%EB%AF%BC%EC%A3%BC-%EB%8C%80%EC%84%A0-%EC%9E%A0%EB%A3%A1-%EC%83%9D%EC%8B%9D%EA%B6%8C-%EB%9D%84%EC%9A%B0%EB%A9%B0-%EB%8C%80%EA%B6%8C%EB%8F%84%EC%A0%84-%EC%8B%9C%EC%82%AC/ar-AA29IfJw",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.QWtA03YcXU2470wV23c93A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
       "title": "유행처럼 번지는 AI 데이터센터, 물 부족 대책은 없다",
       "summary": "이재명 정부의 ‘3대 메가 프로젝트’중 하나인 AI 데이터센터가 물 부족 현상을 가속화할 수 있다는 우려가 커지고 있다. 미국에선 데이터센터 냉각에 막대한 양의 물이 사용되면서 주정부 차원의 규제가 강화되고 있지만, 한국에선 데이터센터가 물을 얼마나 소비하는지에 대한 구체적인 정보도 집계되지 않은 상황이다.데이터센터는 AI 기술 발전에 필수적인 시설이지만, ...",
       "source": "미디어오늘 on MSN",
-      "publishedAt": "2026-08-14",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85/%EC%9C%A0%ED%96%89%EC%B2%98%EB%9F%BC-%EB%B2%88%EC%A7%80%EB%8A%94-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EB%AC%BC-%EB%B6%80%EC%A1%B1-%EB%8C%80%EC%B1%85%EC%9D%80-%EC%97%86%EB%8B%A4/ar-AA2a8lFr",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Rce4U7wrfj1eS7Mz67nwBg&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-08-15",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%9C%A0%ED%96%89%EC%B2%98%EB%9F%BC-%EB%B2%88%EC%A7%80%EB%8A%94-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EB%AC%BC-%EB%B6%80%EC%A1%B1-%EB%8C%80%EC%B1%85%EC%9D%80-%EC%97%86%EB%8B%A4/ar-AA2a8lFr",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.RlnpS9Q2t03vtRJe3SRNyA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "현대차그룹, 육군에 '피지컬 AI' 심는다…첨단기술 국방 적용 확대",
-      "summary": "현대차그룹이 14일 충남 계룡시 육군본부에서 육군, 산업통상부와 로봇·피지컬 AI 및 첨단기술 활용 확대를 위한 업무협약을 체결했다. 사진 왼쪽부터 이민우 산업부 산업성장실장 전담직무대리, 최장식 육군참모차장, 이항수 현대차그룹 부사장.[사진=육군] 현대자동차그룹이 육군과 손잡고 로봇·피지컬 인공지능(AI) 기술을 국방 현장에 적용한다. 장병이 맡아온 위험 ...",
-      "source": "아주경제",
-      "publishedAt": "2026-08-14",
-      "url": "https://www.ajunews.com/view/20260814174418902",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.WdeI_9tAIMFz_237dgm6mQ&pid=News&w=1200&h=675&c=14"
+      "title": "AI 데이터센터 메가프로젝트에 中企 참여 확대…K-소부장 키운다",
+      "summary": "소부장 클러스터·테스트베드 구축…대·중기 공동 R&D 지원 제조AI·피지컬AI까지 확대…지역인재 전문인력으로 육성 정부가 인공지능(AI) 데이터센터 등 대규모 프로젝트에 중소기업의 참여를 확대한다. 대규모 투자가 일부 대기업에만 머물지 않고 중소기업의 기술개발과 사업 참여로 ...",
+      "source": "뉴스1",
+      "publishedAt": "2026-08-15",
+      "url": "https://www.news1.kr/industry/sb-founded/6259527",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.dJzLofP5G0sdCH4aNsaF6A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "현대차그룹, 육군·산업통상부와 피지컬 AI·첨단기술 활용 업무협약",
+      "summary": "현대자동차그룹은 지난 14일 충남 계룡시 육군본부에서 육군, 산업통상부(산업부)와 ‘로봇·피지컬 AI 및 첨단기술 활용 확대를 위한 업무협약(MOU)’을 체결했다고 17일 밝혔다. 협약식에는 김규하 육군참모총장, 최장식 육군참모차장, 산업부 이민우 산업성장실장(전담직무대리), 현대차그룹 이항수 부사장 등이 참석했다. 최근 국방 분야는 인구 구조 변화에 따른 ...",
+      "source": "경남신문 on MSN",
+      "publishedAt": "2026-08-15",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%EC%9C%A1%EA%B5%B0-%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EB%B6%80%EC%99%80-%ED%94%BC%EC%A7%80%EC%BB%AC-ai-%EC%B2%A8%EB%8B%A8%EA%B8%B0%EC%88%A0-%ED%99%9C%EC%9A%A9-%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD/ar-AA2a9OFz",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.9MjCfVkKboaAH6b2emr8KQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "“치킨집에서 AI 영화 보고 배달로봇까지”…유통가 ‘푸드테크 전쟁’",
+      "summary": "치킨을 주문하러 간 매장에서 인공지능(AI)이 만든 영화를 보고, 사람과 로봇의 움직임을 연구한 작품을 만난다. 다음 전시장에는 미래의 치킨 배달을 상상한 모빌리티가 등장한다. 유통업계의 기술 경쟁이 주방을 넘어 소비자가 머무는 공간으로 번지고 있다. 조리로봇으로 생산성을 높이는 단계를 지나 AI 콘텐츠와 대학 산학협력, 미래 모빌리티까지 브랜드 경험에 끌 ...",
+      "source": "세계일보 on MSN",
+      "publishedAt": "2026-08-15",
+      "url": "https://www.msn.com/ko-kr/money/topstories/%EC%B9%98%ED%82%A8%EC%A7%91%EC%97%90%EC%84%9C-ai-%EC%98%81%ED%99%94-%EB%B3%B4%EA%B3%A0-%EB%B0%B0%EB%8B%AC%EB%A1%9C%EB%B4%87%EA%B9%8C%EC%A7%80-%EC%9C%A0%ED%86%B5%EA%B0%80-%ED%91%B8%EB%93%9C%ED%85%8C%ED%81%AC-%EC%A0%84%EC%9F%81/ar-AA2acT1W",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.rQQpxOCL9T6pvthGBDDjBQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
