@@ -1,25 +1,16 @@
 {
-  "updatedAt": "2026-08-16",
-  "windowStart": "2026-08-14T22:00:00.000Z",
-  "windowEnd": "2026-08-15T22:00:00.000Z",
+  "updatedAt": "2026-08-17",
+  "windowStart": "2026-08-15T22:00:00.000Z",
+  "windowEnd": "2026-08-16T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[속보] 조국 “주거·일자리·노동·교육·돌봄 등에서 소외되지 않는 나라 만들어야”",
-      "summary": "조국혁신당 조국 혁신정책연구원장은 “국민 누구도 주거, 일자리, 노동, 교육, 돌봄 등 삶의 모든 분야에서 소외되거나 배제되지 않는 ‘행복이 권리가 되는 나라’를 만들어야 한다”고 15일 강조했다. 조 원장은 제81주년 광복절인 이날 자신의 사회관계망서비스(SNS)에 올린 글에서 “‘불평등을 이기는 싸움’을 주저해서는 안 된다”며 이같이 밝혔다. 그는 “1 ...",
-      "source": "세계일보 on MSN",
-      "publishedAt": "2026-08-15",
-      "url": "https://www.msn.com/ko-kr/news/politics/%EC%86%8D%EB%B3%B4-%EC%A1%B0%EA%B5%AD-%EC%A3%BC%EA%B1%B0-%EC%9D%BC%EC%9E%90%EB%A6%AC-%EB%85%B8%EB%8F%99-%EA%B5%90%EC%9C%A1-%EB%8F%8C%EB%B4%84-%EB%93%B1%EC%97%90%EC%84%9C-%EC%86%8C%EC%99%B8%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%82%98%EB%9D%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%95%BC/ar-AA2aa34P",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.5jG8GO-Dv-fvgSxTK6NExQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "'올공 시위' 건드린 이수지·최시원… 연예인 사회이슈 발언 '득'인가 '독'인가",
-      "summary": "최근 연예인들이 '올림픽공원 시위' 등 민감한 사회적 이슈를 직접·간접적으로 언급한 이후 갑론을박이 확산하고 있다. 연예인들의 신념 표명이나 정치적 발언은 SNS와 온라인 커뮤니티를 통해 대중의 즉각 낙인으로 이어질 수 있다는 점에서 신중해야 한다는 분석이 나온다. ━민원인이 \"재선거!\" 외치는 장면에…\"시위 참가자 희화화\" 논란 일파만파 ━개그우먼 이수지 ...",
-      "source": "머니투데이 on MSN",
-      "publishedAt": "2026-08-02",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%98%AC%EA%B3%B5-%EC%8B%9C%EC%9C%84-%EA%B1%B4%EB%93%9C%EB%A6%B0-%EC%9D%B4%EC%88%98%EC%A7%80-%EC%B5%9C%EC%8B%9C%EC%9B%90-%EC%97%B0%EC%98%88%EC%9D%B8-%EC%82%AC%ED%9A%8C%EC%9D%B4%EC%8A%88-%EB%B0%9C%EC%96%B8-%EB%93%9D-%EC%9D%B8%EA%B0%80-%EB%8F%85-%EC%9D%B8%EA%B0%80/ar-AA29ghzh",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.XRR6JKq74j_2PNT4ObaDOg&pid=News&w=1200&h=675&c=14"
+      "title": "미국 기독교 우파 정치 적극 참여, 낙태 문제가 핵심 이슈",
+      "summary": "선거철이 되면 많은 정치인이 교회를 찾는다. 그리고 기독교는 선거 때마다 신앙과 투표권의 적절한 사용에 혼란을 겪는다. 기독교인을 뽑아야 한다는 주장도 있고 노골적으로 기독교인의 표를 구하는 정치인들도 있다. 이런 모습은 한국교회만의 현상이 아니다. 미국에서 시작된 것으로 볼 수 있다. 이제는 이를 답습하는 국가들이 늘고 있다. 유럽 교회사는 신학사상사를 ...",
+      "source": "국민일보 on MSN",
+      "publishedAt": "2026-08-16",
+      "url": "https://www.msn.com/ko-kr/%EC%A0%95%EC%B9%98/%EC%A0%95%EB%B6%80%EA%B8%B0%EA%B4%80/%EB%AF%B8%EA%B5%AD-%EA%B8%B0%EB%8F%85%EA%B5%90-%EC%9A%B0%ED%8C%8C-%EC%A0%95%EC%B9%98-%EC%A0%81%EA%B7%B9-%EC%B0%B8%EC%97%AC-%EB%82%99%ED%83%9C-%EB%AC%B8%EC%A0%9C%EA%B0%80-%ED%95%B5%EC%8B%AC-%EC%9D%B4%EC%8A%88/ar-AA2aeIVG",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.6xdOUf9kKafb_5PFhvV6Dg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -32,12 +23,21 @@
     },
     {
       "category": "society",
-      "title": "[이슈&피플] '분쟁 촉진법'된 노란봉투법, 재개정 필요성은? / 이상호 / 한국공인노무사회 수석부회장",
-      "summary": "노란봉투법이 시행되면서 노동쟁의 범위를 두고 현장의 혼란이 이어지고 있다. 기업의 경영 판단까지 노사 협상의 대상이 될 수 있다는 우려가 나오고 있다. 정부는 현장의 혼선을 줄이기 위해 관련 기준과 시행령 등 하위법령 개정을 검토하고 있다. 노란봉투법 시행 이후 노사관계에는 어떤 변화가 생겼을까? 노란봉투법, 보완 입법이 필요할까?#이상호 #한국공인노무사회 ...",
-      "source": "매일경제TV on MSN",
-      "publishedAt": "2026-08-13",
-      "url": "https://www.msn.com/ko-kr/%EC%A0%95%EC%B9%98/%EC%A0%95%EB%B6%80%EA%B8%B0%EA%B4%80/%EC%9D%B4%EC%8A%88-%ED%94%BC%ED%94%8C-%EB%B6%84%EC%9F%81-%EC%B4%89%EC%A7%84%EB%B2%95-%EB%90%9C-%EB%85%B8%EB%9E%80%EB%B4%89%ED%88%AC%EB%B2%95-%EC%9E%AC%EA%B0%9C%EC%A0%95-%ED%95%84%EC%9A%94%EC%84%B1%EC%9D%80-%EC%9D%B4%EC%83%81%ED%98%B8-%ED%95%9C%EA%B5%AD%EA%B3%B5%EC%9D%B8%EB%85%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-%EC%88%98%EC%84%9D%EB%B6%80%ED%9A%8C%EC%9E%A5/vi-AA2a0Qpr",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.tDHRORvDvZ0dotiHNa1V1w&pid=News&w=1200&h=675&c=14"
+      "title": "\"글로벌 비즈니스 정보 한눈에\"…코트라, 세계이슈톡톡 구독자 1만명 돌파",
+      "summary": "[서울=뉴시스]이창훈 기자 = 대한무역투자진흥공사(코트라)는 해외 비즈니스 정보 전파 채널로 운영 중인 카카오톡 사회관계망서비스(SNS) 기반 '세계이슈톡톡' 구독자가 8월 초 기준 1만명을 돌파했다고 9일 밝혔다. 지난해 3월 채널 개설 이후 17개월 만에 구독자 ..",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-08-09",
+      "url": "https://www.fnnews.com/news/202608091102469165",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.YUNeEXpKGN3t_F91m5qAog&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "김규원, 사회복무요원 시절 미담 뒤늦게 화제… ‘우리 가족 연예인 0순위’ [MK★이슈]",
+      "summary": "개그맨 김규원의 사회복무요원 시절 선행이 뒤늦게 알려지며 훈훈함을 전하고 있다. 7일 일러스트레이터 키크니 작가는 자신의 SNS를 통해 팬으로부터 제보받은 사연을 직접 그림으로 풀어 공개했다. 사연 속 주인공은 현재 활발하게 활동 중인 개그맨 김규원이었다. “저희 아이는 선천적 근육병으로 초등학교 4학년 때부터 휠체어를 타게 됐다”고 알린 사연자는 “학교에 ...",
+      "source": "매일경제 on MSN",
+      "publishedAt": "2026-08-07",
+      "url": "https://www.msn.com/ko-kr/%EC%B7%A8%EB%AF%B8-%EB%B0%8F-%EA%B4%80%EC%8B%AC%EC%82%AC/%EC%9D%BC%EB%B0%98/%EA%B9%80%EA%B7%9C%EC%9B%90-%EC%82%AC%ED%9A%8C%EB%B3%B5%EB%AC%B4%EC%9A%94%EC%9B%90-%EC%8B%9C%EC%A0%88-%EB%AF%B8%EB%8B%B4-%EB%92%A4%EB%8A%A6%EA%B2%8C-%ED%99%94%EC%A0%9C-%EC%9A%B0%EB%A6%AC-%EA%B0%80%EC%A1%B1-%EC%97%B0%EC%98%88%EC%9D%B8-0%EC%88%9C%EC%9C%84-mk-%EC%9D%B4%EC%8A%88/ar-AA29zZse",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.7q88a2qpwyYabUjpvwY_KA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -50,39 +50,48 @@
     },
     {
       "category": "ai",
-      "title": "유행처럼 번지는 AI 데이터센터, 물 부족 대책은 없다",
-      "summary": "이재명 정부의 ‘3대 메가 프로젝트’중 하나인 AI 데이터센터가 물 부족 현상을 가속화할 수 있다는 우려가 커지고 있다. 미국에선 데이터센터 냉각에 막대한 양의 물이 사용되면서 주정부 차원의 규제가 강화되고 있지만, 한국에선 데이터센터가 물을 얼마나 소비하는지에 대한 구체적인 정보도 집계되지 않은 상황이다.데이터센터는 AI 기술 발전에 필수적인 시설이지만, ...",
-      "source": "미디어오늘 on MSN",
-      "publishedAt": "2026-08-15",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%9C%A0%ED%96%89%EC%B2%98%EB%9F%BC-%EB%B2%88%EC%A7%80%EB%8A%94-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EB%AC%BC-%EB%B6%80%EC%A1%B1-%EB%8C%80%EC%B1%85%EC%9D%80-%EC%97%86%EB%8B%A4/ar-AA2a8lFr",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.RlnpS9Q2t03vtRJe3SRNyA&pid=News&w=1200&h=675&c=14"
+      "title": "AI 시대 도래…대학생·학부모 '미래형 전공' 재선택 고심",
+      "summary": "미국 데이비스 캘리포니아대 2학년생 버턴 베커는 회계학 전공으로 시작했다. 그러나 AI가 수업 과제 대부분을 수행할 수 있다는 점을 깨닫고 취업에 대비하고 금융 이해도를 넓히기 위해 재무학을 복수 전공으로 추가했다.",
+      "source": "연합뉴스",
+      "publishedAt": "2026-08-16",
+      "url": "https://www.yna.co.kr/view/AKR20260817011200009",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Q76Pexh9bo07Lk7uFpjsjw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "AI 데이터센터 메가프로젝트에 中企 참여 확대…K-소부장 키운다",
-      "summary": "소부장 클러스터·테스트베드 구축…대·중기 공동 R&D 지원 제조AI·피지컬AI까지 확대…지역인재 전문인력으로 육성 정부가 인공지능(AI) 데이터센터 등 대규모 프로젝트에 중소기업의 참여를 확대한다. 대규모 투자가 일부 대기업에만 머물지 않고 중소기업의 기술개발과 사업 참여로 ...",
+      "title": "기만과 적발의 대결 속 신뢰 없는 기술이 교육 망친다",
+      "summary": "‘당신의 글을 좀 더 인간적으로 만들어 보세요’라는 문구를 클릭한 적이 있다. 소셜미디어에서 광고를 클릭하지 않는다는 원칙을 깬 것이었다. 기대했던 건 문장을 다듬는 작가의 노하우였으나 실제로 만난 건 ‘에이아이 휴머나이저(AI Humanizer)’라고 불리는 소프트웨 ...",
+      "source": "한겨레",
+      "publishedAt": "2026-08-16",
+      "url": "https://www.hani.co.kr/arti/economy/it/1273172.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.uBkQc3UItm4rlD2y5slEGQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "엔비디아 못 버리는 中, AI 모델은 美 턱밑 추격",
+      "summary": "美 수출통제에도 中 최첨단 AI 여전히 엔비디아 의존 오픈웨이트는 中 약진…학술연구서 중국산 비중 60.5% 미국이 첨단 인공지능(AI) 반도체의 중국 수출을 틀어막은 지 수년이 지났지만 중국의 대표 AI 모델은 여전히 엔비디아 그래픽처리장치(GPU) 위에서 만들어지고 ...",
       "source": "뉴스1",
-      "publishedAt": "2026-08-15",
-      "url": "https://www.news1.kr/industry/sb-founded/6259527",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.dJzLofP5G0sdCH4aNsaF6A&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-08-16",
+      "url": "https://www.news1.kr/it-science/general-science/6259457",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.JcobETGFBxcvW6qVhCLe9Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "현대차그룹, 육군·산업통상부와 피지컬 AI·첨단기술 활용 업무협약",
-      "summary": "현대자동차그룹은 지난 14일 충남 계룡시 육군본부에서 육군, 산업통상부(산업부)와 ‘로봇·피지컬 AI 및 첨단기술 활용 확대를 위한 업무협약(MOU)’을 체결했다고 17일 밝혔다. 협약식에는 김규하 육군참모총장, 최장식 육군참모차장, 산업부 이민우 산업성장실장(전담직무대리), 현대차그룹 이항수 부사장 등이 참석했다. 최근 국방 분야는 인구 구조 변화에 따른 ...",
-      "source": "경남신문 on MSN",
-      "publishedAt": "2026-08-15",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%EC%9C%A1%EA%B5%B0-%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EB%B6%80%EC%99%80-%ED%94%BC%EC%A7%80%EC%BB%AC-ai-%EC%B2%A8%EB%8B%A8%EA%B8%B0%EC%88%A0-%ED%99%9C%EC%9A%A9-%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD/ar-AA2a9OFz",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.9MjCfVkKboaAH6b2emr8KQ&pid=News&w=1200&h=675&c=14"
+      "title": "AI 돌릴수록 돈 된다…통신사가 AIDC에 꽂힌 이유[통신 AI베팅②]",
+      "summary": "[서울=뉴시스]심지혜 기자 = 생성형 인공지능(AI) 서비스 확산과 기업들의 AI 전환(AX)이 본격화하면서 AI 데이터센터(AIDC) 수요가 빠르게 늘고 있다. 무선 가입자당평균매출(ARPU) 정체로 전통적인 통신사업의 성장 한계에 직면한 통신사들이 AIDC를 새로운 수익원으로 주목하는 이유다.기존 데이터센터 사업 경험과 네트워크, 기업 고객 기반을 갖춘 ...",
+      "source": "뉴시스",
+      "publishedAt": "2026-08-16",
+      "url": "https://www.newsis.com/view/NISX20260815_0003750383",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.U8fwf3b_LAG84LeTRb1ZgQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "“치킨집에서 AI 영화 보고 배달로봇까지”…유통가 ‘푸드테크 전쟁’",
-      "summary": "치킨을 주문하러 간 매장에서 인공지능(AI)이 만든 영화를 보고, 사람과 로봇의 움직임을 연구한 작품을 만난다. 다음 전시장에는 미래의 치킨 배달을 상상한 모빌리티가 등장한다. 유통업계의 기술 경쟁이 주방을 넘어 소비자가 머무는 공간으로 번지고 있다. 조리로봇으로 생산성을 높이는 단계를 지나 AI 콘텐츠와 대학 산학협력, 미래 모빌리티까지 브랜드 경험에 끌 ...",
-      "source": "세계일보 on MSN",
-      "publishedAt": "2026-08-15",
-      "url": "https://www.msn.com/ko-kr/money/topstories/%EC%B9%98%ED%82%A8%EC%A7%91%EC%97%90%EC%84%9C-ai-%EC%98%81%ED%99%94-%EB%B3%B4%EA%B3%A0-%EB%B0%B0%EB%8B%AC%EB%A1%9C%EB%B4%87%EA%B9%8C%EC%A7%80-%EC%9C%A0%ED%86%B5%EA%B0%80-%ED%91%B8%EB%93%9C%ED%85%8C%ED%81%AC-%EC%A0%84%EC%9F%81/ar-AA2acT1W",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.rQQpxOCL9T6pvthGBDDjBQ&pid=News&w=1200&h=675&c=14"
+      "title": "[AI 고속도로] 빅테크 AI 투자 1200조원…패권 경쟁 승부처는 인프라",
+      "summary": "(지디넷코리아=한정호 기자)구글·아마존·마이크로소프트(MS)·메타 등 글로벌 빅테크 기업들이 인공지능(AI) 경쟁력 확보를 목표로 천문학적인 투자에 나서고 있다. AI 모델 개발을 넘어 데이터센터·클라우드·반도체·로보틱스까지 투자 영역이 확대되면서 AI 패권 경쟁의 승부처가 인프라로 이동하고 있다는 분석이 나온다. 16일 한국지능정보사회진흥원(NIA)이 발 ...",
+      "source": "지디넷코리아 on MSN",
+      "publishedAt": "2026-08-16",
+      "url": "https://www.msn.com/ko-kr/news/techandscience/ai-%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C-%EB%B9%85%ED%85%8C%ED%81%AC-ai-%ED%88%AC%EC%9E%90-1200%EC%A1%B0%EC%9B%90-%ED%8C%A8%EA%B6%8C-%EA%B2%BD%EC%9F%81-%EC%8A%B9%EB%B6%80%EC%B2%98%EB%8A%94-%EC%9D%B8%ED%94%84%EB%9D%BC/ar-AA2adj18",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Yt_p3mqc--D2jVY8QGBhjw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
