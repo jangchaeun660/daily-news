@@ -1,34 +1,43 @@
 {
-  "updatedAt": "2026-08-19",
-  "windowStart": "2026-08-17T22:00:00.000Z",
-  "windowEnd": "2026-08-18T22:00:00.000Z",
+  "updatedAt": "2026-08-20",
+  "windowStart": "2026-08-18T22:00:00.000Z",
+  "windowEnd": "2026-08-19T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[우리품의 아프리카인](48) 한국 '공중보건의 힘' 본 나이지리아 의사",
-      "summary": "(서울=연합뉴스) 박세진 기자 = 나이지리아 출신 의사 발리아 주드 라보(32)는 한국에 와서 깨끗하게 관리되는 거리와 공공장소에 유독 눈길이 갔다. 공중보건과 지역사회의학을 전공하는 그의 눈에 잘 정돈된 생활환경 자체가 질병을 막는 하나의 예방의학으로 비쳤다. 라보는 지난 10일 서울 서대문구 연세대 세브란스병원 내 카페에서 진행된 인터뷰에서 \"한국에 와 ...",
-      "source": "연합뉴스",
-      "publishedAt": "2026-08-18",
-      "url": "https://www.yna.co.kr/view/AKR20260812105700898",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.F92wPWqgeaBJSUODZr7W0g&pid=News&w=1200&h=675&c=14"
+      "title": "중기중앙회·세무사회 '맞손'…노란우산 가입 간편해진다",
+      "summary": "전국 1만7000명 세무사 활용해 가입대행 활성화…비대면 가입링크 도입 세법·세정 개선과제도 공동 발굴…노란우산 가입자 191만명 넘어 중소기업중앙회와 한국세무사회가 소기업·소상공인의 사회안전망을 확대하기 위해 노란우산 가입 지원을 강화한다. 전국 1만7000여명의 세무사가 고객에게 보 ...",
+      "source": "뉴스1",
+      "publishedAt": "2026-08-19",
+      "url": "https://www.news1.kr/industry/sb-founded/6262572",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.4wnD_F4allOW5TXfW4a9Hg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "김규원, 사회복무요원 시절 미담 뒤늦게 화제… ‘우리 가족 연예인 0순위’ [MK★이슈]",
-      "summary": "개그맨 김규원의 사회복무요원 시절 선행이 뒤늦게 알려지며 훈훈함을 전하고 있다. 7일 일러스트레이터 키크니 작가는 자신의 SNS를 통해 팬으로부터 제보받은 사연을 직접 그림으로 풀어 공개했다. 사연 속 주인공은 현재 활발하게 활동 중인 개그맨 김규원이었다. “저희 아이는 선천적 근육병으로 초등학교 4학년 때부터 휠체어를 타게 됐다”고 알린 사연자는 “학교에 ...",
-      "source": "매일경제 on MSN",
-      "publishedAt": "2026-08-07",
-      "url": "https://www.msn.com/ko-kr/%EC%B7%A8%EB%AF%B8-%EB%B0%8F-%EA%B4%80%EC%8B%AC%EC%82%AC/%EC%9D%BC%EB%B0%98/%EA%B9%80%EA%B7%9C%EC%9B%90-%EC%82%AC%ED%9A%8C%EB%B3%B5%EB%AC%B4%EC%9A%94%EC%9B%90-%EC%8B%9C%EC%A0%88-%EB%AF%B8%EB%8B%B4-%EB%92%A4%EB%8A%A6%EA%B2%8C-%ED%99%94%EC%A0%9C-%EC%9A%B0%EB%A6%AC-%EA%B0%80%EC%A1%B1-%EC%97%B0%EC%98%88%EC%9D%B8-0%EC%88%9C%EC%9C%84-mk-%EC%9D%B4%EC%8A%88/ar-AA29zZse",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.7q88a2qpwyYabUjpvwY_KA&pid=News&w=1200&h=675&c=14"
+      "title": "한국공인노무사회, 청소년·청년 노동권 보호 나선다",
+      "summary": "금천구와 ‘노동권 보호와 노동인권 교육 등 업무협약’ 체결‘청년 노동자 노동 상담부터 권리구제까지’ 지원 체계 구축[법률저널=안혜성 기자] 공인노무사들이 금천구의 청소년과 청년의 노동권 보호에 힘을 모은다.한국공인노무사회(회장 이완영)는 “지난 19일 금천구청에서 서울특별시 금천구(구청장 최기찬)와 청소년·청년의 노동권 보호 및 권리구제 지원을 위한 업무협 ...",
+      "source": "법률저널",
+      "publishedAt": "2026-08-19",
+      "url": "https://www.lec.co.kr/news/articleView.html?idxno=752583",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.uDy1APuQMP-292nJKWINTw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "\"글로벌 비즈니스 정보 한눈에\"…코트라, 세계이슈톡톡 구독자 1만명 돌파",
-      "summary": "[서울=뉴시스]이창훈 기자 = 대한무역투자진흥공사(코트라)는 해외 비즈니스 정보 전파 채널로 운영 중인 카카오톡 사회관계망서비스(SNS) 기반 '세계이슈톡톡' 구독자가 8월 초 기준 1만명을 돌파했다고 9일 밝혔다. 지난해 3월 채널 개설 이후 17개월 만에 구독자 ..",
+      "title": "경사노위, 'N% 성과급' 사회적 대화 검토…\"노사정 협의\"",
+      "summary": "[서울=뉴시스] 고홍주 기자 = 대통령 소속 사회적 대화 기구인 경제사회노동위원회(경사노위)가 이른바 'N% 성과급' 문제를 사회적 대화 의제로 다루는 방안을 검토하고 있다. 또 인공지능(AI) 시대 반도체 초과이윤 배분 논의와 관련해서도 향후 의제로 다룰 가능성..",
       "source": "파이낸셜뉴스",
-      "publishedAt": "2026-08-09",
-      "url": "https://www.fnnews.com/news/202608091102469165",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.YUNeEXpKGN3t_F91m5qAog&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-08-11",
+      "url": "https://www.fnnews.com/news/202608111400197554",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.kyOujDSrqc0Jj63cjRX_DA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "“시민이 그린 5년 복지 지도”… 광명시, ‘기본사회 종합계획’ 수립 박차",
+      "summary": "지방정부 차원의 기본소득과 기본사회 정책을 선도해 온 경기 광명시가 시민들과 머리를 맞대고 향후 5년을 관통할 복지 이정표를 완성해 가고 있다. 관행적 외부 용역에서 벗어나 시민과 공무원이 시정의 밑그림을 그리는 상향식 행정의 모범을 제시했다는 평가를 받는다. 17일 광명시에 따르면 시는 지난 12일 시청 대회의실에서 시민 70여명이 참석한 가운데 ‘기본사 ...",
+      "source": "세계일보 on MSN",
+      "publishedAt": "2026-08-17",
+      "url": "https://www.msn.com/ko-kr/news/national/%EC%8B%9C%EB%AF%BC%EC%9D%B4-%EA%B7%B8%EB%A6%B0-5%EB%85%84-%EB%B3%B5%EC%A7%80-%EC%A7%80%EB%8F%84-%EA%B4%91%EB%AA%85%EC%8B%9C-%EA%B8%B0%EB%B3%B8%EC%82%AC%ED%9A%8C-%EC%A2%85%ED%95%A9%EA%B3%84%ED%9A%8D-%EC%88%98%EB%A6%BD-%EB%B0%95%EC%B0%A8/ar-AA2ahg84",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.V5XkzDVl_vl8D5hXzm44Ug&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -40,58 +49,49 @@
       "imageUrl": "https://www.bing.com/th?id=ONUT.eCQ5X6Uj5moq_BL_rX_ebg&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "society",
-      "title": "[속보] 조국 “주거·일자리·노동·교육·돌봄 등에서 소외되지 않는 나라 만들어야”",
-      "summary": "조국혁신당 조국 혁신정책연구원장은 “국민 누구도 주거, 일자리, 노동, 교육, 돌봄 등 삶의 모든 분야에서 소외되거나 배제되지 않는 ‘행복이 권리가 되는 나라’를 만들어야 한다”고 15일 강조했다. 조 원장은 제81주년 광복절인 이날 자신의 사회관계망서비스(SNS)에 올린 글에서 “‘불평등을 이기는 싸움’을 주저해서는 안 된다”며 이같이 밝혔다. 그는 “1 ...",
-      "source": "세계일보 on MSN",
-      "publishedAt": "2026-08-15",
-      "url": "https://www.msn.com/ko-kr/news/politics/%EC%86%8D%EB%B3%B4-%EC%A1%B0%EA%B5%AD-%EC%A3%BC%EA%B1%B0-%EC%9D%BC%EC%9E%90%EB%A6%AC-%EB%85%B8%EB%8F%99-%EA%B5%90%EC%9C%A1-%EB%8F%8C%EB%B4%84-%EB%93%B1%EC%97%90%EC%84%9C-%EC%86%8C%EC%99%B8%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%82%98%EB%9D%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%95%BC/ar-AA2aa34P",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.5jG8GO-Dv-fvgSxTK6NExQ&pid=News&w=1200&h=675&c=14"
+      "category": "ai",
+      "title": "서원대-인공지능융합기술학회 협약…신설 AI로봇학과 기반 구축",
+      "summary": "(청주=뉴스1) 엄기찬 기자 = 충북 청주 서원대학교는 내년 신설을 앞둔 AI로봇학과의 학술적 기반을 다지기 위해 한국인공지능융합기술학회와 업무협약을 했다고 19일 밝혔다. 두 기관은 △AI·로봇 융합기술 분야 교육과정과 학술·교육 프로그램 개발·운영 △학술대회·세미나 등 학술정보 교류 △학생 전공역량 강화와 진로개발 ...",
+      "source": "뉴스1 on MSN",
+      "publishedAt": "2026-08-19",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%84%9C%EC%9B%90%EB%8C%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9C%B5%ED%95%A9%EA%B8%B0%EC%88%A0%ED%95%99%ED%9A%8C-%ED%98%91%EC%95%BD-%EC%8B%A0%EC%84%A4-ai%EB%A1%9C%EB%B4%87%ED%95%99%EA%B3%BC-%EA%B8%B0%EB%B0%98-%EA%B5%AC%EC%B6%95/ar-AA2aqJca",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.WROP4vxVVmAcZPDs3h0tsg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "‘국대 AI’ 3파전 압축… 산업·서비스 활용 부문서 당락 갈렸다",
-      "summary": "‘국가대표 인공지능(AI)’ 경연에서 LG AI연구원과 SK텔레콤, 업스테이지가 최종 후보로 선정됐다. 글로벌 성능 지표에서 참여팀 중 1위를 기록했던 AI 스타트업 모티프테크놀로지스는 사용성·활용성 부문에서 뒤처져 탈락했다. 정부는 내년 초 국가대표 AI 2개 팀을 선정하되 글로벌 최상위 AI 모델과 경쟁할 수 있게 관련 사업 방향을 재편할 방침이다.",
+      "title": "빅테크, ‘AI 개인교사’로 에듀테크 시장 공략",
+      "summary": "오픈AI가 청소년 전용 인공지능(AI) 서비스를 선보이며 청소년 에듀테크 시장 공략을 본격화했다. 대학과 교사 등 교육기관을 중심으로 넓혀 온 AI 교육사업을 청소년 개인으로 넓힌 것이다. 답변을 제공하기보단 사고를 유도하는 방식으로 AI를 재설계해 청소년들의 문제해결 능력을 키운 게 핵심이다.",
       "source": "세계일보",
-      "publishedAt": "2026-08-18",
-      "url": "https://www.segye.com/newsView/20260818519094",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.FiJDOiE81IUacHLjmhmONw&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-08-19",
+      "url": "https://www.segye.com/newsView/20260819520109",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.7hSwYr_x8eZMP_TMvlzrnQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "햄버거집 알바·육아 도우미 ‘AI 쇼크’",
-      "summary": "인공지능(AI)이 사람의 업무를 어느 정도 수행할 수 있는지 조사한 결과 패스트푸드 준비원의 대체 가능성이 94. 8%로 가장 높게 나왔다. AI 확산에 따른 고용 충격이 아르바이트 종사자 등 취약계층에 집중될 수 있다는 우려가 나온다.",
-      "source": "세계일보",
-      "publishedAt": "2026-08-18",
-      "url": "https://www.segye.com/newsView/20260818519168",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.H-LIT28mO-BYR-bwLmdmSQ&pid=News&w=1200&h=675&c=14"
+      "title": "AI 활용률 7년간 6.5배 증가…대·중기 격차는 4배 확대",
+      "summary": "국내 기업의 인공지능(AI) 활용률이 7년간 6.5배 늘었지만 기업 규모에 따른 격차는 오히려 확대된 것으로 나타났다. 300인 이상 대기업과 100인 미만 기업의 AI 활용률 격차는 같은 기간 2.8%포인트(p)에서 11.8%p로 4배 이상 벌어졌다. 한국직업능력연구원은 20일 이 같은 내용을 담은 '기업은 어디까지 AI를 쓰고 있나-기업활동조사로 본 A ...",
+      "source": "NEWSIS on MSN",
+      "publishedAt": "2026-08-19",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/ai-%ED%99%9C%EC%9A%A9%EB%A5%A0-7%EB%85%84%EA%B0%84-6-5%EB%B0%B0-%EC%A6%9D%EA%B0%80-%EB%8C%80-%EC%A4%91%EA%B8%B0-%EA%B2%A9%EC%B0%A8%EB%8A%94-4%EB%B0%B0-%ED%99%95%EB%8C%80/ar-AA2avcZG",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.vdieJB1UhqkeSDZXNOURzg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[이 시각 핫뉴스] AI 조언 믿고 농약 뿌렸다가 농작물 전멸 外",
-      "summary": "수요일 아침 이시 각 핫뉴스입니다. 연합뉴스TV 기사 중 온라인에서 누리꾼들이 가장 많이 본 상위권 뉴스들 지금 바로 알아보겠습니다. ▶ AI 조언 믿고 농약 뿌렸다가 농작물 전멸 먼저 20위 중 7위를 차지한 기사인데요. 중국의 한 농부가 인공지능의 농약 사용 조언을 그대로 따랐다가 참깨밭을 통째로 잃었습니다. 무슨 일인지 기사로 확인해 보시죠. 인공지능 ...",
-      "source": "연합뉴스",
-      "publishedAt": "2026-08-18",
-      "url": "https://www.yna.co.kr/view/MYH20260819001900038",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Hiqz8sJDt24z1btCFdNn2Q&pid=News&w=1200&h=675&c=14"
+      "title": "[AI 시대 新자원전쟁] ① 전기 다음은 물이다…AI가 부른 ‘워터 쇼크’",
+      "summary": "［뉴시안= 이태영 기자］AI 시대, 전력만큼 중요한 자원이 있다. 바로 ‘물’이다. 데이터센터와 반도체 공장이 급증하면서 막대한 용수 수요가 발생하고, 물을 둘러싼 산업계와 지역사회의 갈등 가능성도 커지고 있다. 이제 기업의 경쟁력은 얼마나 많은 물을 확보하느냐를 넘어, 물을 얼마나 효율적으로 쓰고 다시 자연으로 돌려보내느냐에 달려 있다. 하나금융연구소가 ...",
+      "source": "뉴시안",
+      "publishedAt": "2026-08-19",
+      "url": "https://www.newsian.co.kr/news/articleView.html?idxno=93895",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.XKuo473sd_GG4BpnAoTD5w&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "AI 특허 출원 8년 새 7배 늘었다…기술 융합 속도는 분야별 격차",
-      "summary": "출원기업 921개→6293개…대기업 중심에서 중소·신생기업으로 다변화 “분야특화 데이터 구축·AI 표준화 등 산업 특성에 맞춘 지원책 설계해야” 국내 AI 특허 출원이 8년 새 약 7배 늘며 기술 혁신을 주도하고 있는 것으로 나타났다. 다만 새로운 기술을 결합하는 질적 혁신 속도는 산업별로 차이가 커 분야별 특성을 고려한 정책과 기업 전략이 필요하다는 분석 ...",
-      "source": "이투데이 on MSN",
-      "publishedAt": "2026-08-18",
-      "url": "https://www.msn.com/ko-kr/news/other/ai-%ED%8A%B9%ED%97%88-%EC%B6%9C%EC%9B%90-8%EB%85%84-%EC%83%88-7%EB%B0%B0-%EB%8A%98%EC%97%88%EB%8B%A4-%EA%B8%B0%EC%88%A0-%EC%9C%B5%ED%95%A9-%EC%86%8D%EB%8F%84%EB%8A%94-%EB%B6%84%EC%95%BC%EB%B3%84-%EA%B2%A9%EC%B0%A8/ar-AA2apRf1",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.8_BzPxYoPDFgkZIFdkKmxA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "AI특허 8년새 7배↑…양적 성장 넘어 산업 분야별 전략 필요",
-      "summary": "전체 특허 성장 사실상 ‘홀로 견인’ 국내 특허 약 9%가 AI…중소·신생도 인공지능(AI) 관련 특허출원이 8년새 약 7배 증가하면서 국내 기술혁신의 중심축으로 빠르게 떠오르는 것으로 나타났다. 다만 기술융합과 같은 질적 ...",
-      "source": "디지털타임스 on MSN",
-      "publishedAt": "2026-08-18",
-      "url": "https://www.msn.com/ko-kr/news/other/ai%ED%8A%B9%ED%97%88-8%EB%85%84%EC%83%88-7%EB%B0%B0-%EC%96%91%EC%A0%81-%EC%84%B1%EC%9E%A5-%EB%84%98%EC%96%B4-%EC%82%B0%EC%97%85-%EB%B6%84%EC%95%BC%EB%B3%84-%EC%A0%84%EB%9E%B5-%ED%95%84%EC%9A%94/ar-AA2apt0V",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.fY2mwS7iplORRmUJ8xtOWw&pid=News&w=1200&h=675&c=14"
+      "title": "보안·물류·관제… 첨단 산업 집약… AI 기술 시험 무대로 떠오른 공항",
+      "summary": "안내 로봇과 자율 주행 카트가 누비며 ‘하드웨어 기술’의 시험대 역할을 했던 공항이 이제 인공지능(AI) 기술의 전방위적 거점인 ‘초거대 AI 테스트베드(시험 무대)’로 탈바꿈하고 있다. 방대한 여객 데이터와 돌발 변수를 실시간으로 통제하는 소프트웨어 중심의 ‘AI 전환(AX)’이 본격화하는 모양새다. 19일 테크 ...",
+      "source": "조선일보 on MSN",
+      "publishedAt": "2026-08-19",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EB%B3%B4%EC%95%88-%EB%AC%BC%EB%A5%98-%EA%B4%80%EC%A0%9C-%EC%B2%A8%EB%8B%A8-%EC%82%B0%EC%97%85-%EC%A7%91%EC%95%BD-ai-%EA%B8%B0%EC%88%A0-%EC%8B%9C%ED%97%98-%EB%AC%B4%EB%8C%80%EB%A1%9C-%EB%96%A0%EC%98%A4%EB%A5%B8-%EA%B3%B5%ED%95%AD/ar-AA2atYJ1",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.nY2cVyGtp472FZLn7CbwHQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
