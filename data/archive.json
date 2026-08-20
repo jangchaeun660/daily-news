@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-08-21",
+    "windowStart": "2026-08-19T22:00:00.000Z",
+    "windowEnd": "2026-08-20T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[이슈토론] \"용산공원 일부, 모듈러 주택 해볼만\" \"툭 튀어나온 용산, 사회적 합의 필요\"",
+        "summary": "'SBS ' ■ ■ 진행 : 주영진 앵커 ■ 김인만 ...",
+        "source": "SBS 뉴스 on MSN",
+        "publishedAt": "2026-08-20",
+        "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%EC%9D%B4%EC%8A%88%ED%86%A0%EB%A1%A0-%EC%9A%A9%EC%82%B0%EA%B3%B5%EC%9B%90-%EC%9D%BC%EB%B6%80-%EB%AA%A8%EB%93%88%EB%9F%AC-%EC%A3%BC%ED%83%9D-%ED%95%B4%EB%B3%BC%EB%A7%8C-%ED%88%AD-%ED%8A%80%EC%96%B4%EB%82%98%EC%98%A8-%EC%9A%A9%EC%82%B0-%EC%82%AC%ED%9A%8C%EC%A0%81-%ED%95%A9%EC%9D%98-%ED%95%84%EC%9A%94/ar-AA2ax43c",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.d6YDx6PfTycdceN0qvoAqg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "\"남양주 대전환\" 기본사회 실현 기본 조례안 입법예고",
+        "summary": "[남양주=뉴시스]이호진 기자 = 경기 남양주시는 남양주형 기본사회 구축을 위해 ‘남양주시 기본사회 실현을 위한 기본 조례안’을 입법예고했다고 20일 밝혔다. 이번 조례안은 주거·돌봄·교통·문화·금융·에너지 등 시민 생활과 밀접한 분야를 기본권 관점에서 ..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-08-20",
+        "url": "https://www.fnnews.com/news/202608201534165841",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.bgoOt079jCows9RtaC6ClQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "'난자 동결' 공개한 美민주 대선 잠룡, 생식권 띄우며 대권도전 시사",
+        "summary": "미국 민주당의 차기 대권주자 가운데 하나로 꼽히는 알렉산드리아 오카시오-코르테스(뉴욕) 연방 하원의원이 8일(현지시간) 난자 동결 시술을 받기로 했다고 밝혔다. 사회관계망서비스(SNS)에 직접 과배란 주사를 놓는 영상을 올리기도 ...",
+        "source": "한국일보 on MSN",
+        "publishedAt": "2026-08-10",
+        "url": "https://www.msn.com/ko-kr/news/news/%EB%82%9C%EC%9E%90-%EB%8F%99%EA%B2%B0-%EA%B3%B5%EA%B0%9C%ED%95%9C-%E7%BE%8E%EB%AF%BC%EC%A3%BC-%EB%8C%80%EC%84%A0-%EC%9E%A0%EB%A3%A1-%EC%83%9D%EC%8B%9D%EA%B6%8C-%EB%9D%84%EC%9A%B0%EB%A9%B0-%EB%8C%80%EA%B6%8C%EB%8F%84%EC%A0%84-%EC%8B%9C%EC%82%AC/ar-AA29IfJw",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.QWtA03YcXU2470wV23c93A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "\"글로벌 비즈니스 정보 한눈에\"…코트라, 세계이슈톡톡 구독자 1만명 돌파",
+        "summary": "[서울=뉴시스]이창훈 기자 = 대한무역투자진흥공사(코트라)는 해외 비즈니스 정보 전파 채널로 운영 중인 카카오톡 사회관계망서비스(SNS) 기반 '세계이슈톡톡' 구독자가 8월 초 기준 1만명을 돌파했다고 9일 밝혔다. 지난해 3월 채널 개설 이후 17개월 만에 구독자 ..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-08-09",
+        "url": "https://www.fnnews.com/news/202608091102469165",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.YUNeEXpKGN3t_F91m5qAog&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "'병역법 위반' 송민호, 오늘(20일) 재판 불출석.. 관리책임자 네 번째 공판 [스타이슈]",
+        "summary": "보이 그룹 위너 멤버 송민호가 사회복무요원 근무 당시 관리책임자였던 A씨의 재판에 출석하지 않는다. 20일 서울서부지법 형사10단독은 병역법 위반 혐의를 받는 A씨의 네 번째 공판을 열고 피고인 신문을 진행한다. 특별한 사정이 없을 경우 이날을 끝으로 변론을 종결할 예정이다. 앞서 송민호는 지난달 14일 진행된 세 번째 공판에 증인으로 출석, A씨와의 병역 ...",
+        "source": "스타뉴스 on MSN",
+        "publishedAt": "2026-08-20",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%91%EC%97%AD%EB%B2%95-%EC%9C%84%EB%B0%98-%EC%86%A1%EB%AF%BC%ED%98%B8-%EC%98%A4%EB%8A%98-20%EC%9D%BC-%EC%9E%AC%ED%8C%90-%EB%B6%88%EC%B6%9C%EC%84%9D-%EA%B4%80%EB%A6%AC%EC%B1%85%EC%9E%84%EC%9E%90-%EB%84%A4-%EB%B2%88%EC%A7%B8-%EA%B3%B5%ED%8C%90-%EC%8A%A4%ED%83%80%EC%9D%B4%EC%8A%88/ar-AA2awItj",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ZRyUbMVz-a3VpxbFTIQOow&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI 쓰는 신입사원 괜찮나…직장인 의견 ‘팽팽’",
+        "summary": "국내 직장인들 사이에서 신입·주니어급 직원의 인공지능(AI) 사용을 어디까지 허용해야 하는지를 놓고 의견이 엇갈리고 있다. 업무 효율을 높일 수 있다는 기대와 함께 업무 역량을 제대로 쌓지 못하거나 잘못된 정보를 ...",
+        "source": "중앙일보",
+        "publishedAt": "2026-08-20",
+        "url": "https://www.koreadaily.com/article/20260820150014722",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.5WDbHkhi5Ib2LD07gjd89w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "“인공지능 툴 ‘뚝딱’ 만들더라”…지방 중기 살리는 ‘AI 구원투수’",
+        "summary": "“학생들이 한 달간 인턴으로 뛰어가며 세부적인 기능까지 맞춰준 덕분에, 비용 부담을 덜고 현장에서 쓸 수 있는 인공지능(AI) 도구를 완성했습니다.” 충북 청주의 산업용 전자제어장치 제조업체 창명제어기술. 직원수 ...",
+        "source": "중앙일보",
+        "publishedAt": "2026-08-20",
+        "url": "https://www.koreadaily.com/article/20260820130037704",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.yPS7tZqDAAo-8Fgk1zvFyw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[런던에서 읽는 생성형 AI시대의 경제] 〈8〉 왜 삼성은 아이폰을 만들어 내지 못했나",
+        "summary": "낯선 가능성에 기존 성공의 자원과 권한을 넘겨 주는‘결단과 인내’ 부족⊙ ‘아무도 하지 않고, 현재 시장 규모는 0’인 사업에 투자할 한국 기업 있나?⊙ 삼성, 2006~07년 ‘기기 중심 → 플랫폼 중심 전환’ 방향은 잡았지만…⊙ 애플·구글·넷플릭스·엔비디아는 규칙을 정의하고 가치를 만드는 흐름을 통제⊙ 한국, HBM·반도체·디스플레이·배터리 등 물리적 ...",
+        "source": "월간조선 on MSN",
+        "publishedAt": "2026-08-20",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%9F%B0%EB%8D%98%EC%97%90%EC%84%9C-%EC%9D%BD%EB%8A%94-%EC%83%9D%EC%84%B1%ED%98%95-ai%EC%8B%9C%EB%8C%80%EC%9D%98-%EA%B2%BD%EC%A0%9C-8-%EC%99%9C-%EC%82%BC%EC%84%B1%EC%9D%80-%EC%95%84%EC%9D%B4%ED%8F%B0%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%82%B4%EC%A7%80-%EB%AA%BB%ED%96%88%EB%82%98/ar-AA2axUHv",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.IbxxYQ-EFfbVsFx6bS_k9w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[인터뷰] 김홍범 삼홍아크튜리온 대표 “AI 전력 폭증이 SMR 시대 앞당긴다…한국 제조 경쟁력이 승부처”",
+        "summary": "“SMR 설계 많아도 실제 제작 가능한 기업은 제한적…한국 원전 공급망 글로벌 경쟁력 충분” 대형 원전·SMR·ITER서 쌓은 고난도 제작 경험…“글로벌 Tier-1 핵심부품 공급사로 도약” “SMR 제조금융·인허가 패스트트랙 필요…AI 데이터센터가 원전시장 게임 체인저” “소형모듈원자로(SMR) 시대에는 좋은 설계만으로 경쟁할 수 없습니다. 아무리 뛰어난 ...",
+        "source": "전자신문",
+        "publishedAt": "2026-08-20",
+        "url": "https://www.etnews.com/20260820000379",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.H-qub9_JvZTa_5tNfbSblg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[K테크, 아세안 실험실] ②도로 깔던 공적원조의 진화‥韓 반도체, 아세안 AI 두뇌 심다",
+        "summary": "서버실 문을 열자 굉음이 귀를 때렸다. 엔비디아의 고성능 그래픽처리장치(GPU) H200과 한국 퓨리오사AI의 신경망처리장치(NPU)가 동시에 연산하면서 발생한 열을 식히기 위해 냉각팬이 쉴 새 없이 돌아가며 내는 ...",
+        "source": "아시아경제 on MSN",
+        "publishedAt": "2026-08-20",
+        "url": "https://www.msn.com/ko-kr/%EA%B3%BC%ED%95%99/%EC%9D%BC%EB%B0%98/k%ED%85%8C%ED%81%AC-%EC%95%84%EC%84%B8%EC%95%88-%EC%8B%A4%ED%97%98%EC%8B%A4-%EB%8F%84%EB%A1%9C-%EA%B9%94%EB%8D%98-%EA%B3%B5%EC%A0%81%EC%9B%90%EC%A1%B0%EC%9D%98-%EC%A7%84%ED%99%94-%E9%9F%93-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%95%84%EC%84%B8%EC%95%88-ai-%EB%91%90%EB%87%8C-%EC%8B%AC%EB%8B%A4/ar-AA2awSCz",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.tcercaJDioDEMy7LJu4jsg&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-08-20",
     "windowStart": "2026-08-18T22:00:00.000Z",
     "windowEnd": "2026-08-19T22:00:00.000Z",
@@ -551,103 +648,6 @@
         "publishedAt": "2026-08-14",
         "url": "https://www.ajunews.com/view/20260814174418902",
         "imageUrl": "https://www.bing.com/th?id=ONUT.WdeI_9tAIMFz_237dgm6mQ&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-08-14",
-    "windowStart": "2026-08-12T22:00:00.000Z",
-    "windowEnd": "2026-08-13T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "'올공 시위' 건드린 이수지·최시원… 연예인 사회이슈 발언 '득'인가 '독'인가",
-        "summary": "최근 연예인들이 '올림픽공원 시위' 등 민감한 사회적 이슈를 직접·간접적으로 언급한 이후 갑론을박이 확산하고 있다. 연예인들의 신념 표명이나 정치적 발언은 SNS와 온라인 커뮤니티를 통해 대중의 즉각 낙인으로 이어질 수 있다는 점에서 신중해야 한다는 분석이 나온다. ━민원인이 \"재선거!\" 외치는 장면에…\"시위 참가자 희화화\" 논란 일파만파 ━개그우먼 이수지 ...",
-        "source": "머니투데이 on MSN",
-        "publishedAt": "2026-08-02",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%98%AC%EA%B3%B5-%EC%8B%9C%EC%9C%84-%EA%B1%B4%EB%93%9C%EB%A6%B0-%EC%9D%B4%EC%88%98%EC%A7%80-%EC%B5%9C%EC%8B%9C%EC%9B%90-%EC%97%B0%EC%98%88%EC%9D%B8-%EC%82%AC%ED%9A%8C%EC%9D%B4%EC%8A%88-%EB%B0%9C%EC%96%B8-%EB%93%9D-%EC%9D%B8%EA%B0%80-%EB%8F%85-%EC%9D%B8%EA%B0%80/ar-AA29ghzh",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.XRR6JKq74j_2PNT4ObaDOg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "경사노위, 'N% 성과급' 사회적 대화 검토…\"노사정 협의\"",
-        "summary": "[서울=뉴시스] 고홍주 기자 = 대통령 소속 사회적 대화 기구인 경제사회노동위원회(경사노위)가 이른바 'N% 성과급' 문제를 사회적 대화 의제로 다루는 방안을 검토하고 있다. 또 인공지능(AI) 시대 반도체 초과이윤 배분 논의와 관련해서도 향후 의제로 다룰 가능성..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-08-11",
-        "url": "https://www.fnnews.com/news/202608111400197554",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.kyOujDSrqc0Jj63cjRX_DA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "김규원, 사회복무요원 시절 미담 뒤늦게 화제… ‘우리 가족 연예인 0순위’ [MK★이슈]",
-        "summary": "개그맨 김규원의 사회복무요원 시절 선행이 뒤늦게 알려지며 훈훈함을 전하고 있다. 7일 일러스트레이터 키크니 작가는 자신의 SNS를 통해 팬으로부터 제보받은 사연을 직접 그림으로 풀어 공개했다. 사연 속 주인공은 현재 활발하게 활동 중인 개그맨 김규원이었다. “저희 아이는 선천적 근육병으로 초등학교 4학년 때부터 휠체어를 타게 됐다”고 알린 사연자는 “학교에 ...",
-        "source": "매일경제 on MSN",
-        "publishedAt": "2026-08-07",
-        "url": "https://www.msn.com/ko-kr/%EC%B7%A8%EB%AF%B8-%EB%B0%8F-%EA%B4%80%EC%8B%AC%EC%82%AC/%EC%9D%BC%EB%B0%98/%EA%B9%80%EA%B7%9C%EC%9B%90-%EC%82%AC%ED%9A%8C%EB%B3%B5%EB%AC%B4%EC%9A%94%EC%9B%90-%EC%8B%9C%EC%A0%88-%EB%AF%B8%EB%8B%B4-%EB%92%A4%EB%8A%A6%EA%B2%8C-%ED%99%94%EC%A0%9C-%EC%9A%B0%EB%A6%AC-%EA%B0%80%EC%A1%B1-%EC%97%B0%EC%98%88%EC%9D%B8-0%EC%88%9C%EC%9C%84-mk-%EC%9D%B4%EC%8A%88/ar-AA29zZse",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.7q88a2qpwyYabUjpvwY_KA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "\"글로벌 비즈니스 정보 한눈에\"…코트라, 세계이슈톡톡 구독자 1만명 돌파",
-        "summary": "[서울=뉴시스]이창훈 기자 = 대한무역투자진흥공사(코트라)는 해외 비즈니스 정보 전파 채널로 운영 중인 카카오톡 사회관계망서비스(SNS) 기반 '세계이슈톡톡' 구독자가 8월 초 기준 1만명을 돌파했다고 9일 밝혔다. 지난해 3월 채널 개설 이후 17개월 만에 구독자 ..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-08-09",
-        "url": "https://www.fnnews.com/news/202608091102469165",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.YUNeEXpKGN3t_F91m5qAog&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "'난자 동결' 공개한 美민주 대선 잠룡, 생식권 띄우며 대권도전 시사",
-        "summary": "미국 민주당의 차기 대권주자 가운데 하나로 꼽히는 알렉산드리아 오카시오-코르테스(뉴욕) 연방 하원의원이 8일(현지시간) 난자 동결 시술을 받기로 했다고 밝혔다. 사회관계망서비스(SNS)에 직접 과배란 주사를 놓는 영상을 올리기도 ...",
-        "source": "한국일보 on MSN",
-        "publishedAt": "2026-08-10",
-        "url": "https://www.msn.com/ko-kr/news/news/%EB%82%9C%EC%9E%90-%EB%8F%99%EA%B2%B0-%EA%B3%B5%EA%B0%9C%ED%95%9C-%E7%BE%8E%EB%AF%BC%EC%A3%BC-%EB%8C%80%EC%84%A0-%EC%9E%A0%EB%A3%A1-%EC%83%9D%EC%8B%9D%EA%B6%8C-%EB%9D%84%EC%9A%B0%EB%A9%B0-%EB%8C%80%EA%B6%8C%EB%8F%84%EC%A0%84-%EC%8B%9C%EC%82%AC/ar-AA29IfJw",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.QWtA03YcXU2470wV23c93A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "에스트라, KDD서 AI 피부 진단 기술 연구 성과 공개",
-        "summary": "[의학신문·일간보사=유은제 기자]에스트라(AESTURA)가 AI 학회 KDD 2026에 공식 후원사로 참여해 AI 피부진단 서비스 고도화 성과를 발표하며 피부과학과 AI 진단 서비스를 선보였다고 13일 밝혔다. 지난 11일 제주국제컨벤션센터에서 열린 KDD(Knowledge Discovery and Data Mining) 2026 코리아 데이에 에스트라는 ...",
-        "source": "의학신문",
-        "publishedAt": "2026-08-13",
-        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3010161",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.9mpfCLu-QDUC2rt-HDt8Ew&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "인공지능(AI)이 안부 묻고, 위험 감지…용산구 스마트행정 주민 삶 바꾼다",
-        "summary": "[헤럴드경제=박종일 선임기자]서울 용산구(구청장 김경대)가 인공지능(AI)과 사물인터넷(IoT) 등 첨단기술을 행정에 적극 접목하며 스마트행정의 영역을 넓히고 있다. 단순히 새로운 기술을 도입하는 데 그치지 않고 돌봄과 안전, 복지, 문화, 민원 등 주민의 일상과 맞닿은 분야에 기술을 적용해 행정서비스의 질을 높이는 데 초점을 맞추고 있다. 용산구는 올해 ...",
-        "source": "헤럴드경제 on MSN",
-        "publishedAt": "2026-08-13",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-ai-%EC%9D%B4-%EC%95%88%EB%B6%80-%EB%AC%BB%EA%B3%A0-%EC%9C%84%ED%97%98-%EA%B0%90%EC%A7%80-%EC%9A%A9%EC%82%B0%EA%B5%AC-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%96%89%EC%A0%95-%EC%A3%BC%EB%AF%BC-%EC%82%B6-%EB%B0%94%EA%BE%BC%EB%8B%A4/ar-AA29YKLt",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.cYA8J4YnC0qE9NwO6Pmijw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "시흥시, '복지행정 인공지능(AI) 정책실험실' 공모 선정…인공지능 기반 복지행정",
-        "summary": "시흥시 (시장 임병택)는 보건복지부가 주관한 '복지행정 인공지능 (AI) 정책실험실 실증사업' 공모에 최종 선정돼, 8월부터 연말까지 복지행정 전 과정에 생성형 인공지능을 적용하는 실증사업을 시작한다.",
-        "source": "연합뉴스",
-        "publishedAt": "2026-07-31",
-        "url": "https://www.yna.co.kr/view/RPR20260731004600353",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.9ZLJWC1bmXlcqfA-MyDztQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "빗썸, 인공지능 공급망 공격 예방 위한 가이드 공개",
-        "summary": "(서울=연합뉴스) 박수현 기자 = 가상자산 거래소 빗썸이 8월 정보보호 캠페인의 일환으로 '인공지능(AI) 공급망 공격' 예방 가이드를 13일 공개했다. 공급망 공격은 완성된 프로그램을 해킹하는 대신 소프트웨어 제작에 사용되는 재료 단계에 미리 악성코드를 심어두는 수법을 말한다. 이런 프로그램은 설치 초기에는 정상 ...",
-        "source": "연합뉴스 on MSN",
-        "publishedAt": "2026-08-13",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4/%EB%B9%97%EC%8D%B8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EA%B3%B5%EA%B2%A9-%EC%98%88%EB%B0%A9-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9D%B4%EB%93%9C-%EA%B3%B5%EA%B0%9C/ar-AA29Zi8X",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.VCcidHUcJybg_AXNpfTbFg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[김병필의 인공지능 개척시대] 울타리를 넘은 인공지능",
-        "summary": "어떤 사건의 중요성은 어느 시간 지평에서 바라보느냐에 따라 크게 달라진다. 오늘 직장 상사에게 크게 꾸지람을 들은 일도 몇 년 후 돌아보면 별일 아닐 수 있다. 반대로 건강 챙기는 일처럼 당장은 급해 보이지 않아도 ...",
-        "source": "중앙일보",
-        "publishedAt": "2026-08-02",
-        "url": "https://www.koreadaily.com/article/20260802081033721",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Vbi7m6mS99OBUMghjePFAQ&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
