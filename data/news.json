@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-08-21",
-  "windowStart": "2026-08-19T22:00:00.000Z",
-  "windowEnd": "2026-08-20T22:00:00.000Z",
+  "updatedAt": "2026-08-22",
+  "windowStart": "2026-08-20T22:00:00.000Z",
+  "windowEnd": "2026-08-21T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "[브라보 문화 이슈] '늙은 키팅' 차인표가 말하는 '좋은 어른'의 조건",
+      "summary": "왜 떴을까? 배우 차인표가 데뷔 후 처음으로 연극 무대에 오른다. 그가 선택한 작품은 연극 ‘죽은 시인의 사회’. 오는 9월 13일까지 NOL 씨어터 대학로 우리카드홀에서 공연된다. 차인표는 극 중 학생들에게 스스로 생각하고 삶을 선택하는 법을 일깨우는 참스승 존 키팅을 연기한다. 평소 나눔과 선행을 꾸준히 실천하며 ‘좋은 어른’의 모습을 보여온 차인표이기 ...",
+      "source": "브라보 마이 라이프 on MSN",
+      "publishedAt": "2026-08-21",
+      "url": "https://www.msn.com/ko-kr/entertainment/%EC%9D%BC%EB%B0%98/%EB%B8%8C%EB%9D%BC%EB%B3%B4-%EB%AC%B8%ED%99%94-%EC%9D%B4%EC%8A%88-%EB%8A%99%EC%9D%80-%ED%82%A4%ED%8C%85-%EC%B0%A8%EC%9D%B8%ED%91%9C%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%A2%8B%EC%9D%80-%EC%96%B4%EB%A5%B8-%EC%9D%98-%EC%A1%B0%EA%B1%B4/ar-AA2aFVYz",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.jmOr8BD0DsGfuNML6E1Cww&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[이슈 & 뉴스] 진천군, 4대 분야·17개 전략과제·105개 세부사업 추진...ESG 행정 정착 본격화",
+      "summary": "21일 진천군에 따르면, ESG는 기업의 지속가능성을 평가하는 기준으로 주로 활용돼왔지만, 이를 지방행정에 선제적으로 적용해 기후변화와 탄소중립 등 환경 분야뿐 아니라 군민 안전과 삶의 질, 행정의 투명성과 소통까지 아우르는 군정 운영 원칙으로 발전시켜 왔다.",
+      "source": "티티엘뉴스",
+      "publishedAt": "2026-08-21",
+      "url": "https://www.ttlnews.com/news/articleView.html?idxno=3136021",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.7f5pY5LfO2gPYZTGPPaPlg&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "[이슈토론] \"용산공원 일부, 모듈러 주택 해볼만\" \"툭 튀어나온 용산, 사회적 합의 필요\"",
@@ -11,42 +29,6 @@
       "publishedAt": "2026-08-20",
       "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%EC%9D%B4%EC%8A%88%ED%86%A0%EB%A1%A0-%EC%9A%A9%EC%82%B0%EA%B3%B5%EC%9B%90-%EC%9D%BC%EB%B6%80-%EB%AA%A8%EB%93%88%EB%9F%AC-%EC%A3%BC%ED%83%9D-%ED%95%B4%EB%B3%BC%EB%A7%8C-%ED%88%AD-%ED%8A%80%EC%96%B4%EB%82%98%EC%98%A8-%EC%9A%A9%EC%82%B0-%EC%82%AC%ED%9A%8C%EC%A0%81-%ED%95%A9%EC%9D%98-%ED%95%84%EC%9A%94/ar-AA2ax43c",
       "imageUrl": "https://www.bing.com/th?id=ONUT.d6YDx6PfTycdceN0qvoAqg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "\"남양주 대전환\" 기본사회 실현 기본 조례안 입법예고",
-      "summary": "[남양주=뉴시스]이호진 기자 = 경기 남양주시는 남양주형 기본사회 구축을 위해 ‘남양주시 기본사회 실현을 위한 기본 조례안’을 입법예고했다고 20일 밝혔다. 이번 조례안은 주거·돌봄·교통·문화·금융·에너지 등 시민 생활과 밀접한 분야를 기본권 관점에서 ..",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-08-20",
-      "url": "https://www.fnnews.com/news/202608201534165841",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.bgoOt079jCows9RtaC6ClQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "'난자 동결' 공개한 美민주 대선 잠룡, 생식권 띄우며 대권도전 시사",
-      "summary": "미국 민주당의 차기 대권주자 가운데 하나로 꼽히는 알렉산드리아 오카시오-코르테스(뉴욕) 연방 하원의원이 8일(현지시간) 난자 동결 시술을 받기로 했다고 밝혔다. 사회관계망서비스(SNS)에 직접 과배란 주사를 놓는 영상을 올리기도 ...",
-      "source": "한국일보 on MSN",
-      "publishedAt": "2026-08-10",
-      "url": "https://www.msn.com/ko-kr/news/news/%EB%82%9C%EC%9E%90-%EB%8F%99%EA%B2%B0-%EA%B3%B5%EA%B0%9C%ED%95%9C-%E7%BE%8E%EB%AF%BC%EC%A3%BC-%EB%8C%80%EC%84%A0-%EC%9E%A0%EB%A3%A1-%EC%83%9D%EC%8B%9D%EA%B6%8C-%EB%9D%84%EC%9A%B0%EB%A9%B0-%EB%8C%80%EA%B6%8C%EB%8F%84%EC%A0%84-%EC%8B%9C%EC%82%AC/ar-AA29IfJw",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.QWtA03YcXU2470wV23c93A&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "\"글로벌 비즈니스 정보 한눈에\"…코트라, 세계이슈톡톡 구독자 1만명 돌파",
-      "summary": "[서울=뉴시스]이창훈 기자 = 대한무역투자진흥공사(코트라)는 해외 비즈니스 정보 전파 채널로 운영 중인 카카오톡 사회관계망서비스(SNS) 기반 '세계이슈톡톡' 구독자가 8월 초 기준 1만명을 돌파했다고 9일 밝혔다. 지난해 3월 채널 개설 이후 17개월 만에 구독자 ..",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-08-09",
-      "url": "https://www.fnnews.com/news/202608091102469165",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.YUNeEXpKGN3t_F91m5qAog&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "'병역법 위반' 송민호, 오늘(20일) 재판 불출석.. 관리책임자 네 번째 공판 [스타이슈]",
-      "summary": "보이 그룹 위너 멤버 송민호가 사회복무요원 근무 당시 관리책임자였던 A씨의 재판에 출석하지 않는다. 20일 서울서부지법 형사10단독은 병역법 위반 혐의를 받는 A씨의 네 번째 공판을 열고 피고인 신문을 진행한다. 특별한 사정이 없을 경우 이날을 끝으로 변론을 종결할 예정이다. 앞서 송민호는 지난달 14일 진행된 세 번째 공판에 증인으로 출석, A씨와의 병역 ...",
-      "source": "스타뉴스 on MSN",
-      "publishedAt": "2026-08-20",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%91%EC%97%AD%EB%B2%95-%EC%9C%84%EB%B0%98-%EC%86%A1%EB%AF%BC%ED%98%B8-%EC%98%A4%EB%8A%98-20%EC%9D%BC-%EC%9E%AC%ED%8C%90-%EB%B6%88%EC%B6%9C%EC%84%9D-%EA%B4%80%EB%A6%AC%EC%B1%85%EC%9E%84%EC%9E%90-%EB%84%A4-%EB%B2%88%EC%A7%B8-%EA%B3%B5%ED%8C%90-%EC%8A%A4%ED%83%80%EC%9D%B4%EC%8A%88/ar-AA2awItj",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ZRyUbMVz-a3VpxbFTIQOow&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
@@ -74,24 +56,6 @@
       "publishedAt": "2026-08-20",
       "url": "https://www.msn.com/ko-kr/news/other/%EB%9F%B0%EB%8D%98%EC%97%90%EC%84%9C-%EC%9D%BD%EB%8A%94-%EC%83%9D%EC%84%B1%ED%98%95-ai%EC%8B%9C%EB%8C%80%EC%9D%98-%EA%B2%BD%EC%A0%9C-8-%EC%99%9C-%EC%82%BC%EC%84%B1%EC%9D%80-%EC%95%84%EC%9D%B4%ED%8F%B0%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%82%B4%EC%A7%80-%EB%AA%BB%ED%96%88%EB%82%98/ar-AA2axUHv",
       "imageUrl": "https://www.bing.com/th?id=ONUT.IbxxYQ-EFfbVsFx6bS_k9w&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[인터뷰] 김홍범 삼홍아크튜리온 대표 “AI 전력 폭증이 SMR 시대 앞당긴다…한국 제조 경쟁력이 승부처”",
-      "summary": "“SMR 설계 많아도 실제 제작 가능한 기업은 제한적…한국 원전 공급망 글로벌 경쟁력 충분” 대형 원전·SMR·ITER서 쌓은 고난도 제작 경험…“글로벌 Tier-1 핵심부품 공급사로 도약” “SMR 제조금융·인허가 패스트트랙 필요…AI 데이터센터가 원전시장 게임 체인저” “소형모듈원자로(SMR) 시대에는 좋은 설계만으로 경쟁할 수 없습니다. 아무리 뛰어난 ...",
-      "source": "전자신문",
-      "publishedAt": "2026-08-20",
-      "url": "https://www.etnews.com/20260820000379",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.H-qub9_JvZTa_5tNfbSblg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[K테크, 아세안 실험실] ②도로 깔던 공적원조의 진화‥韓 반도체, 아세안 AI 두뇌 심다",
-      "summary": "서버실 문을 열자 굉음이 귀를 때렸다. 엔비디아의 고성능 그래픽처리장치(GPU) H200과 한국 퓨리오사AI의 신경망처리장치(NPU)가 동시에 연산하면서 발생한 열을 식히기 위해 냉각팬이 쉴 새 없이 돌아가며 내는 ...",
-      "source": "아시아경제 on MSN",
-      "publishedAt": "2026-08-20",
-      "url": "https://www.msn.com/ko-kr/%EA%B3%BC%ED%95%99/%EC%9D%BC%EB%B0%98/k%ED%85%8C%ED%81%AC-%EC%95%84%EC%84%B8%EC%95%88-%EC%8B%A4%ED%97%98%EC%8B%A4-%EB%8F%84%EB%A1%9C-%EA%B9%94%EB%8D%98-%EA%B3%B5%EC%A0%81%EC%9B%90%EC%A1%B0%EC%9D%98-%EC%A7%84%ED%99%94-%E9%9F%93-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%95%84%EC%84%B8%EC%95%88-ai-%EB%91%90%EB%87%8C-%EC%8B%AC%EB%8B%A4/ar-AA2awSCz",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.tcercaJDioDEMy7LJu4jsg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }

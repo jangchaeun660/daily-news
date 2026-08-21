@@ -1,5 +1,66 @@
 [
   {
+    "updatedAt": "2026-08-22",
+    "windowStart": "2026-08-20T22:00:00.000Z",
+    "windowEnd": "2026-08-21T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[브라보 문화 이슈] '늙은 키팅' 차인표가 말하는 '좋은 어른'의 조건",
+        "summary": "왜 떴을까? 배우 차인표가 데뷔 후 처음으로 연극 무대에 오른다. 그가 선택한 작품은 연극 ‘죽은 시인의 사회’. 오는 9월 13일까지 NOL 씨어터 대학로 우리카드홀에서 공연된다. 차인표는 극 중 학생들에게 스스로 생각하고 삶을 선택하는 법을 일깨우는 참스승 존 키팅을 연기한다. 평소 나눔과 선행을 꾸준히 실천하며 ‘좋은 어른’의 모습을 보여온 차인표이기 ...",
+        "source": "브라보 마이 라이프 on MSN",
+        "publishedAt": "2026-08-21",
+        "url": "https://www.msn.com/ko-kr/entertainment/%EC%9D%BC%EB%B0%98/%EB%B8%8C%EB%9D%BC%EB%B3%B4-%EB%AC%B8%ED%99%94-%EC%9D%B4%EC%8A%88-%EB%8A%99%EC%9D%80-%ED%82%A4%ED%8C%85-%EC%B0%A8%EC%9D%B8%ED%91%9C%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%A2%8B%EC%9D%80-%EC%96%B4%EB%A5%B8-%EC%9D%98-%EC%A1%B0%EA%B1%B4/ar-AA2aFVYz",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.jmOr8BD0DsGfuNML6E1Cww&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈 & 뉴스] 진천군, 4대 분야·17개 전략과제·105개 세부사업 추진...ESG 행정 정착 본격화",
+        "summary": "21일 진천군에 따르면, ESG는 기업의 지속가능성을 평가하는 기준으로 주로 활용돼왔지만, 이를 지방행정에 선제적으로 적용해 기후변화와 탄소중립 등 환경 분야뿐 아니라 군민 안전과 삶의 질, 행정의 투명성과 소통까지 아우르는 군정 운영 원칙으로 발전시켜 왔다.",
+        "source": "티티엘뉴스",
+        "publishedAt": "2026-08-21",
+        "url": "https://www.ttlnews.com/news/articleView.html?idxno=3136021",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.7f5pY5LfO2gPYZTGPPaPlg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈토론] \"용산공원 일부, 모듈러 주택 해볼만\" \"툭 튀어나온 용산, 사회적 합의 필요\"",
+        "summary": "'SBS ' ■ ■ 진행 : 주영진 앵커 ■ 김인만 ...",
+        "source": "SBS 뉴스 on MSN",
+        "publishedAt": "2026-08-20",
+        "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%EC%9D%B4%EC%8A%88%ED%86%A0%EB%A1%A0-%EC%9A%A9%EC%82%B0%EA%B3%B5%EC%9B%90-%EC%9D%BC%EB%B6%80-%EB%AA%A8%EB%93%88%EB%9F%AC-%EC%A3%BC%ED%83%9D-%ED%95%B4%EB%B3%BC%EB%A7%8C-%ED%88%AD-%ED%8A%80%EC%96%B4%EB%82%98%EC%98%A8-%EC%9A%A9%EC%82%B0-%EC%82%AC%ED%9A%8C%EC%A0%81-%ED%95%A9%EC%9D%98-%ED%95%84%EC%9A%94/ar-AA2ax43c",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.d6YDx6PfTycdceN0qvoAqg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI 쓰는 신입사원 괜찮나…직장인 의견 ‘팽팽’",
+        "summary": "국내 직장인들 사이에서 신입·주니어급 직원의 인공지능(AI) 사용을 어디까지 허용해야 하는지를 놓고 의견이 엇갈리고 있다. 업무 효율을 높일 수 있다는 기대와 함께 업무 역량을 제대로 쌓지 못하거나 잘못된 정보를 ...",
+        "source": "중앙일보",
+        "publishedAt": "2026-08-20",
+        "url": "https://www.koreadaily.com/article/20260820150014722",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.5WDbHkhi5Ib2LD07gjd89w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "“인공지능 툴 ‘뚝딱’ 만들더라”…지방 중기 살리는 ‘AI 구원투수’",
+        "summary": "“학생들이 한 달간 인턴으로 뛰어가며 세부적인 기능까지 맞춰준 덕분에, 비용 부담을 덜고 현장에서 쓸 수 있는 인공지능(AI) 도구를 완성했습니다.” 충북 청주의 산업용 전자제어장치 제조업체 창명제어기술. 직원수 ...",
+        "source": "중앙일보",
+        "publishedAt": "2026-08-20",
+        "url": "https://www.koreadaily.com/article/20260820130037704",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.yPS7tZqDAAo-8Fgk1zvFyw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[런던에서 읽는 생성형 AI시대의 경제] 〈8〉 왜 삼성은 아이폰을 만들어 내지 못했나",
+        "summary": "낯선 가능성에 기존 성공의 자원과 권한을 넘겨 주는‘결단과 인내’ 부족⊙ ‘아무도 하지 않고, 현재 시장 규모는 0’인 사업에 투자할 한국 기업 있나?⊙ 삼성, 2006~07년 ‘기기 중심 → 플랫폼 중심 전환’ 방향은 잡았지만…⊙ 애플·구글·넷플릭스·엔비디아는 규칙을 정의하고 가치를 만드는 흐름을 통제⊙ 한국, HBM·반도체·디스플레이·배터리 등 물리적 ...",
+        "source": "월간조선 on MSN",
+        "publishedAt": "2026-08-20",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%9F%B0%EB%8D%98%EC%97%90%EC%84%9C-%EC%9D%BD%EB%8A%94-%EC%83%9D%EC%84%B1%ED%98%95-ai%EC%8B%9C%EB%8C%80%EC%9D%98-%EA%B2%BD%EC%A0%9C-8-%EC%99%9C-%EC%82%BC%EC%84%B1%EC%9D%80-%EC%95%84%EC%9D%B4%ED%8F%B0%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%82%B4%EC%A7%80-%EB%AA%BB%ED%96%88%EB%82%98/ar-AA2axUHv",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.IbxxYQ-EFfbVsFx6bS_k9w&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-08-21",
     "windowStart": "2026-08-19T22:00:00.000Z",
     "windowEnd": "2026-08-20T22:00:00.000Z",
@@ -551,103 +612,6 @@
         "publishedAt": "2026-08-15",
         "url": "https://www.msn.com/ko-kr/money/topstories/%EC%B9%98%ED%82%A8%EC%A7%91%EC%97%90%EC%84%9C-ai-%EC%98%81%ED%99%94-%EB%B3%B4%EA%B3%A0-%EB%B0%B0%EB%8B%AC%EB%A1%9C%EB%B4%87%EA%B9%8C%EC%A7%80-%EC%9C%A0%ED%86%B5%EA%B0%80-%ED%91%B8%EB%93%9C%ED%85%8C%ED%81%AC-%EC%A0%84%EC%9F%81/ar-AA2acT1W",
         "imageUrl": "https://www.bing.com/th?id=ONUT.rQQpxOCL9T6pvthGBDDjBQ&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-08-15",
-    "windowStart": "2026-08-13T22:00:00.000Z",
-    "windowEnd": "2026-08-14T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "'올공 시위' 건드린 이수지·최시원… 연예인 사회이슈 발언 '득'인가 '독'인가",
-        "summary": "최근 연예인들이 '올림픽공원 시위' 등 민감한 사회적 이슈를 직접·간접적으로 언급한 이후 갑론을박이 확산하고 있다. 연예인들의 신념 표명이나 정치적 발언은 SNS와 온라인 커뮤니티를 통해 대중의 즉각 낙인으로 이어질 수 있다는 점에서 신중해야 한다는 분석이 나온다. ━민원인이 \"재선거!\" 외치는 장면에…\"시위 참가자 희화화\" 논란 일파만파 ━개그우먼 이수지 ...",
-        "source": "머니투데이 on MSN",
-        "publishedAt": "2026-08-02",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%98%AC%EA%B3%B5-%EC%8B%9C%EC%9C%84-%EA%B1%B4%EB%93%9C%EB%A6%B0-%EC%9D%B4%EC%88%98%EC%A7%80-%EC%B5%9C%EC%8B%9C%EC%9B%90-%EC%97%B0%EC%98%88%EC%9D%B8-%EC%82%AC%ED%9A%8C%EC%9D%B4%EC%8A%88-%EB%B0%9C%EC%96%B8-%EB%93%9D-%EC%9D%B8%EA%B0%80-%EB%8F%85-%EC%9D%B8%EA%B0%80/ar-AA29ghzh",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.XRR6JKq74j_2PNT4ObaDOg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "李, 국가폭력 피해자에 공식 사과…시민사회 “후속 조치 이어져야”",
-        "summary": "【투데이신문 권신영 기자】이재명 대통령이 국가폭력 과거사 피해자들을 청와대로 초청해 국가를 대표해 공식 사과했다. 시민사회는 대통령의 사과를 환영하면서도 가해자 처벌과 실질적인 배·보상 등 국가의 책임을 구체적인 조치로 이어가야 한다고 촉구했다.8일 청와대에 따르면 이 대통령은 전날 청와대 영빈관에서 국가폭력 과거사 사건 피해자 70여 명과 오찬 간담회를 ...",
-        "source": "투데이신문",
-        "publishedAt": "2026-08-08",
-        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128639",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.LmI8clO-5JPe6tc-HV-srA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[박준규의 이슈 언박싱] \"가입해놨더니 뭐 하는 겁니까\"…ISA 개편안, 나흘 만에 뒤집힌 이유",
-        "summary": "정부가 발표한 세금 정책이 나흘 만에 대통령의 재검토 지시를 받았습니다. 재정경제부가 지난 3일 '2026년 세제개편안'을 내놨는데, 이재명 대통령은 7일 참모들과의 회의에서 ISA 개편안을 전면 재검토하라고 주문한 것으로 전해졌습니다.",
-        "source": "펜앤드마이크",
-        "publishedAt": "2026-08-09",
-        "url": "https://www.pennmike.com/news/articleView.html?idxno=125291",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.jl5GbzYYIAioH7GeyXC03g&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈&피플] '분쟁 촉진법'된 노란봉투법, 재개정 필요성은? / 이상호 / 한국공인노무사회 수석부회장",
-        "summary": "노란봉투법이 시행되면서 노동쟁의 범위를 두고 현장의 혼란이 이어지고 있다. 기업의 경영 판단까지 노사 협상의 대상이 될 수 있다는 우려가 나오고 있다. 정부는 현장의 혼선을 줄이기 위해 관련 기준과 시행령 등 하위법령 개정을 검토하고 있다. 노란봉투법 시행 이후 노사관계에는 어떤 변화가 생겼을까? 노란봉투법, 보완 입법이 필요할까?#이상호 #한국공인노무사회 ...",
-        "source": "매일경제TV on MSN",
-        "publishedAt": "2026-08-13",
-        "url": "https://www.msn.com/ko-kr/%EC%A0%95%EC%B9%98/%EC%A0%95%EB%B6%80%EA%B8%B0%EA%B4%80/%EC%9D%B4%EC%8A%88-%ED%94%BC%ED%94%8C-%EB%B6%84%EC%9F%81-%EC%B4%89%EC%A7%84%EB%B2%95-%EB%90%9C-%EB%85%B8%EB%9E%80%EB%B4%89%ED%88%AC%EB%B2%95-%EC%9E%AC%EA%B0%9C%EC%A0%95-%ED%95%84%EC%9A%94%EC%84%B1%EC%9D%80-%EC%9D%B4%EC%83%81%ED%98%B8-%ED%95%9C%EA%B5%AD%EA%B3%B5%EC%9D%B8%EB%85%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-%EC%88%98%EC%84%9D%EB%B6%80%ED%9A%8C%EC%9E%A5/vi-AA2a0Qpr",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.tDHRORvDvZ0dotiHNa1V1w&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "SNS에 사진 퍼져… \"남자가 왜?\"",
-        "summary": "2일 다수의 사회관계망서비스 (SNS)에는 '한강 수영장에 민폐 이용객이 나타났다'는 취지의 글과 함께 사진 한 장이 게시됐다. 한여름 폭염 속에 남녀노소 이용객들이 물놀이를 즐기고 있는 가운데, 분홍색 원피스 수영복을 입고 같은 색 수영모까지 갖춰 쓴 남성의 뒷모습을 담은 사진이었다. 게시물 작성자는 \"왜 남자가 분홍색 여성 수영복을 입고 한강 수영장에서 ...",
-        "source": "한국일보",
-        "publishedAt": "2026-08-03",
-        "url": "https://www.hankookilbo.com/news/article/A2026080315240001539",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.m5FnyMqm35bP7fKSDiCMpA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "‘교사 0점, AI 만점’…인공지능 답 틀려도 특정 단어 많으면 ‘오채점’",
-        "summary": "서·논술형 AI 자동채점 한계 ...",
-        "source": "한겨레 on MSN",
-        "publishedAt": "2026-08-14",
-        "url": "https://www.msn.com/ko-kr/news/national/%EA%B5%90%EC%82%AC-0%EC%A0%90-ai-%EB%A7%8C%EC%A0%90-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8B%B5-%ED%8B%80%EB%A0%A4%EB%8F%84-%ED%8A%B9%EC%A0%95-%EB%8B%A8%EC%96%B4-%EB%A7%8E%EC%9C%BC%EB%A9%B4-%EC%98%A4%EC%B1%84%EC%A0%90/ar-AA2a4JmB",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ERW-E3u61U4NA7Gu9ACtxw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "\"국립대병원 AI전환, 환자 맞춤 건강관리 미흡…병원간 격차 커\"",
-        "summary": "(서울=연합뉴스) 고유선 기자 = 보건·의료분야에서도 인공지능 전환 (AX) 속도가 빨라지고 있지만, 우리나라 국립대병원들은 개인 건강 데이터 접근 등 일부 분야에서 여전히 AI전환이 미흡하고 병원 간 격차도 상당하다는 분석이 나왔다.",
-        "source": "연합뉴스",
-        "publishedAt": "2026-08-14",
-        "url": "https://www.yna.co.kr/view/AKR20260814145200530",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.909xTINgaVCDcy-iOixIQA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "에이전틱·피지컬 AI 등장 흐름 반영",
-        "summary": "새 윤리원칙은 △인간의 존엄성 △사회의 공공선 △인류의 지속가능성을 3대 가치로, △인간중심성 △프라이버시 보호 △공정성과 포용성 △책임성 △안전성 △신뢰성 △투명성을 7대 원칙으로 제시했다. 최근 기술 변화를 반영해 AI에 맡길 판단 범위와 사람의 역할을 정하고, 필요하면 작동을 제한하거나 수정·중단할 수 있도록 하는 내용도 담았다. 최우석 과기정통부 ...",
-        "source": "한국일보",
-        "publishedAt": "2026-08-14",
-        "url": "https://www.hankookilbo.com/news/article/A2026081414190003102",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.kjDErAgowWKpz9Hi_TVczw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "유행처럼 번지는 AI 데이터센터, 물 부족 대책은 없다",
-        "summary": "이재명 정부의 ‘3대 메가 프로젝트’중 하나인 AI 데이터센터가 물 부족 현상을 가속화할 수 있다는 우려가 커지고 있다. 미국에선 데이터센터 냉각에 막대한 양의 물이 사용되면서 주정부 차원의 규제가 강화되고 있지만, 한국에선 데이터센터가 물을 얼마나 소비하는지에 대한 구체적인 정보도 집계되지 않은 상황이다.데이터센터는 AI 기술 발전에 필수적인 시설이지만, ...",
-        "source": "미디어오늘 on MSN",
-        "publishedAt": "2026-08-14",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85/%EC%9C%A0%ED%96%89%EC%B2%98%EB%9F%BC-%EB%B2%88%EC%A7%80%EB%8A%94-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EB%AC%BC-%EB%B6%80%EC%A1%B1-%EB%8C%80%EC%B1%85%EC%9D%80-%EC%97%86%EB%8B%A4/ar-AA2a8lFr",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Rce4U7wrfj1eS7Mz67nwBg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "현대차그룹, 육군에 '피지컬 AI' 심는다…첨단기술 국방 적용 확대",
-        "summary": "현대차그룹이 14일 충남 계룡시 육군본부에서 육군, 산업통상부와 로봇·피지컬 AI 및 첨단기술 활용 확대를 위한 업무협약을 체결했다. 사진 왼쪽부터 이민우 산업부 산업성장실장 전담직무대리, 최장식 육군참모차장, 이항수 현대차그룹 부사장.[사진=육군] 현대자동차그룹이 육군과 손잡고 로봇·피지컬 인공지능(AI) 기술을 국방 현장에 적용한다. 장병이 맡아온 위험 ...",
-        "source": "아주경제",
-        "publishedAt": "2026-08-14",
-        "url": "https://www.ajunews.com/view/20260814174418902",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.WdeI_9tAIMFz_237dgm6mQ&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
