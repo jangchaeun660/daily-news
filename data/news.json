@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-08-24",
-  "windowStart": "2026-08-22T22:00:00.000Z",
-  "windowEnd": "2026-08-23T22:00:00.000Z",
+  "updatedAt": "2026-08-25",
+  "windowStart": "2026-08-23T22:00:00.000Z",
+  "windowEnd": "2026-08-24T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "[속보] 조국 “주거·일자리·노동·교육·돌봄 등에서 소외되지 않는 나라 만들어야”",
+      "summary": "조국혁신당 조국 혁신정책연구원장은 “국민 누구도 주거, 일자리, 노동, 교육, 돌봄 등 삶의 모든 분야에서 소외되거나 배제되지 않는 ‘행복이 권리가 되는 나라’를 만들어야 한다”고 15일 강조했다. 조 원장은 제81주년 광복절인 이날 자신의 사회관계망서비스(SNS)에 올린 글에서 “‘불평등을 이기는 싸움’을 주저해서는 안 된다”며 이같이 밝혔다. 그는 “1 ...",
+      "source": "세계일보 on MSN",
+      "publishedAt": "2026-08-15",
+      "url": "https://www.msn.com/ko-kr/news/politics/%EC%86%8D%EB%B3%B4-%EC%A1%B0%EA%B5%AD-%EC%A3%BC%EA%B1%B0-%EC%9D%BC%EC%9E%90%EB%A6%AC-%EB%85%B8%EB%8F%99-%EA%B5%90%EC%9C%A1-%EB%8F%8C%EB%B4%84-%EB%93%B1%EC%97%90%EC%84%9C-%EC%86%8C%EC%99%B8%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%82%98%EB%9D%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%95%BC/ar-AA2aa34P",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.5jG8GO-Dv-fvgSxTK6NExQ&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "[데이터 팝콘] 비경제활동 중년 5명 중 1명 ‘쉬었음’...10년 새 12만명 늘어",
@@ -20,33 +29,6 @@
       "publishedAt": "2026-08-22",
       "url": "https://www.xportsnews.com/article/2186641",
       "imageUrl": "https://www.bing.com/th?id=ONUT.oRBjTlnAfUbEZFQ1JgSL3g&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[박준규의 이슈언박싱] 민원 폭탄에 지워진 연사…유튜버 '새덕후' 울산 강연 배제 논란",
-      "summary": "조류 생태 유튜브 채널 '새덕후'를 운영하는 김어진 씨가 울산시 주최 생태 행사 연사 명단에서 빠졌습니다. 온라인에서 초청 취소를 요구하는 민원을 넣자는 움직임이 확산된 직후였습니다.김 씨는 오는 9월 20~21일 울산에서 열리는 '제5회 2026 울산기업챔피언 프로그램' 연계 행사 ...",
-      "source": "펜앤드마이크",
-      "publishedAt": "2026-08-22",
-      "url": "https://www.pennmike.com/news/articleView.html?idxno=126184",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.SRZ1iQ5xwuvmxDq8L37x3Q&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[이슈토론] \"용산공원 일부, 모듈러 주택 해볼만\" \"툭 튀어나온 용산, 사회적 합의 필요\"",
-      "summary": "'SBS ' ■ ■ 진행 : 주영진 앵커 ■ 김인만 ...",
-      "source": "SBS 뉴스 on MSN",
-      "publishedAt": "2026-08-20",
-      "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%EC%9D%B4%EC%8A%88%ED%86%A0%EB%A1%A0-%EC%9A%A9%EC%82%B0%EA%B3%B5%EC%9B%90-%EC%9D%BC%EB%B6%80-%EB%AA%A8%EB%93%88%EB%9F%AC-%EC%A3%BC%ED%83%9D-%ED%95%B4%EB%B3%BC%EB%A7%8C-%ED%88%AD-%ED%8A%80%EC%96%B4%EB%82%98%EC%98%A8-%EC%9A%A9%EC%82%B0-%EC%82%AC%ED%9A%8C%EC%A0%81-%ED%95%A9%EC%9D%98-%ED%95%84%EC%9A%94/ar-AA2ax43c",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.d6YDx6PfTycdceN0qvoAqg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[속보] 조국 “주거·일자리·노동·교육·돌봄 등에서 소외되지 않는 나라 만들어야”",
-      "summary": "조국혁신당 조국 혁신정책연구원장은 “국민 누구도 주거, 일자리, 노동, 교육, 돌봄 등 삶의 모든 분야에서 소외되거나 배제되지 않는 ‘행복이 권리가 되는 나라’를 만들어야 한다”고 15일 강조했다. 조 원장은 제81주년 광복절인 이날 자신의 사회관계망서비스(SNS)에 올린 글에서 “‘불평등을 이기는 싸움’을 주저해서는 안 된다”며 이같이 밝혔다. 그는 “1 ...",
-      "source": "세계일보 on MSN",
-      "publishedAt": "2026-08-15",
-      "url": "https://www.msn.com/ko-kr/news/politics/%EC%86%8D%EB%B3%B4-%EC%A1%B0%EA%B5%AD-%EC%A3%BC%EA%B1%B0-%EC%9D%BC%EC%9E%90%EB%A6%AC-%EB%85%B8%EB%8F%99-%EA%B5%90%EC%9C%A1-%EB%8F%8C%EB%B4%84-%EB%93%B1%EC%97%90%EC%84%9C-%EC%86%8C%EC%99%B8%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%82%98%EB%9D%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%95%BC/ar-AA2aa34P",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.5jG8GO-Dv-fvgSxTK6NExQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
@@ -74,24 +56,6 @@
       "publishedAt": "2026-08-23",
       "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%9D%BC%EB%B0%98/ai%EA%B0%80-%EA%B5%90%EC%8B%A4%EC%9D%84-%EB%B0%94%EA%BE%BC%EB%8B%A4-%ED%98%B8%EC%84%9C%EB%8C%80%EC%84%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B5%90%EC%9C%A1-%EC%97%B0%EA%B5%AC-%ED%98%84%EC%9E%A5-%EC%8B%A4%EC%B2%9C-%ED%95%9C%EC%9E%90%EB%A6%AC/ar-AA2aJ6n7",
       "imageUrl": "https://www.bing.com/th?id=ONUT.rr7tKPjWWocqe37xkYFDhA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "전남광주특별시, 인공지능·데이터 행정 혁신 이끈다",
-      "summary": "전남광주통합특별시가 생성형 인공지능(AI)을 현장에 대폭 활용하며 '책임 있는 AI·데이터 행정 혁신을 선도하고 있다. 23일 전남광주특별시에 따르면 시는 일선 현장 공무원이 직접 데이터를 분석하고 정책을 수립할 수 있도록 돕는 'AI 분석 도우미'를 자체 개발해 행정 생산성을 끌어올리고 있다. 'AI 분석 도우미'는 시 데이터정보화담당관 데이터분석팀이 올 ...",
-      "source": "뉴시스 on MSN",
-      "publishedAt": "2026-08-23",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%8B%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%96%89%EC%A0%95-%ED%98%81%EC%8B%A0-%EC%9D%B4%EB%81%88%EB%8B%A4/ar-AA2aJUj8",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.UWVHvEggbE0pJcIQBc-CXQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "경북교육청 인공지능교육관 10월 문 연다…개관 준비 ‘막바지’",
-      "summary": "경북교육청이 의성군에 조성 중인 인공지능교육관의 10월 정식 개관을 앞두고 막바지 준비에 속도를 내고 있다.경북교육청은 지난 14일 임종식 교육감이 의성군 금성면에 조성 중인 경상북도교육청 인공지능교육관을 방문해 전시체험물 구축과 시설 리모델링 등 개관 준비 상황을 점검했다고 밝혔다.",
-      "source": "경북일보",
-      "publishedAt": "2026-08-17",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4081284",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.HIiwrJTVqSo81fzPNap9xw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
