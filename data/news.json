@@ -1,97 +1,79 @@
 {
-  "updatedAt": "2026-09-01",
-  "windowStart": "2026-08-30T22:00:00.000Z",
-  "windowEnd": "2026-08-31T22:00:00.000Z",
+  "updatedAt": "2026-09-02",
+  "windowStart": "2026-08-31T22:00:00.000Z",
+  "windowEnd": "2026-09-01T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "與, 연내 기본사회기본법 처리 목표..\"글로벌 스탠다드\"",
-      "summary": "[파이낸셜뉴스] 더불어민주당이 연내 '기본사회 기본법' 처리 수순에 돌입했다. 이재명 대통령의 기본사회 정책에 대한 법적 토대 마련에 나선다는 의미다. 국민의힘 반대가 변수다. 31일 국회 행정안전위원회 소속 민주당 핵심 관계자에 따르면, 민주당은 이번 정기국회 동안 기본사회기본법 처리를 위한 논의를 본격화할 예정이다. 기본사회기본법은 국가 차원의 기본사회 ...",
-      "source": "파이낸셜뉴스 on MSN",
-      "publishedAt": "2026-08-31",
-      "url": "https://www.msn.com/ko-kr/news/other/%E8%88%87-%EC%97%B0%EB%82%B4-%EA%B8%B0%EB%B3%B8%EC%82%AC%ED%9A%8C%EA%B8%B0%EB%B3%B8%EB%B2%95-%EC%B2%98%EB%A6%AC-%EB%AA%A9%ED%91%9C%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%8A%A4%ED%83%A0%EB%8B%A4%EB%93%9C/ar-AA2bfmjm",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.nj-THon8KCjVU5Wd32yhvw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "청소년들이 문화축제 연대로 글로벌 이슈 해결에 나선다",
-      "summary": "Youth Conference는 청소년들이 사회문제에 대한 해결책을 직접 설계하고 이를 학교와 지역사회에서 실행하는 국제 청소년 프로그램인 Students in Action (SIA)이니셔티브의 연례 행사를 마무리하는 자리다. 올해는 한국과 몽골 학생 49명이 참가했으며, 7개 팀으로 나뉘어 유엔 지속가능발전목표 (SDGs)와 연계된 주요 글로벌 문제들을 ...",
-      "source": "르몽드디플로마티크",
+      "title": "박위, 재조명된 '사회실험' 영상 일부 삭제…KTX 논란 속 움직임 포착 [엑's 이슈]",
+      "summary": "(엑스포츠뉴스 김수아 기자) 유튜버 박위가 휠체어를 탄 채 시민들의 반응을 담은 사회실험카메라 콘텐츠 일부를 지웠다.1일 OSEN에 따르면 박위가 최근 논란이 된 KTX 낙상사고 당시의 영상을 삭제한 뒤 일주일 동안 13개의 영상을 비공개 처리했다.현재 박위의 유튜브 채널 '위라클'에는 785개의 영상이 남아 있다.이번 영상 비공개 및 삭제 조치는 최근 박 ...",
+      "source": "엑스포츠뉴스",
       "publishedAt": "2026-09-01",
-      "url": "https://www.ilemonde.com/news/articleView.html?idxno=30566",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.9RnaLaMFsqFGyOLE6m3mPw&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.xportsnews.com/article/2190361",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.T02zeYiKel2HISJOEyuyPg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "최원용 평택시장, 2027~2030 복지 청사진 확정...통합돌봄·고용·주거 5대 전략 추진",
-      "summary": "평택시(시장 최원용)가 생애주기별 통합돌봄부터 고용·주거 안전망과 평생학습, 문화공동체, 건강·안전까지 시민 생활 전반을 포괄하는 제6기 지역사회보장계획을 마련하고 2027년부터 2030년까지 4년간 추진할 지역 복지정책의 기본 방향을 구체화했다. 31일 시에 따르면 지난 28일 시청 통합방위 종합상황실에서 열린 ‘2026년 제2차 평택시 지역사회보장 대표 ...",
-      "source": "아주경제",
-      "publishedAt": "2026-08-31",
-      "url": "https://www.ajunews.com/view/20260831145744943",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Mh_LH2oMuR0Kd5MSGOK1hg&pid=News&w=1200&h=675&c=14"
+      "title": "박위, 유튜브 '사회실험' 영상 13개 조용히 비공개..KTX CCTV 논란 여파[스타이슈]",
+      "summary": "낙상 사고 CCTV 영상을 공개해 논란에 휩싸인 유튜버 박위가 과거 '사회실험' 영상 등을 추가로 비공개 처리했다. 1일 박위의 유튜브 채널 '위라클'에 게재된 영상은 785개다. 박위는 지난달 논란이 불거진 후 물의를 빚은 CCTV 공개 영상을 포함해 14개의 영상을 비공개 혹은 삭제 처리했다. 비공개 처리된 영상에는 2022년 8월 공개한 '하반신 마비 ...",
+      "source": "스타뉴스 on MSN",
+      "publishedAt": "2026-09-01",
+      "url": "https://www.msn.com/ko-kr/entertainment/%EC%9D%BC%EB%B0%98/%EB%B0%95%EC%9C%84-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%82%AC%ED%9A%8C%EC%8B%A4%ED%97%98-%EC%98%81%EC%83%81-13%EA%B0%9C-%EC%A1%B0%EC%9A%A9%ED%9E%88-%EB%B9%84%EA%B3%B5%EA%B0%9C-ktx-cctv-%EB%85%BC%EB%9E%80-%EC%97%AC%ED%8C%8C-%EC%8A%A4%ED%83%80%EC%9D%B4%EC%8A%88/ar-AA2bkGjf",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-uOJouBAQiVM6BpIRt3o0Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "민선9기 지역사회연대경제 활성화 전략은?…9월4일 제주 토론회",
-      "summary": "민선9기 지역사회연대경제 활성화를 위한 정책 토론회가 오는 4일 제주사회적경제지원센터 몬딱가공소 (제주시 중앙로165)에서 열린다. 행사를 주최하는 한국사회연대경제, 전국사회연대경제 지방정부협의회, 전국광역사회적경제지원센터협의회는 '민선9기 지역사회연대경제 활성화 전략은?'을 주제로 제주에서 토론회를 개최한다고 31일 밝혔다.",
-      "source": "제주의소리",
-      "publishedAt": "2026-08-31",
-      "url": "https://www.jejusori.net/news/articleView.html?idxno=506060",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.IMElUrqA8ADM4DJaQnCbrQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "검찰, 기소유예 처분 기준 정비…사회봉사 조건 기소유예 가능",
-      "summary": "검찰이 생계형 범죄나 경미한 사건의 경우 형사처벌이 아닌 사회봉사나 직업 교육 이수를 하도록 하는 조건부 기소유예를 확대 시행한다. 대검찰청은 31일 '검사의 기소유예 처분에 관한 지침'을 제정·시행한다고 밝혔다. 이번 지침은 특정 범죄로 제한되지 않고 모든 기소유예 처분에 적용된다. 기소유예란 범죄 혐의는 인정되지만 범죄의 경중, 피의자의 연령과 환경, ...",
-      "source": "머니투데이 on MSN",
-      "publishedAt": "2026-08-31",
-      "url": "https://www.msn.com/ko-kr/news/national/%EA%B2%80%EC%B0%B0-%EA%B8%B0%EC%86%8C%EC%9C%A0%EC%98%88-%EC%B2%98%EB%B6%84-%EA%B8%B0%EC%A4%80-%EC%A0%95%EB%B9%84-%EC%82%AC%ED%9A%8C%EB%B4%89%EC%82%AC-%EC%A1%B0%EA%B1%B4-%EA%B8%B0%EC%86%8C%EC%9C%A0%EC%98%88-%EA%B0%80%EB%8A%A5/ar-AA2bg8vp",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.oJaeqA6FtGM9AGlVgWyKvw&pid=News&w=1200&h=675&c=14"
+      "title": "'1달 가입+119달 추납' 외국인 3명뿐… 실제 수령 국내거주 1명",
+      "summary": "전수조사 결과 추납기간 대부분 국내 실거주…'먹튀' 논란과 거리 외국인 추납 실거주 심사 시행…상호주의 도입·해외수급자 관리 강화 (서울=연합뉴스) 서한기 기자 = 국내에서 단 1개월만 일한 외국인이 119개월 치 국민연금 보험료를 한꺼번에 추후납부(추납)해 평생 연금을 타간다는 이른바 먹튀 논란에 대해 보건복지부가 ...",
+      "source": "연합뉴스 on MSN",
+      "publishedAt": "2026-09-01",
+      "url": "https://www.msn.com/ko-kr/news/national/1%EB%8B%AC-%EA%B0%80%EC%9E%85-119%EB%8B%AC-%EC%B6%94%EB%82%A9-%EC%99%B8%EA%B5%AD%EC%9D%B8-3%EB%AA%85%EB%BF%90-%EC%8B%A4%EC%A0%9C-%EC%88%98%EB%A0%B9-%EA%B5%AD%EB%82%B4%EA%B1%B0%EC%A3%BC-1%EB%AA%85/ar-AA2bmXw1",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.E1GyzlSwJTscSIZeYJv9Ug&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "AI도 물 마신다…빅테크·반도체 불붙은 블루골드 확보전 [세계 경제 덮친 물 부족 ②]",
-      "summary": "데이터센터 건설에 지역사회 '물부족' 시위 월가서도 대출 심사 시 지역 반발 따지기 시작 빅테크들, 기술 개발로 물 사용 줄이기 나서 생성형 AI 확산과 반도체 생산 확대가 전 세계 물 수요의 새로운 변수로 부상했다. AI 데이터센터는 고성능 서버에서 발생하는 막대한 열을 식히는 데 물을 사용하고, 첨단 반도체 공장은 웨이퍼 세정 과정에서 대량의 초순수가 ...",
-      "source": "이투데이 on MSN",
-      "publishedAt": "2026-08-31",
-      "url": "https://www.msn.com/ko-kr/news/other/ai%EB%8F%84-%EB%AC%BC-%EB%A7%88%EC%8B%A0%EB%8B%A4-%EB%B9%85%ED%85%8C%ED%81%AC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EB%B6%88%EB%B6%99%EC%9D%80-%EB%B8%94%EB%A3%A8%EA%B3%A8%EB%93%9C-%ED%99%95%EB%B3%B4%EC%A0%84-%EC%84%B8%EA%B3%84-%EA%B2%BD%EC%A0%9C-%EB%8D%AE%EC%B9%9C-%EB%AC%BC-%EB%B6%80%EC%A1%B1/ar-AA2bisfR",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.05N-EyYI9oq3E2wVWaCwSQ&pid=News&w=1200&h=675&c=14"
+      "title": "삼전닉스 프리마켓 3%대 급락…美 금리·유가 급등에 반도체株 ‘휘청’",
+      "summary": "삼성전자와 SK하이닉스가 넥스트레이드(NXT) 프리마켓에서 나란히 3%대 급락하고 있다. 미국과 이란의 군사적 충돌 재개로 국제유가와 미국 장기금리가 치솟은 가운데 뉴욕 증시에서 인공지능(AI)·반도체주가 약세를 보인 여파가 국내 반도체 대형주에도 이어지는 모습이다.",
+      "source": "서울경제",
+      "publishedAt": "2026-09-01",
+      "url": "https://www.sedaily.com/article/20086079",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.zgQ2nKI8HjRravUSEsI7-A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "AI가 과학자가 될 수 있을까: 자동화되는 과학적 발견",
+      "summary": "과거에는 연구의 일부를 돕는 역할이었지만, 최근 연구를 주체적으로 수행하는 인공지능이 등장하고 있습니다. 그렇다면 인공지능은 실제로 과학자가 될 수 있을까요? 이 질문에 답하기 위해서는 과학적 발전이 어떤 과정으로 이루어지는지, 그리고 그 과정에서 인공지능이 어떤 역할을 수행할 수 있을지에 대해 살펴보아야 합니다.과학적 발견은 어떻게 이루어지는가하나의 과학 ...",
+      "source": "카이스트신문",
+      "publishedAt": "2026-09-01",
+      "url": "https://times.kaist.ac.kr/news/articleView.html?idxno=22900",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.eYzcO1R2ln4MbUzYf7a9HQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "AI 데이터센터도 ‘탈현장 건설’…건설연, K건설기술 육성 나선다",
+      "summary": "생성형 인공지능 (AI) 확산으로 고밀도·고발열 데이터센터 수요가 급증하면서 건설 방식도 현장 시공 중심에서 표준설계와 모듈러·탈현장건설 (OSC) 기반의 생산체계로 전환해야 한다는 제안이 나왔다.",
+      "source": "매일경제",
+      "publishedAt": "2026-09-01",
+      "url": "https://www.mk.co.kr/news/business/12141404",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.VXu8b1FLAHQD5U9eu7SDfw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
       "title": "[주식, 반도체 다음은?] ⑤AI ‘낙수효과’…소부장 찍고 조선으로",
       "summary": "AI 데이터센터 투자 확대가 반도체 완성기업 뿐 아니라 반도체 공장 안에서는 장비·소재·부품으로, 공장 밖에서는 전력설비와 조선·해양 인프라로 번지고 있다. 삼성전자와 SK하이닉스의 증설이 실제 장비 발주로 이어지는 가운데 데이터센터의 전력 부족은 선박용 중속엔진과 부유식 데이터센터(FDC)를 새로운 수혜 영역으로 끌어들이고 있다.◇ 삼전·닉스 뒤엔 소부장 ...",
       "source": "스트레이트뉴스",
-      "publishedAt": "2026-08-31",
+      "publishedAt": "2026-09-01",
       "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=310097",
       "imageUrl": "https://www.bing.com/th?id=ONUT.VkalKRNzv7B6MU298utQhw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[뉴시안 창간 14주년 특별기획-점프 UP 코리아 ①] AI가 국력 바꾼다…대한민국, 'AI G3'로 가는 마지막 골든타임",
-      "summary": "대한민국의 미래를 결정할 골든타임이 시작됐다. AI를 중심으로 산업 질서가 재편되고, 반도체·에너지·방산·우주 등 국가 전략산업의 경쟁은 갈수록 치열해지고 있다. 동시에 저출산과 지방소멸, 청년 이탈, 부동산, 에너지 안보 등 구조적 위기도 대한민국의 지속가능성을 위협하고 있다. 은 창간 14주년을 맞아 특별기획 ‘점프 UP 코리아’​를 통해 대한민국이 다 ...",
-      "source": "뉴시안",
-      "publishedAt": "2026-08-31",
-      "url": "https://www.newsian.co.kr/news/articleView.html?idxno=94497",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.-HKa829YYfLNYagNYXFjng&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "사무실 PC를 지식공학 AI 컴퓨터로 만들자 [사랑의 AI 인문학]",
-      "summary": "[디지털포스트(PC사랑)] = 이철규 논설위원] 거대한 AI 경쟁 속에서 개인은 자신의 지식체계를 구축해야 한다인공지능을 이야기하면 대부분 반도체와 GPU, 데이터센터와 전력부터 떠올린다. 어떤 나라가 더 많은 첨단 반도체를 확보했는지, 어느 기업이 더 큰 생성형 AI 모델을 개발했는지, 데이터센터를 가동하기 위해 얼마나 많은 전력이 필요한지가 AI 경쟁의 ...",
-      "source": "스마트PC사랑",
-      "publishedAt": "2026-08-31",
-      "url": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60509",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.XZ_C5WQxpAlZcjSR8m_7mQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "제주 경제 심장’ 첨단과학기술단지] JDC, 산단 조성부터 운영까지 도맡아 집중 지원…AI 복합단지로 거듭난다",
-      "summary": "■‘신성장엔진’ 된 첨단과학기술단지면세점 수익 재투자해 단지 조성전국 유일 조성 주체가 운영 맡아문화 인프라 부족 등 한계도 여전‘AI 청년인재 특화산단’ 전환 예고 제주국제자유도시개발센터(JDC)가 조성·운영하는 제주첨단과학기술단지는 지난해 기준 제주 지역내총생산(GRDP)의 32%를 창출하며 전국 산업단지 중에서도 손꼽히는 효율성을 입증했다. 면세점 수 ...",
-      "source": "서울경제 on MSN",
+      "title": "피지컬AI 1강 노리는 한국…‘비메모리 반도체’ 경쟁력도 시험대",
+      "summary": "이재명 정부가 인공지능(AI)을 로봇과 자율주행차 등과 결합한 ‘피지컬 AI’ 분야에서 글로벌 1강을 목표로 내걸었다. 피지컬 AI가 확산되면 센서·전력 관리 등에 필요한 비메모리 반도체 수요도 늘어날 전망이다. 고대역폭메모리(HBM)와 같은 메모리 반도체에 비해 상대적으로 경쟁력이 약한 비메모리 반도체 분야의 경쟁력을 얼마나 끌어올릴 수 있을지가 과제로 ...",
+      "source": "쿠키뉴스 on MSN",
       "publishedAt": "2026-09-01",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%A0%9C%EC%A3%BC-%EA%B2%BD%EC%A0%9C-%EC%8B%AC%EC%9E%A5-%EC%B2%A8%EB%8B%A8%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EB%8B%A8%EC%A7%80-jdc-%EC%82%B0%EB%8B%A8-%EC%A1%B0%EC%84%B1%EB%B6%80%ED%84%B0-%EC%9A%B4%EC%98%81%EA%B9%8C%EC%A7%80-%EB%8F%84%EB%A7%A1%EC%95%84-%EC%A7%91%EC%A4%91-%EC%A7%80%EC%9B%90-ai-%EB%B3%B5%ED%95%A9%EB%8B%A8%EC%A7%80%EB%A1%9C-%EA%B1%B0%EB%93%AD%EB%82%9C%EB%8B%A4/ar-AA2bi6b7",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.WnwYKLHMV2vclbPrSLqS0w&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%ED%94%BC%EC%A7%80%EC%BB%ACai-1%EA%B0%95-%EB%85%B8%EB%A6%AC%EB%8A%94-%ED%95%9C%EA%B5%AD-%EB%B9%84%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B2%BD%EC%9F%81%EB%A0%A5%EB%8F%84-%EC%8B%9C%ED%97%98%EB%8C%80/ar-AA2bmXty",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.BXhWrZeNin8lVKDRp2R4YQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
