@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-09-02",
-  "windowStart": "2026-08-31T22:00:00.000Z",
-  "windowEnd": "2026-09-01T22:00:00.000Z",
+  "updatedAt": "2026-09-03",
+  "windowStart": "2026-09-01T22:00:00.000Z",
+  "windowEnd": "2026-09-02T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "[이넷뉴스 브랜드평판] 한국에너지재단, 에너지 공공기관 9월 1위···한국산업기술시험원·한국에너지기술연구원 뒤이어",
+      "summary": "2026년 9월 에너지 공공기관 브랜드평판이 공개됐다.이넷뉴스 에너지 톱 브랜드위원회는 2일 ‘에너지 공공기관 2026년 9월 빅데이터 분석결과’를 발표했다. 발표에 따르면 1위 한국에너지재단 2위 한국산업기술시험원 3위 한국에너지기술연구원 순으로 나타났다.공공기관은 국가나 지방자치단 ...",
+      "source": "이넷뉴스",
+      "publishedAt": "2026-09-02",
+      "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=53938",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.8aAuZ5xf5xnGikJITy-WGA&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "박위, 재조명된 '사회실험' 영상 일부 삭제…KTX 논란 속 움직임 포착 [엑's 이슈]",
@@ -14,66 +23,75 @@
     },
     {
       "category": "society",
+      "title": "송지은만 불쌍…박위, 남동생 배변 축사 이어 사회복무요원 저격까지 '또 논란' [엑's 이슈]",
+      "summary": "(엑스포츠뉴스 김현정 기자) 전신마비 진단을 받고 유튜버 활동을 해온 박위가 남동생 축사로 구설에 휩싸인 것에 이어 이어 이번에는 사회복무요원의 실수를 박제해 또 논란을 불렀다.박위는 21일 자신의 유튜브 채널에 KTX에서 하차하다 낙상사고를 겪었다며 CCTV 영상을 올리고 영상 속 휠체어를 탄 박위는 KTX에서 경사로를 통해 하차하던 중 사회복무요원이 내 ...",
+      "source": "엑스포츠뉴스",
+      "publishedAt": "2026-08-24",
+      "url": "https://www.xportsnews.com/article/2187148",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.JcJc2gM4NXNEUsNKirYB7Q&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
       "title": "박위, 유튜브 '사회실험' 영상 13개 조용히 비공개..KTX CCTV 논란 여파[스타이슈]",
       "summary": "낙상 사고 CCTV 영상을 공개해 논란에 휩싸인 유튜버 박위가 과거 '사회실험' 영상 등을 추가로 비공개 처리했다. 1일 박위의 유튜브 채널 '위라클'에 게재된 영상은 785개다. 박위는 지난달 논란이 불거진 후 물의를 빚은 CCTV 공개 영상을 포함해 14개의 영상을 비공개 혹은 삭제 처리했다. 비공개 처리된 영상에는 2022년 8월 공개한 '하반신 마비 ...",
       "source": "스타뉴스 on MSN",
       "publishedAt": "2026-09-01",
-      "url": "https://www.msn.com/ko-kr/entertainment/%EC%9D%BC%EB%B0%98/%EB%B0%95%EC%9C%84-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%82%AC%ED%9A%8C%EC%8B%A4%ED%97%98-%EC%98%81%EC%83%81-13%EA%B0%9C-%EC%A1%B0%EC%9A%A9%ED%9E%88-%EB%B9%84%EA%B3%B5%EA%B0%9C-ktx-cctv-%EB%85%BC%EB%9E%80-%EC%97%AC%ED%8C%8C-%EC%8A%A4%ED%83%80%EC%9D%B4%EC%8A%88/ar-AA2bkGjf",
+      "url": "https://www.msn.com/ko-kr/entertainment/tv/%EB%B0%95%EC%9C%84-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%82%AC%ED%9A%8C%EC%8B%A4%ED%97%98-%EC%98%81%EC%83%81-13%EA%B0%9C-%EC%A1%B0%EC%9A%A9%ED%9E%88-%EB%B9%84%EA%B3%B5%EA%B0%9C-ktx-cctv-%EB%85%BC%EB%9E%80-%EC%97%AC%ED%8C%8C-%EC%8A%A4%ED%83%80%EC%9D%B4%EC%8A%88/ar-AA2bkGjf",
       "imageUrl": "https://www.bing.com/th?id=ONUT.-uOJouBAQiVM6BpIRt3o0Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "'1달 가입+119달 추납' 외국인 3명뿐… 실제 수령 국내거주 1명",
-      "summary": "전수조사 결과 추납기간 대부분 국내 실거주…'먹튀' 논란과 거리 외국인 추납 실거주 심사 시행…상호주의 도입·해외수급자 관리 강화 (서울=연합뉴스) 서한기 기자 = 국내에서 단 1개월만 일한 외국인이 119개월 치 국민연금 보험료를 한꺼번에 추후납부(추납)해 평생 연금을 타간다는 이른바 먹튀 논란에 대해 보건복지부가 ...",
-      "source": "연합뉴스 on MSN",
+      "title": "[이로운제안]한국형 전환금융 도입...한국사회책임투자포럼 \"금융기관 전환계획·감독체계 필요\"",
+      "summary": "이로운넷 = 이수진 에디터정부가 한국형 전환금융 가이드라인과 자금 공급 계획을 내놓은 가운데, 한국사회책임투자포럼은 금융기관 전체의 자금 흐름과 포트폴리오를 관리할 전환계획과 감독체계가 필요하다고 제안했다.한국사회책임투자포럼(KoSIF)은 이 같은 내용을 담은 이슈브리프 '전환금융의 ...",
+      "source": "이로운넷",
       "publishedAt": "2026-09-01",
-      "url": "https://www.msn.com/ko-kr/news/national/1%EB%8B%AC-%EA%B0%80%EC%9E%85-119%EB%8B%AC-%EC%B6%94%EB%82%A9-%EC%99%B8%EA%B5%AD%EC%9D%B8-3%EB%AA%85%EB%BF%90-%EC%8B%A4%EC%A0%9C-%EC%88%98%EB%A0%B9-%EA%B5%AD%EB%82%B4%EA%B1%B0%EC%A3%BC-1%EB%AA%85/ar-AA2bmXw1",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.E1GyzlSwJTscSIZeYJv9Ug&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.eroun.net/news/articleView.html?idxno=88864",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Ze6YmwVArqC1KlP64_-A8w&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "삼전닉스 프리마켓 3%대 급락…美 금리·유가 급등에 반도체株 ‘휘청’",
-      "summary": "삼성전자와 SK하이닉스가 넥스트레이드(NXT) 프리마켓에서 나란히 3%대 급락하고 있다. 미국과 이란의 군사적 충돌 재개로 국제유가와 미국 장기금리가 치솟은 가운데 뉴욕 증시에서 인공지능(AI)·반도체주가 약세를 보인 여파가 국내 반도체 대형주에도 이어지는 모습이다.",
-      "source": "서울경제",
-      "publishedAt": "2026-09-01",
-      "url": "https://www.sedaily.com/article/20086079",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.zgQ2nKI8HjRravUSEsI7-A&pid=News&w=1200&h=675&c=14"
+      "title": "AI보다 뛰어난 자연지능, 그 네 가지 조건들",
+      "summary": "자연지능의 첫 번째 조건은 일화(逸話)성이다. 인간의 기억, 특히 일화기억은 자신의 몸이 어떤 순간 어떤 자리에 있었는가에 대한 이야기의 묶음이다. 뇌의 해마는 매 순간 우리 몸이 놓인 맥락을 하나의 사건으로 엮어, 우리가 자신과 타인에게 들려줄 수 있는 이야기를 만든다. 이 이야기가 있기에 우리는 오늘의 자신이 어제의 자신과 이어져 있다고 느낀다. 몸이 ...",
+      "source": "한국일보",
+      "publishedAt": "2026-09-02",
+      "url": "https://www.hankookilbo.com/news/article/A2026082715240004982",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.bPiHOwBnxrqlUo8L8Cd-2g&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "AI가 과학자가 될 수 있을까: 자동화되는 과학적 발견",
-      "summary": "과거에는 연구의 일부를 돕는 역할이었지만, 최근 연구를 주체적으로 수행하는 인공지능이 등장하고 있습니다. 그렇다면 인공지능은 실제로 과학자가 될 수 있을까요? 이 질문에 답하기 위해서는 과학적 발전이 어떤 과정으로 이루어지는지, 그리고 그 과정에서 인공지능이 어떤 역할을 수행할 수 있을지에 대해 살펴보아야 합니다.과학적 발견은 어떻게 이루어지는가하나의 과학 ...",
-      "source": "카이스트신문",
-      "publishedAt": "2026-09-01",
-      "url": "https://times.kaist.ac.kr/news/articleView.html?idxno=22900",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.eYzcO1R2ln4MbUzYf7a9HQ&pid=News&w=1200&h=675&c=14"
+      "title": "“불편함 견뎌내면 J자로 생산성 치솟아”",
+      "summary": "“불편함의 골짜기를 견뎌낸 조직은 어느 순간 J자로 꺾여 올라간다. ” 정재헌 SK텔레콤 최고경영자(CEO)는 인공지능(AI) 전환 과정의 불편함과 단기 침체를 견뎌내야 생산성 혁신에 도달할 수 있다며 이같이 강조했다. 2일 SK텔레콤에 따르면 정 CEO는 전날 서울 관악구 서울대에서 대학·대학원생 300여명을 대상으로 특강을 진행했다.",
+      "source": "세계일보",
+      "publishedAt": "2026-09-02",
+      "url": "https://www.segye.com/newsView/20260902516703",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.1UPnw7p_QwwafNS5wchb-g&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "AI 데이터센터도 ‘탈현장 건설’…건설연, K건설기술 육성 나선다",
-      "summary": "생성형 인공지능 (AI) 확산으로 고밀도·고발열 데이터센터 수요가 급증하면서 건설 방식도 현장 시공 중심에서 표준설계와 모듈러·탈현장건설 (OSC) 기반의 생산체계로 전환해야 한다는 제안이 나왔다.",
-      "source": "매일경제",
-      "publishedAt": "2026-09-01",
-      "url": "https://www.mk.co.kr/news/business/12141404",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.VXu8b1FLAHQD5U9eu7SDfw&pid=News&w=1200&h=675&c=14"
+      "title": "“AI 쓰지마”…美뉴욕 초·중생에 ‘AI 금지령’",
+      "summary": "미국 뉴욕시가 초·중학생의 생성형 인공지능(AI) 사용을 1년간 원칙적으로 금지한다. 어린 학생들에게는 AI 활용보다 사고력과 교사·또래 간 상호작용이 중요하다는 판단에 따라 교실 내 디지털 기기 사용도 함께 제한하기로 했다. 1일(현지시간) 미 일간 뉴욕타임스(NYT)에 따르면 뉴욕시 교육청은 오는 10일 개학에 맞춰 지역 공립 초·중학교 학생의 생성형 ...",
+      "source": "세계일보",
+      "publishedAt": "2026-09-02",
+      "url": "https://www.segye.com/newsView/20260902518965",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Bf8cRamqfGsF41028tpSiQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[주식, 반도체 다음은?] ⑤AI ‘낙수효과’…소부장 찍고 조선으로",
-      "summary": "AI 데이터센터 투자 확대가 반도체 완성기업 뿐 아니라 반도체 공장 안에서는 장비·소재·부품으로, 공장 밖에서는 전력설비와 조선·해양 인프라로 번지고 있다. 삼성전자와 SK하이닉스의 증설이 실제 장비 발주로 이어지는 가운데 데이터센터의 전력 부족은 선박용 중속엔진과 부유식 데이터센터(FDC)를 새로운 수혜 영역으로 끌어들이고 있다.◇ 삼전·닉스 뒤엔 소부장 ...",
-      "source": "스트레이트뉴스",
-      "publishedAt": "2026-09-01",
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=310097",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.VkalKRNzv7B6MU298utQhw&pid=News&w=1200&h=675&c=14"
+      "title": "[에이전틱 AI 맵 2026] 와이즈넛, 검색·챗봇 26년 경험을 AI 에이전트로…산업별 AX 확장",
+      "summary": "인공지능(AI) 에이전트 시대가 본격화되고 있지만 국내에서는 아직 시장을 대표하는 기업이나 생태계의 윤곽이 뚜렷하지 않다. IT조선은 한국지능정보사회진흥원(NIA)과 공동기획으로 국내 AI 에이전트 산업의 현주소를 살펴보기 위한 ‘에이전틱 AI 맵’ 프로젝트를 진행한다. 1차로 에이전 ...",
+      "source": "IT 조선",
+      "publishedAt": "2026-09-02",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169277",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.DraV06APs2oH2Fy7IKVF9A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "피지컬AI 1강 노리는 한국…‘비메모리 반도체’ 경쟁력도 시험대",
-      "summary": "이재명 정부가 인공지능(AI)을 로봇과 자율주행차 등과 결합한 ‘피지컬 AI’ 분야에서 글로벌 1강을 목표로 내걸었다. 피지컬 AI가 확산되면 센서·전력 관리 등에 필요한 비메모리 반도체 수요도 늘어날 전망이다. 고대역폭메모리(HBM)와 같은 메모리 반도체에 비해 상대적으로 경쟁력이 약한 비메모리 반도체 분야의 경쟁력을 얼마나 끌어올릴 수 있을지가 과제로 ...",
-      "source": "쿠키뉴스 on MSN",
-      "publishedAt": "2026-09-01",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%ED%94%BC%EC%A7%80%EC%BB%ACai-1%EA%B0%95-%EB%85%B8%EB%A6%AC%EB%8A%94-%ED%95%9C%EA%B5%AD-%EB%B9%84%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B2%BD%EC%9F%81%EB%A0%A5%EB%8F%84-%EC%8B%9C%ED%97%98%EB%8C%80/ar-AA2bmXty",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.BXhWrZeNin8lVKDRp2R4YQ&pid=News&w=1200&h=675&c=14"
+      "title": "RX 기술 검증부터 자동화까지…삼성SDS, 미국에서 ‘RX ART 2026’ 개최",
+      "summary": "[헤럴드경제=고재우 기자] 삼성SDS가 로봇 전환(RX) 시너지 강화에 본격적으로 나섰다. 삼성 관계사는 물론 글로벌 로봇 기업까지 참여한 가운데, RX 기술 검증 및 현장 적용 방안 도출에 머리를 맞댔다. 삼성SDS는 지난달 31일부터 이달 1일까지 미국 캘리포니아주 마운틴뷰에서 ‘RX 아트 2026’을 개최했다고 3일 밝혔다. 해당 행사에는 삼성 주요 ...",
+      "source": "헤럴드경제 on MSN",
+      "publishedAt": "2026-09-03",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/rx-%EA%B8%B0%EC%88%A0-%EA%B2%80%EC%A6%9D%EB%B6%80%ED%84%B0-%EC%9E%90%EB%8F%99%ED%99%94%EA%B9%8C%EC%A7%80-%EC%82%BC%EC%84%B1sds-%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%9C-rx-art-2026-%EA%B0%9C%EC%B5%9C/ar-AA2bri9k",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-lZ7hp9rzSXX4bvbbEWZCw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
