@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-09-03",
-  "windowStart": "2026-09-01T22:00:00.000Z",
-  "windowEnd": "2026-09-02T22:00:00.000Z",
+  "updatedAt": "2026-09-04",
+  "windowStart": "2026-09-02T22:00:00.000Z",
+  "windowEnd": "2026-09-03T22:00:00.000Z",
   "articles": [
-    {
-      "category": "society",
-      "title": "[이넷뉴스 브랜드평판] 한국에너지재단, 에너지 공공기관 9월 1위···한국산업기술시험원·한국에너지기술연구원 뒤이어",
-      "summary": "2026년 9월 에너지 공공기관 브랜드평판이 공개됐다.이넷뉴스 에너지 톱 브랜드위원회는 2일 ‘에너지 공공기관 2026년 9월 빅데이터 분석결과’를 발표했다. 발표에 따르면 1위 한국에너지재단 2위 한국산업기술시험원 3위 한국에너지기술연구원 순으로 나타났다.공공기관은 국가나 지방자치단 ...",
-      "source": "이넷뉴스",
-      "publishedAt": "2026-09-02",
-      "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=53938",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.8aAuZ5xf5xnGikJITy-WGA&pid=News&w=1200&h=675&c=14"
-    },
     {
       "category": "society",
       "title": "박위, 재조명된 '사회실험' 영상 일부 삭제…KTX 논란 속 움직임 포착 [엑's 이슈]",
@@ -49,49 +40,58 @@
       "imageUrl": "https://www.bing.com/th?id=ONUT.Ze6YmwVArqC1KlP64_-A8w&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "ai",
-      "title": "AI보다 뛰어난 자연지능, 그 네 가지 조건들",
-      "summary": "자연지능의 첫 번째 조건은 일화(逸話)성이다. 인간의 기억, 특히 일화기억은 자신의 몸이 어떤 순간 어떤 자리에 있었는가에 대한 이야기의 묶음이다. 뇌의 해마는 매 순간 우리 몸이 놓인 맥락을 하나의 사건으로 엮어, 우리가 자신과 타인에게 들려줄 수 있는 이야기를 만든다. 이 이야기가 있기에 우리는 오늘의 자신이 어제의 자신과 이어져 있다고 느낀다. 몸이 ...",
-      "source": "한국일보",
-      "publishedAt": "2026-09-02",
-      "url": "https://www.hankookilbo.com/news/article/A2026082715240004982",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.bPiHOwBnxrqlUo8L8Cd-2g&pid=News&w=1200&h=675&c=14"
+      "category": "society",
+      "title": "청소년들이 문화축제 연대로 글로벌 이슈 해결에 나선다",
+      "summary": "Youth Conference는 청소년들이 사회문제에 대한 해결책을 직접 설계하고 이를 학교와 지역사회에서 실행하는 국제 청소년 프로그램인 Students in Action (SIA)이니셔티브의 연례 행사를 마무리하는 자리다. 올해는 한국과 몽골 학생 49명이 참가했으며, 7개 팀으로 나뉘어 유엔 지속가능발전목표 (SDGs)와 연계된 주요 글로벌 문제들을 ...",
+      "source": "르몽드디플로마티크",
+      "publishedAt": "2026-09-01",
+      "url": "https://www.ilemonde.com/news/articleView.html?idxno=30566",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.9RnaLaMFsqFGyOLE6m3mPw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "“불편함 견뎌내면 J자로 생산성 치솟아”",
-      "summary": "“불편함의 골짜기를 견뎌낸 조직은 어느 순간 J자로 꺾여 올라간다. ” 정재헌 SK텔레콤 최고경영자(CEO)는 인공지능(AI) 전환 과정의 불편함과 단기 침체를 견뎌내야 생산성 혁신에 도달할 수 있다며 이같이 강조했다. 2일 SK텔레콤에 따르면 정 CEO는 전날 서울 관악구 서울대에서 대학·대학원생 300여명을 대상으로 특강을 진행했다.",
-      "source": "세계일보",
-      "publishedAt": "2026-09-02",
-      "url": "https://www.segye.com/newsView/20260902516703",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.1UPnw7p_QwwafNS5wchb-g&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "“AI 쓰지마”…美뉴욕 초·중생에 ‘AI 금지령’",
-      "summary": "미국 뉴욕시가 초·중학생의 생성형 인공지능(AI) 사용을 1년간 원칙적으로 금지한다. 어린 학생들에게는 AI 활용보다 사고력과 교사·또래 간 상호작용이 중요하다는 판단에 따라 교실 내 디지털 기기 사용도 함께 제한하기로 했다. 1일(현지시간) 미 일간 뉴욕타임스(NYT)에 따르면 뉴욕시 교육청은 오는 10일 개학에 맞춰 지역 공립 초·중학교 학생의 생성형 ...",
-      "source": "세계일보",
-      "publishedAt": "2026-09-02",
-      "url": "https://www.segye.com/newsView/20260902518965",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Bf8cRamqfGsF41028tpSiQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[에이전틱 AI 맵 2026] 와이즈넛, 검색·챗봇 26년 경험을 AI 에이전트로…산업별 AX 확장",
-      "summary": "인공지능(AI) 에이전트 시대가 본격화되고 있지만 국내에서는 아직 시장을 대표하는 기업이나 생태계의 윤곽이 뚜렷하지 않다. IT조선은 한국지능정보사회진흥원(NIA)과 공동기획으로 국내 AI 에이전트 산업의 현주소를 살펴보기 위한 ‘에이전틱 AI 맵’ 프로젝트를 진행한다. 1차로 에이전 ...",
-      "source": "IT 조선",
-      "publishedAt": "2026-09-02",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169277",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.DraV06APs2oH2Fy7IKVF9A&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "RX 기술 검증부터 자동화까지…삼성SDS, 미국에서 ‘RX ART 2026’ 개최",
-      "summary": "[헤럴드경제=고재우 기자] 삼성SDS가 로봇 전환(RX) 시너지 강화에 본격적으로 나섰다. 삼성 관계사는 물론 글로벌 로봇 기업까지 참여한 가운데, RX 기술 검증 및 현장 적용 방안 도출에 머리를 맞댔다. 삼성SDS는 지난달 31일부터 이달 1일까지 미국 캘리포니아주 마운틴뷰에서 ‘RX 아트 2026’을 개최했다고 3일 밝혔다. 해당 행사에는 삼성 주요 ...",
-      "source": "헤럴드경제 on MSN",
+      "title": "전북대병원, 초지능 호흡기 인공지능센터 개소",
+      "summary": "전북대학교병원은 병원에서 축적한 실사용데이터(Real-World Data·RWD)를 활용해 호흡기 질환 인공지능(AI) 기술과 맞춤형 치료제를 개발하는 '초지능 호흡기 인공지능센터(Superintelligent Pulmonary AI Center)'를 개소했다고 3일 밝혔다. 전북대병원 호흡기센터 2층에 마련된 센터는 보건복지부 '의료 AI 기반 진료지원 ...",
+      "source": "뉴시스 on MSN",
       "publishedAt": "2026-09-03",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/rx-%EA%B8%B0%EC%88%A0-%EA%B2%80%EC%A6%9D%EB%B6%80%ED%84%B0-%EC%9E%90%EB%8F%99%ED%99%94%EA%B9%8C%EC%A7%80-%EC%82%BC%EC%84%B1sds-%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%9C-rx-art-2026-%EA%B0%9C%EC%B5%9C/ar-AA2bri9k",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.-lZ7hp9rzSXX4bvbbEWZCw&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/%EC%A0%84%EB%B6%81%EB%8C%80%EB%B3%91%EC%9B%90-%EC%B4%88%EC%A7%80%EB%8A%A5-%ED%98%B8%ED%9D%A1%EA%B8%B0-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%84%BC%ED%84%B0-%EA%B0%9C%EC%86%8C/ar-AA2btMeo",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.kSGDJQz0l5xc8Qvg2S6n1A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "텔레픽스 \"우주궤도서 위성 스스로 촬영영상 위치찾는 실증 성공\"",
+      "summary": "(지디넷코리아=박희범 기자)우주 인공지능(AI) 종합 솔루션 기업 텔레픽스(대표 조성익)가 우주궤도에서 두 차례에 걸쳐 자체 개발한 AI 기반 위성영상 기하보정 및 위치추정 모델 실증에 성공했다고 4일 밝혔다. 실증은 텔레픽스가 운용 중인 15kg급 AI 위성 ‘블루본(BlueBON)’과 위성에 탑재된 GPU 기반 온보드 AI 컴퓨터 ‘테트라플렉스(Tetr ...",
+      "source": "지디넷코리아 on MSN",
+      "publishedAt": "2026-09-04",
+      "url": "https://www.msn.com/ko-kr/news/techandscience/%ED%85%94%EB%A0%88%ED%94%BD%EC%8A%A4-%EC%9A%B0%EC%A3%BC%EA%B6%A4%EB%8F%84%EC%84%9C-%EC%9C%84%EC%84%B1-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EC%B4%AC%EC%98%81%EC%98%81%EC%83%81-%EC%9C%84%EC%B9%98%EC%B0%BE%EB%8A%94-%EC%8B%A4%EC%A6%9D-%EC%84%B1%EA%B3%B5/ar-AA2bwXHL",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.2NgJT_7wsop7pS4x3norgw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "기술에 더해 디자인 차별화… 삼성 ‘브랜드 프리미엄’ 승부수",
+      "summary": "인공지능(AI) 소프트웨어와 폴더블 디스플레이, 실리콘 카본 배터리 등 기술력을 앞세워 경쟁사와 차별화를 꾀해 온 삼성전자가 이번엔 ‘디자인’을 승부수로 꺼내 들었다. 세계 유수의 디자인 대회에 참석하며 ‘디자인 삼성’을 전면에 내세우고 있다. 중국 업체의 맹추격과 원가 급등으로 일반 전자제품 중심의 판매 전략이 한계에 부딪힌 가운데, 기술과 디자인에 차별 ...",
+      "source": "세계일보",
+      "publishedAt": "2026-09-03",
+      "url": "https://www.segye.com/newsView/20260903515408",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.FFiGDnRJ3qMmQC8YiZmeCw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "\"정부가 로봇 200대 사준다\"…증권가가 찍은 수혜주는? [분석+]",
+      "summary": "사진=연합뉴스 정부가 세제와 재정을 양축으로 로봇산업 지원을 확대하는 방향의 세제개편안과 예산안을 내놓자, 증권가는 정책 수혜를 입을 로봇 기업 찾기에 돌입했다. 2026년 세제개편안에는 인공지능(AI) 로봇부품에 대한 국내생산세액공제가 신설됐고, 2027년 예산안에는 정부가 국산 로봇의 초기 수요자가 되는 구매·실증 사업이 대거 포함됐다. 전문가들은 기업 ...",
+      "source": "한국경제",
+      "publishedAt": "2026-09-03",
+      "url": "https://www.hankyung.com/article/2026090320136",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-W6TQrid_JLVnnG93Lab5A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "꼬리 없애 ‘전방위 스텔스’ 노린다…30조 한국형 6세대 전투기",
+      "summary": "한국형 6세대 전투기 사업의 주춧돌이 세워진다. 6세대 전투기에 대한 정의는 아직 제각각이다. 다만 5세대 전투기를 넘는 스텔스 성능은 기본이며 더 오래, 더 멀리, 더 빠르게 날 수 있는 능력을 갖추고 인공지능(AI)으로 여러 대의 무인전투기를 지휘하는 전투기로 다들 생각한다. 한마디로 날아다니는 수퍼컴퓨터다. 방위사업청은 지난달 21일 ‘한국형 차세대 ...",
+      "source": "중앙일보",
+      "publishedAt": "2026-09-03",
+      "url": "https://www.joongang.co.kr/article/25458863",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.5GWP_nAsLqdziNYHUUOknA&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
