@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-09-05",
-  "windowStart": "2026-09-03T22:00:00.000Z",
-  "windowEnd": "2026-09-04T22:00:00.000Z",
+  "updatedAt": "2026-09-06",
+  "windowStart": "2026-09-04T22:00:00.000Z",
+  "windowEnd": "2026-09-05T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "[탐사보도 뉴스프리즘] 좀 줄었나 싶더니 다시 커진 이자 부담…'더 오를 것' 전망도",
+      "summary": "한국 사회의 이슈를 발굴하고, 다양한 시선으로 분석하는 뉴스프리즘 시작합니다. 이번주 뉴스프리즘이 풀어갈 이슈, 함께 보시겠습니다. [프리즘1] 1년 9개월 만 기준금리 3% 시대... 추가 인상 시계 '째깍' 지난달 한국은행이 기준금리 연속 인상에 나서면서, 1년 9개월 만에 기준금리 3% 시대가 열렸습니다. 고금리 기조가 본격화한 가운데 추가 인상 가능 ...",
+      "source": "연합뉴스",
+      "publishedAt": "2026-09-06",
+      "url": "https://www.yna.co.kr/view/MYH20260905015000038",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.aU6VWT_x-TuAMsfQGM-urA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "사회연대경제 가치와 비전 공유한 제주 기념주간",
+      "summary": "제주특별자치도와 (사)제주사회적경제네트워크 등 9개 단체로 구성된 제주사회적경제연대회의가 공동 주관한 ‘2026 제주 사회연대경제 기념주간’ 행사가 5일 제주한라대학교 한라컨벤션에 개최됐다.",
+      "source": "제주의소리",
+      "publishedAt": "2026-09-05",
+      "url": "https://www.jejusori.net/news/articleView.html?idxno=506246",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.gdFuz85WBpuE1jxuc_2u6w&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "박위, 재조명된 '사회실험' 영상 일부 삭제…KTX 논란 속 움직임 포착 [엑's 이슈]",
@@ -11,15 +29,6 @@
       "publishedAt": "2026-09-01",
       "url": "https://www.xportsnews.com/article/2190361",
       "imageUrl": "https://www.bing.com/th?id=ONUT.T02zeYiKel2HISJOEyuyPg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[정책 이슈 알려줘] 사각지대 된 중장년 고립 外",
-      "summary": "고립사 사망자 10명 중 6명이 50·60대인데도 사회적 고립에 빠진 중장년을 위한 정부 전담사업은 사실상 부재하다. 정부가 올해부터 중장년 고립 위험자에게 관계 형성과 건강관리, 경제자립 서비스를 제공하기로 했지만 법적 근거나 전담 인력·예산을 갖춘 독립 사업은 사각지대로 남아 있다. 중국 일부 농촌 지역에서 배추의 신선도를 유지하기 위해 1군 발암물질인 ...",
-      "source": "세계일보 on MSN",
-      "publishedAt": "2026-08-25",
-      "url": "https://www.msn.com/ko-kr/%EA%B3%B5%EA%B3%B5-%EC%95%88%EC%A0%84-%EB%B0%8F-%EB%B9%84%EC%83%81-%EC%82%AC%ED%83%9C/%EC%83%81%ED%83%9C-%EB%B0%8F-%EC%95%88%EC%A0%84-%EA%B2%BD%EA%B3%A0/%EC%A0%95%EC%B1%85-%EC%9D%B4%EC%8A%88-%EC%95%8C%EB%A0%A4%EC%A4%98-%EC%82%AC%EA%B0%81%EC%A7%80%EB%8C%80-%EB%90%9C-%EC%A4%91%EC%9E%A5%EB%85%84-%EA%B3%A0%EB%A6%BD-%E5%A4%96/ar-AA2aPRmF",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.7HNNdIFxUlty3uP8OLZQQw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -32,57 +41,57 @@
     },
     {
       "category": "society",
-      "title": "[박준규의 이슈언박싱] \"국민연금인데 왜 중국인 가족이\"…한 달 가입에 평생 수급, 어떻게 이런 일이?",
-      "summary": "국내에서 단 한 달만 일한 외국인이 119개월치 보험료를 한꺼번에 내고 평생 노령연금을 받을 수 있다는 사실이 알려지면서 시작된 논란이 일주일째 이어지고 있습니다. 그리고 이번에는 그 외국인의 배우자와 자녀, 부모까지 부양가족으로 등록해 추가 연금을 받을 수 있다는 점이 드러났습니다.",
-      "source": "펜앤드마이크",
-      "publishedAt": "2026-08-29",
-      "url": "https://www.pennmike.com/news/articleView.html?idxno=126689",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.oPyyQ8FL8spfToK_OOgZZQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[이로운제안]한국형 전환금융 도입...한국사회책임투자포럼 \"금융기관 전환계획·감독체계 필요\"",
-      "summary": "이로운넷 = 이수진 에디터정부가 한국형 전환금융 가이드라인과 자금 공급 계획을 내놓은 가운데, 한국사회책임투자포럼은 금융기관 전체의 자금 흐름과 포트폴리오를 관리할 전환계획과 감독체계가 필요하다고 제안했다.한국사회책임투자포럼(KoSIF)은 이 같은 내용을 담은 이슈브리프 '전환금융의 ...",
-      "source": "이로운넷",
+      "title": "박위, 유튜브 '사회실험' 영상 13개 조용히 비공개..KTX CCTV 논란 여파[스타이슈]",
+      "summary": "낙상 사고 CCTV 영상을 공개해 논란에 휩싸인 유튜버 박위가 과거 '사회실험' 영상 등을 추가로 비공개 처리했다. 1일 박위의 유튜브 채널 '위라클'에 게재된 영상은 785개다. 박위는 지난달 논란이 불거진 후 물의를 빚은 CCTV 공개 영상을 포함해 14개의 영상을 비공개 혹은 삭제 처리했다. 비공개 처리된 영상에는 2022년 8월 공개한 '하반신 마비 ...",
+      "source": "스타뉴스 on MSN",
       "publishedAt": "2026-09-01",
-      "url": "https://www.eroun.net/news/articleView.html?idxno=88864",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Ze6YmwVArqC1KlP64_-A8w&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/entertainment/tv/%EB%B0%95%EC%9C%84-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%82%AC%ED%9A%8C%EC%8B%A4%ED%97%98-%EC%98%81%EC%83%81-13%EA%B0%9C-%EC%A1%B0%EC%9A%A9%ED%9E%88-%EB%B9%84%EA%B3%B5%EA%B0%9C-ktx-cctv-%EB%85%BC%EB%9E%80-%EC%97%AC%ED%8C%8C-%EC%8A%A4%ED%83%80%EC%9D%B4%EC%8A%88/ar-AA2bkGjf",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-uOJouBAQiVM6BpIRt3o0Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "18개국 우주·AI 전문가 300명 제주 집결…우주탐사 미래 논의",
-      "summary": "세계 각국의 우주·인공지능 전문가들이 제주에 모여 우주 인공지능의 미래를 논의한 ‘제3회 IAA 우주 인공지능 국제학술대회 (IAA SpaceAI 2026)’가 지난달 28일 제주신화월드에서 사흘간의 일정을 마치고 성황리에 폐막했다.",
-      "source": "제주의소리",
-      "publishedAt": "2026-09-04",
-      "url": "https://www.jejusori.net/news/articleView.html?idxno=506228",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.QGvyMsUNVgzEuwYhEZSFkQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "AI 데이터센터 '액체냉각' 확산…일 기업 개발 가속",
-      "summary": "요미우리신문에 따르면, 일본 반도체 대기업 키옥시아는 어제 데이터센터용 액체냉각 대응 저장장치를 공개했습니다. 반도체와 접하는 금속판에 미세한 구멍을 뚫고 냉각액을 흘려보내 열을 식히는 방식입니다.",
-      "source": "SBS 뉴스",
-      "publishedAt": "2026-09-04",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008738082",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.eRCbPbhdvEYojMW4TGeWRA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[현장] 정의선 회장 \"신설 美 전기로 제철소, 미래 모빌리티·AI 산업 뒷받침\"",
-      "summary": "정의선 현대자동차그룹 회장이 미국에 새롭게 건설될 전기로 제철소를 미래 모빌리티와 인공지능(AI) 데이터센터 등 미국 핵심 산업을 뒷받침하는 생산 거점으로 키우겠다는 구상을 밝혔다. 정 회장은 4일(현지시간) 미국 루이지애나주에서 열린 '현대제철-포스코 루이지애나 전기로 제철소(HPLS)' 기공식 환영사를 통해 \"이곳에서 생산될 철강은 현대차그룹은 물론 다 ...",
-      "source": "뉴시스 on MSN",
+      "title": "범죄 잡는 인공지능, 생사람은 안 잡을까…AI에 ‘권한 위임’ 적정선 고민해야",
+      "summary": "따뜻한 AI 따스한 테크 ...",
+      "source": "한겨레 on MSN",
       "publishedAt": "2026-09-05",
-      "url": "https://www.msn.com/ko-kr/money/topstories/%ED%98%84%EC%9E%A5-%EC%A0%95%EC%9D%98%EC%84%A0-%ED%9A%8C%EC%9E%A5-%EC%8B%A0%EC%84%A4-%E7%BE%8E-%EC%A0%84%EA%B8%B0%EB%A1%9C-%EC%A0%9C%EC%B2%A0%EC%86%8C-%EB%AF%B8%EB%9E%98-%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0-ai-%EC%82%B0%EC%97%85-%EB%92%B7%EB%B0%9B%EC%B9%A8/ar-AA2bAyH4",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.X4AZSdEZIK9_irZ3wL709g&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/money/topstories/%EB%B2%94%EC%A3%84-%EC%9E%A1%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%83%9D%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%95%88-%EC%9E%A1%EC%9D%84%EA%B9%8C-ai%EC%97%90-%EA%B6%8C%ED%95%9C-%EC%9C%84%EC%9E%84-%EC%A0%81%EC%A0%95%EC%84%A0-%EA%B3%A0%EB%AF%BC%ED%95%B4%EC%95%BC/ar-AA2bAtk7",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.b9c7813d19d467bd36871b79c587f406&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "중앙대 첨단영상대학원, AI 영화 창작 교육 강화…AI 단편영화 10편 제작",
-      "summary": "AI와 첨단영상기술을 영화·영상콘텐츠 창작에 적극적으로 접목하고 있는 중앙대학교 첨단영상대학원(원장 이창재)이 AI 영화 창작 인재 양성에 속도를 내고 있다. 중앙대학교 첨단영상대학원과 앵커사업단이 주최하고, 4단계 BK21 ‘인공지능-콘텐츠 미래산업 교육연구단’과 가 ...",
-      "source": "한겨레",
+      "title": "삼성전자가 공개한 반도체 FDC&AI “숙련공의 노하우를 데이터로”",
+      "summary": "마키나락스가 주최한 ‘어텐션 2026’에서 김주희 삼성전자 A-FAB 기술팀 책임연구원은 반도체 제조 현장에서 20년 가까이 축적된 운영체계인 FDC에 AI를 어떻게 접목하는지를 참관객에게 소개했다. 삼성전자가 그리는 차세대 FDC는 AI가 모든 것을 판단하는 시스템이 아니다. 오히려 그 반대다. 수십 년간 쌓인 엔지니어의 암묵적 판단 과정을 데이터로 ...",
+      "source": "newstheai",
+      "publishedAt": "2026-09-05",
+      "url": "https://www.newstheai.com/news/articleView.html?idxno=21502",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.8UyqIfsKZ7AUiN-eEhPU7A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "전화·카톡·검색으로 쓰는 국산 AI… ‘모두의 인공지능’ 개발 속도",
+      "summary": "전 국민이 일상에서 무료로 쓰는 ‘모두의 인공지능(AI)’ 서비스 개발이 본격화했다. SK텔레콤, 카카오, KT 컨소시엄은 자체 이용자 기반 플랫폼을 활용해 일상과 공공 영역에서 쓰임새 높은 AI 챗봇 서비스를 제공하고, 이를 에이전트 AI로 고도화할 계획이다. 챗GPT와 클로드, 제미나이 등 외산 AI 서비스와 비교해 경쟁력과 차별성을 갖추는 게 사업 성 ...",
+      "source": "세계일보 on MSN",
+      "publishedAt": "2026-09-05",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%A0%84%ED%99%94-%EC%B9%B4%ED%86%A1-%EA%B2%80%EC%83%89%EC%9C%BC%EB%A1%9C-%EC%93%B0%EB%8A%94-%EA%B5%AD%EC%82%B0-ai-%EB%AA%A8%EB%91%90%EC%9D%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B0%9C%EB%B0%9C-%EC%86%8D%EB%8F%84/ar-AA2bBxWG",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.mVSgAI7Bsk4NwhQPNH0yew&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "[프리뷰] GPT-6 아스트라가 연 AGI 시대…인공지능은 이제 ‘도구’에서 ‘노동자’로 진화한다",
+      "summary": "[CEONEWS=김병조 기자] 인공지능의 역사가 또 한 번의 변곡점을 맞았다. 오픈AI가 3일(현지 시간) 차세대 인공지능 모델 ‘GPT-6 아스트라’를 공개하면서 범용인공지능(AGI) 시대의 개막을 선언했다.",
+      "source": "씨이오뉴스",
       "publishedAt": "2026-09-04",
-      "url": "https://www.hani.co.kr/arti/economy/biznews/1276362.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.U3-Ob11wGFVhh_pWsG1C7g&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.ceomagazine.co.kr/ko-kr/articles/35129",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.qG_ixxGhyCB-W0eyWsJ_CQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "서초구 인공지능위원회 출범…\"AI정책 안전성·신뢰성 높인다\"",
+      "summary": "(서울=연합뉴스) 정준영 기자 = 서울 서초구 (구청장 전성수)는 지난 24일 구청에서 안전하고 신뢰할 수 있는 공공행정 인공지능 (AI) 정책을 추진하기 위한 '서초구 인공지능위원회'가 공식 출범했다고 27일 밝혔다.",
+      "source": "연합뉴스",
+      "publishedAt": "2026-07-27",
+      "url": "https://www.yna.co.kr/view/AKR20260727008000004",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.djraONgx1t81J_kixgkn0g&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
