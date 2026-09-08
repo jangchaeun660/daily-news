@@ -1,97 +1,88 @@
 {
-  "updatedAt": "2026-09-07",
-  "windowStart": "2026-09-05T22:00:00.000Z",
-  "windowEnd": "2026-09-06T22:00:00.000Z",
+  "updatedAt": "2026-09-08",
+  "windowStart": "2026-09-06T22:00:00.000Z",
+  "windowEnd": "2026-09-07T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "한국 참전하면 日도… 韓 ‘이란 파병’ 움직임에 국제사회 주목",
-      "summary": "프랑스 항모전단이 지난 5월 6일(현지시간) 홍해 남부로 향하기 위해 수에즈 운하를 통과하고 있다. 호르무즈 해협의 항행 재개를 위한 임무가 실시될 가능성에 대비한 사전 배치다. AFP=연합뉴스 호르무즈해협의 항행 안전을 위한 미국의 기여 요구에 주요 동맹국들이 대응 수위를 저울질하고 있다. 이런 가운데 한국 정부가 파병을 검토하면서 일본의 고민도 깊어지고 ...",
-      "source": "중앙일보 on MSN",
-      "publishedAt": "2026-09-06",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD-%EC%B0%B8%EC%A0%84%ED%95%98%EB%A9%B4-%E6%97%A5%EB%8F%84-%E9%9F%93-%EC%9D%B4%EB%9E%80-%ED%8C%8C%EB%B3%91-%EC%9B%80%EC%A7%81%EC%9E%84%EC%97%90-%EA%B5%AD%EC%A0%9C%EC%82%AC%ED%9A%8C-%EC%A3%BC%EB%AA%A9/ar-AA2bFjGh",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.umlpwBvHu0Dp8BnZJ5ljJQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "박위, 재조명된 '사회실험' 영상 일부 삭제…KTX 논란 속 움직임 포착 [엑's 이슈]",
-      "summary": "(엑스포츠뉴스 김수아 기자) 유튜버 박위가 휠체어를 탄 채 시민들의 반응을 담은 사회실험카메라 콘텐츠 일부를 지웠다.1일 OSEN에 따르면 박위가 최근 논란이 된 KTX 낙상사고 당시의 영상을 삭제한 뒤 일주일 동안 13개의 영상을 비공개 처리했다.현재 박위의 유튜브 채널 '위라클'에는 785개의 영상이 남아 있다.이번 영상 비공개 및 삭제 조치는 최근 박 ...",
-      "source": "엑스포츠뉴스",
-      "publishedAt": "2026-09-01",
-      "url": "https://www.xportsnews.com/article/2190361",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.T02zeYiKel2HISJOEyuyPg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "송지은만 불쌍…박위, 남동생 배변 축사 이어 사회복무요원 저격까지 '또 논란' [엑's 이슈]",
-      "summary": "(엑스포츠뉴스 김현정 기자) 전신마비 진단을 받고 유튜버 활동을 해온 박위가 남동생 축사로 구설에 휩싸인 것에 이어 이어 이번에는 사회복무요원의 실수를 박제해 또 논란을 불렀다.박위는 21일 자신의 유튜브 채널에 KTX에서 하차하다 낙상사고를 겪었다며 CCTV 영상을 올리고 영상 속 휠체어를 탄 박위는 KTX에서 경사로를 통해 하차하던 중 사회복무요원이 내 ...",
-      "source": "엑스포츠뉴스",
-      "publishedAt": "2026-08-24",
-      "url": "https://www.xportsnews.com/article/2187148",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.JcJc2gM4NXNEUsNKirYB7Q&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[정책 이슈 알려줘] 사각지대 된 중장년 고립 外",
-      "summary": "고립사 사망자 10명 중 6명이 50·60대인데도 사회적 고립에 빠진 중장년을 위한 정부 전담사업은 사실상 부재하다. 정부가 올해부터 중장년 고립 위험자에게 관계 형성과 건강관리, 경제자립 서비스를 제공하기로 했지만 법적 근거나 전담 인력·예산을 갖춘 독립 사업은 사각지대로 남아 있다. 중국 일부 농촌 지역에서 배추의 신선도를 유지하기 위해 1군 발암물질인 ...",
-      "source": "세계일보 on MSN",
-      "publishedAt": "2026-08-25",
-      "url": "https://www.msn.com/ko-kr/%EA%B3%B5%EA%B3%B5-%EC%95%88%EC%A0%84-%EB%B0%8F-%EB%B9%84%EC%83%81-%EC%82%AC%ED%83%9C/%EC%83%81%ED%83%9C-%EB%B0%8F-%EC%95%88%EC%A0%84-%EA%B2%BD%EA%B3%A0/%EC%A0%95%EC%B1%85-%EC%9D%B4%EC%8A%88-%EC%95%8C%EB%A0%A4%EC%A4%98-%EC%82%AC%EA%B0%81%EC%A7%80%EB%8C%80-%EB%90%9C-%EC%A4%91%EC%9E%A5%EB%85%84-%EA%B3%A0%EB%A6%BD-%E5%A4%96/ar-AA2aPRmF",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.7HNNdIFxUlty3uP8OLZQQw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "박위, 유튜브 '사회실험' 영상 13개 조용히 비공개..KTX CCTV 논란 여파[스타이슈]",
-      "summary": "낙상 사고 CCTV 영상을 공개해 논란에 휩싸인 유튜버 박위가 과거 '사회실험' 영상 등을 추가로 비공개 처리했다. 1일 박위의 유튜브 채널 '위라클'에 게재된 영상은 785개다. 박위는 지난달 논란이 불거진 후 물의를 빚은 CCTV 공개 영상을 포함해 14개의 영상을 비공개 혹은 삭제 처리했다. 비공개 처리된 영상에는 2022년 8월 공개한 '하반신 마비 ...",
-      "source": "스타뉴스 on MSN",
-      "publishedAt": "2026-09-01",
-      "url": "https://www.msn.com/ko-kr/entertainment/tv/%EB%B0%95%EC%9C%84-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%82%AC%ED%9A%8C%EC%8B%A4%ED%97%98-%EC%98%81%EC%83%81-13%EA%B0%9C-%EC%A1%B0%EC%9A%A9%ED%9E%88-%EB%B9%84%EA%B3%B5%EA%B0%9C-ktx-cctv-%EB%85%BC%EB%9E%80-%EC%97%AC%ED%8C%8C-%EC%8A%A4%ED%83%80%EC%9D%B4%EC%8A%88/ar-AA2bkGjf",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.-uOJouBAQiVM6BpIRt3o0Q&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[마켓뷰] 오픈AI발 호재에 美반도체 급등…코스피도 강세 기대",
-      "summary": "(서울=연합뉴스) 황철환 기자 = 7일 코스피는 미국 오픈AI의 새 인공지능 (AI) 모델 '아스트라' 출시와 범용인공지능 (AGI) 시대 도래 선언에 힘입어 강세 출발이 기대된다. 다만, 미 연방공개시장위원회 (FOMC)를 앞두고 현지시간 11일 발표될 미국 8월 소비자물가지수 (CPI)에 대한 경계감이 커진 상황은 변수로 거론된다. 지난주 마지막 ...",
-      "source": "연합뉴스",
-      "publishedAt": "2026-09-06",
-      "url": "https://www.yna.co.kr/view/AKR20260907016300008",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Y9d6LCvNKQ_GwxYD8qpEbw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "\"삼전닉스 메모리 재고 10일 미만까지 뚝↓…내년 물량 고갈\"-KB",
-      "summary": "KB증권은 7일 \"인공지능(AI) 인프라 투자가 급증하면서 메모리 반도체 시장이 전례 없는 공급 부족 국면에 진입할 것\"이라며 \"특히 6세대 고대역폭메모리(HBM)인 HBM4 생산 확대가 범용 D램 생산능력까지 잠식하면서 내년에는 D램·낸드의 비트 수요가 공급을 10%포인트 이상 웃돌 것\"이라고 분석했다.이 증권사 김동원 리서치본부장은 \"최근 하이퍼스케일러 ...",
-      "source": "한국경제 on MSN",
+      "title": "이란, 한글로 한국 겨냥 \"호르무즈 군사개입시 심각한 결과\"(종합2보)",
+      "summary": "이란, 한글로 한국 겨냥 \"호르무즈 군사개입시 심각한 결과\"(종합2보) \"호르무즈 파병은 가해자 지원\"…韓 \"관련국들과 소통\" 이례적 한글 SNS에 '위험한 선택에는 대가 따른다' 메시지도 트럼프의 군사 기여 압력 직면한 한국에 '응하지 말라'고 압박 (카이로·..",
+      "source": "파이낸셜뉴스",
       "publishedAt": "2026-09-07",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%82%BC%EC%A0%84%EB%8B%89%EC%8A%A4-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%9E%AC%EA%B3%A0-10%EC%9D%BC-%EB%AF%B8%EB%A7%8C%EA%B9%8C%EC%A7%80-%EB%9A%9D-%EB%82%B4%EB%85%84-%EB%AC%BC%EB%9F%89-%EA%B3%A0%EA%B0%88-kb/ar-AA2bGI2e",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.8MRPaqlqGklqHeL-akdjAw&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.fnnews.com/news/202609071807198668",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.7g_BcSRr4fclhF_D3nNCvA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[포토뉴스]국제키비탄한국본부 강릉클럽,주문진 주거 환경 정화 봉사",
+      "summary": "국제키비탄한국본부 강릉클럽(회장:김건휘)은 지난 6일 주문진 지역 주거 취약계층을 대상으로 회원들을 비롯해 명지대학교 캠퍼스 키비탄클럽 봉사자 등 총 20명이 참여해 따뜻한 손길을 전하는 ‘주거 환경 정화 봉사활동’을 펼쳤다. 김건휘 회장은 “주말을 반납하고 구슬땀을 ...",
+      "source": "강원일보",
+      "publishedAt": "2026-09-07",
+      "url": "https://kwnews.co.kr/article/20260907501010",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.b5FEysKYp6pGJlzdjPmLPA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[포토뉴스]한국수자원공사 소양강댐지사 추석 명절 맞이 문화 관람 행사 신행",
+      "summary": "한국수자원공사(K-water) 소양강댐지사(지사장:유인선)는 지난 5일 춘천에서 열린 ‘추석 명절 맞이 문화 관람 행사’를 실시했다. 이날 행사에는 지역내 소외 어르신 60여명이 참여, 공연을 즐겼다. 소양강댐 지사는 지역사회 복지 향상과 사회적 가치 실현을 위해 사회 ...",
+      "source": "강원일보",
+      "publishedAt": "2026-09-07",
+      "url": "https://kwnews.co.kr/article/20260907500938",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.SZ-oxfqfnOWu4122tjEy-Q&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "한국편의점산업협회, 편의점 산업 분석 신간 출간… '편의점 지수' 개발",
+      "summary": "인구 1000명당 편의점 수 활용한 지표로 지역 특성 분석 설계 (서울=뉴스1) 유민주 기자 = 한국편의점산업협회가 국내 편의점 산업의 성장 과정과 사회·경제적 영향을 분석한 신간을 출간했다. 한국편의점산업협회는 '한국 편의점 산업의 현재와 미래-편의점으로 읽는 대한민국'을 출간했다고 7일 밝혔다. 이번 단행본은 국내 ...",
+      "source": "뉴스1 on MSN",
+      "publishedAt": "2026-09-07",
+      "url": "https://www.msn.com/ko-kr/entertainment/games/%ED%95%9C%EA%B5%AD%ED%8E%B8%EC%9D%98%EC%A0%90%EC%82%B0%EC%97%85%ED%98%91%ED%9A%8C-%ED%8E%B8%EC%9D%98%EC%A0%90-%EC%82%B0%EC%97%85-%EB%B6%84%EC%84%9D-%EC%8B%A0%EA%B0%84-%EC%B6%9C%EA%B0%84-%ED%8E%B8%EC%9D%98%EC%A0%90-%EC%A7%80%EC%88%98-%EA%B0%9C%EB%B0%9C/ar-AA2bInfC",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.yLQxV82qcaa6ZarTV3UxfQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "데이터센터 없이도 AI 된다…오히려 더 빠르고 안전하게 [가장 쉬운 인공지능 안내서]",
-      "summary": "온디바이스 AI의 세계 온디바이스 AI를 가능케하는 엑시노스 모바일 NPU [삼성전자] AI를 쓰려면 꼭 거대한 데이터센터가 필요할까. 스마트폰과 PC 안에서 AI를 직접 돌리는 ‘온디바이스 AI’가 빠르게 확산하고 있다. 인터넷 없이도 작동하고, 응답은 더 빠르며, 민감한 데이터를 외부로 보내지 않아도 된다. 온디바이스 AI가 무엇이고 어디까지 활용할 수 ...",
-      "source": "매일경제 on MSN",
-      "publishedAt": "2026-09-06",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%97%86%EC%9D%B4%EB%8F%84-ai-%EB%90%9C%EB%8B%A4-%EC%98%A4%ED%9E%88%EB%A0%A4-%EB%8D%94-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%95%88%EB%82%B4%EC%84%9C/ar-AA2bEPT7",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.7IAHt-FtnO2ZVMght3yzng&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "AI 전력난·탈중국 훈풍에… 2차전지 ETF 고공행진 [마이머니]",
-      "summary": "국내 증시를 주도하던 반도체 대형주가 조정을 받는 사이 2차전지 테마가 상장지수펀드(ETF) 수익률 상위권을 휩쓸고 있다. 상대적으로 가격 매력이 커진 2차전지 업종으로 투자 자금이 쏠리는 양상이다. 여기에 인공지능(AI) 데이터센터 확산에 따른 전력난 우려와 미국의 탈중국 공급망 재편 정책까지 맞물리면서 2차전지 테마의 강세를 뒷받침하고 있다. 시장에서는 ...",
+      "title": "AI가 사람과 연애하고 벌칙까지 정한다… '예능판' 누비는 인공지능",
+      "summary": "인공지능(AI)이 예능판에 깊숙이 들어오고 있다. 사람의 연애 상대가 되고 게임의 결정권자로 출연자들의 선택을 좌우한다. 가상의 공간과 콘텐츠를 만드는 제작 도구로도 활용되면서 예능 속 역할을 넓혀가고 있다. 8일 방송가에 따르면 SBS는 지난달 20일 ‘나의 AI 파트너-기이안 연애’를 처음 선보였다. 기안84·장도연·이유비가 자신들의 취향을 반영해 구현 ...",
       "source": "세계일보 on MSN",
-      "publishedAt": "2026-09-06",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/ai-%EC%A0%84%EB%A0%A5%EB%82%9C-%ED%83%88%EC%A4%91%EA%B5%AD-%ED%9B%88%ED%92%8D%EC%97%90-2%EC%B0%A8%EC%A0%84%EC%A7%80-etf-%EA%B3%A0%EA%B3%B5%ED%96%89%EC%A7%84-%EB%A7%88%EC%9D%B4%EB%A8%B8%EB%8B%88/ar-AA2bGbzq",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.i7br8hLIRSccZ6A1Y-X6pQ&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-09-07",
+      "url": "https://www.msn.com/ko-kr/entertainment/%EC%9D%BC%EB%B0%98/ai%EA%B0%80-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%97%B0%EC%95%A0%ED%95%98%EA%B3%A0-%EB%B2%8C%EC%B9%99%EA%B9%8C%EC%A7%80-%EC%A0%95%ED%95%9C%EB%8B%A4-%EC%98%88%EB%8A%A5%ED%8C%90-%EB%88%84%EB%B9%84%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/ar-AA2bLftV",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.iaNTrXkMTsrYQywD36TqqA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "피지컬 AI 승부처는 ‘데이터 퍼스트’…최홍섭 대표 “모델부터 만들면 늦는다”",
-      "summary": "인공지능(AI) 모델을 다 만든 다음 (로봇을) 산업 현장에 넣으려고 하면 시간이 아무리 지나도 못 넣습니다. 순서를 바꿔 ‘데이터 퍼스트(Data-First)’로 가야 합니다.최홍섭 마음 AI 기술총괄 대표 인터뷰 中|스마트투데이=박재형 기자| 최홍섭 마음AI ...",
-      "source": "스마트투데이",
-      "publishedAt": "2026-09-06",
-      "url": "https://www.smarttoday.co.kr/ko-kr/articles/111218",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.bZVDg4eILzBFB3yyFjVTzw&pid=News&w=1200&h=675&c=14"
+      "title": "[최경진의 未來法道] 기술 대혁신 시대, 법은 무엇을 '패치'해야 하나",
+      "summary": "우리는 현재를 살고 있지만, 미래를 향해 나아가고 있다. 문제는 방향이 아니라 속도다. 파운데이션 모델은 몇 달 단위로 세대를 갈아치우고, 데이터는 국경을 모른 채 흐르며, 로봇은 공장 담장을 넘어 일상으로 들어오고 있다. 기술 발전이 선형에서 지수함수로 휘어오르는 순간, 우리가 감당해야 ...",
+      "source": "지디넷코리아",
+      "publishedAt": "2026-09-07",
+      "url": "https://zdnet.co.kr/view/?no=20260907214619",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ygXYXKKrvaBEu1plkM33UQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "AI 데이터센터 시장 더 커진다... 전선업계 북미 AI DC 공략 가속화",
+      "summary": "[파이낸셜뉴스] 엔비디아 젠슨 황 최고경영자(CEO)가 올해 미국 인공지능(AI) 인프라에 약 1조 달러 투자를 예고하는 등 북미 AI 데이터센터 시장이 더 커질 전망이다. 미국을 핵심 전략 시장으로 삼고 있는 국내 전선업계가 생산능력을 확충하면서 시장 공략에 속도를 내고 있다. 8일 업계에 따르면 젠슨 황은 지난 2일(현지시간) 주요20개국(G20) 혁신 ...",
+      "source": "파이낸셜뉴스 on MSN",
+      "publishedAt": "2026-09-07",
+      "url": "https://www.msn.com/ko-kr/news/other/ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%8B%9C%EC%9E%A5-%EB%8D%94-%EC%BB%A4%EC%A7%84%EB%8B%A4-%EC%A0%84%EC%84%A0%EC%97%85%EA%B3%84-%EB%B6%81%EB%AF%B8-ai-dc-%EA%B3%B5%EB%9E%B5-%EA%B0%80%EC%86%8D%ED%99%94/ar-AA2bL0hq",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.irDMlAq24J7CvVNGr5_Avw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "AI 데이터센터 신청 60%, 서울·경기 등 수도권에 몰려",
+      "summary": "인공지능(AI) 데이터센터 신청 건수 가운데 60%는 수도권에 쏠린 것으로 나타났다. 이에 송전망 여유가 있는 비수도권에 데이터센터를 지을 수 있도록 직접전력거래(PPA) 허용 범위를 넓혀야 한다는 지적이 나온다. 또 데이터센터와 발전소를 함께 짓는 '지산지소(지역 생산·지역 소비)' 방식을 도입해야 한다는 분석이다. 7일 한국전력공사가 조은희 국민의힘 의 ...",
+      "source": "매일경제",
+      "publishedAt": "2026-09-07",
+      "url": "https://www.mk.co.kr/news/economy/12146407",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.rGNKtVZyi2v5mf2ovBZqSA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "IPARK현대산업개발, AI·스마트건설 우수기술 4건 선정…현장 실증 추진",
+      "summary": "IPARK현대산업개발은 중소기업과의 기술 협력 강화와 우수기술 발굴을 위한 ‘2026 IPARK 기술제안 공모전’에서 4개 기업을 선정하고 지난 4일 포니정홀에서 시상식을 열었다고 7일 밝혔다. 올해로 6회째를 맞은 이번 공모전은 ‘Construction, Reimagined’를 주제로 신기술·신공법을 비롯해 AI, 빅데이터, IT 플랫폼, 드론, IoT, ...",
+      "source": "브릿지경제 on MSN",
+      "publishedAt": "2026-09-07",
+      "url": "https://www.msn.com/ko-kr/news/other/ipark%ED%98%84%EB%8C%80%EC%82%B0%EC%97%85%EA%B0%9C%EB%B0%9C-ai-%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B1%B4%EC%84%A4-%EC%9A%B0%EC%88%98%EA%B8%B0%EC%88%A0-4%EA%B1%B4-%EC%84%A0%EC%A0%95-%ED%98%84%EC%9E%A5-%EC%8B%A4%EC%A6%9D-%EC%B6%94%EC%A7%84/ar-AA2bJ0qD",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.gwkyDcqWmoEBJAGH66CGjg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
