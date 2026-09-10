@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-09-10",
-  "windowStart": "2026-09-08T22:00:00.000Z",
-  "windowEnd": "2026-09-09T22:00:00.000Z",
+  "updatedAt": "2026-09-11",
+  "windowStart": "2026-09-09T22:00:00.000Z",
+  "windowEnd": "2026-09-10T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "[이슈-중대재해사이렌] 산재 사망사고 경영책임자 잇단 실형...법정까지 울린 '경고등'",
+      "summary": "[아웃소싱타임스 이윤희 기자] 산업현장의 안전관리 부실이 경영책임자의 실제 실형으로 이어지고 있다. 중대재해처벌법 시행 초기에는 집행유예 선고가 상당수를 차지했지만, 최근에는 안전보건관리체계 미비나 중대한 안전조치 위반 등이 인정된 사건에서 경영책임자에게 실형이 선고되는 사례도 잇따르고 있다.",
+      "source": "아웃소싱타임스",
+      "publishedAt": "2026-09-10",
+      "url": "https://www.outsourcing.co.kr/news/articleView.html?idxno=203758",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.gnqx0SfXztpN3nX4qpPZhA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "한국경영기술지도사회, 전북지회 현장 소통…AI 교육·신규지도사 지원 논의",
+      "summary": "한국경영기술지도사회(회장 권형남)가 전북지역 경영지도사·기술지도사들과 만나 회원 간 협업 활성화와 인공지능(AI) 교육 확대, 신규지도사의 컨설팅 시장 진입 지원 등 현장 중심의 회원 지원방안을 논의했다.한국경영기술지도사회는 지난 9일 전북지회에서 지역 회원들과 간담회 ...",
+      "source": "아시아투데이 on MSN",
+      "publishedAt": "2026-09-10",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%98%81%EA%B8%B0%EC%88%A0%EC%A7%80%EB%8F%84%EC%82%AC%ED%9A%8C-%EC%A0%84%EB%B6%81%EC%A7%80%ED%9A%8C-%ED%98%84%EC%9E%A5-%EC%86%8C%ED%86%B5-ai-%EA%B5%90%EC%9C%A1-%EC%8B%A0%EA%B7%9C%EC%A7%80%EB%8F%84%EC%82%AC-%EC%A7%80%EC%9B%90-%EB%85%BC%EC%9D%98/ar-AA2bXK0C",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.7nZ03C24dWpOd21wPC_rLA&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "호르무즈 파병 이슈, 대한민국 주권의 민낯",
@@ -23,75 +41,57 @@
     },
     {
       "category": "society",
-      "title": "[탐사보도 뉴스프리즘] 좀 줄었나 싶더니 다시 커진 이자 부담…'더 오를 것' 전망도",
-      "summary": "한국 사회의 이슈를 발굴하고, 다양한 시선으로 분석하는 뉴스프리즘 시작합니다. 이번주 뉴스프리즘이 풀어갈 이슈, 함께 보시겠습니다. [프리즘1] 1년 9개월 만 기준금리 3% 시대... 추가 인상 시계 '째깍' 지난달 한국은행이 기준금리 연속 인상에 나서면서, 1년 9개월 만에 기준금리 3% 시대가 열렸습니다. 고금리 기조가 본격화한 가운데 추가 인상 가능 ...",
-      "source": "연합뉴스",
-      "publishedAt": "2026-09-06",
-      "url": "https://www.yna.co.kr/view/MYH20260905015000038",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.aU6VWT_x-TuAMsfQGM-urA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "한국사회복지협의회, 2026 국가인적자원개발 우수 공동훈련센터 표창 수상",
-      "summary": "급변하는 복지 현장 수요 반영한 실무 교육 제공… “대국민 사회서비스 질 향상 앞장설 것” 한국사회복지협의회(회장 김현훈)는 지난 3일 원주 오크밸리리조트에서 열린 고용노동부·한국산업인력공단 주관 ‘2026년 제17회 ...",
-      "source": "한국일보 on MSN",
-      "publishedAt": "2026-09-08",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%ED%98%91%EC%9D%98%ED%9A%8C-2026-%EA%B5%AD%EA%B0%80%EC%9D%B8%EC%A0%81%EC%9E%90%EC%9B%90%EA%B0%9C%EB%B0%9C-%EC%9A%B0%EC%88%98-%EA%B3%B5%EB%8F%99%ED%9B%88%EB%A0%A8%EC%84%BC%ED%84%B0-%ED%91%9C%EC%B0%BD-%EC%88%98%EC%83%81/ar-AA2bMHpQ",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.yo4jQV25XpJHkJFJp1nDQg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "한국일보, 효성 항의 방문 후 기사 삭제 파문…“편집국장이 원칙 깼다”",
-      "summary": "효성그룹 일가 형제 간 재판 사건을 다룬 한국일보 기사가 뉴스룸국장의 지시로 사회부장과 법조팀 동의 없이 출고 5시간여 만에 삭제됐다. 효성 측이 기사 출고 당일 한국일보사를 항의 방문한 직후 삭제됐다는 지적이 나오면서 ‘편집국장이 편집국 독립 원칙을 스스로 무너뜨렸다’는 내부 반발이 나왔다.취재에 따르면, 한국일보에서 지난달 28일 새벽 4시30분 출고한 ...",
-      "source": "미디어오늘",
-      "publishedAt": "2026-09-06",
-      "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336924",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.4wCFLgUsAcyDzyT43f_r4w&pid=News&w=1200&h=675&c=14"
+      "title": "최원용 평택시장, 2027~2030 복지 청사진 확정...통합돌봄·고용·주거 5대 전략 추진",
+      "summary": "평택시(시장 최원용)가 생애주기별 통합돌봄부터 고용·주거 안전망과 평생학습, 문화공동체, 건강·안전까지 시민 생활 전반을 포괄하는 제6기 지역사회보장계획을 마련하고 2027년부터 2030년까지 4년간 추진할 지역 복지정책의 기본 방향을 구체화했다. 31일 시에 따르면 지난 28일 시청 통합방위 종합상황실에서 열린 ‘2026년 제2차 평택시 지역사회보장 대표 ...",
+      "source": "아주경제",
+      "publishedAt": "2026-08-31",
+      "url": "https://www.ajunews.com/view/20260831145744943",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Mh_LH2oMuR0Kd5MSGOK1hg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "내년 인공지능전공 신설… 사람 중심 AI 교육으로 경쟁력 키울 것",
-      "summary": "‘인간의 성장을 돕는 AI(인공지능), 공동체를 잇는 인간.’ 개교 65주년을 맞은 서울여대가 올해 1월 인공지능 전환(AX) 비전 선포식에서 발표한 슬로건이다. 이윤선 서울여대 총장은 “AI는 인간의 성장을 돕기 위한 기술이고, 인간은 그 성장을 공동체와 나누는 존재여야 한다는 철학을 기반에 두고 AI 시대 교육을 세우겠다”고 밝혔다. 속도가 생명인 AI ...",
-      "source": "동아일보 on MSN",
-      "publishedAt": "2026-09-09",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%82%B4%EB%85%84-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%A0%84%EA%B3%B5-%EC%8B%A0%EC%84%A4-%EC%82%AC%EB%9E%8C-%EC%A4%91%EC%8B%AC-ai-%EA%B5%90%EC%9C%A1%EC%9C%BC%EB%A1%9C-%EA%B2%BD%EC%9F%81%EB%A0%A5-%ED%82%A4%EC%9A%B8-%EA%B2%83/ar-AA2bTT89",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.asuHK0csKeHnIecDpGj4kg&pid=News&w=1200&h=675&c=14"
+      "title": "국제미래학회, 'AI 에이전트 웹빌더 마에스트로 1급 과정' 개설",
+      "summary": "국제미래학회와 인공지능 글로벌교육원은 오는 10월 17일 'AI 에이전트 웹빌더 마에스트로 (AI 거장) 1급 과정'을 국내 최초로 개설한다. 특화된 하루 과정으로, 수강생들은 AI로 웹사이트를 기획하고 콘텐츠와 페이지를 제작한다. AI 에이전트 기능을 직접 만들고 연결해 실제 접속되는 웹사이트를 구축하고 서비스를 완성한다. 이로써 수강생은 ‘AI 에이전트 ...",
+      "source": "로봇신문사",
+      "publishedAt": "2026-09-10",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=48412",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ni-jYA2abbJccLwmXszfFA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[이슈빡] '인간증명' 테스트 통과한 '아스트라'…오픈AI 최신모델, AGI(범용 인공지능) 시대 열리나?",
-      "summary": "‘SBS’를 정확히 밝혀주시기 바랍니다.■ 방송: SBS ■ 진행: ...",
-      "source": "SBS 뉴스 on MSN",
-      "publishedAt": "2026-09-09",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4%EC%8A%88%EB%B9%A1-%EC%9D%B8%EA%B0%84%EC%A6%9D%EB%AA%85-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%86%B5%EA%B3%BC%ED%95%9C-%EC%95%84%EC%8A%A4%ED%8A%B8%EB%9D%BC-%EC%98%A4%ED%94%88ai-%EC%B5%9C%EC%8B%A0%EB%AA%A8%EB%8D%B8-agi-%EB%B2%94%EC%9A%A9-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%8B%9C%EB%8C%80-%EC%97%B4%EB%A6%AC%EB%82%98/ar-AA2bRNsu",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.gVybg9S2UoORjFUsgacEUg&pid=News&w=1200&h=675&c=14"
+      "title": "[기고] 인공지능과 경계선 짓기",
+      "summary": "2024년 노벨 화학상 수상자 중 한 명의 이력은 독특하다. 화학 분야 노벨상을 받았지만 대학 전공은 컴퓨터과학이다. 박사 학위는 인지신경과학으로 받았다. 직업도 화학 분야 연구자가 아니다.이세돌 9단과 대국했던 바둑 AI 알파고를 개발했던 회사 최고경영자(CEO)인 AI 연구자다.",
+      "source": "지디넷코리아",
+      "publishedAt": "2026-09-10",
+      "url": "https://zdnet.co.kr/view/?no=20260910171449",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.SCckKxp7TRL1u3Ec2Ba2sA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[쿠키과학] 'AI 데이터센터를 칩 하나처럼'… KAIST, 차세대 AI 데이터센터 설계",
-      "summary": "수백 개의 인공지능(AI) 가속기가 제각각 움직이는 데이터센터를 하나의 거대한 반도체 칩처럼 작동시키는 설계가 나왔다. KAIST 전기및전자공학부 정명수 교수와 교원창업기업 파네시아 연구팀이 글로벌 빅테크 기업 메타 연구팀과 함께 차세대 AI 데이터센터 구조를 제시했다. 생성형 AI와 초거대 AI를 학습하려면 수백~수천 개의 가속기가 동시에 데이터를 주고받 ...",
-      "source": "쿠키뉴스 on MSN",
-      "publishedAt": "2026-09-09",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85/%EC%BF%A0%ED%82%A4%EA%B3%BC%ED%95%99-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%EB%A5%BC-%EC%B9%A9-%ED%95%98%EB%82%98%EC%B2%98%EB%9F%BC-kaist-%EC%B0%A8%EC%84%B8%EB%8C%80-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%84%A4%EA%B3%84/ar-AA2bRjrG",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.xfvSNzs_0W0paSO1NX5xBA&pid=News&w=1200&h=675&c=14"
+      "title": "KT, 조선소에 'AI 용접로봇' 투입...AI네트워크 산업현장 적용",
+      "summary": "[파이낸셜뉴스] KT가 전남 영암 HD현대삼호 조선소에 고성능 인공지능(AI) 네트워크를 구축하고 AI 용접로봇을 실증한다. 5G 단독모드(SA)와 AI 무선접속망(AI-RAN), 그래픽처리장치(GPU) 기반 연산 인프라를 결합해 조선소의 로봇 자동화를 앞당기고 생산성을 높인다는 구상이다. KT는 과학기술정보통신부의 '고성능 AI 네트워크 기반조성 사업' ...",
+      "source": "파이낸셜뉴스 on MSN",
+      "publishedAt": "2026-09-10",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/kt-%EC%A1%B0%EC%84%A0%EC%86%8C%EC%97%90-ai-%EC%9A%A9%EC%A0%91%EB%A1%9C%EB%B4%87-%ED%88%AC%EC%9E%85-ai%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%82%B0%EC%97%85%ED%98%84%EC%9E%A5-%EC%A0%81%EC%9A%A9/ar-AA2bVErJ",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.IMlwaP5eKG5EkDSbgqsmPQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "파네시아·메타, 데이터센터를 ‘하나의 칩처럼’…AI 인프라 새 구조 제시",
-      "summary": "[이데일리 김현아 기자] AI(인공지능) 모델이 커지면서 데이터센터의 연산 구조도 바뀌고 있다. 단순히 더 많은 칩을 연결하는 데서 나아가, 연결된 칩을 마치 하나의 거대한 칩처럼 ...",
-      "source": "이데일리 on MSN",
-      "publishedAt": "2026-09-09",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%8C%8C%EB%84%A4%EC%8B%9C%EC%95%84-%EB%A9%94%ED%83%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%EB%A5%BC-%ED%95%98%EB%82%98%EC%9D%98-%EC%B9%A9%EC%B2%98%EB%9F%BC-ai-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%83%88-%EA%B5%AC%EC%A1%B0-%EC%A0%9C%EC%8B%9C/ss-AA2bQ6vp",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ftXj4sf4SSLJG9NRQWBKmg&pid=News&w=1200&h=675&c=14"
+      "title": "[인터뷰] 2000억 투입한 네이버, '보파모'로 사업보국 실현…\"AI 보안 주권 지킬 것\"",
+      "summary": "(지디넷코리아=장유미 기자)\"국가 위기 상황에서 해외 모델에 기대지 않고 사용할 수 있는 우리나라만의 인공지능(AI) 모델이 반드시 필요합니다. 네이버 경영진이 '보안 특화 AI 사업'에 약 2000억원 상당의 자체 그래픽처리장치(GPU) 4000장을 투입하기로 결단한 것도 이런 이유에서입니다. 앞으로 국내 AI 보안 역량을 키워 국가 발전에 이바지하고자 ...",
+      "source": "지디넷코리아 on MSN",
+      "publishedAt": "2026-09-10",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EC%9D%B8%ED%84%B0%EB%B7%B0-2000%EC%96%B5-%ED%88%AC%EC%9E%85%ED%95%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B3%B4%ED%8C%8C%EB%AA%A8-%EB%A1%9C-%EC%82%AC%EC%97%85%EB%B3%B4%EA%B5%AD-%EC%8B%A4%ED%98%84-ai-%EB%B3%B4%EC%95%88-%EC%A3%BC%EA%B6%8C-%EC%A7%80%ED%82%AC-%EA%B2%83/ar-AA2bYAEp",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.81aeKKBeKYx8G-O8UjI42A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "'AI 데이터센터가 하나의 컴퓨터처럼 작동'…KAIST, 새로운 구조 제시",
-      "summary": "(대전=뉴스1) 김종서 기자 = 한국과학기술원(KAIST)은 전기및전자공학부 정명수 교수와 교원창업기업 '팹리스 파네시아' 연구진이 메타 연구진과 함께 차세대 AI 데이터센터 구조를 제시했다고 9일 밝혔다.최근 생성형 AI와 초거대 AI가 발전하면서 AI 연산에 많게는 수..",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-09-09",
-      "url": "https://www.fnnews.com/news/202609091038211210",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.lza2y0k2YlR_n8kfc_StmA&pid=News&w=1200&h=675&c=14"
+      "title": "물산업 육성 기능 한곳에…‘한국물산업진흥원’ 설립 추진",
+      "summary": "[에너지데일리 조남준 기자] 정부가 5개 기관에 분산된 물산업 지원 기능을 하나로 모은 ‘한국물산업진흥원’ 설립을 추진한다. 기술개발 이후 실증과 성능검증, 인증, 사업화, 해외 진출을 위해 여러 기관을 거쳐야 했던 기업 지원절차를 일원화해 물산업을 반도체·인공지능 (AI) 시대의 국가 전략산업으로 키우겠다는 구상이다.",
+      "source": "에너지데일리",
+      "publishedAt": "2026-09-10",
+      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203105",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.oaYjgfMqgZvCj_axG98niw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
