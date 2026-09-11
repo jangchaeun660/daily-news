@@ -1,43 +1,25 @@
 {
-  "updatedAt": "2026-09-11",
-  "windowStart": "2026-09-09T22:00:00.000Z",
-  "windowEnd": "2026-09-10T22:00:00.000Z",
+  "updatedAt": "2026-09-12",
+  "windowStart": "2026-09-10T22:00:00.000Z",
+  "windowEnd": "2026-09-11T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[이슈-중대재해사이렌] 산재 사망사고 경영책임자 잇단 실형...법정까지 울린 '경고등'",
-      "summary": "[아웃소싱타임스 이윤희 기자] 산업현장의 안전관리 부실이 경영책임자의 실제 실형으로 이어지고 있다. 중대재해처벌법 시행 초기에는 집행유예 선고가 상당수를 차지했지만, 최근에는 안전보건관리체계 미비나 중대한 안전조치 위반 등이 인정된 사건에서 경영책임자에게 실형이 선고되는 사례도 잇따르고 있다.",
-      "source": "아웃소싱타임스",
-      "publishedAt": "2026-09-10",
-      "url": "https://www.outsourcing.co.kr/news/articleView.html?idxno=203758",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.gnqx0SfXztpN3nX4qpPZhA&pid=News&w=1200&h=675&c=14"
+      "title": "[로펌이슈] 법무법인 동인, 2026 서울사회복지대회 서울시의회 의장상 수상",
+      "summary": "[서울=뉴스핌] 홍석희 기자 = 법무법인 동인(대표변호사 원창연)이 11일 서울여성플라자 국제회의장에서 열린 '2026 서울사회복지대회'에서 지역사회 나눔 문화 확산과 사회공헌에 기여한 공로로 서울특별시의회 의장상을 수상했다. 동인은 2017년부터 소외계층 여성 보호 및 자립 지원을 위해 매년 연말 후원금을 전달하며 ...",
+      "source": "뉴스핌 on MSN",
+      "publishedAt": "2026-09-11",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%A1%9C%ED%8E%8C%EC%9D%B4%EC%8A%88-%EB%B2%95%EB%AC%B4%EB%B2%95%EC%9D%B8-%EB%8F%99%EC%9D%B8-2026-%EC%84%9C%EC%9A%B8%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EB%8C%80%ED%9A%8C-%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%9D%98%ED%9A%8C-%EC%9D%98%EC%9E%A5%EC%83%81-%EC%88%98%EC%83%81/ar-AA2c09wx",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.1neiMAic5S3I_fOjrSQ1iw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "한국경영기술지도사회, 전북지회 현장 소통…AI 교육·신규지도사 지원 논의",
-      "summary": "한국경영기술지도사회(회장 권형남)가 전북지역 경영지도사·기술지도사들과 만나 회원 간 협업 활성화와 인공지능(AI) 교육 확대, 신규지도사의 컨설팅 시장 진입 지원 등 현장 중심의 회원 지원방안을 논의했다.한국경영기술지도사회는 지난 9일 전북지회에서 지역 회원들과 간담회 ...",
-      "source": "아시아투데이 on MSN",
-      "publishedAt": "2026-09-10",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%98%81%EA%B8%B0%EC%88%A0%EC%A7%80%EB%8F%84%EC%82%AC%ED%9A%8C-%EC%A0%84%EB%B6%81%EC%A7%80%ED%9A%8C-%ED%98%84%EC%9E%A5-%EC%86%8C%ED%86%B5-ai-%EA%B5%90%EC%9C%A1-%EC%8B%A0%EA%B7%9C%EC%A7%80%EB%8F%84%EC%82%AC-%EC%A7%80%EC%9B%90-%EB%85%BC%EC%9D%98/ar-AA2bXK0C",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.7nZ03C24dWpOd21wPC_rLA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "호르무즈 파병 이슈, 대한민국 주권의 민낯",
-      "summary": "이로운넷 = 윤병훈여당 소속 국회 외교통일위원 이기헌 의원이 4일 \"국회에 파병 동의 요청이 오면 호르무즈 파병에 동의하지 않을 것\"이라고 밝혔다. 조국혁신당 김준형 원내대표는 \"'파병'은 정부가 절대로 넘어서는 안 될 선\"이라 경고했고, 진보당은 \"명분 없는 미국의 대리전쟁에 20대 ...",
-      "source": "이로운넷",
-      "publishedAt": "2026-09-05",
-      "url": "https://www.eroun.net/news/articleView.html?idxno=89316",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.0NlyTlfCsh17tpLEJk23tw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "박위, 유튜브 '사회실험' 영상 13개 조용히 비공개..KTX CCTV 논란 여파[스타이슈]",
-      "summary": "낙상 사고 CCTV 영상을 공개해 논란에 휩싸인 유튜버 박위가 과거 '사회실험' 영상 등을 추가로 비공개 처리했다. 1일 박위의 유튜브 채널 '위라클'에 게재된 영상은 785개다. 박위는 지난달 논란이 불거진 후 물의를 빚은 CCTV 공개 영상을 포함해 14개의 영상을 비공개 혹은 삭제 처리했다. 비공개 처리된 영상에는 2022년 8월 공개한 '하반신 마비 ...",
-      "source": "스타뉴스 on MSN",
-      "publishedAt": "2026-09-01",
-      "url": "https://www.msn.com/ko-kr/entertainment/tv/%EB%B0%95%EC%9C%84-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%82%AC%ED%9A%8C%EC%8B%A4%ED%97%98-%EC%98%81%EC%83%81-13%EA%B0%9C-%EC%A1%B0%EC%9A%A9%ED%9E%88-%EB%B9%84%EA%B3%B5%EA%B0%9C-ktx-cctv-%EB%85%BC%EB%9E%80-%EC%97%AC%ED%8C%8C-%EC%8A%A4%ED%83%80%EC%9D%B4%EC%8A%88/ar-AA2bkGjf",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.-uOJouBAQiVM6BpIRt3o0Q&pid=News&w=1200&h=675&c=14"
+      "title": "어른이 말려도 \"야차하는 중\"…'야차룰'이 뭐길래 [이슈+]",
+      "summary": "AI로 생성한 이미지. 기사 내용과 무관. 규칙도, 보호 장구도 없이 오직 맨몸으로 싸움을 벌이는 이른바 '야차룰'이 10대 청소년 사이에서 무분별하게 확산하며 심각한 사회적 문제로 대두되는 모양새다. 급기야 야차룰을 강요받은 20대 여성이 10대에게 폭행당해 목숨을 잃는 사건까지 발생하면서, 신종 학교폭력과 폭력성 콘텐츠에 대한 법적·제도적 대책 마련이 ...",
+      "source": "한국경제",
+      "publishedAt": "2026-09-11",
+      "url": "https://www.hankyung.com/article/202609117838H",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.aQn0QbJeM8uoINYdOt2njw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -49,49 +31,67 @@
       "imageUrl": "https://www.bing.com/th?id=ONUT.Mh_LH2oMuR0Kd5MSGOK1hg&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "ai",
-      "title": "국제미래학회, 'AI 에이전트 웹빌더 마에스트로 1급 과정' 개설",
-      "summary": "국제미래학회와 인공지능 글로벌교육원은 오는 10월 17일 'AI 에이전트 웹빌더 마에스트로 (AI 거장) 1급 과정'을 국내 최초로 개설한다. 특화된 하루 과정으로, 수강생들은 AI로 웹사이트를 기획하고 콘텐츠와 페이지를 제작한다. AI 에이전트 기능을 직접 만들고 연결해 실제 접속되는 웹사이트를 구축하고 서비스를 완성한다. 이로써 수강생은 ‘AI 에이전트 ...",
-      "source": "로봇신문사",
-      "publishedAt": "2026-09-10",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=48412",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ni-jYA2abbJccLwmXszfFA&pid=News&w=1200&h=675&c=14"
+      "category": "society",
+      "title": "유재은 교수 강의 K-MOOC ‘청년의 사회적 자립 지원강좌’, 2026 정책 변화 반영",
+      "summary": "[메가경제=양대선 기자] 제2차 청년정책 기본계획 시행에 맞춰 청년정책 전문 강좌가 최신 정책 내용을 반영해 개편됐다. 한국형 온라인 공개강좌 K-MOOC '청년의 사회적 자립 지원강좌'는 올해로 3년째 진행되는 강좌로 최근 변화한 정부 청년정책과 지 ...",
+      "source": "메가경제 on MSN",
+      "publishedAt": "2026-09-08",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%9C%A0%EC%9E%AC%EC%9D%80-%EA%B5%90%EC%88%98-%EA%B0%95%EC%9D%98-k-mooc-%EC%B2%AD%EB%85%84%EC%9D%98-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%9E%90%EB%A6%BD-%EC%A7%80%EC%9B%90%EA%B0%95%EC%A2%8C-2026-%EC%A0%95%EC%B1%85-%EB%B3%80%ED%99%94-%EB%B0%98%EC%98%81/ar-AA2bLMnP",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.wEcbhBUtv2997xTP1qALrg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "폐결핵 6개월, 시한부‘청년 조용기’살리신 하나님. 그리고,, 한국 넘어 전 세계 성령의 불길 지펴‘",
+      "summary": "[뉴스에이 = 이광원 기자] 공고로 진학 과학도의 꿈을 가진 조용기 그러나 폐결핵으로 6개월 시한부 앞에서 당시 폐결핵이면 전파 우려로 학교에서 조기 퇴학 후 죽음을 기다리던 19살 청년 조용기는... 신을 원망했던 열아홉 살 청년은 어떻게 목사가 되어 한국을 넘어 아프리카 남미 특히 일본, 등 전 세계 사람들에게 꿈과 희망을 전하는 세계적인 부흥사가 ...",
+      "source": "newsa",
+      "publishedAt": "2026-08-30",
+      "url": "https://www.newsa.co.kr/news/articleView.html?idxno=402486",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.sEcgpqSDBelRbFSaNtehmw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[기고] 인공지능과 경계선 짓기",
-      "summary": "2024년 노벨 화학상 수상자 중 한 명의 이력은 독특하다. 화학 분야 노벨상을 받았지만 대학 전공은 컴퓨터과학이다. 박사 학위는 인지신경과학으로 받았다. 직업도 화학 분야 연구자가 아니다.이세돌 9단과 대국했던 바둑 AI 알파고를 개발했던 회사 최고경영자(CEO)인 AI 연구자다.",
-      "source": "지디넷코리아",
-      "publishedAt": "2026-09-10",
-      "url": "https://zdnet.co.kr/view/?no=20260910171449",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.SCckKxp7TRL1u3Ec2Ba2sA&pid=News&w=1200&h=675&c=14"
+      "title": "‘AI가 10년내 인류 죽일 것’ 주장에…트럼프 “내 최대 관심은 중국에 대한 기술 우위”",
+      "summary": "인공지능(AI) 기술이 통제 불능 상태가 돼 인간을 위협할 수 있다는 우려가 나오는 가운데, 도널드 트럼프 미국 대통령이 “중국에 대한 기술 우위를 유지하는 게 최우선 관심사”라고 말했다. 트럼프 대통령은 10일(현지시각) 텍사스주 댈러스에서 열린 공화당 전당대회에 참 ...",
+      "source": "한겨레",
+      "publishedAt": "2026-09-11",
+      "url": "https://www.hani.co.kr/arti/international/international_general/1277391.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT._jBuqaLcO4tKCwSrNI5Phg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "KT, 조선소에 'AI 용접로봇' 투입...AI네트워크 산업현장 적용",
-      "summary": "[파이낸셜뉴스] KT가 전남 영암 HD현대삼호 조선소에 고성능 인공지능(AI) 네트워크를 구축하고 AI 용접로봇을 실증한다. 5G 단독모드(SA)와 AI 무선접속망(AI-RAN), 그래픽처리장치(GPU) 기반 연산 인프라를 결합해 조선소의 로봇 자동화를 앞당기고 생산성을 높인다는 구상이다. KT는 과학기술정보통신부의 '고성능 AI 네트워크 기반조성 사업' ...",
-      "source": "파이낸셜뉴스 on MSN",
-      "publishedAt": "2026-09-10",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/kt-%EC%A1%B0%EC%84%A0%EC%86%8C%EC%97%90-ai-%EC%9A%A9%EC%A0%91%EB%A1%9C%EB%B4%87-%ED%88%AC%EC%9E%85-ai%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%82%B0%EC%97%85%ED%98%84%EC%9E%A5-%EC%A0%81%EC%9A%A9/ar-AA2bVErJ",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.IMlwaP5eKG5EkDSbgqsmPQ&pid=News&w=1200&h=675&c=14"
+      "title": "[교육소식] 공주대 앵커 '인공지능 디스플레이 포럼' 등",
+      "summary": "국립공주대학교 앵커사업단은 전날 충남테크노파크에서 '피지컬 인공지능(Physical AI)가 여는 제조혁신, 디스플레이 산업의 미래를 연결하다'라는 'AI·Display Forum(인공지능 디스플레이 포럼)'을 개최했다고 11일 밝혔다. 지난해 충남디스플레이산업기업협의회가 주최하고 앵커사업단과 충남테크노파크 등 5개 기관이 공동주최했다. 소부장 기술융합포럼 ...",
+      "source": "뉴시스 on MSN",
+      "publishedAt": "2026-09-11",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B5%90%EC%9C%A1%EC%86%8C%EC%8B%9D-%EA%B3%B5%EC%A3%BC%EB%8C%80-%EC%95%B5%EC%BB%A4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4-%ED%8F%AC%EB%9F%BC-%EB%93%B1/ar-AA2c03CI",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Zw_hpRzV3gTe8QY3__lERg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[인터뷰] 2000억 투입한 네이버, '보파모'로 사업보국 실현…\"AI 보안 주권 지킬 것\"",
-      "summary": "(지디넷코리아=장유미 기자)\"국가 위기 상황에서 해외 모델에 기대지 않고 사용할 수 있는 우리나라만의 인공지능(AI) 모델이 반드시 필요합니다. 네이버 경영진이 '보안 특화 AI 사업'에 약 2000억원 상당의 자체 그래픽처리장치(GPU) 4000장을 투입하기로 결단한 것도 이런 이유에서입니다. 앞으로 국내 AI 보안 역량을 키워 국가 발전에 이바지하고자 ...",
-      "source": "지디넷코리아 on MSN",
-      "publishedAt": "2026-09-10",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EC%9D%B8%ED%84%B0%EB%B7%B0-2000%EC%96%B5-%ED%88%AC%EC%9E%85%ED%95%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B3%B4%ED%8C%8C%EB%AA%A8-%EB%A1%9C-%EC%82%AC%EC%97%85%EB%B3%B4%EA%B5%AD-%EC%8B%A4%ED%98%84-ai-%EB%B3%B4%EC%95%88-%EC%A3%BC%EA%B6%8C-%EC%A7%80%ED%82%AC-%EA%B2%83/ar-AA2bYAEp",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.81aeKKBeKYx8G-O8UjI42A&pid=News&w=1200&h=675&c=14"
+      "title": "대구시, AX 연구개발 허브 조성 비전 제시",
+      "summary": "(대구=연합뉴스) 박세진 기자 = 대구시는 '대한민국 인공지능(AI)·로봇-피지컬AI 산업혁신 포럼'에서 AX(인공지능 전환) 연구개발 허브 조성 비전을 제시했다고 11일 밝혔다. 대구디지털혁신진흥원에서 이날 열린 포럼은 대경ICT산업협회, 대경로봇기업진흥협회, 제조혁신피지컬AI협회, 경남인공지능ICT협회가 공동 주최했다. 이날 포럼은 정부의 '5극 3특' ...",
+      "source": "연합뉴스",
+      "publishedAt": "2026-09-11",
+      "url": "https://www.yna.co.kr/view/AKR20260911140000053",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.gVfO1aS33S8MhcGf0TDMqg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "물산업 육성 기능 한곳에…‘한국물산업진흥원’ 설립 추진",
-      "summary": "[에너지데일리 조남준 기자] 정부가 5개 기관에 분산된 물산업 지원 기능을 하나로 모은 ‘한국물산업진흥원’ 설립을 추진한다. 기술개발 이후 실증과 성능검증, 인증, 사업화, 해외 진출을 위해 여러 기관을 거쳐야 했던 기업 지원절차를 일원화해 물산업을 반도체·인공지능 (AI) 시대의 국가 전략산업으로 키우겠다는 구상이다.",
-      "source": "에너지데일리",
-      "publishedAt": "2026-09-10",
-      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203105",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.oaYjgfMqgZvCj_axG98niw&pid=News&w=1200&h=675&c=14"
+      "title": "“서버 경계 허물고 가속기 960개 연결”... KAIST·파네시아·메타, AI 데이터센터를 ‘하나의 거대 칩’으로",
+      "summary": "수백∼수천 개의 AI 가속기를 연결해도 데이터를 주고받는 길이 막히면 초거대 인공지능 (AI)의 속도는 떨어진다. AI 반도체의 개별 성능을 높이는 경쟁을 넘어 데이터센터에 흩어진 CPU와 가속기, 메모리를 얼마나 빠르고 효율적으로 연결하느냐가 AI 인프라의 성능을 좌우하는 시대가 열린 것이다.",
+      "source": "특허뉴스",
+      "publishedAt": "2026-09-11",
+      "url": "https://www.e-patentnews.com/15420",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.XfBn8lgGSqQ6QW9w4m300w&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "육동한 춘천시장 \"데이터·바이오·인재 묶어 AI 미래도시 만든다\"",
+      "summary": "육동한 시장은 “춘천은 데이터 인프라와 바이오산업 기반을 이미 갖추고 있다”며 “AI, 바이오, 데이터와 에너지, 연구와 인재를 묶어 춘천을 대한민국 미래산업의 새로운 거점으로 만들겠다”고 강조했다.",
+      "source": "프레시안",
+      "publishedAt": "2026-09-11",
+      "url": "https://www.pressian.com/pages/articles/2026091117284865958",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.RTSOHDmz5r4uDDgcnqjM1w&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
