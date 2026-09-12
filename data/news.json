@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-09-12",
-  "windowStart": "2026-09-10T22:00:00.000Z",
-  "windowEnd": "2026-09-11T22:00:00.000Z",
+  "updatedAt": "2026-09-13",
+  "windowStart": "2026-09-11T22:00:00.000Z",
+  "windowEnd": "2026-09-12T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "[탐사보도 뉴스프리즘] 네팔 대홍수 먼 나라 이야기 아냐…복합 재난 위기 현실화",
+      "summary": "한국 사회의 이슈를 발굴하고, 다양한 시선으로 분석하는 뉴스프리즘 시작합니다. 이번주 뉴스프리즘이 풀어갈 이슈, 함께 보시겠습니다. [프리즘1] 더 이상 '경고' 아니다…지구의 분노 현실로 네팔 대홍수로 숨지거나 실종된 사람이 수천 명에 이르고 있습니다. 이번 재난은 그동안 막연하게 걱정해 온 기후 변화의 심각성과 자연재해의 위력에 대해 다시 한번 생각하는 ...",
+      "source": "연합뉴스",
+      "publishedAt": "2026-09-13",
+      "url": "https://www.yna.co.kr/view/MYH20260912012200038",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.M8GWuutXZknLFz4C69tT8A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "한국 사회 전체에 묵직한 질문 던지는 영화 ‘하제’",
+      "summary": "다큐멘터리는 질문하는 영화다. 왜 그런 일이 벌어졌고, 왜 이런 일이 계속되고 있으며, 그러니까 그걸 어떻게 해결하거나 극복해 나갈 것이냐고 묻는 영화다. 궁극적으로는 당신은 어떤 가치를 추구하며 살아갈 것인가, 세상은 어떻게 바뀌어 나가야 한다고 생각하느냐고 묻는다. 결국 다큐멘터리는 삶과 우주의 본질이 무엇인지를 생각하게 하는 영화들이다.자연주의의 미학 ...",
+      "source": "민들레",
+      "publishedAt": "2026-09-12",
+      "url": "https://www.mindlenews.com/news/articleView.html?idxno=22300",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.CFDYMFEAHcFl324RHHqjXg&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "[로펌이슈] 법무법인 동인, 2026 서울사회복지대회 서울시의회 의장상 수상",
@@ -31,67 +49,49 @@
       "imageUrl": "https://www.bing.com/th?id=ONUT.Mh_LH2oMuR0Kd5MSGOK1hg&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "society",
-      "title": "유재은 교수 강의 K-MOOC ‘청년의 사회적 자립 지원강좌’, 2026 정책 변화 반영",
-      "summary": "[메가경제=양대선 기자] 제2차 청년정책 기본계획 시행에 맞춰 청년정책 전문 강좌가 최신 정책 내용을 반영해 개편됐다. 한국형 온라인 공개강좌 K-MOOC '청년의 사회적 자립 지원강좌'는 올해로 3년째 진행되는 강좌로 최근 변화한 정부 청년정책과 지 ...",
-      "source": "메가경제 on MSN",
-      "publishedAt": "2026-09-08",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%9C%A0%EC%9E%AC%EC%9D%80-%EA%B5%90%EC%88%98-%EA%B0%95%EC%9D%98-k-mooc-%EC%B2%AD%EB%85%84%EC%9D%98-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%9E%90%EB%A6%BD-%EC%A7%80%EC%9B%90%EA%B0%95%EC%A2%8C-2026-%EC%A0%95%EC%B1%85-%EB%B3%80%ED%99%94-%EB%B0%98%EC%98%81/ar-AA2bLMnP",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.wEcbhBUtv2997xTP1qALrg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "폐결핵 6개월, 시한부‘청년 조용기’살리신 하나님. 그리고,, 한국 넘어 전 세계 성령의 불길 지펴‘",
-      "summary": "[뉴스에이 = 이광원 기자] 공고로 진학 과학도의 꿈을 가진 조용기 그러나 폐결핵으로 6개월 시한부 앞에서 당시 폐결핵이면 전파 우려로 학교에서 조기 퇴학 후 죽음을 기다리던 19살 청년 조용기는... 신을 원망했던 열아홉 살 청년은 어떻게 목사가 되어 한국을 넘어 아프리카 남미 특히 일본, 등 전 세계 사람들에게 꿈과 희망을 전하는 세계적인 부흥사가 ...",
-      "source": "newsa",
-      "publishedAt": "2026-08-30",
-      "url": "https://www.newsa.co.kr/news/articleView.html?idxno=402486",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.sEcgpqSDBelRbFSaNtehmw&pid=News&w=1200&h=675&c=14"
+      "category": "ai",
+      "title": "데이터 쫓아 지방 간다…제조 AI 거점 확산",
+      "summary": "인공지능(AI) 기업들이 주요 산업단지로 거점을 넓히고 있다. 단순한 지사 확대를 넘어 제조 현장에서 발생하는 고품질 산업 데이터와 고객 수요를 확보하고, AI 솔루션을 실제 생산라인에서 실증하기 위한 '현장 밀착형 거점화'가 본격화되는 모습이다.12일 업계에 따르면 ...",
+      "source": "지디넷코리아",
+      "publishedAt": "2026-09-12",
+      "url": "https://zdnet.co.kr/view/?no=20260912092518",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.7a52on4JMrHqA7_knb8ewQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "‘AI가 10년내 인류 죽일 것’ 주장에…트럼프 “내 최대 관심은 중국에 대한 기술 우위”",
-      "summary": "인공지능(AI) 기술이 통제 불능 상태가 돼 인간을 위협할 수 있다는 우려가 나오는 가운데, 도널드 트럼프 미국 대통령이 “중국에 대한 기술 우위를 유지하는 게 최우선 관심사”라고 말했다. 트럼프 대통령은 10일(현지시각) 텍사스주 댈러스에서 열린 공화당 전당대회에 참 ...",
-      "source": "한겨레",
-      "publishedAt": "2026-09-11",
-      "url": "https://www.hani.co.kr/arti/international/international_general/1277391.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT._jBuqaLcO4tKCwSrNI5Phg&pid=News&w=1200&h=675&c=14"
+      "title": "윤재웅 대구대 총장, 삼성전자 협력사 찾아 '인공지능·반도체 인재 취업 활성화' 맞손",
+      "summary": "대구대학교는 윤재웅 총장이 최근 경기 평택시 고용복지센터에서 삼성전자 평택사업장의 주요 기획 사업 관리사인 에이블, 에이치티솔루션, 케어웰솔루션 대표단과 간담회를 열고, 인공지능(AI)과 반도체 분야 미래 인재 양성 및 취업 지원 활성화를 주된 내용으로 한 협력 방안을 논의했다고 12일 밝혔다. 간담회는 고용노동부가 반도체 산업 호황에 따른 삼성전자 평택사 ...",
+      "source": "세계일보 on MSN",
+      "publishedAt": "2026-09-12",
+      "url": "https://www.msn.com/ko-kr/money/%EA%B8%B0%EC%88%A0/%EC%9C%A4%EC%9E%AC%EC%9B%85-%EB%8C%80%EA%B5%AC%EB%8C%80-%EC%B4%9D%EC%9E%A5-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%98%91%EB%A0%A5%EC%82%AC-%EC%B0%BE%EC%95%84-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9D%B8%EC%9E%AC-%EC%B7%A8%EC%97%85-%ED%99%9C%EC%84%B1%ED%99%94-%EB%A7%9E%EC%86%90/ar-AA2c2XID",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.wkK3gyHXrqFvCswTf9ejZw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[교육소식] 공주대 앵커 '인공지능 디스플레이 포럼' 등",
-      "summary": "국립공주대학교 앵커사업단은 전날 충남테크노파크에서 '피지컬 인공지능(Physical AI)가 여는 제조혁신, 디스플레이 산업의 미래를 연결하다'라는 'AI·Display Forum(인공지능 디스플레이 포럼)'을 개최했다고 11일 밝혔다. 지난해 충남디스플레이산업기업협의회가 주최하고 앵커사업단과 충남테크노파크 등 5개 기관이 공동주최했다. 소부장 기술융합포럼 ...",
-      "source": "뉴시스 on MSN",
-      "publishedAt": "2026-09-11",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B5%90%EC%9C%A1%EC%86%8C%EC%8B%9D-%EA%B3%B5%EC%A3%BC%EB%8C%80-%EC%95%B5%EC%BB%A4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4-%ED%8F%AC%EB%9F%BC-%EB%93%B1/ar-AA2c03CI",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Zw_hpRzV3gTe8QY3__lERg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "대구시, AX 연구개발 허브 조성 비전 제시",
-      "summary": "(대구=연합뉴스) 박세진 기자 = 대구시는 '대한민국 인공지능(AI)·로봇-피지컬AI 산업혁신 포럼'에서 AX(인공지능 전환) 연구개발 허브 조성 비전을 제시했다고 11일 밝혔다. 대구디지털혁신진흥원에서 이날 열린 포럼은 대경ICT산업협회, 대경로봇기업진흥협회, 제조혁신피지컬AI협회, 경남인공지능ICT협회가 공동 주최했다. 이날 포럼은 정부의 '5극 3특' ...",
+      "title": "안산시, 2028년까지 반월·시화산단 '인공지능 전환 실증' 추진",
+      "summary": "안산시는 8일 정책 브리핑을 통해 2028년까지 총사업비 280억원을 투입, 반월·시화 산단을 인공지능(AI) 기반 미래 제조산업의 거점으로 전환할 계획이라고 밝혔다. 이번 실증 사업은 인공지능 기술을 적용해 제조 기업의 생산성을 높이고 기업 경쟁력을 강화하는 것을 목표로 마련됐다. 먼저 시는 원시동 신안산 비즈스타 복합지식산업센터 내에 기업의 AI 도입을 ...",
       "source": "연합뉴스",
-      "publishedAt": "2026-09-11",
-      "url": "https://www.yna.co.kr/view/AKR20260911140000053",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.gVfO1aS33S8MhcGf0TDMqg&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-09-08",
+      "url": "https://www.yna.co.kr/view/AKR20260908115100061",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.T_Z7len02XPg-AWBkOTWgA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "“서버 경계 허물고 가속기 960개 연결”... KAIST·파네시아·메타, AI 데이터센터를 ‘하나의 거대 칩’으로",
-      "summary": "수백∼수천 개의 AI 가속기를 연결해도 데이터를 주고받는 길이 막히면 초거대 인공지능 (AI)의 속도는 떨어진다. AI 반도체의 개별 성능을 높이는 경쟁을 넘어 데이터센터에 흩어진 CPU와 가속기, 메모리를 얼마나 빠르고 효율적으로 연결하느냐가 AI 인프라의 성능을 좌우하는 시대가 열린 것이다.",
-      "source": "특허뉴스",
-      "publishedAt": "2026-09-11",
-      "url": "https://www.e-patentnews.com/15420",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.XfBn8lgGSqQ6QW9w4m300w&pid=News&w=1200&h=675&c=14"
+      "title": "국제미래학회, 'AI 에이전트 웹빌더 마에스트로 1급 과정' 개설",
+      "summary": "국제미래학회와 인공지능 글로벌교육원은 오는 10월 17일 'AI 에이전트 웹빌더 마에스트로 (AI 거장) 1급 과정'을 국내 최초로 개설한다. 특화된 하루 과정으로, 수강생들은 AI로 웹사이트를 기획하고 콘텐츠와 페이지를 제작한다. AI 에이전트 기능을 직접 만들고 연결해 실제 접속되는 웹사이트를 구축하고 서비스를 완성한다. 이로써 수강생은 ‘AI 에이전트 ...",
+      "source": "로봇신문사",
+      "publishedAt": "2026-09-10",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=48412",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ni-jYA2abbJccLwmXszfFA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "육동한 춘천시장 \"데이터·바이오·인재 묶어 AI 미래도시 만든다\"",
-      "summary": "육동한 시장은 “춘천은 데이터 인프라와 바이오산업 기반을 이미 갖추고 있다”며 “AI, 바이오, 데이터와 에너지, 연구와 인재를 묶어 춘천을 대한민국 미래산업의 새로운 거점으로 만들겠다”고 강조했다.",
-      "source": "프레시안",
-      "publishedAt": "2026-09-11",
-      "url": "https://www.pressian.com/pages/articles/2026091117284865958",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.RTSOHDmz5r4uDDgcnqjM1w&pid=News&w=1200&h=675&c=14"
+      "title": "[프리뷰] GPT-6 아스트라가 연 AGI 시대…인공지능은 이제 ‘도구’에서 ‘노동자’로 진화한다",
+      "summary": "[CEONEWS=김병조 기자] 인공지능의 역사가 또 한 번의 변곡점을 맞았다. 오픈AI가 3일(현지 시간) 차세대 인공지능 모델 ‘GPT-6 아스트라’를 공개하면서 범용인공지능(AGI) 시대의 개막을 선언했다.",
+      "source": "씨이오뉴스",
+      "publishedAt": "2026-09-04",
+      "url": "https://www.ceomagazine.co.kr/ko-kr/articles/35129",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.qG_ixxGhyCB-W0eyWsJ_CQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
