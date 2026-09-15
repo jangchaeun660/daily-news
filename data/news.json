@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-09-14",
-  "windowStart": "2026-09-12T22:00:00.000Z",
-  "windowEnd": "2026-09-13T22:00:00.000Z",
+  "updatedAt": "2026-09-15",
+  "windowStart": "2026-09-13T22:00:00.000Z",
+  "windowEnd": "2026-09-14T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "용혜인 사퇴에 한국경제 “2030 역린 건드려” 동아일보 “꼼수위성정당 문제”",
+      "summary": "용혜인 성평등가족부 장관 후보자의 사퇴는 비례대표 의원직 유지 논란, 위성정당 제도, 대통령실 인사 검증 문제를 함께 드러냈다. 더불어민주당과 조국혁신당은 연대와 합당을 놓고 공개 충돌했고, 이재명 대통령은 검찰개혁의 속도와 방식에 반발하는 범여권 강경파를 향해 경계 메시지를 냈다. 정호용 전 국방부 장관 사망 보도는 군·정치 경력과 함께 12·12 군사반 ...",
+      "source": "미디어오늘 on MSN",
+      "publishedAt": "2026-09-15",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%9A%A9%ED%98%9C%EC%9D%B8-%EC%82%AC%ED%87%B4%EC%97%90-%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9C-2030-%EC%97%AD%EB%A6%B0-%EA%B1%B4%EB%93%9C%EB%A0%A4-%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4-%EA%BC%BC%EC%88%98%EC%9C%84%EC%84%B1%EC%A0%95%EB%8B%B9-%EB%AC%B8%EC%A0%9C/ar-AA2cc7d1",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.K_4GYec2FwQ2QMVpJMVabg&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "[로펌이슈] 법무법인 동인, 2026 서울사회복지대회 서울시의회 의장상 수상",
@@ -11,15 +20,6 @@
       "publishedAt": "2026-09-11",
       "url": "https://www.msn.com/ko-kr/news/other/%EB%A1%9C%ED%8E%8C%EC%9D%B4%EC%8A%88-%EB%B2%95%EB%AC%B4%EB%B2%95%EC%9D%B8-%EB%8F%99%EC%9D%B8-2026-%EC%84%9C%EC%9A%B8%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EB%8C%80%ED%9A%8C-%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%9D%98%ED%9A%8C-%EC%9D%98%EC%9E%A5%EC%83%81-%EC%88%98%EC%83%81/ar-AA2c09wx",
       "imageUrl": "https://www.bing.com/th?id=ONUT.1neiMAic5S3I_fOjrSQ1iw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "어른이 말려도 \"야차하는 중\"…'야차룰'이 뭐길래 [이슈+]",
-      "summary": "AI로 생성한 이미지. 기사 내용과 무관. 규칙도, 보호 장구도 없이 오직 맨몸으로 싸움을 벌이는 이른바 '야차룰'이 10대 청소년 사이에서 무분별하게 확산하며 심각한 사회적 문제로 대두되는 모양새다. 급기야 야차룰을 강요받은 20대 여성이 10대에게 폭행당해 목숨을 잃는 사건까지 발생하면서, 신종 학교폭력과 폭력성 콘텐츠에 대한 법적·제도적 대책 마련이 ...",
-      "source": "한국경제",
-      "publishedAt": "2026-09-11",
-      "url": "https://www.hankyung.com/article/202609117838H",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.aQn0QbJeM8uoINYdOt2njw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -32,66 +32,66 @@
     },
     {
       "category": "society",
-      "title": "호르무즈 파병 이슈, 대한민국 주권의 민낯",
-      "summary": "이로운넷 = 윤병훈여당 소속 국회 외교통일위원 이기헌 의원이 4일 \"국회에 파병 동의 요청이 오면 호르무즈 파병에 동의하지 않을 것\"이라고 밝혔다. 조국혁신당 김준형 원내대표는 \"'파병'은 정부가 절대로 넘어서는 안 될 선\"이라 경고했고, 진보당은 \"명분 없는 미국의 대리전쟁에 20대 ...",
-      "source": "이로운넷",
-      "publishedAt": "2026-09-05",
-      "url": "https://www.eroun.net/news/articleView.html?idxno=89316",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.0NlyTlfCsh17tpLEJk23tw&pid=News&w=1200&h=675&c=14"
+      "title": "박위, 유튜브 '사회실험' 영상 13개 조용히 비공개..KTX CCTV 논란 여파[스타이슈]",
+      "summary": "낙상 사고 CCTV 영상을 공개해 논란에 휩싸인 유튜버 박위가 과거 '사회실험' 영상 등을 추가로 비공개 처리했다. 1일 박위의 유튜브 채널 '위라클'에 게재된 영상은 785개다. 박위는 지난달 논란이 불거진 후 물의를 빚은 CCTV 공개 영상을 포함해 14개의 영상을 비공개 혹은 삭제 처리했다. 비공개 처리된 영상에는 2022년 8월 공개한 '하반신 마비 ...",
+      "source": "스타뉴스 on MSN",
+      "publishedAt": "2026-09-01",
+      "url": "https://www.msn.com/ko-kr/entertainment/tv/%EB%B0%95%EC%9C%84-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%82%AC%ED%9A%8C%EC%8B%A4%ED%97%98-%EC%98%81%EC%83%81-13%EA%B0%9C-%EC%A1%B0%EC%9A%A9%ED%9E%88-%EB%B9%84%EA%B3%B5%EA%B0%9C-ktx-cctv-%EB%85%BC%EB%9E%80-%EC%97%AC%ED%8C%8C-%EC%8A%A4%ED%83%80%EC%9D%B4%EC%8A%88/ar-AA2bkGjf",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-uOJouBAQiVM6BpIRt3o0Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "최원용 평택시장, 2027~2030 복지 청사진 확정...통합돌봄·고용·주거 5대 전략 추진",
-      "summary": "평택시(시장 최원용)가 생애주기별 통합돌봄부터 고용·주거 안전망과 평생학습, 문화공동체, 건강·안전까지 시민 생활 전반을 포괄하는 제6기 지역사회보장계획을 마련하고 2027년부터 2030년까지 4년간 추진할 지역 복지정책의 기본 방향을 구체화했다. 31일 시에 따르면 지난 28일 시청 통합방위 종합상황실에서 열린 ‘2026년 제2차 평택시 지역사회보장 대표 ...",
-      "source": "아주경제",
-      "publishedAt": "2026-08-31",
-      "url": "https://www.ajunews.com/view/20260831145744943",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Mh_LH2oMuR0Kd5MSGOK1hg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "“세대 간 일자리 충돌? 갈등 부추기는 프레이밍일 뿐”",
-      "summary": "일자리 정책, 시민에게 묻다숙의토론 참가한 6명의 목소리 ...",
-      "source": "한겨레 on MSN",
+      "title": "[탐사보도 뉴스프리즘] 네팔 대홍수 먼 나라 이야기 아냐…복합 재난 위기 현실화",
+      "summary": "한국 사회의 이슈를 발굴하고, 다양한 시선으로 분석하는 뉴스프리즘 시작합니다. 이번주 뉴스프리즘이 풀어갈 이슈, 함께 보시겠습니다. [프리즘1] 더 이상 '경고' 아니다…지구의 분노 현실로 네팔 대홍수로 숨지거나 실종된 사람이 수천 명에 이르고 있습니다. 이번 재난은 그동안 막연하게 걱정해 온 기후 변화의 심각성과 자연재해의 위력에 대해 다시 한번 생각하는 ...",
+      "source": "연합뉴스",
       "publishedAt": "2026-09-13",
-      "url": "https://www.msn.com/ko-kr/%EC%82%AC%ED%9A%8C-%EB%AC%B8%ED%99%94-%EB%B0%8F-%EC%97%AD%EC%82%AC/%EC%86%8C%EC%85%9C-%EB%AC%B8%EC%A0%9C/%EC%84%B8%EB%8C%80-%EA%B0%84-%EC%9D%BC%EC%9E%90%EB%A6%AC-%EC%B6%A9%EB%8F%8C-%EA%B0%88%EB%93%B1-%EB%B6%80%EC%B6%94%EA%B8%B0%EB%8A%94-%ED%94%84%EB%A0%88%EC%9D%B4%EB%B0%8D%EC%9D%BC-%EB%BF%90/ar-AA2c8Cti",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.4Ezizqd63xkC1vchxFlrsg&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.yna.co.kr/view/MYH20260912012200038",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.M8GWuutXZknLFz4C69tT8A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "보안기업 역량 총집결… 데이터 확보부터 제품화·실증까지 [K-미토스②]",
-      "summary": "국내 기업들이 정부 지원 하에 국내 보안 환경에 특화한 인공지능(AI) 파운데이션 모델 개발에 나섰다. 기업·대학·공공기관 33곳이 참여한 네이버클라우드 컨소시엄은 국산 AI 모델과 보안 데이터를 결합해 개발한 결과물을 국내 보안제품과 산업 현장에 적용할 계획이다. 일명 ‘K-미토스’로 불리는 보안 특화 AI의 개발 방식과 참여기관의 역할을 두 차례에 걸쳐 ...",
-      "source": "IT조선 on MSN",
+      "title": "AI가 스스로 가설 세우고 새로운 발견 했다…노벨상은 누가 받나[125년 노벨상 시대를 담다]②",
+      "summary": "2024년 노벨화학상 수상자 3명 가운데 2명은 인공지능 (AI)을 활용해 과학계의 오랜 난제를 풀어낸 연구자들이었다. 구글 딥마인드의 데미스 허사비스 최고경영자 (CEO)와 존 점퍼 당시 수석연구원 (부사장)이 개발한 '알파폴드2 (AlphaFold2)'는 아미노산 배열만으로 단백질의 3차원 구조를 정밀하게 예측해냈다. 반세기 넘게 과학계가 씨름해온 ...",
+      "source": "아시아경제",
       "publishedAt": "2026-09-14",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EB%B3%B4%EC%95%88%EA%B8%B0%EC%97%85-%EC%97%AD%EB%9F%89-%EC%B4%9D%EC%A7%91%EA%B2%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%99%95%EB%B3%B4%EB%B6%80%ED%84%B0-%EC%A0%9C%ED%92%88%ED%99%94-%EC%8B%A4%EC%A6%9D%EA%B9%8C%EC%A7%80-k-%EB%AF%B8%ED%86%A0%EC%8A%A4/ar-AA2c9hd0",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.pCCadpMK2rw9QYrZmOOt2w&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.asiae.co.kr/article/2026090815070943966",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.4epsp0cwCNzX-t_DibywGQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "일본 후지쓰, 슈퍼컴 기술 접목한 AI 반도체 수출 추진",
-      "summary": "13일 니혼게이자이신문 (닛케이)에 따르면 후지쓰는 2027년부터 이 반도체를 일본 국내와 미국, 아시아·태평양 지역에서도 판매할 계획이다. AI 추론에는 연산용 로직 반도체인 중앙처리장치 (CPU)가 사용된다.",
-      "source": "서울경제",
-      "publishedAt": "2026-09-13",
-      "url": "https://www.sedaily.com/article/20090352",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.xhqVS46QbMvYBaTud5yCIw&pid=News&w=1200&h=675&c=14"
+      "title": "[서산소식] 우수 시민 혁신 아이디어에 '침수 안심지도'",
+      "summary": "(서산=연합뉴스) ▲ 우수 시민 혁신 아이디어에 '침수 안심지도' = 충남 서산시는 우수 시민 혁신 아이디어로 침수 취약지역을 데이터로 관리하는 '침수 안심지도 구축'이 선정됐다고 15일 밝혔다. 시내버스 블랙박스 인공지능 (AI) 도로교통 모니터링 시스템 구축, 침수 위험 감지 및 대피 유도 스마트 방재 가로등, 임신·출산 원스톱 행복패스 구축, 기형아 ...",
+      "source": "연합뉴스",
+      "publishedAt": "2026-09-14",
+      "url": "https://www.yna.co.kr/view/AKR20260915023300063",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.cwnYlQN2bpJr2m1vjF0PhA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "머스크 사로잡을 K-파워 간다...美 전력난에 수출길 활짝[김창영의 실리콘밸리 룩]",
-      "summary": "한미 전력기자재 사절단 실리콘밸리·댈러스 방문 美 전력 인프라 바이어 만나 수출 확대 기회 노려 데이터센터 전력난에 전력인프라 기업 중요해져 전력 장비 시장 200억 달러→650억 달러 급성장 한국산 변압기 수입 2020년 5.2%→2024년 17.3% ...",
-      "source": "서울경제 on MSN",
-      "publishedAt": "2026-09-13",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%A8%B8%EC%8A%A4%ED%81%AC-%EC%82%AC%EB%A1%9C%EC%9E%A1%EC%9D%84-k-%ED%8C%8C%EC%9B%8C-%EA%B0%84%EB%8B%A4%E7%BE%8E-%EC%A0%84%EB%A0%A5%EB%82%9C%EC%97%90-%EC%88%98%EC%B6%9C%EA%B8%B8-%ED%99%9C%EC%A7%9D-%EA%B9%80%EC%B0%BD%EC%98%81%EC%9D%98-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%EB%A3%A9/ss-AA2c91tS",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ygBJkQGdGc3izwAZ4hu0Jg&pid=News&w=1200&h=675&c=14"
+      "title": "손정의 회장과 엔트로픽의 제이콥 콕슨이 던진 질문",
+      "summary": "2026년 가을에 두 개의 장면이 세계에 전해졌다.하나는 도쿄다. 손정의 소프트뱅크 회장이 '소프트뱅크 월드 2026(SoftBank World 2026)' 무대에서 2040년을 숫자로 그렸다. 인공지능(AI)이 세계 경제의 20%, 연간 7000조엔을 만들어낸다. 우리 ...",
+      "source": "지디넷코리아",
+      "publishedAt": "2026-09-14",
+      "url": "https://zdnet.co.kr/view/?no=20260915082047",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.F3g6Z5WfLt8hU91_6Ji-wA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "“살려주세요” 韓 국가대표의 ‘다급한 SOS’…AG ‘비용 전쟁’ 민낯 [권준영의 머니볼]",
-      "summary": "“국제종합대회인데 선수촌이 없습니다. ” 아시안게임이라면 선수들이 한곳에 모여 먹고 자며 대회를 준비하는 선수촌부터 떠올리기 쉽다. 하지만 2026 아이치·나고야 아시안게임에서는 그 익숙한 풍경이 사라졌다.",
-      "source": "세계일보",
-      "publishedAt": "2026-09-13",
-      "url": "https://www.segye.com/newsView/20260914500212",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ieIuanS0FmyqY4J335Y4eQ&pid=News&w=1200&h=675&c=14"
+      "title": "폭주하는 인공지능…“이러다가 다 죽어” [뉴노멀-실리콘밸리]",
+      "summary": "박원익 | 더밀크 IP본부장 “이 기술이 가진 힘을 과소평가해서는 안 된다. 우리는 곧 인간을 뛰어넘는 시스템을 갖게 될 것이다.” 앤트로픽의 사전학습 연구원 제이컵 콕슨(27)이 8일(현지시각) 사표를 던지며 엑스(X)에 남긴 글이다. 업계 ...",
+      "source": "한겨레",
+      "publishedAt": "2026-09-14",
+      "url": "https://www.hani.co.kr/arti/opinion/column/1277607.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.j5F5G_-cM436ZnyFR15o4Q&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "[속보]‘AI 속도조절론’에 뉴욕증시 하락…나스닥 0.56%↓",
+      "summary": "미국 뉴욕증시가 14일(현지시간) 인공지능(AI) 개발 속도조절론과 국제유가·미국 국채 금리 상승 등을 주시하며 하락세로 마감했다. 이날 다우존스30 산업평균지수는 전장보다 152.09포인트(0.29%) 내린 ...",
+      "source": "문화일보 on MSN",
+      "publishedAt": "2026-09-14",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%86%8D%EB%B3%B4-ai-%EC%86%8D%EB%8F%84%EC%A1%B0%EC%A0%88%EB%A1%A0-%EC%97%90-%EB%89%B4%EC%9A%95%EC%A6%9D%EC%8B%9C-%ED%95%98%EB%9D%BD-%EB%82%98%EC%8A%A4%EB%8B%A5-056/ar-AA2cd6EC",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ZiqzroYaICy-lKg6b29gyw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
