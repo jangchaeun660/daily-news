@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-09-17",
+    "windowStart": "2026-09-15T22:00:00.000Z",
+    "windowEnd": "2026-09-16T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "한국사회보장정보원, 지역아동센터 종사자 업무역량 높인다",
+        "summary": "한국사회보장정보원 대구경북지역센터가 지역아동센터 대구·경북지원단과 업무협약을 체결했다. 467개소 네트워크를 활용해 종사자 교육을 강화하고 현장 중심 지원체계를 구축한다.",
+        "source": "인사이트 on MSN",
+        "publishedAt": "2026-09-16",
+        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EC%A7%80%EC%97%AD%EC%95%84%EB%8F%99%EC%84%BC%ED%84%B0-%EC%A2%85%EC%82%AC%EC%9E%90-%EC%97%85%EB%AC%B4%EC%97%AD%EB%9F%89-%EB%86%92%EC%9D%B8%EB%8B%A4/ar-AA2ciYZr",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.KyA3T6JCjL9Vm5DXn1HY3g&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "6년 만에 '사회적 대화' 열리나…민주노총, 오늘 메가특구 참여 논의",
+        "summary": "주 52시간 예외·기간제 연장 등 노동특례 놓고 정부·노동계 이견 한국노총 대화 참여 선언에 불참 부담…대화 방식도 막판 변수 정부가 메가특구 특별법의 노동특례를 논의할 원포인트 사회적 대화를 제안한 가운데 전국민주노동조합총연맹(민주노총)이 참여 여부를 논의한다. 한국노동조합총연맹(한국 ...",
+        "source": "뉴스1",
+        "publishedAt": "2026-09-16",
+        "url": "https://www.news1.kr/economy/employment-labor/6292881",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.cpsmwJG6DlLZDUXeX0hMJw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "정치를 소비하는 법 [똑똑! 한국사회]",
+        "summary": "김내훈 | 작가 칼럼 마감일은 다가오는데 무슨 글을 써야 할지 막막할 때면 이따금 요긴한 글감을 제공해주는 고마운 절친이 있다. 글감이 끝까지 안 떠오를 때 최후의 방편으로 이 친구와 있었던 에피소드를 곱씹어보면 쓸 만한 이야기가 하나쯤은 걸려 ...",
+        "source": "한겨레",
+        "publishedAt": "2026-09-16",
+        "url": "https://www.hani.co.kr/arti/opinion/column/1278161.html",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.WAJlNJKSnwvkNzSAfvkQFA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "시민사회단체 \"파병 절대 안 돼\"…李정부, 미국 요구 거부할 수 있을까?",
+        "summary": "미국의 호르무즈 해협 파병 요구에 반대하는 시민단체의 릴레이 기자회견이 16일 청와대 분수대 앞에서 열었습니다. 김재하 한국진보연대 공동대표는 \"이재명 대통령의 '파병 안 한다'는 얘기를 들으러 왔다\"며 \"국익과 국민의 생명을 위해 당장 파병 중단 입장을 분명히 해야 한다\"고 목소리를 높였습니다. 파병반대 긴급행동은 ...",
+        "source": "노컷뉴스 on MSN",
+        "publishedAt": "2026-09-16",
+        "url": "https://www.msn.com/ko-kr/news/national/%EC%8B%9C%EB%AF%BC%EC%82%AC%ED%9A%8C%EB%8B%A8%EC%B2%B4-%ED%8C%8C%EB%B3%91-%EC%A0%88%EB%8C%80-%EC%95%88-%EB%8F%BC-%E6%9D%8E%EC%A0%95%EB%B6%80-%EB%AF%B8%EA%B5%AD-%EC%9A%94%EA%B5%AC-%EA%B1%B0%EB%B6%80%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C/ar-AA2cl0WD",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Tn3pbOWS_EeG3lt8Je9KHA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "한국공항공사, 폐플라스틱으로 ‘가치우산’ 만들어 기부",
+        "summary": "한국공항공사는 폐플라스틱을 이용해 임직원이 직접 만든 친환경 ‘가치우산’을 서울 강서구 방화11종합사회복지관에 전달했다고 16일 밝혔다. 이 우산은 버려지는 자원에 새로운 가치를 더해 지역사회와 나누는 공사의 자원순환 ESG 캠페인 ‘가치우산’을 통해 제작됐다. 한국공항공사는 2024년부터 공항 내 유실된 우산을 보관해 이용객이 다시 사용할 수 있도록 제공 ...",
+        "source": "세계일보",
+        "publishedAt": "2026-09-16",
+        "url": "https://www.segye.com/newsView/20260916514525",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.sD7mWcxKYmg-qy4_7WA6uw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "‘암 진단부터 사후관리까지’ 강원 인공지능 암 치유센터 개소",
+        "summary": "강원도 내에서 인공지능(AI)을 활용한 암 환자 회복관리와 원격 협진 등 미래형 의료서비스를 받을 수 있게 된다. 강원도와 강원대병원은 지역 암 환자에게 보다 편리하고 체계적인 의료서비스를 제공하기 위해 16일 강원대병원 암노인센터 6층 대강당에서 ‘인공지능 암 치유센터’ 개소식을 개최했다. 인공지능 기반 암 치유센터는 국비 60억 원과 지방비 30억 원 ...",
+        "source": "쿠키뉴스 on MSN",
+        "publishedAt": "2026-09-16",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%95%94-%EC%A7%84%EB%8B%A8%EB%B6%80%ED%84%B0-%EC%82%AC%ED%9B%84%EA%B4%80%EB%A6%AC%EA%B9%8C%EC%A7%80-%EA%B0%95%EC%9B%90-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%95%94-%EC%B9%98%EC%9C%A0%EC%84%BC%ED%84%B0-%EA%B0%9C%EC%86%8C/ar-AA2ckii1",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ufHcXjPqrDOS-EeTnSrZQw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "산업부터 일상까지 AI 체험...충북, 인공지능 활용 넓힌다",
+        "summary": "[앵커] 인공지능 기술을 직접 체험하고 산업 현장의 활용 사례도 살펴보는 행사가 충북 청주에서 열렸습니다. 충청북도는 기업과 주민이 함께한 이번 행사를 통해 인공지능 활용을 지역 산업과 일상으로 넓혀간다는 계획입니다. 이성우 기자입니다. [기자] 사람 모습을 한 로봇이 관람객들의 눈길을 끕니다. 전시 부스마다 발길이 ...",
+        "source": "YTN on MSN",
+        "publishedAt": "2026-09-16",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%82%B0%EC%97%85%EB%B6%80%ED%84%B0-%EC%9D%BC%EC%83%81%EA%B9%8C%EC%A7%80-ai-%EC%B2%B4%ED%97%98-%EC%B6%A9%EB%B6%81-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%99%9C%EC%9A%A9-%EB%84%93%ED%9E%8C%EB%8B%A4/ar-AA2cmDJW",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.xQzDV_QfBq9rMIGpaFI4vA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "인공지능 규제 놓고 젠슨 황과 아모데이 충돌",
+        "summary": "황 “시장 논리가 이미 작동…법·규제 필요없어” 아모데이 “인공지능 개발 속도 예상 뛰어넘어” ...",
+        "source": "한겨레 on MSN",
+        "publishedAt": "2026-09-16",
+        "url": "https://www.msn.com/ko-kr/news/world/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B7%9C%EC%A0%9C-%EB%86%93%EA%B3%A0-%EC%A0%A0%EC%8A%A8-%ED%99%A9%EA%B3%BC-%EC%95%84%EB%AA%A8%EB%8D%B0%EC%9D%B4-%EC%B6%A9%EB%8F%8C/ar-AA2cj8qw",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.VLQjKCqf221KHC7LPbR6lQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "NC AI, 과기정통부 전북∙경남 피지컬AI 1조원대 국책과제 따냈다",
+        "summary": "피지컬 인공지능 (AI) 전문 기업 NC AI가 과학기술정보통신부와 정보통신산업진흥원 (NIPA)이 추진하는 전북∙경남 피지컬 AI 연구개발사업에 참여한다고 17일 밝혔다. 이번 사업은 올해부터 2030년까지 5년간 총 1조4131억원이 투입되는 대형 국책 과제로 전북과 경남 지역 산업을 기반으로 피지컬 AI 기술을 확보하는 것이 핵심이다.",
+        "source": "매일경제",
+        "publishedAt": "2026-09-16",
+        "url": "https://www.mk.co.kr/news/it/12155000",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.gkYtiyDkIUDug-HlwU8TgA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "7368억 피지컬AI 잡은 전북, 이원택 지사 \"산업지도 바꾼다\"",
+        "summary": "국가 SW플랫폼 사업 본격화 전국 첫 실증단지…R&D·실증·사업화 연계 제조·농생명 연결해 전북 전역 확산 “피지컬 AI를 단순한 기술 개발에 그치지 않고 전북 산업지도를 바꾸는 전환점으로 만들겠습니다.” 이원택 전북특별자치도지사가 국가 피지컬 AI 사업을 발판으로 전북을 연구개발(R&D)과 실증, 산업화가 한 지역에서 이뤄지는 거점으로 육성하겠다는 청사진 ...",
+        "source": "이투데이 on MSN",
+        "publishedAt": "2026-09-16",
+        "url": "https://www.msn.com/ko-kr/%EA%B3%BC%ED%95%99/%EC%9D%BC%EB%B0%98/7368%EC%96%B5-%ED%94%BC%EC%A7%80%EC%BB%ACai-%EC%9E%A1%EC%9D%80-%EC%A0%84%EB%B6%81-%EC%9D%B4%EC%9B%90%ED%83%9D-%EC%A7%80%EC%82%AC-%EC%82%B0%EC%97%85%EC%A7%80%EB%8F%84-%EB%B0%94%EA%BE%BC%EB%8B%A4/ar-AA2cnzRr",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ZACy7tOHqSNY2i7lM9tQqA&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-09-16",
     "windowStart": "2026-09-14T22:00:00.000Z",
     "windowEnd": "2026-09-15T22:00:00.000Z",
@@ -578,103 +675,6 @@
         "publishedAt": "2026-09-10",
         "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203105",
         "imageUrl": "https://www.bing.com/th?id=ONUT.oaYjgfMqgZvCj_axG98niw&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-09-10",
-    "windowStart": "2026-09-08T22:00:00.000Z",
-    "windowEnd": "2026-09-09T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "호르무즈 파병 이슈, 대한민국 주권의 민낯",
-        "summary": "이로운넷 = 윤병훈여당 소속 국회 외교통일위원 이기헌 의원이 4일 \"국회에 파병 동의 요청이 오면 호르무즈 파병에 동의하지 않을 것\"이라고 밝혔다. 조국혁신당 김준형 원내대표는 \"'파병'은 정부가 절대로 넘어서는 안 될 선\"이라 경고했고, 진보당은 \"명분 없는 미국의 대리전쟁에 20대 ...",
-        "source": "이로운넷",
-        "publishedAt": "2026-09-05",
-        "url": "https://www.eroun.net/news/articleView.html?idxno=89316",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.0NlyTlfCsh17tpLEJk23tw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "박위, 유튜브 '사회실험' 영상 13개 조용히 비공개..KTX CCTV 논란 여파[스타이슈]",
-        "summary": "낙상 사고 CCTV 영상을 공개해 논란에 휩싸인 유튜버 박위가 과거 '사회실험' 영상 등을 추가로 비공개 처리했다. 1일 박위의 유튜브 채널 '위라클'에 게재된 영상은 785개다. 박위는 지난달 논란이 불거진 후 물의를 빚은 CCTV 공개 영상을 포함해 14개의 영상을 비공개 혹은 삭제 처리했다. 비공개 처리된 영상에는 2022년 8월 공개한 '하반신 마비 ...",
-        "source": "스타뉴스 on MSN",
-        "publishedAt": "2026-09-01",
-        "url": "https://www.msn.com/ko-kr/entertainment/tv/%EB%B0%95%EC%9C%84-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%82%AC%ED%9A%8C%EC%8B%A4%ED%97%98-%EC%98%81%EC%83%81-13%EA%B0%9C-%EC%A1%B0%EC%9A%A9%ED%9E%88-%EB%B9%84%EA%B3%B5%EA%B0%9C-ktx-cctv-%EB%85%BC%EB%9E%80-%EC%97%AC%ED%8C%8C-%EC%8A%A4%ED%83%80%EC%9D%B4%EC%8A%88/ar-AA2bkGjf",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.-uOJouBAQiVM6BpIRt3o0Q&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[탐사보도 뉴스프리즘] 좀 줄었나 싶더니 다시 커진 이자 부담…'더 오를 것' 전망도",
-        "summary": "한국 사회의 이슈를 발굴하고, 다양한 시선으로 분석하는 뉴스프리즘 시작합니다. 이번주 뉴스프리즘이 풀어갈 이슈, 함께 보시겠습니다. [프리즘1] 1년 9개월 만 기준금리 3% 시대... 추가 인상 시계 '째깍' 지난달 한국은행이 기준금리 연속 인상에 나서면서, 1년 9개월 만에 기준금리 3% 시대가 열렸습니다. 고금리 기조가 본격화한 가운데 추가 인상 가능 ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-09-06",
-        "url": "https://www.yna.co.kr/view/MYH20260905015000038",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.aU6VWT_x-TuAMsfQGM-urA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "한국사회복지협의회, 2026 국가인적자원개발 우수 공동훈련센터 표창 수상",
-        "summary": "급변하는 복지 현장 수요 반영한 실무 교육 제공… “대국민 사회서비스 질 향상 앞장설 것” 한국사회복지협의회(회장 김현훈)는 지난 3일 원주 오크밸리리조트에서 열린 고용노동부·한국산업인력공단 주관 ‘2026년 제17회 ...",
-        "source": "한국일보 on MSN",
-        "publishedAt": "2026-09-08",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%ED%98%91%EC%9D%98%ED%9A%8C-2026-%EA%B5%AD%EA%B0%80%EC%9D%B8%EC%A0%81%EC%9E%90%EC%9B%90%EA%B0%9C%EB%B0%9C-%EC%9A%B0%EC%88%98-%EA%B3%B5%EB%8F%99%ED%9B%88%EB%A0%A8%EC%84%BC%ED%84%B0-%ED%91%9C%EC%B0%BD-%EC%88%98%EC%83%81/ar-AA2bMHpQ",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.yo4jQV25XpJHkJFJp1nDQg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "한국일보, 효성 항의 방문 후 기사 삭제 파문…“편집국장이 원칙 깼다”",
-        "summary": "효성그룹 일가 형제 간 재판 사건을 다룬 한국일보 기사가 뉴스룸국장의 지시로 사회부장과 법조팀 동의 없이 출고 5시간여 만에 삭제됐다. 효성 측이 기사 출고 당일 한국일보사를 항의 방문한 직후 삭제됐다는 지적이 나오면서 ‘편집국장이 편집국 독립 원칙을 스스로 무너뜨렸다’는 내부 반발이 나왔다.취재에 따르면, 한국일보에서 지난달 28일 새벽 4시30분 출고한 ...",
-        "source": "미디어오늘",
-        "publishedAt": "2026-09-06",
-        "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336924",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.4wCFLgUsAcyDzyT43f_r4w&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "내년 인공지능전공 신설… 사람 중심 AI 교육으로 경쟁력 키울 것",
-        "summary": "‘인간의 성장을 돕는 AI(인공지능), 공동체를 잇는 인간.’ 개교 65주년을 맞은 서울여대가 올해 1월 인공지능 전환(AX) 비전 선포식에서 발표한 슬로건이다. 이윤선 서울여대 총장은 “AI는 인간의 성장을 돕기 위한 기술이고, 인간은 그 성장을 공동체와 나누는 존재여야 한다는 철학을 기반에 두고 AI 시대 교육을 세우겠다”고 밝혔다. 속도가 생명인 AI ...",
-        "source": "동아일보 on MSN",
-        "publishedAt": "2026-09-09",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%82%B4%EB%85%84-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%A0%84%EA%B3%B5-%EC%8B%A0%EC%84%A4-%EC%82%AC%EB%9E%8C-%EC%A4%91%EC%8B%AC-ai-%EA%B5%90%EC%9C%A1%EC%9C%BC%EB%A1%9C-%EA%B2%BD%EC%9F%81%EB%A0%A5-%ED%82%A4%EC%9A%B8-%EA%B2%83/ar-AA2bTT89",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.asuHK0csKeHnIecDpGj4kg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[이슈빡] '인간증명' 테스트 통과한 '아스트라'…오픈AI 최신모델, AGI(범용 인공지능) 시대 열리나?",
-        "summary": "‘SBS’를 정확히 밝혀주시기 바랍니다.■ 방송: SBS ■ 진행: ...",
-        "source": "SBS 뉴스 on MSN",
-        "publishedAt": "2026-09-09",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4%EC%8A%88%EB%B9%A1-%EC%9D%B8%EA%B0%84%EC%A6%9D%EB%AA%85-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%86%B5%EA%B3%BC%ED%95%9C-%EC%95%84%EC%8A%A4%ED%8A%B8%EB%9D%BC-%EC%98%A4%ED%94%88ai-%EC%B5%9C%EC%8B%A0%EB%AA%A8%EB%8D%B8-agi-%EB%B2%94%EC%9A%A9-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%8B%9C%EB%8C%80-%EC%97%B4%EB%A6%AC%EB%82%98/ar-AA2bRNsu",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.gVybg9S2UoORjFUsgacEUg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[쿠키과학] 'AI 데이터센터를 칩 하나처럼'… KAIST, 차세대 AI 데이터센터 설계",
-        "summary": "수백 개의 인공지능(AI) 가속기가 제각각 움직이는 데이터센터를 하나의 거대한 반도체 칩처럼 작동시키는 설계가 나왔다. KAIST 전기및전자공학부 정명수 교수와 교원창업기업 파네시아 연구팀이 글로벌 빅테크 기업 메타 연구팀과 함께 차세대 AI 데이터센터 구조를 제시했다. 생성형 AI와 초거대 AI를 학습하려면 수백~수천 개의 가속기가 동시에 데이터를 주고받 ...",
-        "source": "쿠키뉴스 on MSN",
-        "publishedAt": "2026-09-09",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85/%EC%BF%A0%ED%82%A4%EA%B3%BC%ED%95%99-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%EB%A5%BC-%EC%B9%A9-%ED%95%98%EB%82%98%EC%B2%98%EB%9F%BC-kaist-%EC%B0%A8%EC%84%B8%EB%8C%80-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%84%A4%EA%B3%84/ar-AA2bRjrG",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.xfvSNzs_0W0paSO1NX5xBA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "파네시아·메타, 데이터센터를 ‘하나의 칩처럼’…AI 인프라 새 구조 제시",
-        "summary": "[이데일리 김현아 기자] AI(인공지능) 모델이 커지면서 데이터센터의 연산 구조도 바뀌고 있다. 단순히 더 많은 칩을 연결하는 데서 나아가, 연결된 칩을 마치 하나의 거대한 칩처럼 ...",
-        "source": "이데일리 on MSN",
-        "publishedAt": "2026-09-09",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%8C%8C%EB%84%A4%EC%8B%9C%EC%95%84-%EB%A9%94%ED%83%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%EB%A5%BC-%ED%95%98%EB%82%98%EC%9D%98-%EC%B9%A9%EC%B2%98%EB%9F%BC-ai-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%83%88-%EA%B5%AC%EC%A1%B0-%EC%A0%9C%EC%8B%9C/ss-AA2bQ6vp",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ftXj4sf4SSLJG9NRQWBKmg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "'AI 데이터센터가 하나의 컴퓨터처럼 작동'…KAIST, 새로운 구조 제시",
-        "summary": "(대전=뉴스1) 김종서 기자 = 한국과학기술원(KAIST)은 전기및전자공학부 정명수 교수와 교원창업기업 '팹리스 파네시아' 연구진이 메타 연구진과 함께 차세대 AI 데이터센터 구조를 제시했다고 9일 밝혔다.최근 생성형 AI와 초거대 AI가 발전하면서 AI 연산에 많게는 수..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-09-09",
-        "url": "https://www.fnnews.com/news/202609091038211210",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.lza2y0k2YlR_n8kfc_StmA&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
