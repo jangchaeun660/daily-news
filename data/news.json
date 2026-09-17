@@ -1,97 +1,88 @@
 {
-  "updatedAt": "2026-09-17",
-  "windowStart": "2026-09-15T22:00:00.000Z",
-  "windowEnd": "2026-09-16T22:00:00.000Z",
+  "updatedAt": "2026-09-18",
+  "windowStart": "2026-09-16T22:00:00.000Z",
+  "windowEnd": "2026-09-17T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "한국사회보장정보원, 지역아동센터 종사자 업무역량 높인다",
-      "summary": "한국사회보장정보원 대구경북지역센터가 지역아동센터 대구·경북지원단과 업무협약을 체결했다. 467개소 네트워크를 활용해 종사자 교육을 강화하고 현장 중심 지원체계를 구축한다.",
-      "source": "인사이트 on MSN",
-      "publishedAt": "2026-09-16",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EC%A7%80%EC%97%AD%EC%95%84%EB%8F%99%EC%84%BC%ED%84%B0-%EC%A2%85%EC%82%AC%EC%9E%90-%EC%97%85%EB%AC%B4%EC%97%AD%EB%9F%89-%EB%86%92%EC%9D%B8%EB%8B%A4/ar-AA2ciYZr",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.KyA3T6JCjL9Vm5DXn1HY3g&pid=News&w=1200&h=675&c=14"
+      "title": "청년정책, ‘사후 지원’서 ‘사전 투자’로…자립·도약 뒷받침 [예방국가: 위기보다 한 발 먼저 ④]",
+      "summary": "청년이 취업에 실패하거나 경제적 어려움에 빠진 뒤 지원하는 데 머물렀던 청년정책의 무게중심이 사회에 첫발을 내딛는 단계부터 기회를 넓히는 ‘사전 투자’로 옮겨가고 있다. 정부는 ‘청년의 정책 참여 확대와 기본생활 지원으로 함께 만드는 미래’를 국정과제 89번으로 정하고 ...",
+      "source": "경기일보",
+      "publishedAt": "2026-09-17",
+      "url": "https://www.kyeonggi.com/article/20260916580493",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.NKAfveg6WMRYJJBF08qTPQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[어린이뉴스] 한국사회보장정보원, 지역아동센터 종사자 업무역량 강화 外",
+      "summary": "【베이비뉴스 조성재 기자】아이들의 하루는 배움과 놀이, 성장의 순간들로 가득하다. ‘어린이뉴스’는 어린이의 건강한 성장과 행복한 일상, 그리고 인권 향상을 돕기 위해 마련된 코너다. 교육과 돌봄, 건강과 안전, 권리 증진, 문화·체험 활동 등 아이들의 삶과 밀접한 다양한 소식을 쉽고 알기 쉽게 전하며, 부모와 양육자에게도 도움이 되는 유익한 정보를 함께 소 ...",
+      "source": "베이비뉴스 on MSN",
+      "publishedAt": "2026-09-17",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EC%A7%80%EC%97%AD%EC%95%84%EB%8F%99%EC%84%BC%ED%84%B0-%EC%A2%85%EC%82%AC%EC%9E%90-%EC%97%85%EB%AC%B4%EC%97%AD%EB%9F%89-%EA%B0%95%ED%99%94-%E5%A4%96/ar-AA2cquOq",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.n3lS7IIl86hKQcwby3EBGA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "민주노총, 6년 만에 ‘사회적 대화’…“메가특구 ‘주52시간 예외’ 막겠다”",
+      "summary": "전국민주노동조합총연맹(민주노총)이 김영훈 고용노동부 장관이 제안한 메가특구 특별법 논의를 위한 ‘원포인트 사회적 대화’에 참여하기로 했다. 민주노총이 노사정 사회적 대화 테이블에 앉는 것은 2020년 코로나19 극복 논의 이후 6년 만이다.민주노총은 17일 ...",
+      "source": "서울신문 on MSN",
+      "publishedAt": "2026-09-18",
+      "url": "https://www.msn.com/ko-kr/money/topstories/%EB%AF%BC%EC%A3%BC%EB%85%B8%EC%B4%9D-6%EB%85%84-%EB%A7%8C%EC%97%90-%EC%82%AC%ED%9A%8C%EC%A0%81-%EB%8C%80%ED%99%94-%EB%A9%94%EA%B0%80%ED%8A%B9%EA%B5%AC-%EC%A3%BC52%EC%8B%9C%EA%B0%84-%EC%98%88%EC%99%B8-%EB%A7%89%EA%B2%A0%EB%8B%A4/ar-AA2cqS29",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.e946ee2916cd33b7361c263134459e91&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
       "title": "6년 만에 '사회적 대화' 열리나…민주노총, 오늘 메가특구 참여 논의",
       "summary": "주 52시간 예외·기간제 연장 등 노동특례 놓고 정부·노동계 이견 한국노총 대화 참여 선언에 불참 부담…대화 방식도 막판 변수 정부가 메가특구 특별법의 노동특례를 논의할 원포인트 사회적 대화를 제안한 가운데 전국민주노동조합총연맹(민주노총)이 참여 여부를 논의한다. 한국노동조합총연맹(한국 ...",
       "source": "뉴스1",
-      "publishedAt": "2026-09-16",
+      "publishedAt": "2026-09-17",
       "url": "https://www.news1.kr/economy/employment-labor/6292881",
       "imageUrl": "https://www.bing.com/th?id=ONUT.cpsmwJG6DlLZDUXeX0hMJw&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "society",
-      "title": "정치를 소비하는 법 [똑똑! 한국사회]",
-      "summary": "김내훈 | 작가 칼럼 마감일은 다가오는데 무슨 글을 써야 할지 막막할 때면 이따금 요긴한 글감을 제공해주는 고마운 절친이 있다. 글감이 끝까지 안 떠오를 때 최후의 방편으로 이 친구와 있었던 에피소드를 곱씹어보면 쓸 만한 이야기가 하나쯤은 걸려 ...",
-      "source": "한겨레",
-      "publishedAt": "2026-09-16",
-      "url": "https://www.hani.co.kr/arti/opinion/column/1278161.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.WAJlNJKSnwvkNzSAfvkQFA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "시민사회단체 \"파병 절대 안 돼\"…李정부, 미국 요구 거부할 수 있을까?",
-      "summary": "미국의 호르무즈 해협 파병 요구에 반대하는 시민단체의 릴레이 기자회견이 16일 청와대 분수대 앞에서 열었습니다. 김재하 한국진보연대 공동대표는 \"이재명 대통령의 '파병 안 한다'는 얘기를 들으러 왔다\"며 \"국익과 국민의 생명을 위해 당장 파병 중단 입장을 분명히 해야 한다\"고 목소리를 높였습니다. 파병반대 긴급행동은 ...",
-      "source": "노컷뉴스 on MSN",
-      "publishedAt": "2026-09-16",
-      "url": "https://www.msn.com/ko-kr/news/national/%EC%8B%9C%EB%AF%BC%EC%82%AC%ED%9A%8C%EB%8B%A8%EC%B2%B4-%ED%8C%8C%EB%B3%91-%EC%A0%88%EB%8C%80-%EC%95%88-%EB%8F%BC-%E6%9D%8E%EC%A0%95%EB%B6%80-%EB%AF%B8%EA%B5%AD-%EC%9A%94%EA%B5%AC-%EA%B1%B0%EB%B6%80%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C/ar-AA2cl0WD",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Tn3pbOWS_EeG3lt8Je9KHA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "한국공항공사, 폐플라스틱으로 ‘가치우산’ 만들어 기부",
-      "summary": "한국공항공사는 폐플라스틱을 이용해 임직원이 직접 만든 친환경 ‘가치우산’을 서울 강서구 방화11종합사회복지관에 전달했다고 16일 밝혔다. 이 우산은 버려지는 자원에 새로운 가치를 더해 지역사회와 나누는 공사의 자원순환 ESG 캠페인 ‘가치우산’을 통해 제작됐다. 한국공항공사는 2024년부터 공항 내 유실된 우산을 보관해 이용객이 다시 사용할 수 있도록 제공 ...",
-      "source": "세계일보",
-      "publishedAt": "2026-09-16",
-      "url": "https://www.segye.com/newsView/20260916514525",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.sD7mWcxKYmg-qy4_7WA6uw&pid=News&w=1200&h=675&c=14"
+      "category": "ai",
+      "title": "IBK증권 \"미국채 5% 부담 현실화…AI 투자·사모신용 위험 주시\"",
+      "summary": "(서울=연합뉴스) 정회인 기자 = IBK투자증권은 18일 미국 국채 10년물 금리가 5%선에 도달하면서 인공지능(AI) 투자 부담이 현실화하고, 사모신용을 중심으로 신용위험이 표면화할 가능성도 커지고 있다고 진단했다. IBK투자증권 정용택 이코노미스트는 \"지금 미국 금리가 5%선에 도달했다는 것은 투자와 거시경제 전반을 압박하는 금리 부담 역시 임계점에 접 ...",
+      "source": "연합뉴스",
+      "publishedAt": "2026-09-17",
+      "url": "https://www.yna.co.kr/view/AKR20260918026500008",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.1pGbEa0-7J6wrXYUV7AzKw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "‘암 진단부터 사후관리까지’ 강원 인공지능 암 치유센터 개소",
-      "summary": "강원도 내에서 인공지능(AI)을 활용한 암 환자 회복관리와 원격 협진 등 미래형 의료서비스를 받을 수 있게 된다. 강원도와 강원대병원은 지역 암 환자에게 보다 편리하고 체계적인 의료서비스를 제공하기 위해 16일 강원대병원 암노인센터 6층 대강당에서 ‘인공지능 암 치유센터’ 개소식을 개최했다. 인공지능 기반 암 치유센터는 국비 60억 원과 지방비 30억 원 ...",
-      "source": "쿠키뉴스 on MSN",
-      "publishedAt": "2026-09-16",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%95%94-%EC%A7%84%EB%8B%A8%EB%B6%80%ED%84%B0-%EC%82%AC%ED%9B%84%EA%B4%80%EB%A6%AC%EA%B9%8C%EC%A7%80-%EA%B0%95%EC%9B%90-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%95%94-%EC%B9%98%EC%9C%A0%EC%84%BC%ED%84%B0-%EA%B0%9C%EC%86%8C/ar-AA2ckii1",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ufHcXjPqrDOS-EeTnSrZQw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "산업부터 일상까지 AI 체험...충북, 인공지능 활용 넓힌다",
-      "summary": "[앵커] 인공지능 기술을 직접 체험하고 산업 현장의 활용 사례도 살펴보는 행사가 충북 청주에서 열렸습니다. 충청북도는 기업과 주민이 함께한 이번 행사를 통해 인공지능 활용을 지역 산업과 일상으로 넓혀간다는 계획입니다. 이성우 기자입니다. [기자] 사람 모습을 한 로봇이 관람객들의 눈길을 끕니다. 전시 부스마다 발길이 ...",
-      "source": "YTN on MSN",
-      "publishedAt": "2026-09-16",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%82%B0%EC%97%85%EB%B6%80%ED%84%B0-%EC%9D%BC%EC%83%81%EA%B9%8C%EC%A7%80-ai-%EC%B2%B4%ED%97%98-%EC%B6%A9%EB%B6%81-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%99%9C%EC%9A%A9-%EB%84%93%ED%9E%8C%EB%8B%A4/ar-AA2cmDJW",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.xQzDV_QfBq9rMIGpaFI4vA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "인공지능 규제 놓고 젠슨 황과 아모데이 충돌",
-      "summary": "황 “시장 논리가 이미 작동…법·규제 필요없어” 아모데이 “인공지능 개발 속도 예상 뛰어넘어” ...",
+      "title": "AI 속도조절론 이면엔 ‘수익 극대화’…추론 효율 높이다 통제 놓칠까",
+      "summary": "오픈AI ‘아스트라’ 출시 계기로 속도조절론 본격화학습서 추론으로 자원 재배치…수익 창출 노리지만추론 효율 극대화 땐 예측 불가한 ‘안전 문제’ 우려 ...",
       "source": "한겨레 on MSN",
-      "publishedAt": "2026-09-16",
-      "url": "https://www.msn.com/ko-kr/news/world/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B7%9C%EC%A0%9C-%EB%86%93%EA%B3%A0-%EC%A0%A0%EC%8A%A8-%ED%99%A9%EA%B3%BC-%EC%95%84%EB%AA%A8%EB%8D%B0%EC%9D%B4-%EC%B6%A9%EB%8F%8C/ar-AA2cj8qw",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.VLQjKCqf221KHC7LPbR6lQ&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-09-17",
+      "url": "https://www.msn.com/ko-kr/money/topstories/ai-%EC%86%8D%EB%8F%84%EC%A1%B0%EC%A0%88%EB%A1%A0-%EC%9D%B4%EB%A9%B4%EC%97%94-%EC%88%98%EC%9D%B5-%EA%B7%B9%EB%8C%80%ED%99%94-%EC%B6%94%EB%A1%A0-%ED%9A%A8%EC%9C%A8-%EB%86%92%EC%9D%B4%EB%8B%A4-%ED%86%B5%EC%A0%9C-%EB%86%93%EC%B9%A0%EA%B9%8C/ar-AA2crG5s",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.778d2751e46708aa1040414adeccd064&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "NC AI, 과기정통부 전북∙경남 피지컬AI 1조원대 국책과제 따냈다",
-      "summary": "피지컬 인공지능 (AI) 전문 기업 NC AI가 과학기술정보통신부와 정보통신산업진흥원 (NIPA)이 추진하는 전북∙경남 피지컬 AI 연구개발사업에 참여한다고 17일 밝혔다. 이번 사업은 올해부터 2030년까지 5년간 총 1조4131억원이 투입되는 대형 국책 과제로 전북과 경남 지역 산업을 기반으로 피지컬 AI 기술을 확보하는 것이 핵심이다.",
-      "source": "매일경제",
-      "publishedAt": "2026-09-16",
-      "url": "https://www.mk.co.kr/news/it/12155000",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.gkYtiyDkIUDug-HlwU8TgA&pid=News&w=1200&h=675&c=14"
+      "title": "고양, AI가 보행자·차량 흐름 읽는다…교통신호도 실시간 조정",
+      "summary": "고양특례시가 인공지능(AI)을 활용해 차량뿐 아니라 보행 수요까지 분석하는 교통신호 운영을 확대하고 있다. 정해진 시간표에 따라 반복적으로 신호를 주는 방식에서 벗어나 실제 교통수요를 읽어 신호 운영에 반영하는 지능형 교통체계다. 18일 고양특례시에 따르면 시는 AI로 보행자와 차량 수요를 분석해 교통신호 운영에 활용하고 있다. 시가 이날 함께 제공한 자료 ...",
+      "source": "이투데이",
+      "publishedAt": "2026-09-17",
+      "url": "https://www.etoday.co.kr/news/view/2627065?trc=right_categori_news",
+      "imageUrl": "https://www.bing.com/th?id=ONUT._w4Vb7vikjndLeqQPYP_fw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "7368억 피지컬AI 잡은 전북, 이원택 지사 \"산업지도 바꾼다\"",
-      "summary": "국가 SW플랫폼 사업 본격화 전국 첫 실증단지…R&D·실증·사업화 연계 제조·농생명 연결해 전북 전역 확산 “피지컬 AI를 단순한 기술 개발에 그치지 않고 전북 산업지도를 바꾸는 전환점으로 만들겠습니다.” 이원택 전북특별자치도지사가 국가 피지컬 AI 사업을 발판으로 전북을 연구개발(R&D)과 실증, 산업화가 한 지역에서 이뤄지는 거점으로 육성하겠다는 청사진 ...",
-      "source": "이투데이 on MSN",
-      "publishedAt": "2026-09-16",
-      "url": "https://www.msn.com/ko-kr/%EA%B3%BC%ED%95%99/%EC%9D%BC%EB%B0%98/7368%EC%96%B5-%ED%94%BC%EC%A7%80%EC%BB%ACai-%EC%9E%A1%EC%9D%80-%EC%A0%84%EB%B6%81-%EC%9D%B4%EC%9B%90%ED%83%9D-%EC%A7%80%EC%82%AC-%EC%82%B0%EC%97%85%EC%A7%80%EB%8F%84-%EB%B0%94%EA%BE%BC%EB%8B%A4/ar-AA2cnzRr",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ZACy7tOHqSNY2i7lM9tQqA&pid=News&w=1200&h=675&c=14"
+      "title": "[천안교육소식] 2026 학부모 인공지능 체험교실 운영 외",
+      "summary": "‘학부모 인공지능 체험교실’ 운영 모습. 사진=천안교육지원청 제공[천안(충남)=데일리한국 박월복 기자] 천안교육지원청(교육장 차덕환)은 올해 신규 사업으로 ‘학부모 인공지능 체험교실’을 운영한다. 이번 프로그램은 ‘센터특화형 AI중심 미래교육’의 세부사업으로 마련됐다. 관내 학교 학부모를 대상으로 9월부터 오는 12월까지 총 20회 운영한다.참가자에게는 생 ...",
+      "source": "데일리한국 on MSN",
+      "publishedAt": "2026-09-17",
+      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B3%BC%ED%95%99-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%95%99%EC%8A%B5/%EC%B2%9C%EC%95%88%EA%B5%90%EC%9C%A1%EC%86%8C%EC%8B%9D-2026-%ED%95%99%EB%B6%80%EB%AA%A8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%B2%B4%ED%97%98%EA%B5%90%EC%8B%A4-%EC%9A%B4%EC%98%81-%EC%99%B8/ar-AA2coh3G",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.4olhjGvCXAPdsESFr1s_XA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "케이웨더, AI 기상예보 10종 출시…날씨 AI 팩토리 첫 상품",
+      "summary": "[서울=뉴시스] 김경택 기자 = 날씨 인공지능(AI) 플랫폼 기업 케이웨더는 날씨 AI 팩토리에서 선보이는 첫번째 상품으로 'AI 기상예보 상품 10종'을 출시한다고 18일 밝혔다.회사 측에 따르면 날씨 AI 팩토리는 케이웨더의 자체 관측망과 국내외 날씨·기후 데이터를 엔비디아 AI 기상예측 모델에 적용해 고부가가치 지능 토큰을 생산·유통하는 체계다. 앞서 ...",
+      "source": "뉴시스",
+      "publishedAt": "2026-09-17",
+      "url": "https://www.newsis.com/view/NISX20260918_0003794865",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.mTM70BXt-f_6ulLMM5kcng&pid=News&w=1200&h=675&c=14"
     }
   ]
 }

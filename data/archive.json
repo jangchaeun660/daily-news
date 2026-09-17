@@ -1,5 +1,93 @@
 [
   {
+    "updatedAt": "2026-09-18",
+    "windowStart": "2026-09-16T22:00:00.000Z",
+    "windowEnd": "2026-09-17T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "청년정책, ‘사후 지원’서 ‘사전 투자’로…자립·도약 뒷받침 [예방국가: 위기보다 한 발 먼저 ④]",
+        "summary": "청년이 취업에 실패하거나 경제적 어려움에 빠진 뒤 지원하는 데 머물렀던 청년정책의 무게중심이 사회에 첫발을 내딛는 단계부터 기회를 넓히는 ‘사전 투자’로 옮겨가고 있다. 정부는 ‘청년의 정책 참여 확대와 기본생활 지원으로 함께 만드는 미래’를 국정과제 89번으로 정하고 ...",
+        "source": "경기일보",
+        "publishedAt": "2026-09-17",
+        "url": "https://www.kyeonggi.com/article/20260916580493",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.NKAfveg6WMRYJJBF08qTPQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[어린이뉴스] 한국사회보장정보원, 지역아동센터 종사자 업무역량 강화 外",
+        "summary": "【베이비뉴스 조성재 기자】아이들의 하루는 배움과 놀이, 성장의 순간들로 가득하다. ‘어린이뉴스’는 어린이의 건강한 성장과 행복한 일상, 그리고 인권 향상을 돕기 위해 마련된 코너다. 교육과 돌봄, 건강과 안전, 권리 증진, 문화·체험 활동 등 아이들의 삶과 밀접한 다양한 소식을 쉽고 알기 쉽게 전하며, 부모와 양육자에게도 도움이 되는 유익한 정보를 함께 소 ...",
+        "source": "베이비뉴스 on MSN",
+        "publishedAt": "2026-09-17",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EC%A7%80%EC%97%AD%EC%95%84%EB%8F%99%EC%84%BC%ED%84%B0-%EC%A2%85%EC%82%AC%EC%9E%90-%EC%97%85%EB%AC%B4%EC%97%AD%EB%9F%89-%EA%B0%95%ED%99%94-%E5%A4%96/ar-AA2cquOq",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.n3lS7IIl86hKQcwby3EBGA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "민주노총, 6년 만에 ‘사회적 대화’…“메가특구 ‘주52시간 예외’ 막겠다”",
+        "summary": "전국민주노동조합총연맹(민주노총)이 김영훈 고용노동부 장관이 제안한 메가특구 특별법 논의를 위한 ‘원포인트 사회적 대화’에 참여하기로 했다. 민주노총이 노사정 사회적 대화 테이블에 앉는 것은 2020년 코로나19 극복 논의 이후 6년 만이다.민주노총은 17일 ...",
+        "source": "서울신문 on MSN",
+        "publishedAt": "2026-09-18",
+        "url": "https://www.msn.com/ko-kr/money/topstories/%EB%AF%BC%EC%A3%BC%EB%85%B8%EC%B4%9D-6%EB%85%84-%EB%A7%8C%EC%97%90-%EC%82%AC%ED%9A%8C%EC%A0%81-%EB%8C%80%ED%99%94-%EB%A9%94%EA%B0%80%ED%8A%B9%EA%B5%AC-%EC%A3%BC52%EC%8B%9C%EA%B0%84-%EC%98%88%EC%99%B8-%EB%A7%89%EA%B2%A0%EB%8B%A4/ar-AA2cqS29",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.e946ee2916cd33b7361c263134459e91&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "6년 만에 '사회적 대화' 열리나…민주노총, 오늘 메가특구 참여 논의",
+        "summary": "주 52시간 예외·기간제 연장 등 노동특례 놓고 정부·노동계 이견 한국노총 대화 참여 선언에 불참 부담…대화 방식도 막판 변수 정부가 메가특구 특별법의 노동특례를 논의할 원포인트 사회적 대화를 제안한 가운데 전국민주노동조합총연맹(민주노총)이 참여 여부를 논의한다. 한국노동조합총연맹(한국 ...",
+        "source": "뉴스1",
+        "publishedAt": "2026-09-17",
+        "url": "https://www.news1.kr/economy/employment-labor/6292881",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.cpsmwJG6DlLZDUXeX0hMJw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "IBK증권 \"미국채 5% 부담 현실화…AI 투자·사모신용 위험 주시\"",
+        "summary": "(서울=연합뉴스) 정회인 기자 = IBK투자증권은 18일 미국 국채 10년물 금리가 5%선에 도달하면서 인공지능(AI) 투자 부담이 현실화하고, 사모신용을 중심으로 신용위험이 표면화할 가능성도 커지고 있다고 진단했다. IBK투자증권 정용택 이코노미스트는 \"지금 미국 금리가 5%선에 도달했다는 것은 투자와 거시경제 전반을 압박하는 금리 부담 역시 임계점에 접 ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-09-17",
+        "url": "https://www.yna.co.kr/view/AKR20260918026500008",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.1pGbEa0-7J6wrXYUV7AzKw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI 속도조절론 이면엔 ‘수익 극대화’…추론 효율 높이다 통제 놓칠까",
+        "summary": "오픈AI ‘아스트라’ 출시 계기로 속도조절론 본격화학습서 추론으로 자원 재배치…수익 창출 노리지만추론 효율 극대화 땐 예측 불가한 ‘안전 문제’ 우려 ...",
+        "source": "한겨레 on MSN",
+        "publishedAt": "2026-09-17",
+        "url": "https://www.msn.com/ko-kr/money/topstories/ai-%EC%86%8D%EB%8F%84%EC%A1%B0%EC%A0%88%EB%A1%A0-%EC%9D%B4%EB%A9%B4%EC%97%94-%EC%88%98%EC%9D%B5-%EA%B7%B9%EB%8C%80%ED%99%94-%EC%B6%94%EB%A1%A0-%ED%9A%A8%EC%9C%A8-%EB%86%92%EC%9D%B4%EB%8B%A4-%ED%86%B5%EC%A0%9C-%EB%86%93%EC%B9%A0%EA%B9%8C/ar-AA2crG5s",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.778d2751e46708aa1040414adeccd064&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "고양, AI가 보행자·차량 흐름 읽는다…교통신호도 실시간 조정",
+        "summary": "고양특례시가 인공지능(AI)을 활용해 차량뿐 아니라 보행 수요까지 분석하는 교통신호 운영을 확대하고 있다. 정해진 시간표에 따라 반복적으로 신호를 주는 방식에서 벗어나 실제 교통수요를 읽어 신호 운영에 반영하는 지능형 교통체계다. 18일 고양특례시에 따르면 시는 AI로 보행자와 차량 수요를 분석해 교통신호 운영에 활용하고 있다. 시가 이날 함께 제공한 자료 ...",
+        "source": "이투데이",
+        "publishedAt": "2026-09-17",
+        "url": "https://www.etoday.co.kr/news/view/2627065?trc=right_categori_news",
+        "imageUrl": "https://www.bing.com/th?id=ONUT._w4Vb7vikjndLeqQPYP_fw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[천안교육소식] 2026 학부모 인공지능 체험교실 운영 외",
+        "summary": "‘학부모 인공지능 체험교실’ 운영 모습. 사진=천안교육지원청 제공[천안(충남)=데일리한국 박월복 기자] 천안교육지원청(교육장 차덕환)은 올해 신규 사업으로 ‘학부모 인공지능 체험교실’을 운영한다. 이번 프로그램은 ‘센터특화형 AI중심 미래교육’의 세부사업으로 마련됐다. 관내 학교 학부모를 대상으로 9월부터 오는 12월까지 총 20회 운영한다.참가자에게는 생 ...",
+        "source": "데일리한국 on MSN",
+        "publishedAt": "2026-09-17",
+        "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B3%BC%ED%95%99-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%95%99%EC%8A%B5/%EC%B2%9C%EC%95%88%EA%B5%90%EC%9C%A1%EC%86%8C%EC%8B%9D-2026-%ED%95%99%EB%B6%80%EB%AA%A8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%B2%B4%ED%97%98%EA%B5%90%EC%8B%A4-%EC%9A%B4%EC%98%81-%EC%99%B8/ar-AA2coh3G",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.4olhjGvCXAPdsESFr1s_XA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "케이웨더, AI 기상예보 10종 출시…날씨 AI 팩토리 첫 상품",
+        "summary": "[서울=뉴시스] 김경택 기자 = 날씨 인공지능(AI) 플랫폼 기업 케이웨더는 날씨 AI 팩토리에서 선보이는 첫번째 상품으로 'AI 기상예보 상품 10종'을 출시한다고 18일 밝혔다.회사 측에 따르면 날씨 AI 팩토리는 케이웨더의 자체 관측망과 국내외 날씨·기후 데이터를 엔비디아 AI 기상예측 모델에 적용해 고부가가치 지능 토큰을 생산·유통하는 체계다. 앞서 ...",
+        "source": "뉴시스",
+        "publishedAt": "2026-09-17",
+        "url": "https://www.newsis.com/view/NISX20260918_0003794865",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.mTM70BXt-f_6ulLMM5kcng&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-09-17",
     "windowStart": "2026-09-15T22:00:00.000Z",
     "windowEnd": "2026-09-16T22:00:00.000Z",
@@ -578,103 +666,6 @@
         "publishedAt": "2026-09-11",
         "url": "https://www.pressian.com/pages/articles/2026091117284865958",
         "imageUrl": "https://www.bing.com/th?id=ONUT.RTSOHDmz5r4uDDgcnqjM1w&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-09-11",
-    "windowStart": "2026-09-09T22:00:00.000Z",
-    "windowEnd": "2026-09-10T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "[이슈-중대재해사이렌] 산재 사망사고 경영책임자 잇단 실형...법정까지 울린 '경고등'",
-        "summary": "[아웃소싱타임스 이윤희 기자] 산업현장의 안전관리 부실이 경영책임자의 실제 실형으로 이어지고 있다. 중대재해처벌법 시행 초기에는 집행유예 선고가 상당수를 차지했지만, 최근에는 안전보건관리체계 미비나 중대한 안전조치 위반 등이 인정된 사건에서 경영책임자에게 실형이 선고되는 사례도 잇따르고 있다.",
-        "source": "아웃소싱타임스",
-        "publishedAt": "2026-09-10",
-        "url": "https://www.outsourcing.co.kr/news/articleView.html?idxno=203758",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.gnqx0SfXztpN3nX4qpPZhA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "한국경영기술지도사회, 전북지회 현장 소통…AI 교육·신규지도사 지원 논의",
-        "summary": "한국경영기술지도사회(회장 권형남)가 전북지역 경영지도사·기술지도사들과 만나 회원 간 협업 활성화와 인공지능(AI) 교육 확대, 신규지도사의 컨설팅 시장 진입 지원 등 현장 중심의 회원 지원방안을 논의했다.한국경영기술지도사회는 지난 9일 전북지회에서 지역 회원들과 간담회 ...",
-        "source": "아시아투데이 on MSN",
-        "publishedAt": "2026-09-10",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%98%81%EA%B8%B0%EC%88%A0%EC%A7%80%EB%8F%84%EC%82%AC%ED%9A%8C-%EC%A0%84%EB%B6%81%EC%A7%80%ED%9A%8C-%ED%98%84%EC%9E%A5-%EC%86%8C%ED%86%B5-ai-%EA%B5%90%EC%9C%A1-%EC%8B%A0%EA%B7%9C%EC%A7%80%EB%8F%84%EC%82%AC-%EC%A7%80%EC%9B%90-%EB%85%BC%EC%9D%98/ar-AA2bXK0C",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.7nZ03C24dWpOd21wPC_rLA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "호르무즈 파병 이슈, 대한민국 주권의 민낯",
-        "summary": "이로운넷 = 윤병훈여당 소속 국회 외교통일위원 이기헌 의원이 4일 \"국회에 파병 동의 요청이 오면 호르무즈 파병에 동의하지 않을 것\"이라고 밝혔다. 조국혁신당 김준형 원내대표는 \"'파병'은 정부가 절대로 넘어서는 안 될 선\"이라 경고했고, 진보당은 \"명분 없는 미국의 대리전쟁에 20대 ...",
-        "source": "이로운넷",
-        "publishedAt": "2026-09-05",
-        "url": "https://www.eroun.net/news/articleView.html?idxno=89316",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.0NlyTlfCsh17tpLEJk23tw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "박위, 유튜브 '사회실험' 영상 13개 조용히 비공개..KTX CCTV 논란 여파[스타이슈]",
-        "summary": "낙상 사고 CCTV 영상을 공개해 논란에 휩싸인 유튜버 박위가 과거 '사회실험' 영상 등을 추가로 비공개 처리했다. 1일 박위의 유튜브 채널 '위라클'에 게재된 영상은 785개다. 박위는 지난달 논란이 불거진 후 물의를 빚은 CCTV 공개 영상을 포함해 14개의 영상을 비공개 혹은 삭제 처리했다. 비공개 처리된 영상에는 2022년 8월 공개한 '하반신 마비 ...",
-        "source": "스타뉴스 on MSN",
-        "publishedAt": "2026-09-01",
-        "url": "https://www.msn.com/ko-kr/entertainment/tv/%EB%B0%95%EC%9C%84-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%82%AC%ED%9A%8C%EC%8B%A4%ED%97%98-%EC%98%81%EC%83%81-13%EA%B0%9C-%EC%A1%B0%EC%9A%A9%ED%9E%88-%EB%B9%84%EA%B3%B5%EA%B0%9C-ktx-cctv-%EB%85%BC%EB%9E%80-%EC%97%AC%ED%8C%8C-%EC%8A%A4%ED%83%80%EC%9D%B4%EC%8A%88/ar-AA2bkGjf",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.-uOJouBAQiVM6BpIRt3o0Q&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "최원용 평택시장, 2027~2030 복지 청사진 확정...통합돌봄·고용·주거 5대 전략 추진",
-        "summary": "평택시(시장 최원용)가 생애주기별 통합돌봄부터 고용·주거 안전망과 평생학습, 문화공동체, 건강·안전까지 시민 생활 전반을 포괄하는 제6기 지역사회보장계획을 마련하고 2027년부터 2030년까지 4년간 추진할 지역 복지정책의 기본 방향을 구체화했다. 31일 시에 따르면 지난 28일 시청 통합방위 종합상황실에서 열린 ‘2026년 제2차 평택시 지역사회보장 대표 ...",
-        "source": "아주경제",
-        "publishedAt": "2026-08-31",
-        "url": "https://www.ajunews.com/view/20260831145744943",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Mh_LH2oMuR0Kd5MSGOK1hg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "국제미래학회, 'AI 에이전트 웹빌더 마에스트로 1급 과정' 개설",
-        "summary": "국제미래학회와 인공지능 글로벌교육원은 오는 10월 17일 'AI 에이전트 웹빌더 마에스트로 (AI 거장) 1급 과정'을 국내 최초로 개설한다. 특화된 하루 과정으로, 수강생들은 AI로 웹사이트를 기획하고 콘텐츠와 페이지를 제작한다. AI 에이전트 기능을 직접 만들고 연결해 실제 접속되는 웹사이트를 구축하고 서비스를 완성한다. 이로써 수강생은 ‘AI 에이전트 ...",
-        "source": "로봇신문사",
-        "publishedAt": "2026-09-10",
-        "url": "https://www.irobotnews.com/news/articleView.html?idxno=48412",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ni-jYA2abbJccLwmXszfFA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[기고] 인공지능과 경계선 짓기",
-        "summary": "2024년 노벨 화학상 수상자 중 한 명의 이력은 독특하다. 화학 분야 노벨상을 받았지만 대학 전공은 컴퓨터과학이다. 박사 학위는 인지신경과학으로 받았다. 직업도 화학 분야 연구자가 아니다.이세돌 9단과 대국했던 바둑 AI 알파고를 개발했던 회사 최고경영자(CEO)인 AI 연구자다.",
-        "source": "지디넷코리아",
-        "publishedAt": "2026-09-10",
-        "url": "https://zdnet.co.kr/view/?no=20260910171449",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.SCckKxp7TRL1u3Ec2Ba2sA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "KT, 조선소에 'AI 용접로봇' 투입...AI네트워크 산업현장 적용",
-        "summary": "[파이낸셜뉴스] KT가 전남 영암 HD현대삼호 조선소에 고성능 인공지능(AI) 네트워크를 구축하고 AI 용접로봇을 실증한다. 5G 단독모드(SA)와 AI 무선접속망(AI-RAN), 그래픽처리장치(GPU) 기반 연산 인프라를 결합해 조선소의 로봇 자동화를 앞당기고 생산성을 높인다는 구상이다. KT는 과학기술정보통신부의 '고성능 AI 네트워크 기반조성 사업' ...",
-        "source": "파이낸셜뉴스 on MSN",
-        "publishedAt": "2026-09-10",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/kt-%EC%A1%B0%EC%84%A0%EC%86%8C%EC%97%90-ai-%EC%9A%A9%EC%A0%91%EB%A1%9C%EB%B4%87-%ED%88%AC%EC%9E%85-ai%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%82%B0%EC%97%85%ED%98%84%EC%9E%A5-%EC%A0%81%EC%9A%A9/ar-AA2bVErJ",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.IMlwaP5eKG5EkDSbgqsmPQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[인터뷰] 2000억 투입한 네이버, '보파모'로 사업보국 실현…\"AI 보안 주권 지킬 것\"",
-        "summary": "(지디넷코리아=장유미 기자)\"국가 위기 상황에서 해외 모델에 기대지 않고 사용할 수 있는 우리나라만의 인공지능(AI) 모델이 반드시 필요합니다. 네이버 경영진이 '보안 특화 AI 사업'에 약 2000억원 상당의 자체 그래픽처리장치(GPU) 4000장을 투입하기로 결단한 것도 이런 이유에서입니다. 앞으로 국내 AI 보안 역량을 키워 국가 발전에 이바지하고자 ...",
-        "source": "지디넷코리아 on MSN",
-        "publishedAt": "2026-09-10",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EC%9D%B8%ED%84%B0%EB%B7%B0-2000%EC%96%B5-%ED%88%AC%EC%9E%85%ED%95%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B3%B4%ED%8C%8C%EB%AA%A8-%EB%A1%9C-%EC%82%AC%EC%97%85%EB%B3%B4%EA%B5%AD-%EC%8B%A4%ED%98%84-ai-%EB%B3%B4%EC%95%88-%EC%A3%BC%EA%B6%8C-%EC%A7%80%ED%82%AC-%EA%B2%83/ar-AA2bYAEp",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.81aeKKBeKYx8G-O8UjI42A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "물산업 육성 기능 한곳에…‘한국물산업진흥원’ 설립 추진",
-        "summary": "[에너지데일리 조남준 기자] 정부가 5개 기관에 분산된 물산업 지원 기능을 하나로 모은 ‘한국물산업진흥원’ 설립을 추진한다. 기술개발 이후 실증과 성능검증, 인증, 사업화, 해외 진출을 위해 여러 기관을 거쳐야 했던 기업 지원절차를 일원화해 물산업을 반도체·인공지능 (AI) 시대의 국가 전략산업으로 키우겠다는 구상이다.",
-        "source": "에너지데일리",
-        "publishedAt": "2026-09-10",
-        "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203105",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.oaYjgfMqgZvCj_axG98niw&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
