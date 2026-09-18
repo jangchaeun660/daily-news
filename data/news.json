@@ -1,88 +1,97 @@
 {
-  "updatedAt": "2026-09-18",
-  "windowStart": "2026-09-16T22:00:00.000Z",
-  "windowEnd": "2026-09-17T22:00:00.000Z",
+  "updatedAt": "2026-09-19",
+  "windowStart": "2026-09-17T22:00:00.000Z",
+  "windowEnd": "2026-09-18T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "청년정책, ‘사후 지원’서 ‘사전 투자’로…자립·도약 뒷받침 [예방국가: 위기보다 한 발 먼저 ④]",
-      "summary": "청년이 취업에 실패하거나 경제적 어려움에 빠진 뒤 지원하는 데 머물렀던 청년정책의 무게중심이 사회에 첫발을 내딛는 단계부터 기회를 넓히는 ‘사전 투자’로 옮겨가고 있다. 정부는 ‘청년의 정책 참여 확대와 기본생활 지원으로 함께 만드는 미래’를 국정과제 89번으로 정하고 ...",
-      "source": "경기일보",
-      "publishedAt": "2026-09-17",
-      "url": "https://www.kyeonggi.com/article/20260916580493",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.NKAfveg6WMRYJJBF08qTPQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[어린이뉴스] 한국사회보장정보원, 지역아동센터 종사자 업무역량 강화 外",
-      "summary": "【베이비뉴스 조성재 기자】아이들의 하루는 배움과 놀이, 성장의 순간들로 가득하다. ‘어린이뉴스’는 어린이의 건강한 성장과 행복한 일상, 그리고 인권 향상을 돕기 위해 마련된 코너다. 교육과 돌봄, 건강과 안전, 권리 증진, 문화·체험 활동 등 아이들의 삶과 밀접한 다양한 소식을 쉽고 알기 쉽게 전하며, 부모와 양육자에게도 도움이 되는 유익한 정보를 함께 소 ...",
-      "source": "베이비뉴스 on MSN",
-      "publishedAt": "2026-09-17",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EC%A7%80%EC%97%AD%EC%95%84%EB%8F%99%EC%84%BC%ED%84%B0-%EC%A2%85%EC%82%AC%EC%9E%90-%EC%97%85%EB%AC%B4%EC%97%AD%EB%9F%89-%EA%B0%95%ED%99%94-%E5%A4%96/ar-AA2cquOq",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.n3lS7IIl86hKQcwby3EBGA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "민주노총, 6년 만에 ‘사회적 대화’…“메가특구 ‘주52시간 예외’ 막겠다”",
-      "summary": "전국민주노동조합총연맹(민주노총)이 김영훈 고용노동부 장관이 제안한 메가특구 특별법 논의를 위한 ‘원포인트 사회적 대화’에 참여하기로 했다. 민주노총이 노사정 사회적 대화 테이블에 앉는 것은 2020년 코로나19 극복 논의 이후 6년 만이다.민주노총은 17일 ...",
-      "source": "서울신문 on MSN",
+      "title": "'공익 저격' 박위, 또 야금야금 영상 삭제…침묵 속 물밑작업 계속 [Oh!쎈 이슈]",
+      "summary": "‘위라클’ 박위가 사회복무요원 저격 논란 이후 약 한달째 침묵을 지키는 가운데 물밑으로는 유튜브 채널 영상을 삭제하고 있다.18일 유튜브 채널 평가 사이트 소셜블레이드에 따르면 박위가 운영하는..",
+      "source": "OSEN on MSN",
       "publishedAt": "2026-09-18",
-      "url": "https://www.msn.com/ko-kr/money/topstories/%EB%AF%BC%EC%A3%BC%EB%85%B8%EC%B4%9D-6%EB%85%84-%EB%A7%8C%EC%97%90-%EC%82%AC%ED%9A%8C%EC%A0%81-%EB%8C%80%ED%99%94-%EB%A9%94%EA%B0%80%ED%8A%B9%EA%B5%AC-%EC%A3%BC52%EC%8B%9C%EA%B0%84-%EC%98%88%EC%99%B8-%EB%A7%89%EA%B2%A0%EB%8B%A4/ar-AA2cqS29",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.e946ee2916cd33b7361c263134459e91&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/entertainment/tv/%EA%B3%B5%EC%9D%B5-%EC%A0%80%EA%B2%A9-%EB%B0%95%EC%9C%84-%EB%98%90-%EC%95%BC%EA%B8%88%EC%95%BC%EA%B8%88-%EC%98%81%EC%83%81-%EC%82%AD%EC%A0%9C-%EC%B9%A8%EB%AC%B5-%EC%86%8D-%EB%AC%BC%EB%B0%91%EC%9E%91%EC%97%85-%EA%B3%84%EC%86%8D-oh%EC%8E%88-%EC%9D%B4%EC%8A%88/ar-AA2cu7u2",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.posPSmFjTRiDiJq7rodj6Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "6년 만에 '사회적 대화' 열리나…민주노총, 오늘 메가특구 참여 논의",
-      "summary": "주 52시간 예외·기간제 연장 등 노동특례 놓고 정부·노동계 이견 한국노총 대화 참여 선언에 불참 부담…대화 방식도 막판 변수 정부가 메가특구 특별법의 노동특례를 논의할 원포인트 사회적 대화를 제안한 가운데 전국민주노동조합총연맹(민주노총)이 참여 여부를 논의한다. 한국노동조합총연맹(한국 ...",
-      "source": "뉴스1",
-      "publishedAt": "2026-09-17",
-      "url": "https://www.news1.kr/economy/employment-labor/6292881",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.cpsmwJG6DlLZDUXeX0hMJw&pid=News&w=1200&h=675&c=14"
+      "title": "김규원 “마땅히 한 일이라 하면 너무 재수 없잖아”... “이슈 될 줄 몰랐다”",
+      "summary": "김규원이 사회복무요원 시절 선천성 근육병으로 휠체어를 이용하던 학생을 돌본 미담에 대해 직접 입을 열었다. 소집해제 뒤에도 졸업식에 꽃다발을 들고 찾아가며 인연을 이어온 사연을 전했다.",
+      "source": "동아일보 on MSN",
+      "publishedAt": "2026-09-18",
+      "url": "https://www.msn.com/ko-kr/entertainment/%EC%9C%A0%EB%AA%85-%EC%9D%B8%EC%82%AC/%EA%B9%80%EA%B7%9C%EC%9B%90-%EB%A7%88%EB%95%85%ED%9E%88-%ED%95%9C-%EC%9D%BC%EC%9D%B4%EB%9D%BC-%ED%95%98%EB%A9%B4-%EB%84%88%EB%AC%B4-%EC%9E%AC%EC%88%98-%EC%97%86%EC%9E%96%EC%95%84-%EC%9D%B4%EC%8A%88-%EB%90%A0-%EC%A4%84-%EB%AA%B0%EB%9E%90%EB%8B%A4/ar-AA2cueOt",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.E9eifCiCkqsoGPWATUiIHg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "사회복지 수요 커지는데…현장 노동자 처우는 여전히 ‘열악’",
+      "summary": "【투데이신문 박효령 기자】 9.7 사회복지의 날을 맞아 사회복지 노동자들이 낮은 임금과 불안정한 고용, 인력 부족 등 열악한 노동환경의 개선을 촉구하고 나섰다. 사회복지 서비스에 대한 수요와 역할이 갈수록 커지는 가운데 이를 현장에서 수행하는 노동자의 처우가 뒷받침되지 않으면 사회복지 서비스의 지속가능성도 담보하기 어렵다는 지적이 나온다.전국공공운수사회서비 ...",
+      "source": "투데이신문",
+      "publishedAt": "2026-09-07",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129215",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.PsdjWuGr3lp723cRlLFZxQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[로펌이슈] 법무법인 동인, 2026 서울사회복지대회 서울시의회 의장상 수상",
+      "summary": "[서울=뉴스핌] 홍석희 기자 = 법무법인 동인(대표변호사 원창연)이 11일 서울여성플라자 국제회의장에서 열린 '2026 서울사회복지대회'에서 지역사회 나눔 문화 확산과 사회공헌에 기여한 공로로 서울특별시의회 의장상을 수상했다. 동인은 2017년부터 소외계층 여성 보호 및 자립 지원을 위해 매년 연말 후원금을 전달하며 ...",
+      "source": "뉴스핌 on MSN",
+      "publishedAt": "2026-09-11",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%A1%9C%ED%8E%8C%EC%9D%B4%EC%8A%88-%EB%B2%95%EB%AC%B4%EB%B2%95%EC%9D%B8-%EB%8F%99%EC%9D%B8-2026-%EC%84%9C%EC%9A%B8%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EB%8C%80%ED%9A%8C-%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%9D%98%ED%9A%8C-%EC%9D%98%EC%9E%A5%EC%83%81-%EC%88%98%EC%83%81/ar-AA2c09wx",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.1neiMAic5S3I_fOjrSQ1iw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "한국사회보장정보원, 지역아동센터 종사자 업무역량 높인다",
+      "summary": "한국사회보장정보원 대구경북지역센터가 지역아동센터 대구·경북지원단과 업무협약을 체결했다. 467개소 네트워크를 활용해 종사자 교육을 강화하고 현장 중심 지원체계를 구축한다.",
+      "source": "인사이트 on MSN",
+      "publishedAt": "2026-09-16",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EC%A7%80%EC%97%AD%EC%95%84%EB%8F%99%EC%84%BC%ED%84%B0-%EC%A2%85%EC%82%AC%EC%9E%90-%EC%97%85%EB%AC%B4%EC%97%AD%EB%9F%89-%EB%86%92%EC%9D%B8%EB%8B%A4/ar-AA2ciYZr",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.KyA3T6JCjL9Vm5DXn1HY3g&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "IBK증권 \"미국채 5% 부담 현실화…AI 투자·사모신용 위험 주시\"",
-      "summary": "(서울=연합뉴스) 정회인 기자 = IBK투자증권은 18일 미국 국채 10년물 금리가 5%선에 도달하면서 인공지능(AI) 투자 부담이 현실화하고, 사모신용을 중심으로 신용위험이 표면화할 가능성도 커지고 있다고 진단했다. IBK투자증권 정용택 이코노미스트는 \"지금 미국 금리가 5%선에 도달했다는 것은 투자와 거시경제 전반을 압박하는 금리 부담 역시 임계점에 접 ...",
-      "source": "연합뉴스",
-      "publishedAt": "2026-09-17",
-      "url": "https://www.yna.co.kr/view/AKR20260918026500008",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.1pGbEa0-7J6wrXYUV7AzKw&pid=News&w=1200&h=675&c=14"
+      "title": "민주당 참모들, 후보들에게 “AI를 너무 세게 공격하지 말라” 경고 [美슐랭]",
+      "summary": "미국 중간선거에서 인공지능(AI) 규제 문제가 핵심 쟁점 중 하나로 떠오른 가운데 민주당 전략가들은 자당 일부 주요 선거구 후보들에게 AI 규제를 지나치게 강조하지 말라고 조언하고 있는 것으로 알려졌다. 막강한 기술업계 단체들이 거액의 선거자금을 쏟아부어 낙선 운동을 벌일 수 있다는 우려 때문이다. 폴리티코가 17일(현지시간) 보도한 바에 따르면 민주당 지 ...",
+      "source": "세계일보",
+      "publishedAt": "2026-09-18",
+      "url": "https://www.segye.com/newsView/20260918506677",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.hmOi3VmZh912FRx1-5GQvA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "AI 속도조절론 이면엔 ‘수익 극대화’…추론 효율 높이다 통제 놓칠까",
-      "summary": "오픈AI ‘아스트라’ 출시 계기로 속도조절론 본격화학습서 추론으로 자원 재배치…수익 창출 노리지만추론 효율 극대화 땐 예측 불가한 ‘안전 문제’ 우려 ...",
-      "source": "한겨레 on MSN",
-      "publishedAt": "2026-09-17",
-      "url": "https://www.msn.com/ko-kr/money/topstories/ai-%EC%86%8D%EB%8F%84%EC%A1%B0%EC%A0%88%EB%A1%A0-%EC%9D%B4%EB%A9%B4%EC%97%94-%EC%88%98%EC%9D%B5-%EA%B7%B9%EB%8C%80%ED%99%94-%EC%B6%94%EB%A1%A0-%ED%9A%A8%EC%9C%A8-%EB%86%92%EC%9D%B4%EB%8B%A4-%ED%86%B5%EC%A0%9C-%EB%86%93%EC%B9%A0%EA%B9%8C/ar-AA2crG5s",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.778d2751e46708aa1040414adeccd064&pid=News&w=1200&h=675&c=14"
+      "title": "내 일자리를 탐내는 AI 내 지갑을 채우는 AI로",
+      "summary": "생성형 인공지능(AI)이 인간의 일자리를 대체할 것이라는 전망이 연일 나온다. 업무를 대신하는 AI가 빠르게 늘면서 직장인에게도 노후를 어떻게 준비할 것인지가 한층 현실적인 문제가 됐다. '처음 하는 ETF 연금 투자'는 AI 시대에 노동소득과 함께 자본소득을 준비하는 방법을 연금 투자에서 찾는다. 증권부 기자로 오랜 시간 자본시장을 취재해온 저자는 \"AI ...",
+      "source": "매일경제",
+      "publishedAt": "2026-09-18",
+      "url": "https://www.mk.co.kr/news/culture/12156608",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.skoTj6gHHtcrY1U6KlPyYg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "고양, AI가 보행자·차량 흐름 읽는다…교통신호도 실시간 조정",
-      "summary": "고양특례시가 인공지능(AI)을 활용해 차량뿐 아니라 보행 수요까지 분석하는 교통신호 운영을 확대하고 있다. 정해진 시간표에 따라 반복적으로 신호를 주는 방식에서 벗어나 실제 교통수요를 읽어 신호 운영에 반영하는 지능형 교통체계다. 18일 고양특례시에 따르면 시는 AI로 보행자와 차량 수요를 분석해 교통신호 운영에 활용하고 있다. 시가 이날 함께 제공한 자료 ...",
-      "source": "이투데이",
-      "publishedAt": "2026-09-17",
-      "url": "https://www.etoday.co.kr/news/view/2627065?trc=right_categori_news",
-      "imageUrl": "https://www.bing.com/th?id=ONUT._w4Vb7vikjndLeqQPYP_fw&pid=News&w=1200&h=675&c=14"
+      "title": "국립대구과학관, 'AI 산업기술관' 개관... \"AI와 인간의 미래를 묻다\"",
+      "summary": "① 국립대구과학관이 2026년 9월 17일 상설전시관인 AI 산업기술관을 개관하고 운영을 시작했습니다. ② 개관식은 전시 해설과 전시 투어로 진행됐으며 참석자들은 휴머노이드 로봇 공연도 관람했습니다. ③ 전시관은 과학기술 발전을 AI 산업기술과 연결해 보여주며 관람객이 AI가 바꿀 삶과 지켜야 할 가치를 생각하게 하도록 운영할 계획입니다.",
+      "source": "한국일보",
+      "publishedAt": "2026-09-18",
+      "url": "https://www.hankookilbo.com/news/article/A2026091813480001508",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.e7JAOFPIaeVdJKELpBuYXw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[천안교육소식] 2026 학부모 인공지능 체험교실 운영 외",
-      "summary": "‘학부모 인공지능 체험교실’ 운영 모습. 사진=천안교육지원청 제공[천안(충남)=데일리한국 박월복 기자] 천안교육지원청(교육장 차덕환)은 올해 신규 사업으로 ‘학부모 인공지능 체험교실’을 운영한다. 이번 프로그램은 ‘센터특화형 AI중심 미래교육’의 세부사업으로 마련됐다. 관내 학교 학부모를 대상으로 9월부터 오는 12월까지 총 20회 운영한다.참가자에게는 생 ...",
-      "source": "데일리한국 on MSN",
-      "publishedAt": "2026-09-17",
-      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B3%BC%ED%95%99-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%95%99%EC%8A%B5/%EC%B2%9C%EC%95%88%EA%B5%90%EC%9C%A1%EC%86%8C%EC%8B%9D-2026-%ED%95%99%EB%B6%80%EB%AA%A8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%B2%B4%ED%97%98%EA%B5%90%EC%8B%A4-%EC%9A%B4%EC%98%81-%EC%99%B8/ar-AA2coh3G",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.4olhjGvCXAPdsESFr1s_XA&pid=News&w=1200&h=675&c=14"
+      "title": "한수원, 원자력산업 AI 전환·무선통신 기술 교류",
+      "summary": "[주간한국 강민혜 기자] 한국수력원자력이 원자력산업의 인공지능(AI) 활용과 무선통신 기술 확대를 위한 기술 교류에 나섰다.한수원은 이틀간 한수원 방사선보건원에서 ‘원전 무선통신 기술 교류 컨퍼런스’와 ‘원자력산업계 AI 전환 워크숍’을 개최했다고 18일 알렸다.행사에는 한수원을 포함해 정부·공공기관 13곳과 민간기업 23곳 등에서 관계자 150여명이 참석 ...",
+      "source": "주간한국 on MSN",
+      "publishedAt": "2026-09-18",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%95%9C%EC%88%98%EC%9B%90-%EC%9B%90%EC%9E%90%EB%A0%A5%EC%82%B0%EC%97%85-ai-%EC%A0%84%ED%99%98-%EB%AC%B4%EC%84%A0%ED%86%B5%EC%8B%A0-%EA%B8%B0%EC%88%A0-%EA%B5%90%EB%A5%98/ar-AA2ctKwr",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.gmoBUC0blgsZ2EkubQfiyQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "케이웨더, AI 기상예보 10종 출시…날씨 AI 팩토리 첫 상품",
-      "summary": "[서울=뉴시스] 김경택 기자 = 날씨 인공지능(AI) 플랫폼 기업 케이웨더는 날씨 AI 팩토리에서 선보이는 첫번째 상품으로 'AI 기상예보 상품 10종'을 출시한다고 18일 밝혔다.회사 측에 따르면 날씨 AI 팩토리는 케이웨더의 자체 관측망과 국내외 날씨·기후 데이터를 엔비디아 AI 기상예측 모델에 적용해 고부가가치 지능 토큰을 생산·유통하는 체계다. 앞서 ...",
-      "source": "뉴시스",
-      "publishedAt": "2026-09-17",
-      "url": "https://www.newsis.com/view/NISX20260918_0003794865",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.mTM70BXt-f_6ulLMM5kcng&pid=News&w=1200&h=675&c=14"
+      "title": "AI 에이전트로 반복 업무 줄인다…탄소산업진흥원, 전북서 활용사례 공유",
+      "summary": "반복적인 데이터 검증부터 CCTV 화재 감지까지 인공지능(AI) 에이전트를 공공·산업현장에 적용한 실무 사례가 공유됐다. 전북지역 공공기관과 기업들은 실제 업무에 활용할 수 있는 기술과 AI 전환 방안을 논의했다.한국탄소산업진흥원은 지난 17일 전북테크비즈센터 대강당에서 ‘제79차 전북 인공지능·데이터 공동연구회 AI 에이전트 세미나’를 개최했다.이번 세미 ...",
+      "source": "데일리안 on MSN",
+      "publishedAt": "2026-09-18",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A1%9C-%EB%B0%98%EB%B3%B5-%EC%97%85%EB%AC%B4-%EC%A4%84%EC%9D%B8%EB%8B%A4-%ED%83%84%EC%86%8C%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90-%EC%A0%84%EB%B6%81%EC%84%9C-%ED%99%9C%EC%9A%A9%EC%82%AC%EB%A1%80-%EA%B3%B5%EC%9C%A0/ar-AA2cub9u",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.m2BdsbPfAJcl9HgDz_qknQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
