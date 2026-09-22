@@ -1,5 +1,93 @@
 [
   {
+    "updatedAt": "2026-09-22",
+    "windowStart": "2026-09-20T22:00:00.000Z",
+    "windowEnd": "2026-09-21T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "“사회복지인 노후, 국가가 답할 때”… 국회서 ‘특화 퇴직연금 도입’ 토론회 열려",
+        "summary": "'사회복지인 특화 퇴직연금' 도입을 논의하는 토론회에 참가한 참석자들. 사진=한국사회복지공제회 사회복지 종사자의 노후 소득 보장을 위한 ‘사회복지인 특화 퇴직연금’ 도입 방안을 논의하는 정책토론회 ‘사회복지인의 노후, 이제 국가가 답할 때: 사..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-09-21",
+        "url": "https://www.fnnews.com/news/202609211428437553",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.1rbmAJEtIy2Ut8rJ8e9Hgg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "사회적가치 페스타 개막…최태원 \"AI, 강력한 사회문제 해결사\"",
+        "summary": "(서울=연합뉴스) 임성호 기자 = 정부와 기업, 시민사회 등이 정책과 자본, 첨단기술, 현장 아이디어를 토대로 사회적 해법을 도출하는 '대한민국 사회적가치 페스타'가 올해 3년 차를 맞아 한층 큰 규모로 막을 올렸다.",
+        "source": "연합뉴스",
+        "publishedAt": "2026-09-21",
+        "url": "https://www.yna.co.kr/view/AKR20260921051100003",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.n-7nUQaM55QvtBbfXlXPJw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "사회적가치 페스타 개막…최태원 \"AI로 사회문제 효율적 해결\"(종합)",
+        "summary": "(서울=연합뉴스) 안정원 기자 = 한성숙 국무총리와 최태원 대한상의 회장이 21일 서울 강남구 코엑스에서 열린 제3회 대한민국 사회적가치 페스타 개회식에 앞서 전시장을 둘러보고 있다. 2026.9.21 jeong@yna.co.kr ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-09-21",
+        "url": "https://www.yna.co.kr/view/AKR20260921051101003",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.lyfzpy0I5GlssgzkGyYtsA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "베일 벗은 세종 ‘글로벌 진로탐험대’… 2027년 아시아·국내 시범운영으로 축소",
+        "summary": "세종시교육청이 중학교 3학년 전체 학생을 대상으로 추진해 온 핵심 공약사업 ‘글로벌 진로탐험대’를 두고, 보건복지부 사회보장제도 협의 결과가 내일(22일) 오전 공개될 예정이다.‘글로벌 진로탐험대’는 2027년 중학교 3학년 학생 약 5,400명에게 국내외 기업과 대학, 연구기관 등을 ...",
+        "source": "뉴스피치",
+        "publishedAt": "2026-09-21",
+        "url": "http://www.newspeach.com/news/articleView.html?idxno=10006",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.xXfPvmLPf6QIdG1n6pV1mA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "중부발전, 국제표준 인공지능 경영시스템 인증 획득",
+        "summary": "한국중부발전이 인공지능 경영시스템(AIMS)에 대한 국제표준인 'ISO/IEC 42001' 인증을 획득했다고 21일 밝혔다. 'ISO/IEC 42001'은 국제표준화기구(ISO)와 국제전기기술위원회(IEC)가 공동 제정한 인공지능 관리체계 표준이다. 인공지능(AI) 기반 시스템의 기획·개발·운영·관리 등 전 과정에서 발생할 수 있는 윤리적 위험, 데이터 프 ...",
+        "source": "뉴시스 on MSN",
+        "publishedAt": "2026-09-21",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%A4%91%EB%B6%80%EB%B0%9C%EC%A0%84-%EA%B5%AD%EC%A0%9C%ED%91%9C%EC%A4%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B2%BD%EC%98%81%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9D%B8%EC%A6%9D-%ED%9A%8D%EB%93%9D/ar-AA2cF1Oc",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.frMbWDUTWDog-sarDeXf6A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "소개팅녀에 “점심 어때요”…이 메시지조차 AI 작품이었다 [창간기획 AI발 인류지능 퇴보]",
+        "summary": "고등학교 1학년 연희(17·가명)는 최근 좋아하는 이성 친구가 생겼다. 연희는 습관처럼 생성 인공지능(AI) 서비스 제미나이와의 상담을 시작했다. “제미나이가 걔랑 저랑 잘 어울린다고, 사귀게 될 거라고 했어요. 한번은 AI가 ‘너는 이런 애니까, 이렇게 해’라고 조언하는데, 저를 너무 잘 알고 있는 것 같아서 소름이 돋기도 해요. 엄마 생신엔 뭐라고 축하 ...",
+        "source": "중앙일보",
+        "publishedAt": "2026-09-21",
+        "url": "https://www.joongang.co.kr/article/25463870",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.IYyzvX0z-qy24ODe7m5p6w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "파주시, 평화경제특구에 AI 산업 심는다…한국인공지능협회와 맞손",
+        "summary": "(PPSS 문치환 기자) 파주시가 평화경제특구를 미래산업의 거점으로 육성하기 위한 산업 전략 마련에 본격적으로 나섰다. 접경지역이라는 지리적 특성을 활용하는 데 그치지 않고 인공지능 (AI)을 핵심 성장동력으로 접목해 기업 유치와 산업 생태계 조성을 동시에 추진한다는 구상이다.",
+        "source": "ppss",
+        "publishedAt": "2026-09-21",
+        "url": "https://www.ppss.kr/news/articleView.html?idxno=311712",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.8QQC_yj0GB3wwXx_TjuV-g&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "인공지능의 ‘쇠맛’ 나는 글 [이서윤의 인공지능&인권지능]",
+        "summary": "이서윤 | 사법연수원 교수·판사 며칠 전 인공지능과 개인정보보호법에 관한 토론회에 참석하면서 토론문 초안 제출 요청을 받았다. 마침 눈코 뜰 새 없이 바쁜 일정에다가 기한도 촉박하여, 고육지책으로 인공지능 ‘클로드’에게 해당 주제에 관하여 내가 지금까지 쓴 ...",
+        "source": "한겨레",
+        "publishedAt": "2026-09-21",
+        "url": "https://www.hani.co.kr/arti/opinion/column/1278751.html",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.XTN13B4Eg1AfAs2NDwKpZw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "구광모·사티아 나델라, AI 동맹 확대…데이터센터부터 피지컬 AI까지 협력",
+        "summary": "LG가 마이크로소프트(Microsoft)와 인공지능(AI) 데이터센터(AIDC), 피지컬 AI, 인공지능 전환(AX)을 아우르는 전략적 파트너십을 확대한다. 그룹 차원의 통합 역량을 결집하는 '원 LG(One LG)' 체제를 기반으로 글로벌 AI 인프라 시장부터 기업 업무 혁신, 제조·물류 분야의 AI 기술 개발까지 협력 범위를 넓힌다는 전략이다.LG는 2 ...",
+        "source": "인공지능신문",
+        "publishedAt": "2026-09-21",
+        "url": "https://www.aitimes.kr/news/articleView.html?idxno=42032",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Hq_bA5nHAPCjDFgH8i8ivQ&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-09-21",
     "windowStart": "2026-09-19T22:00:00.000Z",
     "windowEnd": "2026-09-20T22:00:00.000Z",
@@ -551,103 +639,6 @@
         "publishedAt": "2026-09-08",
         "url": "https://www.yna.co.kr/view/AKR20260908115100061",
         "imageUrl": "https://www.bing.com/th?id=ONUT.T_Z7len02XPg-AWBkOTWgA&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-09-15",
-    "windowStart": "2026-09-13T22:00:00.000Z",
-    "windowEnd": "2026-09-14T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "용혜인 사퇴에 한국경제 “2030 역린 건드려” 동아일보 “꼼수위성정당 문제”",
-        "summary": "용혜인 성평등가족부 장관 후보자의 사퇴는 비례대표 의원직 유지 논란, 위성정당 제도, 대통령실 인사 검증 문제를 함께 드러냈다. 더불어민주당과 조국혁신당은 연대와 합당을 놓고 공개 충돌했고, 이재명 대통령은 검찰개혁의 속도와 방식에 반발하는 범여권 강경파를 향해 경계 메시지를 냈다. 정호용 전 국방부 장관 사망 보도는 군·정치 경력과 함께 12·12 군사반 ...",
-        "source": "미디어오늘 on MSN",
-        "publishedAt": "2026-09-15",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%9A%A9%ED%98%9C%EC%9D%B8-%EC%82%AC%ED%87%B4%EC%97%90-%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9C-2030-%EC%97%AD%EB%A6%B0-%EA%B1%B4%EB%93%9C%EB%A0%A4-%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4-%EA%BC%BC%EC%88%98%EC%9C%84%EC%84%B1%EC%A0%95%EB%8B%B9-%EB%AC%B8%EC%A0%9C/ar-AA2cc7d1",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.K_4GYec2FwQ2QMVpJMVabg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[로펌이슈] 법무법인 동인, 2026 서울사회복지대회 서울시의회 의장상 수상",
-        "summary": "[서울=뉴스핌] 홍석희 기자 = 법무법인 동인(대표변호사 원창연)이 11일 서울여성플라자 국제회의장에서 열린 '2026 서울사회복지대회'에서 지역사회 나눔 문화 확산과 사회공헌에 기여한 공로로 서울특별시의회 의장상을 수상했다. 동인은 2017년부터 소외계층 여성 보호 및 자립 지원을 위해 매년 연말 후원금을 전달하며 ...",
-        "source": "뉴스핌 on MSN",
-        "publishedAt": "2026-09-11",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%A1%9C%ED%8E%8C%EC%9D%B4%EC%8A%88-%EB%B2%95%EB%AC%B4%EB%B2%95%EC%9D%B8-%EB%8F%99%EC%9D%B8-2026-%EC%84%9C%EC%9A%B8%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EB%8C%80%ED%9A%8C-%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%9D%98%ED%9A%8C-%EC%9D%98%EC%9E%A5%EC%83%81-%EC%88%98%EC%83%81/ar-AA2c09wx",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.1neiMAic5S3I_fOjrSQ1iw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈-중대재해사이렌] 산재 사망사고 경영책임자 잇단 실형...법정까지 울린 '경고등'",
-        "summary": "[아웃소싱타임스 이윤희 기자] 산업현장의 안전관리 부실이 경영책임자의 실제 실형으로 이어지고 있다. 중대재해처벌법 시행 초기에는 집행유예 선고가 상당수를 차지했지만, 최근에는 안전보건관리체계 미비나 중대한 안전조치 위반 등이 인정된 사건에서 경영책임자에게 실형이 선고되는 사례도 잇따르고 있다.",
-        "source": "아웃소싱타임스",
-        "publishedAt": "2026-09-11",
-        "url": "https://www.outsourcing.co.kr/news/articleView.html?idxno=203758",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.gnqx0SfXztpN3nX4qpPZhA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "박위, 유튜브 '사회실험' 영상 13개 조용히 비공개..KTX CCTV 논란 여파[스타이슈]",
-        "summary": "낙상 사고 CCTV 영상을 공개해 논란에 휩싸인 유튜버 박위가 과거 '사회실험' 영상 등을 추가로 비공개 처리했다. 1일 박위의 유튜브 채널 '위라클'에 게재된 영상은 785개다. 박위는 지난달 논란이 불거진 후 물의를 빚은 CCTV 공개 영상을 포함해 14개의 영상을 비공개 혹은 삭제 처리했다. 비공개 처리된 영상에는 2022년 8월 공개한 '하반신 마비 ...",
-        "source": "스타뉴스 on MSN",
-        "publishedAt": "2026-09-01",
-        "url": "https://www.msn.com/ko-kr/entertainment/tv/%EB%B0%95%EC%9C%84-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%82%AC%ED%9A%8C%EC%8B%A4%ED%97%98-%EC%98%81%EC%83%81-13%EA%B0%9C-%EC%A1%B0%EC%9A%A9%ED%9E%88-%EB%B9%84%EA%B3%B5%EA%B0%9C-ktx-cctv-%EB%85%BC%EB%9E%80-%EC%97%AC%ED%8C%8C-%EC%8A%A4%ED%83%80%EC%9D%B4%EC%8A%88/ar-AA2bkGjf",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.-uOJouBAQiVM6BpIRt3o0Q&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[탐사보도 뉴스프리즘] 네팔 대홍수 먼 나라 이야기 아냐…복합 재난 위기 현실화",
-        "summary": "한국 사회의 이슈를 발굴하고, 다양한 시선으로 분석하는 뉴스프리즘 시작합니다. 이번주 뉴스프리즘이 풀어갈 이슈, 함께 보시겠습니다. [프리즘1] 더 이상 '경고' 아니다…지구의 분노 현실로 네팔 대홍수로 숨지거나 실종된 사람이 수천 명에 이르고 있습니다. 이번 재난은 그동안 막연하게 걱정해 온 기후 변화의 심각성과 자연재해의 위력에 대해 다시 한번 생각하는 ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-09-13",
-        "url": "https://www.yna.co.kr/view/MYH20260912012200038",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.M8GWuutXZknLFz4C69tT8A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "AI가 스스로 가설 세우고 새로운 발견 했다…노벨상은 누가 받나[125년 노벨상 시대를 담다]②",
-        "summary": "2024년 노벨화학상 수상자 3명 가운데 2명은 인공지능 (AI)을 활용해 과학계의 오랜 난제를 풀어낸 연구자들이었다. 구글 딥마인드의 데미스 허사비스 최고경영자 (CEO)와 존 점퍼 당시 수석연구원 (부사장)이 개발한 '알파폴드2 (AlphaFold2)'는 아미노산 배열만으로 단백질의 3차원 구조를 정밀하게 예측해냈다. 반세기 넘게 과학계가 씨름해온 ...",
-        "source": "아시아경제",
-        "publishedAt": "2026-09-14",
-        "url": "https://www.asiae.co.kr/article/2026090815070943966",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.4epsp0cwCNzX-t_DibywGQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[서산소식] 우수 시민 혁신 아이디어에 '침수 안심지도'",
-        "summary": "(서산=연합뉴스) ▲ 우수 시민 혁신 아이디어에 '침수 안심지도' = 충남 서산시는 우수 시민 혁신 아이디어로 침수 취약지역을 데이터로 관리하는 '침수 안심지도 구축'이 선정됐다고 15일 밝혔다. 시내버스 블랙박스 인공지능 (AI) 도로교통 모니터링 시스템 구축, 침수 위험 감지 및 대피 유도 스마트 방재 가로등, 임신·출산 원스톱 행복패스 구축, 기형아 ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-09-14",
-        "url": "https://www.yna.co.kr/view/AKR20260915023300063",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.cwnYlQN2bpJr2m1vjF0PhA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "손정의 회장과 엔트로픽의 제이콥 콕슨이 던진 질문",
-        "summary": "2026년 가을에 두 개의 장면이 세계에 전해졌다.하나는 도쿄다. 손정의 소프트뱅크 회장이 '소프트뱅크 월드 2026(SoftBank World 2026)' 무대에서 2040년을 숫자로 그렸다. 인공지능(AI)이 세계 경제의 20%, 연간 7000조엔을 만들어낸다. 우리 ...",
-        "source": "지디넷코리아",
-        "publishedAt": "2026-09-14",
-        "url": "https://zdnet.co.kr/view/?no=20260915082047",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.F3g6Z5WfLt8hU91_6Ji-wA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "폭주하는 인공지능…“이러다가 다 죽어” [뉴노멀-실리콘밸리]",
-        "summary": "박원익 | 더밀크 IP본부장 “이 기술이 가진 힘을 과소평가해서는 안 된다. 우리는 곧 인간을 뛰어넘는 시스템을 갖게 될 것이다.” 앤트로픽의 사전학습 연구원 제이컵 콕슨(27)이 8일(현지시각) 사표를 던지며 엑스(X)에 남긴 글이다. 업계 ...",
-        "source": "한겨레",
-        "publishedAt": "2026-09-14",
-        "url": "https://www.hani.co.kr/arti/opinion/column/1277607.html",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.j5F5G_-cM436ZnyFR15o4Q&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[속보]‘AI 속도조절론’에 뉴욕증시 하락…나스닥 0.56%↓",
-        "summary": "미국 뉴욕증시가 14일(현지시간) 인공지능(AI) 개발 속도조절론과 국제유가·미국 국채 금리 상승 등을 주시하며 하락세로 마감했다. 이날 다우존스30 산업평균지수는 전장보다 152.09포인트(0.29%) 내린 ...",
-        "source": "문화일보 on MSN",
-        "publishedAt": "2026-09-14",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%86%8D%EB%B3%B4-ai-%EC%86%8D%EB%8F%84%EC%A1%B0%EC%A0%88%EB%A1%A0-%EC%97%90-%EB%89%B4%EC%9A%95%EC%A6%9D%EC%8B%9C-%ED%95%98%EB%9D%BD-%EB%82%98%EC%8A%A4%EB%8B%A5-056/ar-AA2cd6EC",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ZiqzroYaICy-lKg6b29gyw&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
