@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-09-22",
-  "windowStart": "2026-09-20T22:00:00.000Z",
-  "windowEnd": "2026-09-21T22:00:00.000Z",
+  "updatedAt": "2026-09-23",
+  "windowStart": "2026-09-21T22:00:00.000Z",
+  "windowEnd": "2026-09-22T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "'공익 저격' 박위, 또 야금야금 영상 삭제…침묵 속 물밑작업 계속 [Oh!쎈 이슈]",
+      "summary": "‘위라클’ 박위가 사회복무요원 저격 논란 이후 약 한달째 침묵을 지키는 가운데 물밑으로는 유튜브 채널 영상을 삭제하고 있다.18일 유튜브 채널 평가 사이트 소셜블레이드에 따르면 박위가 운영하는..",
+      "source": "OSEN on MSN",
+      "publishedAt": "2026-09-18",
+      "url": "https://www.msn.com/ko-kr/entertainment/tv/%EA%B3%B5%EC%9D%B5-%EC%A0%80%EA%B2%A9-%EB%B0%95%EC%9C%84-%EB%98%90-%EC%95%BC%EA%B8%88%EC%95%BC%EA%B8%88-%EC%98%81%EC%83%81-%EC%82%AD%EC%A0%9C-%EC%B9%A8%EB%AC%B5-%EC%86%8D-%EB%AC%BC%EB%B0%91%EC%9E%91%EC%97%85-%EA%B3%84%EC%86%8D-oh%EC%8E%88-%EC%9D%B4%EC%8A%88/ar-AA2cu7u2",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.posPSmFjTRiDiJq7rodj6Q&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[로펌이슈] 법무법인 동인, 2026 서울사회복지대회 서울시의회 의장상 수상",
+      "summary": "[서울=뉴스핌] 홍석희 기자 = 법무법인 동인(대표변호사 원창연)이 11일 서울여성플라자 국제회의장에서 열린 '2026 서울사회복지대회'에서 지역사회 나눔 문화 확산과 사회공헌에 기여한 공로로 서울특별시의회 의장상을 수상했다. 동인은 2017년부터 소외계층 여성 보호 및 자립 지원을 위해 매년 연말 후원금을 전달하며 ...",
+      "source": "뉴스핌 on MSN",
+      "publishedAt": "2026-09-11",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%A1%9C%ED%8E%8C%EC%9D%B4%EC%8A%88-%EB%B2%95%EB%AC%B4%EB%B2%95%EC%9D%B8-%EB%8F%99%EC%9D%B8-2026-%EC%84%9C%EC%9A%B8%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EB%8C%80%ED%9A%8C-%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%9D%98%ED%9A%8C-%EC%9D%98%EC%9E%A5%EC%83%81-%EC%88%98%EC%83%81/ar-AA2c09wx",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.1neiMAic5S3I_fOjrSQ1iw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[이슈PICK+] 정성국 “물재생센터 처리수 재이용률 50%까지 확대”",
+      "summary": "투데이코리아=김문우 기자 | “현재 6.8% 수준인 처리수 재이용률을 2030년 19%, 이후 50%까지 높여나갈 것” 정성국 서울시 물순환안전국장은 전날(8일) 서울역사박물관에서 열린 ‘제6회 2026 워터서울 국제컨퍼런스’에서 서울시 물재생센터의 미래 운영 방향을 제시하며 이같이 말했다. 이날 행사는 단순 하수처리시설에서 물 재이용과 에너지 생산, 시민 ...",
+      "source": "투데이코리아",
+      "publishedAt": "2026-09-09",
+      "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=405861",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.SKP5UnM1a76bTG3yeaL_Lw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "청년정책, ‘사후 지원’서 ‘사전 투자’로…자립·도약 뒷받침 [예방국가: 위기보다 한 발 먼저 ④]",
+      "summary": "청년이 취업에 실패하거나 경제적 어려움에 빠진 뒤 지원하는 데 머물렀던 청년정책의 무게중심이 사회에 첫발을 내딛는 단계부터 기회를 넓히는 ‘사전 투자’로 옮겨가고 있다. 정부는 ‘청년의 정책 참여 확대와 기본생활 지원으로 함께 만드는 미래’를 국정과제 89번으로 정하고 ...",
+      "source": "경기일보",
+      "publishedAt": "2026-09-17",
+      "url": "https://www.kyeonggi.com/article/20260916580493",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.NKAfveg6WMRYJJBF08qTPQ&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "“사회복지인 노후, 국가가 답할 때”… 국회서 ‘특화 퇴직연금 도입’ 토론회 열려",
@@ -13,76 +49,49 @@
       "imageUrl": "https://www.bing.com/th?id=ONUT.1rbmAJEtIy2Ut8rJ8e9Hgg&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "society",
-      "title": "사회적가치 페스타 개막…최태원 \"AI, 강력한 사회문제 해결사\"",
-      "summary": "(서울=연합뉴스) 임성호 기자 = 정부와 기업, 시민사회 등이 정책과 자본, 첨단기술, 현장 아이디어를 토대로 사회적 해법을 도출하는 '대한민국 사회적가치 페스타'가 올해 3년 차를 맞아 한층 큰 규모로 막을 올렸다.",
-      "source": "연합뉴스",
-      "publishedAt": "2026-09-21",
-      "url": "https://www.yna.co.kr/view/AKR20260921051100003",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.n-7nUQaM55QvtBbfXlXPJw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "사회적가치 페스타 개막…최태원 \"AI로 사회문제 효율적 해결\"(종합)",
-      "summary": "(서울=연합뉴스) 안정원 기자 = 한성숙 국무총리와 최태원 대한상의 회장이 21일 서울 강남구 코엑스에서 열린 제3회 대한민국 사회적가치 페스타 개회식에 앞서 전시장을 둘러보고 있다. 2026.9.21 jeong@yna.co.kr ...",
-      "source": "연합뉴스",
-      "publishedAt": "2026-09-21",
-      "url": "https://www.yna.co.kr/view/AKR20260921051101003",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.lyfzpy0I5GlssgzkGyYtsA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "베일 벗은 세종 ‘글로벌 진로탐험대’… 2027년 아시아·국내 시범운영으로 축소",
-      "summary": "세종시교육청이 중학교 3학년 전체 학생을 대상으로 추진해 온 핵심 공약사업 ‘글로벌 진로탐험대’를 두고, 보건복지부 사회보장제도 협의 결과가 내일(22일) 오전 공개될 예정이다.‘글로벌 진로탐험대’는 2027년 중학교 3학년 학생 약 5,400명에게 국내외 기업과 대학, 연구기관 등을 ...",
-      "source": "뉴스피치",
-      "publishedAt": "2026-09-21",
-      "url": "http://www.newspeach.com/news/articleView.html?idxno=10006",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.xXfPvmLPf6QIdG1n6pV1mA&pid=News&w=1200&h=675&c=14"
+      "category": "ai",
+      "title": "전북 완주 일반산단, ‘인공지능·로봇 기반 모빌리티 산업’ 거점으로",
+      "summary": "전북 완주 일반산업단지가 노후 산업단지의 경쟁력을 높이기 위한 정부 사업의 후보지로 선정됐다. 현대자동차와 KCC 등 주요 기업이 입주한 완주 산단을 인공지능(AI)과 로봇을 기반으로 한 미래 모빌리티 제조 거점으로 전환하는 사업이 추진될 예정이다. 다만, 후보지 선정 이후 전문가 컨설팅과 사업 계획 보완, 최종 지정 및 예산 확보 등 절차가 남아 있다.",
+      "source": "세계일보 on MSN",
+      "publishedAt": "2026-09-22",
+      "url": "https://www.msn.com/ko-kr/news/national/%EC%A0%84%EB%B6%81-%EC%99%84%EC%A3%BC-%EC%9D%BC%EB%B0%98%EC%82%B0%EB%8B%A8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%A1%9C%EB%B4%87-%EA%B8%B0%EB%B0%98-%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0-%EC%82%B0%EC%97%85-%EA%B1%B0%EC%A0%90%EC%9C%BC%EB%A1%9C/ar-AA2cIeon",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-L0BAr-wI2_wAK0GAbXc-w&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "중부발전, 국제표준 인공지능 경영시스템 인증 획득",
-      "summary": "한국중부발전이 인공지능 경영시스템(AIMS)에 대한 국제표준인 'ISO/IEC 42001' 인증을 획득했다고 21일 밝혔다. 'ISO/IEC 42001'은 국제표준화기구(ISO)와 국제전기기술위원회(IEC)가 공동 제정한 인공지능 관리체계 표준이다. 인공지능(AI) 기반 시스템의 기획·개발·운영·관리 등 전 과정에서 발생할 수 있는 윤리적 위험, 데이터 프 ...",
-      "source": "뉴시스 on MSN",
-      "publishedAt": "2026-09-21",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%A4%91%EB%B6%80%EB%B0%9C%EC%A0%84-%EA%B5%AD%EC%A0%9C%ED%91%9C%EC%A4%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B2%BD%EC%98%81%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9D%B8%EC%A6%9D-%ED%9A%8D%EB%93%9D/ar-AA2cF1Oc",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.frMbWDUTWDog-sarDeXf6A&pid=News&w=1200&h=675&c=14"
+      "title": "“엄마, 저 바보 되어가요” 아이의 충격 고백…AI항복 막을 15분 [AI발 인류지능 퇴보]",
+      "summary": "신종호 서울대 교육학과 교수가 서울대 관악캠퍼스 사범대학 교수연구실에서 중앙일보와 인터뷰하고 있다. 강정현 기자 인공지능(AI) 시대에도 인간은 지금껏 그랬듯 지적 능력을 이전 세대보다 더 발전시켜 나갈 수 있을까. 아니, 최소한 유지는 할 수 있을까. “현재와 같은 속도로 AI에 대한 의존도가 높아진다면, 어려울지 모른다”는 게 여러 전문가들의 우려다.",
+      "source": "중앙일보 on MSN",
+      "publishedAt": "2026-09-23",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%97%84%EB%A7%88-%EC%A0%80-%EB%B0%94%EB%B3%B4-%EB%90%98%EC%96%B4%EA%B0%80%EC%9A%94-%EC%95%84%EC%9D%B4%EC%9D%98-%EC%B6%A9%EA%B2%A9-%EA%B3%A0%EB%B0%B1-ai%ED%95%AD%EB%B3%B5-%EB%A7%89%EC%9D%84-15%EB%B6%84-ai%EB%B0%9C-%EC%9D%B8%EB%A5%98%EC%A7%80%EB%8A%A5-%ED%87%B4%EB%B3%B4/ar-AA2cLLMg",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.DQ65ygvYhzNNyBIwDrdY9g&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "소개팅녀에 “점심 어때요”…이 메시지조차 AI 작품이었다 [창간기획 AI발 인류지능 퇴보]",
-      "summary": "고등학교 1학년 연희(17·가명)는 최근 좋아하는 이성 친구가 생겼다. 연희는 습관처럼 생성 인공지능(AI) 서비스 제미나이와의 상담을 시작했다. “제미나이가 걔랑 저랑 잘 어울린다고, 사귀게 될 거라고 했어요. 한번은 AI가 ‘너는 이런 애니까, 이렇게 해’라고 조언하는데, 저를 너무 잘 알고 있는 것 같아서 소름이 돋기도 해요. 엄마 생신엔 뭐라고 축하 ...",
+      "title": "시험도 면접도 ‘AI 커닝’…구글·앤트로픽마저 “채용 땐 사용금지” [AI발 인류지능 퇴보]",
+      "summary": "대학생 전수현(24·남)씨는 최근 학교 수업에서 황당한 일을 겪었다. 교수가 질문하면 학생들이 자유롭게 자신의 의견을 말하는 실시간 토론 수업이었는데도 생성형 인공지능(AI)을 쓰는 옆자리 학생을 발견해서다. 전씨는 “다른 학생들이 대답하는 사이에 질문을 AI에 넣어 답변을 받은 뒤 그것을 마치 자기 생각처럼 발표했는데도 교수님은 전혀 눈치를 못 채셨다”면 ...",
       "source": "중앙일보",
-      "publishedAt": "2026-09-21",
-      "url": "https://www.joongang.co.kr/article/25463870",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.IYyzvX0z-qy24ODe7m5p6w&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-09-23",
+      "url": "https://www.joongang.co.kr/article/25464299",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.KyiP98WO8zluufjsQ7vkSw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "파주시, 평화경제특구에 AI 산업 심는다…한국인공지능협회와 맞손",
-      "summary": "(PPSS 문치환 기자) 파주시가 평화경제특구를 미래산업의 거점으로 육성하기 위한 산업 전략 마련에 본격적으로 나섰다. 접경지역이라는 지리적 특성을 활용하는 데 그치지 않고 인공지능 (AI)을 핵심 성장동력으로 접목해 기업 유치와 산업 생태계 조성을 동시에 추진한다는 구상이다.",
-      "source": "ppss",
-      "publishedAt": "2026-09-21",
-      "url": "https://www.ppss.kr/news/articleView.html?idxno=311712",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.8QQC_yj0GB3wwXx_TjuV-g&pid=News&w=1200&h=675&c=14"
+      "title": "[AI를 지탱하는 산업 기반이란] 한국의 반도체·데이터센터 전략에서 생각하는 일본의 미래",
+      "summary": "한국이 내놓은 '3대 메가 프로젝트'생성형 AI의 진화가 계속되는 가운데, 세계 각국에서 AI를 성장 산업으로 육성하려는 움직임이 가속화되고 있습니다.그중 한국 정부가 2026년 6월에 발표한 것이 반도체, 피지컬 AI, AI 데이터센터를 축으로 하는 '3대 메가 프로젝트'입니다.이번 계획에서는 각 분야에서 대규모 투자와 새로운 산업 거점 정비가 제시되었습 ...",
+      "source": "note",
+      "publishedAt": "2026-09-22",
+      "url": "https://note.com/rikunagano/n/na9849f083289?hl=ko",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.JfCqpTuOxVdZY7gp30Z_Iw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "인공지능의 ‘쇠맛’ 나는 글 [이서윤의 인공지능&인권지능]",
-      "summary": "이서윤 | 사법연수원 교수·판사 며칠 전 인공지능과 개인정보보호법에 관한 토론회에 참석하면서 토론문 초안 제출 요청을 받았다. 마침 눈코 뜰 새 없이 바쁜 일정에다가 기한도 촉박하여, 고육지책으로 인공지능 ‘클로드’에게 해당 주제에 관하여 내가 지금까지 쓴 ...",
-      "source": "한겨레",
-      "publishedAt": "2026-09-21",
-      "url": "https://www.hani.co.kr/arti/opinion/column/1278751.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.XTN13B4Eg1AfAs2NDwKpZw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "구광모·사티아 나델라, AI 동맹 확대…데이터센터부터 피지컬 AI까지 협력",
-      "summary": "LG가 마이크로소프트(Microsoft)와 인공지능(AI) 데이터센터(AIDC), 피지컬 AI, 인공지능 전환(AX)을 아우르는 전략적 파트너십을 확대한다. 그룹 차원의 통합 역량을 결집하는 '원 LG(One LG)' 체제를 기반으로 글로벌 AI 인프라 시장부터 기업 업무 혁신, 제조·물류 분야의 AI 기술 개발까지 협력 범위를 넓힌다는 전략이다.LG는 2 ...",
-      "source": "인공지능신문",
-      "publishedAt": "2026-09-21",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42032",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Hq_bA5nHAPCjDFgH8i8ivQ&pid=News&w=1200&h=675&c=14"
+      "title": "[AI 고속도로] 2년 걸리던 AI 데이터센터, 수개월로…'모듈형' 구축 경쟁 뜬다",
+      "summary": "(지디넷코리아=한정호 기자)인공지능(AI) 인프라 경쟁이 치열해지면서 데이터센터를 짓는 방식도 달라지고 있다. 부지를 확보하고 건물을 지은 뒤 전력·냉각 설비와 서버를 구축하는 기존 방식에서 벗어나 주요 설비를 공장에서 미리 제작해 현장에서 조립하는 모듈형 데이터센터가 새로운 대안으로 떠오르는 모습이다. 22일 업계에 따르면 LG CNS와 KT클라우드, 엘 ...",
+      "source": "지디넷코리아 on MSN",
+      "publishedAt": "2026-09-22",
+      "url": "https://www.msn.com/ko-kr/news/techandscience/ai-%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C-2%EB%85%84-%EA%B1%B8%EB%A6%AC%EB%8D%98-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%88%98%EA%B0%9C%EC%9B%94%EB%A1%9C-%EB%AA%A8%EB%93%88%ED%98%95-%EA%B5%AC%EC%B6%95-%EA%B2%BD%EC%9F%81-%EB%9C%AC%EB%8B%A4/ar-AA2cI2kt",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.FStHEgmghOvaw3OBcyjbUQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
