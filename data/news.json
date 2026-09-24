@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-09-23",
-  "windowStart": "2026-09-21T22:00:00.000Z",
-  "windowEnd": "2026-09-22T22:00:00.000Z",
+  "updatedAt": "2026-09-24",
+  "windowStart": "2026-09-22T22:00:00.000Z",
+  "windowEnd": "2026-09-23T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "'기독교' 박위, 목사마저 일침.. \"선한 영향력? 오만해서 그렇다\" [Oh!쎈 이슈]",
+      "summary": "‘위라클’ 박위가 사회복무요원 저격 논란 이후 긴 침묵을 이어가고 있는 가운데 목사로부터 비판을 받았다.박요한 목사는 지난 19일 자신의 유튜브 채널을 통해 “박위라는 기독고 청년이 있다. 척..",
+      "source": "OSEN on MSN",
+      "publishedAt": "2026-09-23",
+      "url": "https://www.msn.com/ko-kr/entertainment/tv/%EA%B8%B0%EB%8F%85%EA%B5%90-%EB%B0%95%EC%9C%84-%EB%AA%A9%EC%82%AC%EB%A7%88%EC%A0%80-%EC%9D%BC%EC%B9%A8-%EC%84%A0%ED%95%9C-%EC%98%81%ED%96%A5%EB%A0%A5-%EC%98%A4%EB%A7%8C%ED%95%B4%EC%84%9C-%EA%B7%B8%EB%A0%87%EB%8B%A4-oh%EC%8E%88-%EC%9D%B4%EC%8A%88/ar-AA2cN7h1",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.jn0Y42ReumujMZGSCM1OOg&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "'공익 저격' 박위, 또 야금야금 영상 삭제…침묵 속 물밑작업 계속 [Oh!쎈 이슈]",
@@ -23,39 +32,57 @@
     },
     {
       "category": "society",
-      "title": "[이슈PICK+] 정성국 “물재생센터 처리수 재이용률 50%까지 확대”",
-      "summary": "투데이코리아=김문우 기자 | “현재 6.8% 수준인 처리수 재이용률을 2030년 19%, 이후 50%까지 높여나갈 것” 정성국 서울시 물순환안전국장은 전날(8일) 서울역사박물관에서 열린 ‘제6회 2026 워터서울 국제컨퍼런스’에서 서울시 물재생센터의 미래 운영 방향을 제시하며 이같이 말했다. 이날 행사는 단순 하수처리시설에서 물 재이용과 에너지 생산, 시민 ...",
-      "source": "투데이코리아",
-      "publishedAt": "2026-09-09",
-      "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=405861",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.SKP5UnM1a76bTG3yeaL_Lw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
       "title": "청년정책, ‘사후 지원’서 ‘사전 투자’로…자립·도약 뒷받침 [예방국가: 위기보다 한 발 먼저 ④]",
       "summary": "청년이 취업에 실패하거나 경제적 어려움에 빠진 뒤 지원하는 데 머물렀던 청년정책의 무게중심이 사회에 첫발을 내딛는 단계부터 기회를 넓히는 ‘사전 투자’로 옮겨가고 있다. 정부는 ‘청년의 정책 참여 확대와 기본생활 지원으로 함께 만드는 미래’를 국정과제 89번으로 정하고 ...",
       "source": "경기일보",
       "publishedAt": "2026-09-17",
       "url": "https://www.kyeonggi.com/article/20260916580493",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.NKAfveg6WMRYJJBF08qTPQ&pid=News&w=1200&h=675&c=14"
+      "imageUrl": "https://www.bing.com/th?id=ONUT.H_4SNaeUeoMBU5ittb9t2Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "“사회복지인 노후, 국가가 답할 때”… 국회서 ‘특화 퇴직연금 도입’ 토론회 열려",
-      "summary": "'사회복지인 특화 퇴직연금' 도입을 논의하는 토론회에 참가한 참석자들. 사진=한국사회복지공제회 사회복지 종사자의 노후 소득 보장을 위한 ‘사회복지인 특화 퇴직연금’ 도입 방안을 논의하는 정책토론회 ‘사회복지인의 노후, 이제 국가가 답할 때: 사..",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-09-21",
-      "url": "https://www.fnnews.com/news/202609211428437553",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.1rbmAJEtIy2Ut8rJ8e9Hgg&pid=News&w=1200&h=675&c=14"
+      "title": "경기도외국인복지센터협의회 “민선 9기 도정서 84만 이주민 소외…정책 전환 촉구”",
+      "summary": "경기도 내 이주민 지원단체들이 민선 9기 경기도정에 대책 마련을 촉구했다. 도정 주요 과제에서 외국인 주민을 위한 종합 정책이 소외됐다는 이유다. 이들은 경기도의 공식적인 보완 대책과 정책 전환을 요구하고 나섰다.경기도외국인복지센터협의회(이하 협의회)는 14일 ‘공정·혁신·포용의 경기도정, 이주민은 어디에 있는가’라는 제목의 규탄성명서를 내고, 민선 9기 ...",
+      "source": "인천일보 on MSN",
+      "publishedAt": "2026-09-14",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%99%B8%EA%B5%AD%EC%9D%B8%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0%ED%98%91%EC%9D%98%ED%9A%8C-%EB%AF%BC%EC%84%A0-9%EA%B8%B0-%EB%8F%84%EC%A0%95%EC%84%9C-84%EB%A7%8C-%EC%9D%B4%EC%A3%BC%EB%AF%BC-%EC%86%8C%EC%99%B8-%EC%A0%95%EC%B1%85-%EC%A0%84%ED%99%98-%EC%B4%89%EA%B5%AC/ar-AA2cd10v",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.OhWpZd3BN6kFL74TXDdytQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "전북 완주 일반산단, ‘인공지능·로봇 기반 모빌리티 산업’ 거점으로",
-      "summary": "전북 완주 일반산업단지가 노후 산업단지의 경쟁력을 높이기 위한 정부 사업의 후보지로 선정됐다. 현대자동차와 KCC 등 주요 기업이 입주한 완주 산단을 인공지능(AI)과 로봇을 기반으로 한 미래 모빌리티 제조 거점으로 전환하는 사업이 추진될 예정이다. 다만, 후보지 선정 이후 전문가 컨설팅과 사업 계획 보완, 최종 지정 및 예산 확보 등 절차가 남아 있다.",
-      "source": "세계일보 on MSN",
-      "publishedAt": "2026-09-22",
-      "url": "https://www.msn.com/ko-kr/news/national/%EC%A0%84%EB%B6%81-%EC%99%84%EC%A3%BC-%EC%9D%BC%EB%B0%98%EC%82%B0%EB%8B%A8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%A1%9C%EB%B4%87-%EA%B8%B0%EB%B0%98-%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0-%EC%82%B0%EC%97%85-%EA%B1%B0%EC%A0%90%EC%9C%BC%EB%A1%9C/ar-AA2cIeon",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.-L0BAr-wI2_wAK0GAbXc-w&pid=News&w=1200&h=675&c=14"
+      "title": "'AI'→'SI' 용어 바꾸자는 트럼프 제안…전문가들은 부정적",
+      "summary": "(서울=연합뉴스) 임화섭 기자 = 인공지능 (人工智能·artificial intelligence·AI) 대신 '초지능' (超知能·super intelligence·SI)이라는 표현을 쓰자는 도널드 트럼프 미국 대통령의 용어 변경 제안에 전문가들이 회의적 반응을 보인다고 영국 BBC 방송이 보도했다.",
+      "source": "연합뉴스",
+      "publishedAt": "2026-09-23",
+      "url": "https://www.yna.co.kr/view/AKR20260923135100009",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.n250ucfNza52a-hQEQbI0g&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "LG전자-SK엔무브, AI 데이터센터 열관리 기술 공동 개발",
+      "summary": "LG전자가 글로벌 냉매 규제 강화와 고효율 냉각 수요 확대에 대응해 SK엔무브와 AI 데이터센터를 비롯한 다양한 산업을 위한 차세대 열관리 기술 협력에 나선다. 사진은 21일 진행된 '가전·상업·산업용 신규 냉매, 냉동기유 및 액침냉각 기술 공동 선행 개발' 업무협약식에 참여한 SK엔무브 김원기 사장(왼쪽)과 LG전자 ES사업본부장 이재성 사장. [사진=L ...",
+      "source": "아주경제",
+      "publishedAt": "2026-09-23",
+      "url": "https://www.ajunews.com/view/20260923081848776",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.j3HeVybFji0JW6hyXG37sw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "중부발전, 국제표준 인공지능 경영시스템 인증 획득",
+      "summary": "한국중부발전이 인공지능 경영시스템(AIMS)에 대한 국제표준인 'ISO/IEC 42001' 인증을 획득했다고 21일 밝혔다. 'ISO/IEC 42001'은 국제표준화기구(ISO)와 국제전기기술위원회(IEC)가 공동 제정한 인공지능 관리체계 표준이다. 인공지능(AI) 기반 시스템의 기획·개발·운영·관리 등 전 과정에서 발생할 수 있는 윤리적 위험, 데이터 프 ...",
+      "source": "뉴시스 on MSN",
+      "publishedAt": "2026-09-21",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%A4%91%EB%B6%80%EB%B0%9C%EC%A0%84-%EA%B5%AD%EC%A0%9C%ED%91%9C%EC%A4%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B2%BD%EC%98%81%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9D%B8%EC%A6%9D-%ED%9A%8D%EB%93%9D/ar-AA2cF1Oc",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.frMbWDUTWDog-sarDeXf6A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "[창간기획] 공공부문 AX/ 발전부터 전기요금까지 AI로…한국전력공사, 전력공급 전 과정 '인공지능 전환'",
+      "summary": "한국전력공사가 발전에서 송·배전, 설비관리와 고객서비스까지 전력공급 전 과정에 인공지능(AI)을 적용한다. 설비 고장을 예측하고 투자 시점을 최적화하는 동시에 실시간 전력사용 데이터를 분석해 전기요금 절감까지 지원하는 인공지능 전환(AX)에 속도를 낸다. 한전은 전력수요 증가와 재생에너지·분산전원 확대로 복잡해지는 전력망에 대응하여 발전효율화(IDPP), ...",
+      "source": "전자신문 on MSN",
+      "publishedAt": "2026-09-21",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%B0%BD%EA%B0%84%EA%B8%B0%ED%9A%8D-%EA%B3%B5%EA%B3%B5%EB%B6%80%EB%AC%B8-ax-%EB%B0%9C%EC%A0%84%EB%B6%80%ED%84%B0-%EC%A0%84%EA%B8%B0%EC%9A%94%EA%B8%88%EA%B9%8C%EC%A7%80-ai%EB%A1%9C-%ED%95%9C%EA%B5%AD%EC%A0%84%EB%A0%A5%EA%B3%B5%EC%82%AC-%EC%A0%84%EB%A0%A5%EA%B3%B5%EA%B8%89-%EC%A0%84-%EA%B3%BC%EC%A0%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98/ar-AA2cDPzh",
+      "imageUrl": "https://www.bing.com/th?id=ONUT._8v3WPHvx2Wg_tbwIthhWg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
@@ -65,33 +92,6 @@
       "publishedAt": "2026-09-23",
       "url": "https://www.msn.com/ko-kr/news/other/%EC%97%84%EB%A7%88-%EC%A0%80-%EB%B0%94%EB%B3%B4-%EB%90%98%EC%96%B4%EA%B0%80%EC%9A%94-%EC%95%84%EC%9D%B4%EC%9D%98-%EC%B6%A9%EA%B2%A9-%EA%B3%A0%EB%B0%B1-ai%ED%95%AD%EB%B3%B5-%EB%A7%89%EC%9D%84-15%EB%B6%84-ai%EB%B0%9C-%EC%9D%B8%EB%A5%98%EC%A7%80%EB%8A%A5-%ED%87%B4%EB%B3%B4/ar-AA2cLLMg",
       "imageUrl": "https://www.bing.com/th?id=ONUT.DQ65ygvYhzNNyBIwDrdY9g&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "시험도 면접도 ‘AI 커닝’…구글·앤트로픽마저 “채용 땐 사용금지” [AI발 인류지능 퇴보]",
-      "summary": "대학생 전수현(24·남)씨는 최근 학교 수업에서 황당한 일을 겪었다. 교수가 질문하면 학생들이 자유롭게 자신의 의견을 말하는 실시간 토론 수업이었는데도 생성형 인공지능(AI)을 쓰는 옆자리 학생을 발견해서다. 전씨는 “다른 학생들이 대답하는 사이에 질문을 AI에 넣어 답변을 받은 뒤 그것을 마치 자기 생각처럼 발표했는데도 교수님은 전혀 눈치를 못 채셨다”면 ...",
-      "source": "중앙일보",
-      "publishedAt": "2026-09-23",
-      "url": "https://www.joongang.co.kr/article/25464299",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.KyiP98WO8zluufjsQ7vkSw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[AI를 지탱하는 산업 기반이란] 한국의 반도체·데이터센터 전략에서 생각하는 일본의 미래",
-      "summary": "한국이 내놓은 '3대 메가 프로젝트'생성형 AI의 진화가 계속되는 가운데, 세계 각국에서 AI를 성장 산업으로 육성하려는 움직임이 가속화되고 있습니다.그중 한국 정부가 2026년 6월에 발표한 것이 반도체, 피지컬 AI, AI 데이터센터를 축으로 하는 '3대 메가 프로젝트'입니다.이번 계획에서는 각 분야에서 대규모 투자와 새로운 산업 거점 정비가 제시되었습 ...",
-      "source": "note",
-      "publishedAt": "2026-09-22",
-      "url": "https://note.com/rikunagano/n/na9849f083289?hl=ko",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.JfCqpTuOxVdZY7gp30Z_Iw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[AI 고속도로] 2년 걸리던 AI 데이터센터, 수개월로…'모듈형' 구축 경쟁 뜬다",
-      "summary": "(지디넷코리아=한정호 기자)인공지능(AI) 인프라 경쟁이 치열해지면서 데이터센터를 짓는 방식도 달라지고 있다. 부지를 확보하고 건물을 지은 뒤 전력·냉각 설비와 서버를 구축하는 기존 방식에서 벗어나 주요 설비를 공장에서 미리 제작해 현장에서 조립하는 모듈형 데이터센터가 새로운 대안으로 떠오르는 모습이다. 22일 업계에 따르면 LG CNS와 KT클라우드, 엘 ...",
-      "source": "지디넷코리아 on MSN",
-      "publishedAt": "2026-09-22",
-      "url": "https://www.msn.com/ko-kr/news/techandscience/ai-%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C-2%EB%85%84-%EA%B1%B8%EB%A6%AC%EB%8D%98-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%88%98%EA%B0%9C%EC%9B%94%EB%A1%9C-%EB%AA%A8%EB%93%88%ED%98%95-%EA%B5%AC%EC%B6%95-%EA%B2%BD%EC%9F%81-%EB%9C%AC%EB%8B%A4/ar-AA2cI2kt",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.FStHEgmghOvaw3OBcyjbUQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
