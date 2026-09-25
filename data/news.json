@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-09-24",
-  "windowStart": "2026-09-22T22:00:00.000Z",
-  "windowEnd": "2026-09-23T22:00:00.000Z",
+  "updatedAt": "2026-09-25",
+  "windowStart": "2026-09-23T22:00:00.000Z",
+  "windowEnd": "2026-09-24T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "한국 외교 돕는 외국인 '재외명예영사'란… 83개국 152명 활약",
+      "summary": "사회적 지위·경제력 요건…무보수로 한국인 보호 등 영사 활동 (서울=연합뉴스) 김지헌 기자 = 외국에서 한국의 국익을 지키고 국민을 보호하는 활동은 보통 외교관이 하며, 한국 외교관은 한국 국적자만 할 수 있다. 한국인이 아니며 정식 경로를 밟은 직업 외교관이 아님에도 세계 각지에서 한국과 한국인을 위해 봉사하는 이들, ...",
+      "source": "연합뉴스 on MSN",
+      "publishedAt": "2026-09-25",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD-%EC%99%B8%EA%B5%90-%EB%8F%95%EB%8A%94-%EC%99%B8%EA%B5%AD%EC%9D%B8-%EC%9E%AC%EC%99%B8%EB%AA%85%EC%98%88%EC%98%81%EC%82%AC-%EB%9E%80-83%EA%B0%9C%EA%B5%AD-152%EB%AA%85-%ED%99%9C%EC%95%BD/ar-AA2cUV29",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ulDAbBnWxXUaC-Jr94P_6A&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "'기독교' 박위, 목사마저 일침.. \"선한 영향력? 오만해서 그렇다\" [Oh!쎈 이슈]",
@@ -11,15 +20,6 @@
       "publishedAt": "2026-09-23",
       "url": "https://www.msn.com/ko-kr/entertainment/tv/%EA%B8%B0%EB%8F%85%EA%B5%90-%EB%B0%95%EC%9C%84-%EB%AA%A9%EC%82%AC%EB%A7%88%EC%A0%80-%EC%9D%BC%EC%B9%A8-%EC%84%A0%ED%95%9C-%EC%98%81%ED%96%A5%EB%A0%A5-%EC%98%A4%EB%A7%8C%ED%95%B4%EC%84%9C-%EA%B7%B8%EB%A0%87%EB%8B%A4-oh%EC%8E%88-%EC%9D%B4%EC%8A%88/ar-AA2cN7h1",
       "imageUrl": "https://www.bing.com/th?id=ONUT.jn0Y42ReumujMZGSCM1OOg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "'공익 저격' 박위, 또 야금야금 영상 삭제…침묵 속 물밑작업 계속 [Oh!쎈 이슈]",
-      "summary": "‘위라클’ 박위가 사회복무요원 저격 논란 이후 약 한달째 침묵을 지키는 가운데 물밑으로는 유튜브 채널 영상을 삭제하고 있다.18일 유튜브 채널 평가 사이트 소셜블레이드에 따르면 박위가 운영하는..",
-      "source": "OSEN on MSN",
-      "publishedAt": "2026-09-18",
-      "url": "https://www.msn.com/ko-kr/entertainment/tv/%EA%B3%B5%EC%9D%B5-%EC%A0%80%EA%B2%A9-%EB%B0%95%EC%9C%84-%EB%98%90-%EC%95%BC%EA%B8%88%EC%95%BC%EA%B8%88-%EC%98%81%EC%83%81-%EC%82%AD%EC%A0%9C-%EC%B9%A8%EB%AC%B5-%EC%86%8D-%EB%AC%BC%EB%B0%91%EC%9E%91%EC%97%85-%EA%B3%84%EC%86%8D-oh%EC%8E%88-%EC%9D%B4%EC%8A%88/ar-AA2cu7u2",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.posPSmFjTRiDiJq7rodj6Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -37,61 +37,61 @@
       "source": "경기일보",
       "publishedAt": "2026-09-17",
       "url": "https://www.kyeonggi.com/article/20260916580493",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.H_4SNaeUeoMBU5ittb9t2Q&pid=News&w=1200&h=675&c=14"
+      "imageUrl": "https://www.bing.com/th?id=ONUT.NKAfveg6WMRYJJBF08qTPQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "경기도외국인복지센터협의회 “민선 9기 도정서 84만 이주민 소외…정책 전환 촉구”",
-      "summary": "경기도 내 이주민 지원단체들이 민선 9기 경기도정에 대책 마련을 촉구했다. 도정 주요 과제에서 외국인 주민을 위한 종합 정책이 소외됐다는 이유다. 이들은 경기도의 공식적인 보완 대책과 정책 전환을 요구하고 나섰다.경기도외국인복지센터협의회(이하 협의회)는 14일 ‘공정·혁신·포용의 경기도정, 이주민은 어디에 있는가’라는 제목의 규탄성명서를 내고, 민선 9기 ...",
-      "source": "인천일보 on MSN",
-      "publishedAt": "2026-09-14",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%99%B8%EA%B5%AD%EC%9D%B8%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0%ED%98%91%EC%9D%98%ED%9A%8C-%EB%AF%BC%EC%84%A0-9%EA%B8%B0-%EB%8F%84%EC%A0%95%EC%84%9C-84%EB%A7%8C-%EC%9D%B4%EC%A3%BC%EB%AF%BC-%EC%86%8C%EC%99%B8-%EC%A0%95%EC%B1%85-%EC%A0%84%ED%99%98-%EC%B4%89%EA%B5%AC/ar-AA2cd10v",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.OhWpZd3BN6kFL74TXDdytQ&pid=News&w=1200&h=675&c=14"
+      "title": "외국인 유학생 불법체류자 5배 급증… 이민정책 분절화 해결해야",
+      "summary": "■김옥녀 숙명여대 사회복지학과 교수유학생 불법체류자, 2014년 6700명→ 2024년 3만 4000명한국서 박사 학위 취득한 유학생 81%가 정주 못 하고 떠나학교 밖 주거, 의료 등 보호 제대로 받지 못하는 게 현실교육, 취업, 정착 한 단계만 누락되도 불법 체류자로 전락고용노동부·법무부 등 업무 분절... 통합 컨트럴타워 필요해 국내 대학이나 어학당에 ...",
+      "source": "서울경제 on MSN",
+      "publishedAt": "2026-09-17",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%99%B8%EA%B5%AD%EC%9D%B8-%EC%9C%A0%ED%95%99%EC%83%9D-%EB%B6%88%EB%B2%95%EC%B2%B4%EB%A5%98%EC%9E%90-5%EB%B0%B0-%EA%B8%89%EC%A6%9D-%EC%9D%B4%EB%AF%BC%EC%A0%95%EC%B1%85-%EB%B6%84%EC%A0%88%ED%99%94-%ED%95%B4%EA%B2%B0%ED%95%B4%EC%95%BC/ar-AA2cmYG8",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.EKPJFqeauJzJ7nP5yA7kZg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "'AI'→'SI' 용어 바꾸자는 트럼프 제안…전문가들은 부정적",
-      "summary": "(서울=연합뉴스) 임화섭 기자 = 인공지능 (人工智能·artificial intelligence·AI) 대신 '초지능' (超知能·super intelligence·SI)이라는 표현을 쓰자는 도널드 트럼프 미국 대통령의 용어 변경 제안에 전문가들이 회의적 반응을 보인다고 영국 BBC 방송이 보도했다.",
+      "title": "국적 해운사 인공지능 전환 잰걸음…업체간 격차도 확대",
+      "summary": "(부산=연합뉴스) 박창수 기자 = 국적 해운사가 항로와 자율 운항, 운송 수요 예측 등 업무에 걸쳐 인공지능 전환 (AX)에 속도를 내고 있다. 해운사간 격차도 확대되고 있어 업계 공동 플랫폼 구축 등 협력 전략이 필요하다는 지적이 나온다.",
       "source": "연합뉴스",
-      "publishedAt": "2026-09-23",
-      "url": "https://www.yna.co.kr/view/AKR20260923135100009",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.n250ucfNza52a-hQEQbI0g&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-09-24",
+      "url": "https://www.yna.co.kr/view/AKR20260921119500051",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.EbUIGdcHlIyY2-HqJ9xDCQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "LG전자-SK엔무브, AI 데이터센터 열관리 기술 공동 개발",
-      "summary": "LG전자가 글로벌 냉매 규제 강화와 고효율 냉각 수요 확대에 대응해 SK엔무브와 AI 데이터센터를 비롯한 다양한 산업을 위한 차세대 열관리 기술 협력에 나선다. 사진은 21일 진행된 '가전·상업·산업용 신규 냉매, 냉동기유 및 액침냉각 기술 공동 선행 개발' 업무협약식에 참여한 SK엔무브 김원기 사장(왼쪽)과 LG전자 ES사업본부장 이재성 사장. [사진=L ...",
-      "source": "아주경제",
-      "publishedAt": "2026-09-23",
-      "url": "https://www.ajunews.com/view/20260923081848776",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.j3HeVybFji0JW6hyXG37sw&pid=News&w=1200&h=675&c=14"
+      "title": "오픈AI의 에이전트, 호주 정부 웹사이트 '침투'... 인공지능의 첫 정부 해킹",
+      "summary": "지난 6월, 오픈AI의 통제를 벗어난 '불량' 인공지능(AI) 에이전트가 호주 정부 웹사이트를 해킹해 비공개 데이터에 접근한 것으로 알려졌다. 전문가들에 따르면 AI 모델이 정부 기관을 해킹한 첫 사례다. 미국 뉴욕을 방문 중인 앤서니 앨버니지 총리는 23일(현지시각) 해당 에이전트가 호주의 보편적 의료보험 제도인 '메디케어'의 통계 포털에 \"침투\" 했다고 ...",
+      "source": "BBC",
+      "publishedAt": "2026-09-24",
+      "url": "https://www.bbc.com/korean/articles/cm750g7lpqwwo",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.j4gP3RTJrCMdJk0Q21Rg4g&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "중부발전, 국제표준 인공지능 경영시스템 인증 획득",
-      "summary": "한국중부발전이 인공지능 경영시스템(AIMS)에 대한 국제표준인 'ISO/IEC 42001' 인증을 획득했다고 21일 밝혔다. 'ISO/IEC 42001'은 국제표준화기구(ISO)와 국제전기기술위원회(IEC)가 공동 제정한 인공지능 관리체계 표준이다. 인공지능(AI) 기반 시스템의 기획·개발·운영·관리 등 전 과정에서 발생할 수 있는 윤리적 위험, 데이터 프 ...",
-      "source": "뉴시스 on MSN",
-      "publishedAt": "2026-09-21",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%A4%91%EB%B6%80%EB%B0%9C%EC%A0%84-%EA%B5%AD%EC%A0%9C%ED%91%9C%EC%A4%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B2%BD%EC%98%81%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9D%B8%EC%A6%9D-%ED%9A%8D%EB%93%9D/ar-AA2cF1Oc",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.frMbWDUTWDog-sarDeXf6A&pid=News&w=1200&h=675&c=14"
+      "title": "[신간] 인공지능의 법과 정책...각계 전문가 34명 저술",
+      "summary": "(지디넷코리아=방은주 기자)인공지능(AI) 시대다. AI는 기술만의 문제가 아니다. 우리 사회 곳곳에 스며들어 있기 때문이다. 기술 개발과 활용, 그리고 그 과정에서 발생하는 책임과 위험도 이해해야 한다. AI를 제대로 이해하려면 기술만 알아서는 안 되고, 그 기술이 사회에서 작동하는 법·제도·정책까지 함께 알아야 하는 것이다. 와중에, AI기술 전문가와 ...",
+      "source": "지디넷코리아 on MSN",
+      "publishedAt": "2026-09-24",
+      "url": "https://www.msn.com/ko-kr/news/techandscience/%EC%8B%A0%EA%B0%84-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%98-%EB%B2%95%EA%B3%BC-%EC%A0%95%EC%B1%85-%EA%B0%81%EA%B3%84-%EC%A0%84%EB%AC%B8%EA%B0%80-34%EB%AA%85-%EC%A0%80%EC%88%A0/ar-AA2cRteQ",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.3xPyyaxf0EvunCU7ggXibQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[창간기획] 공공부문 AX/ 발전부터 전기요금까지 AI로…한국전력공사, 전력공급 전 과정 '인공지능 전환'",
-      "summary": "한국전력공사가 발전에서 송·배전, 설비관리와 고객서비스까지 전력공급 전 과정에 인공지능(AI)을 적용한다. 설비 고장을 예측하고 투자 시점을 최적화하는 동시에 실시간 전력사용 데이터를 분석해 전기요금 절감까지 지원하는 인공지능 전환(AX)에 속도를 낸다. 한전은 전력수요 증가와 재생에너지·분산전원 확대로 복잡해지는 전력망에 대응하여 발전효율화(IDPP), ...",
-      "source": "전자신문 on MSN",
-      "publishedAt": "2026-09-21",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%B0%BD%EA%B0%84%EA%B8%B0%ED%9A%8D-%EA%B3%B5%EA%B3%B5%EB%B6%80%EB%AC%B8-ax-%EB%B0%9C%EC%A0%84%EB%B6%80%ED%84%B0-%EC%A0%84%EA%B8%B0%EC%9A%94%EA%B8%88%EA%B9%8C%EC%A7%80-ai%EB%A1%9C-%ED%95%9C%EA%B5%AD%EC%A0%84%EB%A0%A5%EA%B3%B5%EC%82%AC-%EC%A0%84%EB%A0%A5%EA%B3%B5%EA%B8%89-%EC%A0%84-%EA%B3%BC%EC%A0%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98/ar-AA2cDPzh",
-      "imageUrl": "https://www.bing.com/th?id=ONUT._8v3WPHvx2Wg_tbwIthhWg&pid=News&w=1200&h=675&c=14"
+      "title": "전북도, 피지컬AI 클러스터 육성 속도… 투자유치·금융지원 '투트랙'",
+      "summary": "전북특별자치도는 '피지컬 인공지능(AI) 생태계 조성 연구개발 사업' 착수에 이어 기업 투자유치와 금융지원 기반 강화에 나서는 등 피지컬AI 산업 클러스터 육성에 속도를 내고 있다고 25일 밝혔다. 도는 지난 22일 서울 한국산업은행 본점 IR센터에서 열린 '피지컬AI 지역거점 발전 포럼'에 참석해 로봇기업과 스타트업 등 200여 개 기업을 대상으로 전북의 ...",
+      "source": "전자신문",
+      "publishedAt": "2026-09-24",
+      "url": "https://www.etnews.com/20260922000454",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.nJ25HMLnCm-kwAcysHIFMQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "“엄마, 저 바보 되어가요” 아이의 충격 고백…AI항복 막을 15분 [AI발 인류지능 퇴보]",
-      "summary": "신종호 서울대 교육학과 교수가 서울대 관악캠퍼스 사범대학 교수연구실에서 중앙일보와 인터뷰하고 있다. 강정현 기자 인공지능(AI) 시대에도 인간은 지금껏 그랬듯 지적 능력을 이전 세대보다 더 발전시켜 나갈 수 있을까. 아니, 최소한 유지는 할 수 있을까. “현재와 같은 속도로 AI에 대한 의존도가 높아진다면, 어려울지 모른다”는 게 여러 전문가들의 우려다.",
-      "source": "중앙일보 on MSN",
-      "publishedAt": "2026-09-23",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%97%84%EB%A7%88-%EC%A0%80-%EB%B0%94%EB%B3%B4-%EB%90%98%EC%96%B4%EA%B0%80%EC%9A%94-%EC%95%84%EC%9D%B4%EC%9D%98-%EC%B6%A9%EA%B2%A9-%EA%B3%A0%EB%B0%B1-ai%ED%95%AD%EB%B3%B5-%EB%A7%89%EC%9D%84-15%EB%B6%84-ai%EB%B0%9C-%EC%9D%B8%EB%A5%98%EC%A7%80%EB%8A%A5-%ED%87%B4%EB%B3%B4/ar-AA2cLLMg",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.DQ65ygvYhzNNyBIwDrdY9g&pid=News&w=1200&h=675&c=14"
+      "title": "[AI프리즘] 조선소·공장이 AI 훈련장으로…한국의 피지컬 AI 승부수",
+      "summary": "(서울=연합뉴스) 박동주 기자 = 22일 서울 영등포구 한국산업은행 본점에서 열린 '피지컬 AI 지역거점 발전포럼'에 앞서 배경훈 부총리 겸 과학기술정보통신부 장관과 이억원 금융위원장 등 참석자들이 피지컬 AI 체험존을 둘러보고 있다. 2026.9.22 pdj6635@yna.co.kr ...",
+      "source": "연합뉴스",
+      "publishedAt": "2026-09-24",
+      "url": "https://www.yna.co.kr/view/AKR20260923139300017",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ENdDhiunObXm2aFWHQ5QVw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
