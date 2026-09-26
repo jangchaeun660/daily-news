@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-09-25",
-  "windowStart": "2026-09-23T22:00:00.000Z",
-  "windowEnd": "2026-09-24T22:00:00.000Z",
+  "updatedAt": "2026-09-26",
+  "windowStart": "2026-09-24T22:00:00.000Z",
+  "windowEnd": "2026-09-25T22:00:00.000Z",
   "articles": [
-    {
-      "category": "society",
-      "title": "한국 외교 돕는 외국인 '재외명예영사'란… 83개국 152명 활약",
-      "summary": "사회적 지위·경제력 요건…무보수로 한국인 보호 등 영사 활동 (서울=연합뉴스) 김지헌 기자 = 외국에서 한국의 국익을 지키고 국민을 보호하는 활동은 보통 외교관이 하며, 한국 외교관은 한국 국적자만 할 수 있다. 한국인이 아니며 정식 경로를 밟은 직업 외교관이 아님에도 세계 각지에서 한국과 한국인을 위해 봉사하는 이들, ...",
-      "source": "연합뉴스 on MSN",
-      "publishedAt": "2026-09-25",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD-%EC%99%B8%EA%B5%90-%EB%8F%95%EB%8A%94-%EC%99%B8%EA%B5%AD%EC%9D%B8-%EC%9E%AC%EC%99%B8%EB%AA%85%EC%98%88%EC%98%81%EC%82%AC-%EB%9E%80-83%EA%B0%9C%EA%B5%AD-152%EB%AA%85-%ED%99%9C%EC%95%BD/ar-AA2cUV29",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ulDAbBnWxXUaC-Jr94P_6A&pid=News&w=1200&h=675&c=14"
-    },
     {
       "category": "society",
       "title": "'기독교' 박위, 목사마저 일침.. \"선한 영향력? 오만해서 그렇다\" [Oh!쎈 이슈]",
@@ -20,15 +11,6 @@
       "publishedAt": "2026-09-23",
       "url": "https://www.msn.com/ko-kr/entertainment/tv/%EA%B8%B0%EB%8F%85%EA%B5%90-%EB%B0%95%EC%9C%84-%EB%AA%A9%EC%82%AC%EB%A7%88%EC%A0%80-%EC%9D%BC%EC%B9%A8-%EC%84%A0%ED%95%9C-%EC%98%81%ED%96%A5%EB%A0%A5-%EC%98%A4%EB%A7%8C%ED%95%B4%EC%84%9C-%EA%B7%B8%EB%A0%87%EB%8B%A4-oh%EC%8E%88-%EC%9D%B4%EC%8A%88/ar-AA2cN7h1",
       "imageUrl": "https://www.bing.com/th?id=ONUT.jn0Y42ReumujMZGSCM1OOg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[로펌이슈] 법무법인 동인, 2026 서울사회복지대회 서울시의회 의장상 수상",
-      "summary": "[서울=뉴스핌] 홍석희 기자 = 법무법인 동인(대표변호사 원창연)이 11일 서울여성플라자 국제회의장에서 열린 '2026 서울사회복지대회'에서 지역사회 나눔 문화 확산과 사회공헌에 기여한 공로로 서울특별시의회 의장상을 수상했다. 동인은 2017년부터 소외계층 여성 보호 및 자립 지원을 위해 매년 연말 후원금을 전달하며 ...",
-      "source": "뉴스핌 on MSN",
-      "publishedAt": "2026-09-11",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%A1%9C%ED%8E%8C%EC%9D%B4%EC%8A%88-%EB%B2%95%EB%AC%B4%EB%B2%95%EC%9D%B8-%EB%8F%99%EC%9D%B8-2026-%EC%84%9C%EC%9A%B8%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EB%8C%80%ED%9A%8C-%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%9D%98%ED%9A%8C-%EC%9D%98%EC%9E%A5%EC%83%81-%EC%88%98%EC%83%81/ar-AA2c09wx",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.1neiMAic5S3I_fOjrSQ1iw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -49,49 +31,49 @@
       "imageUrl": "https://www.bing.com/th?id=ONUT.EKPJFqeauJzJ7nP5yA7kZg&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "ai",
-      "title": "국적 해운사 인공지능 전환 잰걸음…업체간 격차도 확대",
-      "summary": "(부산=연합뉴스) 박창수 기자 = 국적 해운사가 항로와 자율 운항, 운송 수요 예측 등 업무에 걸쳐 인공지능 전환 (AX)에 속도를 내고 있다. 해운사간 격차도 확대되고 있어 업계 공동 플랫폼 구축 등 협력 전략이 필요하다는 지적이 나온다.",
+      "category": "society",
+      "title": "“사회복지인 노후, 국가가 답할 때”… 국회서 ‘특화 퇴직연금 도입’ 토론회 열려",
+      "summary": "'사회복지인 특화 퇴직연금' 도입을 논의하는 토론회에 참가한 참석자들. 사진=한국사회복지공제회 사회복지 종사자의 노후 소득 보장을 위한 ‘사회복지인 특화 퇴직연금’ 도입 방안을 논의하는 정책토론회 ‘사회복지인의 노후, 이제 국가가 답할 때: 사..",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-09-21",
+      "url": "https://www.fnnews.com/news/202609211428437553",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.1rbmAJEtIy2Ut8rJ8e9Hgg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "사회적가치 페스타 개막…최태원 \"AI로 사회문제 효율적 해결\"(종합)",
+      "summary": "(서울=연합뉴스) 안정원 기자 = 한성숙 국무총리와 최태원 대한상의 회장이 21일 서울 강남구 코엑스에서 열린 제3회 대한민국 사회적가치 페스타 개회식에 앞서 전시장을 둘러보고 있다. 2026.9.21 jeong@yna.co.kr ...",
       "source": "연합뉴스",
-      "publishedAt": "2026-09-24",
-      "url": "https://www.yna.co.kr/view/AKR20260921119500051",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.EbUIGdcHlIyY2-HqJ9xDCQ&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-09-21",
+      "url": "https://www.yna.co.kr/view/AKR20260921051101003",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.lyfzpy0I5GlssgzkGyYtsA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "오픈AI의 에이전트, 호주 정부 웹사이트 '침투'... 인공지능의 첫 정부 해킹",
-      "summary": "지난 6월, 오픈AI의 통제를 벗어난 '불량' 인공지능(AI) 에이전트가 호주 정부 웹사이트를 해킹해 비공개 데이터에 접근한 것으로 알려졌다. 전문가들에 따르면 AI 모델이 정부 기관을 해킹한 첫 사례다. 미국 뉴욕을 방문 중인 앤서니 앨버니지 총리는 23일(현지시각) 해당 에이전트가 호주의 보편적 의료보험 제도인 '메디케어'의 통계 포털에 \"침투\" 했다고 ...",
-      "source": "BBC",
-      "publishedAt": "2026-09-24",
-      "url": "https://www.bbc.com/korean/articles/cm750g7lpqwwo",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.j4gP3RTJrCMdJk0Q21Rg4g&pid=News&w=1200&h=675&c=14"
+      "title": "AI 시대, 데이터는 '새로운 전략 자원'으로 - 미국·유럽·중국·일본에서 서로 다른 데이터 유통 규칙",
+      "summary": "AI 경쟁이라고 하면 모델 성능이나 반도체에 눈이 가기 쉽습니다.하지만 AI를 구동하기 위해 없어서는 안 될 또 하나의 자원이 있습니다.그것은 바로 데이터입니다.AI는 방대한 데이터를 학습하고 추론하며 서비스를 개선합니다. 기업 활동에서도 클라우드, SaaS, 개발 환경, 생성형 AI, 분석 기반 등을 통해 데이터는 국경을 넘어 이동하고 있습니다.OECD는 ...",
+      "source": "note",
+      "publishedAt": "2026-09-25",
+      "url": "https://note.com/yhkito/n/n889ad568ca04?hl=ko",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.371uDdszEwqdNt9dxeRAYg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[신간] 인공지능의 법과 정책...각계 전문가 34명 저술",
-      "summary": "(지디넷코리아=방은주 기자)인공지능(AI) 시대다. AI는 기술만의 문제가 아니다. 우리 사회 곳곳에 스며들어 있기 때문이다. 기술 개발과 활용, 그리고 그 과정에서 발생하는 책임과 위험도 이해해야 한다. AI를 제대로 이해하려면 기술만 알아서는 안 되고, 그 기술이 사회에서 작동하는 법·제도·정책까지 함께 알아야 하는 것이다. 와중에, AI기술 전문가와 ...",
-      "source": "지디넷코리아 on MSN",
-      "publishedAt": "2026-09-24",
-      "url": "https://www.msn.com/ko-kr/news/techandscience/%EC%8B%A0%EA%B0%84-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%98-%EB%B2%95%EA%B3%BC-%EC%A0%95%EC%B1%85-%EA%B0%81%EA%B3%84-%EC%A0%84%EB%AC%B8%EA%B0%80-34%EB%AA%85-%EC%A0%80%EC%88%A0/ar-AA2cRteQ",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.3xPyyaxf0EvunCU7ggXibQ&pid=News&w=1200&h=675&c=14"
+      "title": "구글, AI 데이터센터 우주로 띄운다…내달 TPU 첫 궤도 실증",
+      "summary": "[이코노미트리뷴 = 예현우 기자] 구글이 인공지능(AI) 데이터센터를 우주에 구축하는 ‘프로젝트 선캐처(Suncatcher)’의 첫 실제 궤도 실증에 나선다. 지상 AI 데이터센터의 전력 수요가 빠르게 늘어나는 가운데 태양광이 풍부한 우주를 새로운 연산 인프라 거점으로 활용할 수 있을지 시험하는 단계다. 25일 업계에 따르면 구글은 지난 24일(현지시간) ...",
+      "source": "economytribune",
+      "publishedAt": "2026-09-25",
+      "url": "https://www.economytribune.co.kr/news/articleView.html?idxno=3903993",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.2ZqliB5_g3XclopStR03MA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "전북도, 피지컬AI 클러스터 육성 속도… 투자유치·금융지원 '투트랙'",
-      "summary": "전북특별자치도는 '피지컬 인공지능(AI) 생태계 조성 연구개발 사업' 착수에 이어 기업 투자유치와 금융지원 기반 강화에 나서는 등 피지컬AI 산업 클러스터 육성에 속도를 내고 있다고 25일 밝혔다. 도는 지난 22일 서울 한국산업은행 본점 IR센터에서 열린 '피지컬AI 지역거점 발전 포럼'에 참석해 로봇기업과 스타트업 등 200여 개 기업을 대상으로 전북의 ...",
-      "source": "전자신문",
-      "publishedAt": "2026-09-24",
-      "url": "https://www.etnews.com/20260922000454",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.nJ25HMLnCm-kwAcysHIFMQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[AI프리즘] 조선소·공장이 AI 훈련장으로…한국의 피지컬 AI 승부수",
-      "summary": "(서울=연합뉴스) 박동주 기자 = 22일 서울 영등포구 한국산업은행 본점에서 열린 '피지컬 AI 지역거점 발전포럼'에 앞서 배경훈 부총리 겸 과학기술정보통신부 장관과 이억원 금융위원장 등 참석자들이 피지컬 AI 체험존을 둘러보고 있다. 2026.9.22 pdj6635@yna.co.kr ...",
-      "source": "연합뉴스",
-      "publishedAt": "2026-09-24",
-      "url": "https://www.yna.co.kr/view/AKR20260923139300017",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ENdDhiunObXm2aFWHQ5QVw&pid=News&w=1200&h=675&c=14"
+      "title": "[미국증시] AI 데이터센터 역풍…미국 유권자 61%가 반대",
+      "summary": "기사의 본문 내용은 이 글자크기로 변경됩니다. 데이터센터 건물 옆으로 송전탑이 늘어서 있다. 미국에서는 데이터센터가 몰린 동부 지역 전력 도매가격이 1년 사이 76% 오르면서 신규 건설 반대 여론이 확산되고 있다. @ 생성형 AI 미국 경제에서 인공지능 투자가 차지하는 비중이 철도 건설기를 넘어섰지만 정작 건설 현장에서는 제동이 걸리고 있다. 국내총생산 대 ...",
+      "source": "jabon",
+      "publishedAt": "2026-09-25",
+      "url": "https://www.jabon.co.kr/news/articleView.html?idxno=7122",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.3XmTclkmysQChqLVsDBEaA&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
