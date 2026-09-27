@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-26",
-  "windowStart": "2026-09-24T22:00:00.000Z",
-  "windowEnd": "2026-09-25T22:00:00.000Z",
+  "updatedAt": "2026-09-27",
+  "windowStart": "2026-09-25T22:00:00.000Z",
+  "windowEnd": "2026-09-26T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
@@ -14,6 +14,15 @@
     },
     {
       "category": "society",
+      "title": "글로벌 경제 글로벌 산업 글로벌 정치 글로벌 사회",
+      "summary": "최근 볼리비아의 융가스 숲에서 표범을 닮은 점박이 고양이가 새로운 고양이 종으로 확인됐다. 과학계에 알려지지 않았던 새로운 야생 고양이 종이 확인된 것은 약 100년 만이다. 17일(현지시간) 영국 일간 가디언 보도에 따르면 이 고양이는 몸길이는 약 46㎝, 몸무게는 약 1.4kg로 일반적인 집고양이보다 조금 더 작으며 현지에서는 ‘틸카요’(tilcayo) ...",
+      "source": "매일경제",
+      "publishedAt": "2026-09-17",
+      "url": "https://www.mk.co.kr/news/world/global-society/",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.xnEZ_y1a825gkQWOyT1xQg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
       "title": "청년정책, ‘사후 지원’서 ‘사전 투자’로…자립·도약 뒷받침 [예방국가: 위기보다 한 발 먼저 ④]",
       "summary": "청년이 취업에 실패하거나 경제적 어려움에 빠진 뒤 지원하는 데 머물렀던 청년정책의 무게중심이 사회에 첫발을 내딛는 단계부터 기회를 넓히는 ‘사전 투자’로 옮겨가고 있다. 정부는 ‘청년의 정책 참여 확대와 기본생활 지원으로 함께 만드는 미래’를 국정과제 89번으로 정하고 ...",
       "source": "경기일보",
@@ -23,57 +32,66 @@
     },
     {
       "category": "society",
-      "title": "외국인 유학생 불법체류자 5배 급증… 이민정책 분절화 해결해야",
-      "summary": "■김옥녀 숙명여대 사회복지학과 교수유학생 불법체류자, 2014년 6700명→ 2024년 3만 4000명한국서 박사 학위 취득한 유학생 81%가 정주 못 하고 떠나학교 밖 주거, 의료 등 보호 제대로 받지 못하는 게 현실교육, 취업, 정착 한 단계만 누락되도 불법 체류자로 전락고용노동부·법무부 등 업무 분절... 통합 컨트럴타워 필요해 국내 대학이나 어학당에 ...",
-      "source": "서울경제 on MSN",
+      "title": "[ESG경영 사례분석] DB증권, 사회 B+로 반등…곽봉석 대표, 환경·지배구조 개선 박차",
+      "summary": "[뉴스투데이=김소연 기자] 금융소비자 보호와 취약계층 지원을 강화해 온 DB증권이 ESG(환경·사회·지배구조) 사회(S) 부문에서 반등에 성공했다. 지난해 한국ESG기준원(KCGS) 평가에서 사회 등급이 전년 C에서 B+로 두 단계 오른 것이다. 다만 환경(E)이 3년 ...",
+      "source": "뉴스투데이",
+      "publishedAt": "2026-09-19",
+      "url": "https://www.news2day.co.kr/article/20260916500023",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Bji3Xvu8Lux_mBw17WIFTg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[어린이뉴스] 한국사회보장정보원, 지역아동센터 종사자 업무역량 강화 外",
+      "summary": "【베이비뉴스 조성재 기자】아이들의 하루는 배움과 놀이, 성장의 순간들로 가득하다. ‘어린이뉴스’는 어린이의 건강한 성장과 행복한 일상, 그리고 인권 향상을 돕기 위해 마련된 코너다. 교육과 돌봄, 건강과 안전, 권리 증진, 문화·체험 활동 등 아이들의 삶과 밀접한 다양한 소식을 쉽고 알기 쉽게 전하며, 부모와 양육자에게도 도움이 되는 유익한 정보를 함께 소 ...",
+      "source": "베이비뉴스 on MSN",
       "publishedAt": "2026-09-17",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%99%B8%EA%B5%AD%EC%9D%B8-%EC%9C%A0%ED%95%99%EC%83%9D-%EB%B6%88%EB%B2%95%EC%B2%B4%EB%A5%98%EC%9E%90-5%EB%B0%B0-%EA%B8%89%EC%A6%9D-%EC%9D%B4%EB%AF%BC%EC%A0%95%EC%B1%85-%EB%B6%84%EC%A0%88%ED%99%94-%ED%95%B4%EA%B2%B0%ED%95%B4%EC%95%BC/ar-AA2cmYG8",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.EKPJFqeauJzJ7nP5yA7kZg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "“사회복지인 노후, 국가가 답할 때”… 국회서 ‘특화 퇴직연금 도입’ 토론회 열려",
-      "summary": "'사회복지인 특화 퇴직연금' 도입을 논의하는 토론회에 참가한 참석자들. 사진=한국사회복지공제회 사회복지 종사자의 노후 소득 보장을 위한 ‘사회복지인 특화 퇴직연금’ 도입 방안을 논의하는 정책토론회 ‘사회복지인의 노후, 이제 국가가 답할 때: 사..",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-09-21",
-      "url": "https://www.fnnews.com/news/202609211428437553",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.1rbmAJEtIy2Ut8rJ8e9Hgg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "사회적가치 페스타 개막…최태원 \"AI로 사회문제 효율적 해결\"(종합)",
-      "summary": "(서울=연합뉴스) 안정원 기자 = 한성숙 국무총리와 최태원 대한상의 회장이 21일 서울 강남구 코엑스에서 열린 제3회 대한민국 사회적가치 페스타 개회식에 앞서 전시장을 둘러보고 있다. 2026.9.21 jeong@yna.co.kr ...",
-      "source": "연합뉴스",
-      "publishedAt": "2026-09-21",
-      "url": "https://www.yna.co.kr/view/AKR20260921051101003",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.lyfzpy0I5GlssgzkGyYtsA&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%89%B4%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EC%A7%80%EC%97%AD%EC%95%84%EB%8F%99%EC%84%BC%ED%84%B0-%EC%A2%85%EC%82%AC%EC%9E%90-%EC%97%85%EB%AC%B4%EC%97%AD%EB%9F%89-%EA%B0%95%ED%99%94-%E5%A4%96/ar-AA2cquOq",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.n3lS7IIl86hKQcwby3EBGA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "AI 시대, 데이터는 '새로운 전략 자원'으로 - 미국·유럽·중국·일본에서 서로 다른 데이터 유통 규칙",
-      "summary": "AI 경쟁이라고 하면 모델 성능이나 반도체에 눈이 가기 쉽습니다.하지만 AI를 구동하기 위해 없어서는 안 될 또 하나의 자원이 있습니다.그것은 바로 데이터입니다.AI는 방대한 데이터를 학습하고 추론하며 서비스를 개선합니다. 기업 활동에서도 클라우드, SaaS, 개발 환경, 생성형 AI, 분석 기반 등을 통해 데이터는 국경을 넘어 이동하고 있습니다.OECD는 ...",
-      "source": "note",
-      "publishedAt": "2026-09-25",
-      "url": "https://note.com/yhkito/n/n889ad568ca04?hl=ko",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.371uDdszEwqdNt9dxeRAYg&pid=News&w=1200&h=675&c=14"
+      "title": "미중, 인공지능 대신 '슈퍼지능(SI)'…대화 채널 출범",
+      "summary": "백악관은 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 미·중 정상회담에서 인공지능(AI)의 위험과 혜택에 대한 의견을 교환하고, 사고 발생 시에도 소통하기 위한 ‘슈퍼지능(Super Intelligence) 대화’를 출범시키는 데 합의했다고 25일(현지시간) 밝혔다. 아울러 두 정상은 이란의 핵무기 보유를 결코 허용해서는 안 되며, 어떤 국가나 기관 ...",
+      "source": "국민일보 on MSN",
+      "publishedAt": "2026-09-26",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EB%AF%B8%EC%A4%91-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8C%80%EC%8B%A0-%EC%8A%88%ED%8D%BC%EC%A7%80%EB%8A%A5-si-%EB%8C%80%ED%99%94-%EC%B1%84%EB%84%90-%EC%B6%9C%EB%B2%94/ar-AA2d09XM",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.zWKLrXCAw6LxiYuQOHPM5w&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "구글, AI 데이터센터 우주로 띄운다…내달 TPU 첫 궤도 실증",
-      "summary": "[이코노미트리뷴 = 예현우 기자] 구글이 인공지능(AI) 데이터센터를 우주에 구축하는 ‘프로젝트 선캐처(Suncatcher)’의 첫 실제 궤도 실증에 나선다. 지상 AI 데이터센터의 전력 수요가 빠르게 늘어나는 가운데 태양광이 풍부한 우주를 새로운 연산 인프라 거점으로 활용할 수 있을지 시험하는 단계다. 25일 업계에 따르면 구글은 지난 24일(현지시간) ...",
-      "source": "economytribune",
-      "publishedAt": "2026-09-25",
-      "url": "https://www.economytribune.co.kr/news/articleView.html?idxno=3903993",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.2ZqliB5_g3XclopStR03MA&pid=News&w=1200&h=675&c=14"
+      "title": "“휴머노이드 개발서 확보 피지컬AI 기술, 산업용·협동 로봇에도 확대 적용”",
+      "summary": "△휴머노이드의 생산성을 좌우하는 핵심 요소 가운데 하나가 손을 활용한 작업 수행 능력이라고 보고 정밀 조작과 다양한 작업 수행이 가능한 로봇 손 기술 확보에 집중하고 있습니다. 현재는 프로토타입을 제작해 다양한 조작 작업을 학습시키고 성능을 검증하는 단계입니다. 향후 HD현대로보틱스의 제어기 조립 공정에 직접 투입해 실제 제조 환경에서 데이터를 축적하고 ...",
+      "source": "서울경제",
+      "publishedAt": "2026-09-26",
+      "url": "https://www.sedaily.com/article/20094188",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ooUoVJTqs2v0v5-jx83GQw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[미국증시] AI 데이터센터 역풍…미국 유권자 61%가 반대",
-      "summary": "기사의 본문 내용은 이 글자크기로 변경됩니다. 데이터센터 건물 옆으로 송전탑이 늘어서 있다. 미국에서는 데이터센터가 몰린 동부 지역 전력 도매가격이 1년 사이 76% 오르면서 신규 건설 반대 여론이 확산되고 있다. @ 생성형 AI 미국 경제에서 인공지능 투자가 차지하는 비중이 철도 건설기를 넘어섰지만 정작 건설 현장에서는 제동이 걸리고 있다. 국내총생산 대 ...",
-      "source": "jabon",
-      "publishedAt": "2026-09-25",
-      "url": "https://www.jabon.co.kr/news/articleView.html?idxno=7122",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.3XmTclkmysQChqLVsDBEaA&pid=News&w=1200&h=675&c=14"
+      "title": "대답만 하는 AI는 끝…'AI페스타'서 일하는 AI 만난다",
+      "summary": "(지디넷코리아=한정호 기자)질문에 답하고 문서를 요약하는 데 머물렀던 인공지능(AI)이 이제는 사람을 대신해 업무를 계획하고 실행하는 단계로 진화하고 있다.기업 데이터를 찾아 분석하고 보고서를 작성하는 것은 물론 시스템에 접속해 업무를 처리하고 소프트웨어 개발까지 수행하는 에이전틱 AI의 현재와 미래를 한자리에서 확인할 수 있는 장이 마련된다.과학기술정보통 ...",
+      "source": "지디넷코리아 on MSN",
+      "publishedAt": "2026-09-27",
+      "url": "https://www.msn.com/ko-kr/news/techandscience/%EB%8C%80%EB%8B%B5%EB%A7%8C-%ED%95%98%EB%8A%94-ai%EB%8A%94-%EB%81%9D-ai%ED%8E%98%EC%8A%A4%ED%83%80%EC%84%9C-%EC%9D%BC%ED%95%98%EB%8A%94-ai-%EB%A7%8C%EB%82%9C%EB%8B%A4/ar-AA2d1STn",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.TZzCb5BV8HUN3GxkdEyI9g&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "[2026국감] 제조암묵지 AI 사업, 집행액 60% 인건비…연구재료비는 23%",
+      "summary": "산업통상부가 올해 추가경정예산으로 480억원을 투입한 '제조암묵지 기반 AI 모델 개발 및 실증사업'의 현재까지 집행액 가운데 60%가량이 인건비에 사용된 것으로 나타났다. 일부 과제에서는 참여연구원의 퇴직연금도 사업비로 집행됐다.27일 국회 산업통상자원중소벤처기업위원회 소속 구자근 국민의힘 의원이 한국산업기술기획평가원으로부터 제출받은 '제조암묵지 기반 A ...",
+      "source": "스트레이트뉴스",
+      "publishedAt": "2026-09-26",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=311976",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.LnQcJfXmDA4niy2eKEFk3A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "[단독]'제조업 AI 암묵지' 집행예산 60%가 인건비…\"실제 성과 보여야\"",
+      "summary": "[the300] '제조업암묵지 기반 AI 모델 개발·실증사업'에 집행된 연구비 가운데 60% 이상이 '인건비'로 사용됐다는 분석이 나왔다. 정치권에선 높은 인건비 비중에 걸맞게 사업 성과를 도출하고 있는지 상세히 따져봐야 한다는 지적이 나온다. 27일 국회 산업통상자원중소벤처기업위원회 야당 간사인 구자근 국민의힘 의원(경북 구미시갑)이 한국산업기술기획평가원 ...",
+      "source": "머니투데이 on MSN",
+      "publishedAt": "2026-09-26",
+      "url": "https://www.msn.com/ko-kr/news/politics/%EB%8B%A8%EB%8F%85-%EC%A0%9C%EC%A1%B0%EC%97%85-ai-%EC%95%94%EB%AC%B5%EC%A7%80-%EC%A7%91%ED%96%89%EC%98%88%EC%82%B0-60-%EA%B0%80-%EC%9D%B8%EA%B1%B4%EB%B9%84-%EC%8B%A4%EC%A0%9C-%EC%84%B1%EA%B3%BC-%EB%B3%B4%EC%97%AC%EC%95%BC/ar-AA2d27lB",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.T8Luwo5oBnG4wZJSD5ByHQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
