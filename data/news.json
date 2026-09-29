@@ -1,25 +1,34 @@
 {
-  "updatedAt": "2026-09-28",
-  "windowStart": "2026-09-26T22:00:00.000Z",
-  "windowEnd": "2026-09-27T22:00:00.000Z",
+  "updatedAt": "2026-09-29",
+  "windowStart": "2026-09-27T22:00:00.000Z",
+  "windowEnd": "2026-09-28T22:00:00.000Z",
   "articles": [
+    {
+      "category": "society",
+      "title": "[규제 묶인 NPO③] \"사회 환원도 맘대로 못해\"… '한국형 게이츠 재단' 막는 빗장",
+      "summary": "세계적 자산가 빌 게이츠가 설립한 '게이츠 재단'은 2045년 12월31일자로 문을 닫는다. 향후 20년 동안 2000억달러(약 270조원)에 달하는 그의 재산 대부분을 공익사업에 투입한 뒤 해산하는 이른바 '선셋 ...",
+      "source": "아시아경제 on MSN",
+      "publishedAt": "2026-09-29",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B7%9C%EC%A0%9C-%EB%AC%B6%EC%9D%B8-npo-%EC%82%AC%ED%9A%8C-%ED%99%98%EC%9B%90%EB%8F%84-%EB%A7%98%EB%8C%80%EB%A1%9C-%EB%AA%BB%ED%95%B4-%ED%95%9C%EA%B5%AD%ED%98%95-%EA%B2%8C%EC%9D%B4%EC%B8%A0-%EC%9E%AC%EB%8B%A8-%EB%A7%89%EB%8A%94-%EB%B9%97%EC%9E%A5/ar-AA2d9ywA",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.jvKk8BeiaebkpDSkig6ASQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "“지금까지 이런 수입차 브랜드는 없었다”…한국에 진심, 역시 차원이 달라",
+      "summary": "BMW그룹, 15년간 한국과 함께 성장 한국 사회 성장과 가치 창출에 한몫 BMW코리아미래재단, 사회공헌 메카 운전자·보행자 등으로 교육대상 확대 BMW 드라이빙 센터 [사진출처=BMW] “한국에서 돈만 벌고 끝? 한국에도 큰 기여” BMW그룹과 한국과의 관계는 자동차 판매 그 이상이다. BMW그룹은 지난 30년간 국내 진출한 수입차 브랜드 중 한국 사회에 ...",
+      "source": "매일경제 on MSN",
+      "publishedAt": "2026-09-28",
+      "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%EC%A7%80%EA%B8%88%EA%B9%8C%EC%A7%80-%EC%9D%B4%EB%9F%B0-%EC%88%98%EC%9E%85%EC%B0%A8-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%8A%94-%EC%97%86%EC%97%88%EB%8B%A4-%ED%95%9C%EA%B5%AD%EC%97%90-%EC%A7%84%EC%8B%AC-%EC%97%AD%EC%8B%9C-%EC%B0%A8%EC%9B%90%EC%9D%B4-%EB%8B%AC%EB%9D%BC/ar-AA2d7bya",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.XV52T05YtfX0JRsxsz6FCg&pid=News&w=1200&h=675&c=14"
+    },
     {
       "category": "society",
       "title": "뉴스보다 빠른 김지은의 이슈전파사... 평일 오후 3시 LIVE [알립니다]",
       "summary": "한국일보 시사 유튜브 ‘김지은의 이슈전파사’가 28일부터 평일 오후 3시 시청자를 찾아갑니다. 그동안 오후 6시에 하루의 이슈를 정리해온 이슈전파사는 앞으로 3시간 먼저 그날의 핵심 이슈와 쟁점을 짚고 뉴스를 보는 기준을 ...",
       "source": "한국일보 on MSN",
-      "publishedAt": "2026-09-27",
+      "publishedAt": "2026-09-28",
       "url": "https://www.msn.com/ko-kr/news/other/%EB%89%B4%EC%8A%A4%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EA%B9%80%EC%A7%80%EC%9D%80%EC%9D%98-%EC%9D%B4%EC%8A%88%EC%A0%84%ED%8C%8C%EC%82%AC-%ED%8F%89%EC%9D%BC-%EC%98%A4%ED%9B%84-3%EC%8B%9C-live-%EC%95%8C%EB%A6%BD%EB%8B%88%EB%8B%A4/ar-AA2d4Jg6",
       "imageUrl": "https://www.bing.com/th?id=ONUT.ebCmupLelPFnvZQaJGf1xg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "윤호중, UN 사회연대경제 고위급 회의 참석…햇빛소득마을 소개",
-      "summary": "윤호중, UN 사회연대경제 고위급 회의 참석…햇빛소득마을 소개 스페인·세네갈과 MOU…사회연대금융·공동연구 등 협력 (서울=연합뉴스) 차민지 기자 = 윤호중 행정안전부 장관은 지난 24∼26일 미국 뉴욕에서 열린 유엔 사회연대경제 고위급 회의에 참석해 사회연..",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-09-27",
-      "url": "https://www.fnnews.com/news/202609271200384054",
-      "imageUrl": "https://www.bing.com/th?id=ONUT._a2ENJv2bVKrgELWJlEmhw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -32,66 +41,57 @@
     },
     {
       "category": "society",
-      "title": "[이슈 & 뉴스] 장애인·비장애인 함께 노래한 ‘진주 하모니’...지역사회 어울림 확대",
-      "summary": "충북 진천군 장애인주간보호시설(관장 이재성)의 장애인·비장애인 어울림 합창단 ‘진주 하모니’가 문화예술 활동을 통해 지역사회와 소통하는 자리를 마련했다. 진주 하모니는 지난 12일 충북혁신도시 유소년축구장에서 열린 ‘올댓퍼포먼스(All THAT PERFORMANCE)’ 무대에 올라 합창곡 ‘개똥벌레’를 선보였다. (사)한국연예예술인총연합회 진천지회가 주최· ...",
-      "source": "티티엘뉴스",
-      "publishedAt": "2026-09-14",
-      "url": "https://www.ttlnews.com/news/articleView.html?idxno=3143034",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.QamYBSBZNCsi3zObo_K6yw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "글로벌 경제 글로벌 산업 글로벌 정치 글로벌 사회",
-      "summary": "최근 볼리비아의 융가스 숲에서 표범을 닮은 점박이 고양이가 새로운 고양이 종으로 확인됐다. 과학계에 알려지지 않았던 새로운 야생 고양이 종이 확인된 것은 약 100년 만이다. 17일(현지시간) 영국 일간 가디언 보도에 따르면 이 고양이는 몸길이는 약 46㎝, 몸무게는 약 1.4kg로 일반적인 집고양이보다 조금 더 작으며 현지에서는 ‘틸카요’(tilcayo) ...",
-      "source": "매일경제",
+      "title": "청년정책, ‘사후 지원’서 ‘사전 투자’로…자립·도약 뒷받침 [예방국가: 위기보다 한 발 먼저 ④]",
+      "summary": "청년이 취업에 실패하거나 경제적 어려움에 빠진 뒤 지원하는 데 머물렀던 청년정책의 무게중심이 사회에 첫발을 내딛는 단계부터 기회를 넓히는 ‘사전 투자’로 옮겨가고 있다. 정부는 ‘청년의 정책 참여 확대와 기본생활 지원으로 함께 만드는 미래’를 국정과제 89번으로 정하고 ...",
+      "source": "경기일보",
       "publishedAt": "2026-09-17",
-      "url": "https://www.mk.co.kr/news/world/global-society/",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.xnEZ_y1a825gkQWOyT1xQg&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.kyeonggi.com/article/20260916580493",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.NKAfveg6WMRYJJBF08qTPQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "오픈AI·앤트로픽, 인공지능 보안 사고 수만 건 조사…‘통제 능력’ 의문",
-      "summary": "앤트로픽과 오픈에이아이(AI)가 자사 인공지능 모델이 일으킨 수만 건의 보안 사고를 조사하고 있다. 인공지능 기업들이 자사의 기술을 완전히 통제할 수 있는지를 두고 의문이 제기되고 있다. 미 매체 액시오스는 27일(현지시각) 복수의 소식통을 인용해 앤트로픽과 오픈에이아 ...",
-      "source": "한겨레",
-      "publishedAt": "2026-09-27",
-      "url": "https://www.hani.co.kr/arti/international/america/1279692.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.5y-zkizhn5jsIpRyYTgpAg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "MS \"한국 AI 사용률 40.6% … 4계단 상승한 세계 12위\"",
-      "summary": "전 세계 생성형 인공지능(AI) 사용이 확대되는 가운데 한국의 AI 사용자 비중이 40%를 넘어선 것으로 나타났다. 한국은 주요 경제권 가운데 세 차례 연속 가장 큰 상승 폭을 기록하며 세계 12위로 올라섰다.28일 마이크로소프트(MS) AI 이코노미 인스티튜트가 발표한 ‘AI 확산 보고서: 2026년 2분기 트렌드와 인사이트’에 따르면 올해 6월 기준 전 ...",
-      "source": "뉴데일리 경제",
-      "publishedAt": "2026-09-27",
-      "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/28/2026092800028.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.-yRw9xVnqbYvCBs5nTBMkg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "유료 구독 3% 늪에 빠진 AI, 컴퓨팅 증설 활주로는 더 넓어졌다",
-      "summary": "뱅크오브아메리카 고객 가계 결제 데이터를 집계한 결과 인공지능 서비스를 유료로 결제하는 가구 비중은 약 3%에 머물렀다.더 모틀리 풀은 2026년 9월 26일(현지시각) 이 통계를 인용하며 생성형 인공지능 보급률이 초기 단계여서 데이터센터 컴퓨팅 설비투자 활주로가 길게 열려 있다고 보도 ...",
-      "source": "글로벌이코노믹",
-      "publishedAt": "2026-09-27",
-      "url": "https://www.g-enews.com/article/Global-Biz/2026/09/202609271015057407fbbec65dfb_1",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.1R1cQWI3FyiT06e7OGM3JQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[스마트 산업강국 함께 하는 제조혁신 4.0] \"AI 시대 주인공은 나\"… 68개국 청년들 미래 기술 뽐냈다",
-      "summary": "27일 중국 상하이 대표 공연장인 메르세데스-벤츠 아레나. 세계 청년 기술 인재들의 축제인 '제48회 국제기능올림픽' 폐막식이 이곳에서 성대하게 열렸다. 국제기능올림픽은 17~25세 전 세계 젊은이들이 산업 현장에서 활용되는 각종 기능의 숙련도를 겨루는 대회로 2년마다 개최된다. 이번 국제기능올림픽은 이달 22~27일 68개 국가·지역에서 온 1385명의 ...",
-      "source": "매일경제",
-      "publishedAt": "2026-09-27",
-      "url": "https://www.mk.co.kr/news/business/12162023",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.n51uug4d8Z13z7Kt6jzbDg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[에이전틱 AI 맵 2026] 미소정보기술, AI 에이전트 개발부터 운영까지 ‘액틱’으로 통합",
-      "summary": "인공지능(AI) 에이전트 시대가 본격화되고 있지만 국내에서는 아직 시장을 대표하는 기업이나 생태계의 윤곽이 뚜렷하지 않다. IT조선은 한국지능정보사회진흥원(NIA)과 공동기획으로 국내 에이전틱 AI 산업의 현주소를 살펴보기 위한 ‘에이전틱 AI 맵’ 프로젝트를 진행한다. 에이전틱 AI 얼라이언스 회원사를 대상으로 실시한 설문조사를 바탕으로 맵을 공개하고, ...",
-      "source": "IT 조선 on MSN",
+      "title": "인공지능 관련 주요 법제 정비 및 허위조작정보 관련 법 개정 동향",
+      "summary": "인공지능 발전과 신뢰 기반 조성 등에 관한 기본법(이하 “인공지능기본법”)과 개인정보 보호법 등 인공지능과 관련된 주요 법제가 정비되고 있습니다. 또한, 온라인상 허위조작정보의 유통을 금지하고 대규모 정보 공유 플랫폼에 유통방지 의무를 부과하는 개정 정보통신망 이용촉진 및 정보보호 등에 관한 법률(이하 “정보통신망법”)이 2026. 7. 7.부터 시행되었습",
+      "source": "법률신문",
       "publishedAt": "2026-09-28",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%EB%A7%B5-2026-%EB%AF%B8%EC%86%8C%EC%A0%95%EB%B3%B4%EA%B8%B0%EC%88%A0-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EB%B6%80%ED%84%B0-%EC%9A%B4%EC%98%81%EA%B9%8C%EC%A7%80-%EC%95%A1%ED%8B%B1-%EC%9C%BC%EB%A1%9C-%ED%86%B5%ED%95%A9/ar-AA2d4Ygu",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.mB_dqBmPtrVelJwM7lUhQQ&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226937",
+      "imageUrl": "/th?id=ONUT.wDbY5Eksf6VwnQalbC1iSQ&pid=News"
+    },
+    {
+      "category": "ai",
+      "title": "삼성, 美 AI 인프라 기업 헬릭스에 10억달러 투자…반도체 넘어 데이터센터로",
+      "summary": "삼성전자 5억달러·5개 관계사 5억달러 투자 KKR·KIA 등과 창립 투자자로 참여 데이터센터·전력·냉각 아우른 AI 생태계 공략 [연합뉴스] 삼성전자·삼성물산·삼성SDS·삼성SDI·삼성생명·삼성화재 등 삼성 6개사가 미국 인공지능(AI) 인프라 기업 ‘헬릭스 디지털 인프라스트럭처’에 총 10억달러(약 1조3600억원)를 투자한다. AI 반도체를 넘어 데이 ...",
+      "source": "매일경제 on MSN",
+      "publishedAt": "2026-09-29",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%82%BC%EC%84%B1-%E7%BE%8E-ai-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B8%B0%EC%97%85-%ED%97%AC%EB%A6%AD%EC%8A%A4%EC%97%90-10%EC%96%B5%EB%8B%AC%EB%9F%AC-%ED%88%AC%EC%9E%90-%EB%B0%98%EB%8F%84%EC%B2%B4-%EB%84%98%EC%96%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%EB%A1%9C/ar-AA2d9qOa",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.UKSPmMYKsISDQ9gui-ATeA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "파워넷, AI 데이터센터 전원기술 국산화…8kW급 PSU·800VDC로 확대",
+      "summary": "전원공급장치 전문기업 파워넷이 생성형 AI 확산에 따른 데이터센터 전력 수요 증가에 대응해 AI 서버용 핵심 전원기술 국산화와 제품 포트폴리오 확대에 나선다. 한양대학교 ERICA와 8kW급 전원공급장치(PSU)의 핵심 제어기술을 공동 개발하고, 공통 이중화 전원공급장치(CRPS)와 800VDC 기반 고전압 전원공급장치까지 기술 영역을 넓힌다는 계획이다.",
+      "source": "이투데이 on MSN",
+      "publishedAt": "2026-09-29",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EB%B0%8F-%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4/%ED%8C%8C%EC%9B%8C%EB%84%B7-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%A0%84%EC%9B%90%EA%B8%B0%EC%88%A0-%EA%B5%AD%EC%82%B0%ED%99%94-8kw%EA%B8%89-psu-800vdc%EB%A1%9C-%ED%99%95%EB%8C%80/ar-AA2d9KoL",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.POjRoZ9k76ZFMK_H8-Mv_A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "\"中 전체 용량 5분의 1 삼켰다\"… 바이트댄스, 中 AI 데이터센터 최대 임차인 등극",
+      "summary": "생성형 인공지능(AI) 서비스의 폭발적인 확산으로 중국 내 데이터센터 인프라 건설 붐이 가속화되는 가운데, 동영상 플랫폼 틱톡(TikTok)과 더우인의 모기업인 바이트댄스(ByteDance)가 중국 전역에 구축된 데이터센터 전체 전력 용량의 약 20%를 홀로 점유하며 국가 최대의 임차인 ...",
+      "source": "글로벌이코노믹",
+      "publishedAt": "2026-09-28",
+      "url": "https://www.g-enews.com/article/Global-Biz/2026/09/2026092908300938370c8c1c064d_1",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.iN6MHb_dlxUxGGw09KUrsQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "삼성, AI 인프라 생태계 공략…‘헬릭스’에 10억 달러 투자",
+      "summary": "[뉴스투데이=전소영 기자] 삼성 주요 6개 계열사가 글로벌 투자회사 KKR이 설립한 AI(인공지능) 인프라 기업에 공동 투자해 글로벌 AI 데이터센터 생태계 공략에 나선다. 삼성전자·삼성물산·삼성SDS·삼성SDI·삼성생명·삼성화재는 29일 KKR이 설립한 ‘헬릭스 디지 ...",
+      "source": "뉴스투데이",
+      "publishedAt": "2026-09-29",
+      "url": "https://www.news2day.co.kr/article/20260929500020",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.MA1VYox7U62ALY5ymKMWVw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
