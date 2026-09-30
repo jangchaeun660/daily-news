@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-09-29",
-  "windowStart": "2026-09-27T22:00:00.000Z",
-  "windowEnd": "2026-09-28T22:00:00.000Z",
+  "updatedAt": "2026-09-30",
+  "windowStart": "2026-09-28T22:00:00.000Z",
+  "windowEnd": "2026-09-29T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[규제 묶인 NPO③] \"사회 환원도 맘대로 못해\"… '한국형 게이츠 재단' 막는 빗장",
-      "summary": "세계적 자산가 빌 게이츠가 설립한 '게이츠 재단'은 2045년 12월31일자로 문을 닫는다. 향후 20년 동안 2000억달러(약 270조원)에 달하는 그의 재산 대부분을 공익사업에 투입한 뒤 해산하는 이른바 '선셋 ...",
-      "source": "아시아경제 on MSN",
-      "publishedAt": "2026-09-29",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B7%9C%EC%A0%9C-%EB%AC%B6%EC%9D%B8-npo-%EC%82%AC%ED%9A%8C-%ED%99%98%EC%9B%90%EB%8F%84-%EB%A7%98%EB%8C%80%EB%A1%9C-%EB%AA%BB%ED%95%B4-%ED%95%9C%EA%B5%AD%ED%98%95-%EA%B2%8C%EC%9D%B4%EC%B8%A0-%EC%9E%AC%EB%8B%A8-%EB%A7%89%EB%8A%94-%EB%B9%97%EC%9E%A5/ar-AA2d9ywA",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.jvKk8BeiaebkpDSkig6ASQ&pid=News&w=1200&h=675&c=14"
+      "title": "KB금융, '상생협력 모펀드'로 사회적 가치 창출 기업의 성장 지원",
+      "summary": "[파이낸셜뉴스] KB금융그룹은 30일 대·중소기업·농어업협력재단, 한국벤처투자와 함께 사회문제 해결과 경제적 가치 창출을 동시에 추구하는 '임팩트 기업'의 성장을 지원하는 '상생협력 모펀드'를 결성했다고 밝혔다. 모펀드는 '상생협력법 시행령' 개정에 따라 대·중소기업 상생협력기금을 벤처투자에 활용하는 첫 사례이다. KB금융의 출연으로 조성한 상생협력기금 1 ...",
+      "source": "파이낸셜뉴스 on MSN",
+      "publishedAt": "2026-09-30",
+      "url": "https://www.msn.com/ko-kr/news/other/kb%EA%B8%88%EC%9C%B5-%EC%83%81%EC%83%9D%ED%98%91%EB%A0%A5-%EB%AA%A8%ED%8E%80%EB%93%9C%EB%A1%9C-%EC%82%AC%ED%9A%8C%EC%A0%81-%EA%B0%80%EC%B9%98-%EC%B0%BD%EC%B6%9C-%EA%B8%B0%EC%97%85%EC%9D%98-%EC%84%B1%EC%9E%A5-%EC%A7%80%EC%9B%90/ar-AA2deg0u",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.7eyoge0xpb-k5Fw1-9dnVQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "“지금까지 이런 수입차 브랜드는 없었다”…한국에 진심, 역시 차원이 달라",
-      "summary": "BMW그룹, 15년간 한국과 함께 성장 한국 사회 성장과 가치 창출에 한몫 BMW코리아미래재단, 사회공헌 메카 운전자·보행자 등으로 교육대상 확대 BMW 드라이빙 센터 [사진출처=BMW] “한국에서 돈만 벌고 끝? 한국에도 큰 기여” BMW그룹과 한국과의 관계는 자동차 판매 그 이상이다. BMW그룹은 지난 30년간 국내 진출한 수입차 브랜드 중 한국 사회에 ...",
-      "source": "매일경제 on MSN",
-      "publishedAt": "2026-09-28",
-      "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%EC%A7%80%EA%B8%88%EA%B9%8C%EC%A7%80-%EC%9D%B4%EB%9F%B0-%EC%88%98%EC%9E%85%EC%B0%A8-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%8A%94-%EC%97%86%EC%97%88%EB%8B%A4-%ED%95%9C%EA%B5%AD%EC%97%90-%EC%A7%84%EC%8B%AC-%EC%97%AD%EC%8B%9C-%EC%B0%A8%EC%9B%90%EC%9D%B4-%EB%8B%AC%EB%9D%BC/ar-AA2d7bya",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.XV52T05YtfX0JRsxsz6FCg&pid=News&w=1200&h=675&c=14"
+      "title": "고상백 한국보건산업진흥원장 \"바이오헬스, 사회문제 해결하는 산업 돼야\"",
+      "summary": "[파이낸셜뉴스] 한국보건산업진흥원이 바이오헬스 산업을 기술 개발과 산업 육성에 그치지 않고 지역 필수의료와 초고령사회 돌봄 등 사회문제를 해결하는 산업으로 발전시키겠다는 방향을 제시했다. 이를 위해 진흥원 내 연구·정책 기능을 강화하고 인공지능(AI)·보건의료 데이터 활용, 연구개발(R&D) 사업화, 글로벌 진출 등을 아우르는 지원체계를 구축한다. 고상백 ...",
+      "source": "파이낸셜뉴스 on MSN",
+      "publishedAt": "2026-09-29",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B3%A0%EC%83%81%EB%B0%B1-%ED%95%9C%EA%B5%AD%EB%B3%B4%EA%B1%B4%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90%EC%9E%A5-%EB%B0%94%EC%9D%B4%EC%98%A4%ED%97%AC%EC%8A%A4-%EC%82%AC%ED%9A%8C%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EC%82%B0%EC%97%85-%EB%8F%BC%EC%95%BC/ar-AA2dajsN",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.hvYoUP-1x3e7r4yFxMQcNQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -50,48 +50,48 @@
     },
     {
       "category": "ai",
-      "title": "인공지능 관련 주요 법제 정비 및 허위조작정보 관련 법 개정 동향",
-      "summary": "인공지능 발전과 신뢰 기반 조성 등에 관한 기본법(이하 “인공지능기본법”)과 개인정보 보호법 등 인공지능과 관련된 주요 법제가 정비되고 있습니다. 또한, 온라인상 허위조작정보의 유통을 금지하고 대규모 정보 공유 플랫폼에 유통방지 의무를 부과하는 개정 정보통신망 이용촉진 및 정보보호 등에 관한 법률(이하 “정보통신망법”)이 2026. 7. 7.부터 시행되었습",
-      "source": "법률신문",
-      "publishedAt": "2026-09-28",
-      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226937",
-      "imageUrl": "/th?id=ONUT.wDbY5Eksf6VwnQalbC1iSQ&pid=News"
+      "title": "“인공지능은 소프트웨어일 뿐”… 젠슨 황, ‘AI 위험론’ 재차 반박",
+      "summary": "“AI에 인간 속성 부여해놓고 사람들 겁먹게 해” ...",
+      "source": "한겨레 on MSN",
+      "publishedAt": "2026-09-29",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%9D%BC-%EB%BF%90-%EC%A0%A0%EC%8A%A8-%ED%99%A9-ai-%EC%9C%84%ED%97%98%EB%A1%A0-%EC%9E%AC%EC%B0%A8-%EB%B0%98%EB%B0%95/ar-AA2daf6Q",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.9MjNNgp5f0W21_N7CQKBoA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "인공지능 중심도시 외치더니…호남권, 생성형 AI경험률 전국 최하위",
+      "summary": "/제미나이 생성 이미지.광주와 전남, 전북의 생성형 인공지능(AI) 서비스 경험률이 모두 전국 평균에 못 미치는 것으로 나타났다. AI를 직장에서 사용하는 비율도 낮은 것으로 확인돼 지역의 AI 활용 격차가 일터까지 이어지고 있다는 지적이 나온다. 29일 과학기술정보통신부와 한국지능정보사회진흥원(NIA)의 ‘2025 인터넷이용실태조사 통계표’에 따르면 최근 ...",
+      "source": "다음 뉴스",
+      "publishedAt": "2026-09-29",
+      "url": "https://v.daum.net/v/20260929164455384",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.DCbozQKRrOB_fADq0baVFQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "인공지능 시대, 학령은 평생이다",
+      "summary": "한국에는 이상하게 엇갈리는 두 장의 교육 성적표가 있다. 열다섯 살 학생들의 역량을 재는 경제협력개발기구(OECD)의 국제학업성취도평가(PISA)에서 한국은 최상위권 성취를 보여왔다. 아무것도 없던 시절부터 학교를 세우고 교사를 길러 모든 아이를 공부시킨 한국의 교육은 국가발전의 든든한 토대였고, 세계가 부러워한 성과였다. 그런데 성인이 되면 성적표가 달라 ...",
+      "source": "중앙일보",
+      "publishedAt": "2026-09-30",
+      "url": "https://www.joongang.co.kr/article/25465812",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.sJq4Bx3hZl9MApFCa1oSVg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "데이터센터 짓고 GPU도 빌려준다…LG CNS, ‘AI 팩토리’ 글로벌 공략",
+      "summary": "【뉴스퀘스트=이승주 기자】 LG CNS가 데이터센터 구축부터 GPU, 전력·냉각, AI 서비스까지 묶은 ‘AI 팩토리 풀스택’ 사업을 앞세워 글로벌 AI 인프라 시장 공략에 나선다. 모듈형 데이터센터와 서비스형 GPU(GPUaaS)를 결합해 고객의 AI 연산 수요에 맞춰 빠르게 확장할 수 있는 인프라를 제공한다는 전략이다. LG CNS는 지난 29일 싱가포 ...",
+      "source": "뉴스퀘스트",
+      "publishedAt": "2026-09-29",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=301745",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ZYbTi74k2hu0EaIai3IsHA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
       "title": "삼성, 美 AI 인프라 기업 헬릭스에 10억달러 투자…반도체 넘어 데이터센터로",
-      "summary": "삼성전자 5억달러·5개 관계사 5억달러 투자 KKR·KIA 등과 창립 투자자로 참여 데이터센터·전력·냉각 아우른 AI 생태계 공략 [연합뉴스] 삼성전자·삼성물산·삼성SDS·삼성SDI·삼성생명·삼성화재 등 삼성 6개사가 미국 인공지능(AI) 인프라 기업 ‘헬릭스 디지털 인프라스트럭처’에 총 10억달러(약 1조3600억원)를 투자한다. AI 반도체를 넘어 데이 ...",
-      "source": "매일경제 on MSN",
+      "summary": "삼성전자·삼성물산·삼성SDS·삼성SDI·삼성생명·삼성화재 등 삼성 6개사가 미국 인공지능 (AI) 인프라 기업 ‘헬릭스 디지털 인프라스트럭처’에 총 10억달러 (약 1조3600억원)를 투자한다. AI 반도체를 넘어 데이터센터와 전력·냉각 등 AI 인프라 생태계 전반으로 사업 영향력을 넓히려는 행보다.",
+      "source": "매일경제",
       "publishedAt": "2026-09-29",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%82%BC%EC%84%B1-%E7%BE%8E-ai-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B8%B0%EC%97%85-%ED%97%AC%EB%A6%AD%EC%8A%A4%EC%97%90-10%EC%96%B5%EB%8B%AC%EB%9F%AC-%ED%88%AC%EC%9E%90-%EB%B0%98%EB%8F%84%EC%B2%B4-%EB%84%98%EC%96%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%EB%A1%9C/ar-AA2d9qOa",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.UKSPmMYKsISDQ9gui-ATeA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "파워넷, AI 데이터센터 전원기술 국산화…8kW급 PSU·800VDC로 확대",
-      "summary": "전원공급장치 전문기업 파워넷이 생성형 AI 확산에 따른 데이터센터 전력 수요 증가에 대응해 AI 서버용 핵심 전원기술 국산화와 제품 포트폴리오 확대에 나선다. 한양대학교 ERICA와 8kW급 전원공급장치(PSU)의 핵심 제어기술을 공동 개발하고, 공통 이중화 전원공급장치(CRPS)와 800VDC 기반 고전압 전원공급장치까지 기술 영역을 넓힌다는 계획이다.",
-      "source": "이투데이 on MSN",
-      "publishedAt": "2026-09-29",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EB%B0%8F-%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4/%ED%8C%8C%EC%9B%8C%EB%84%B7-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%A0%84%EC%9B%90%EA%B8%B0%EC%88%A0-%EA%B5%AD%EC%82%B0%ED%99%94-8kw%EA%B8%89-psu-800vdc%EB%A1%9C-%ED%99%95%EB%8C%80/ar-AA2d9KoL",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.POjRoZ9k76ZFMK_H8-Mv_A&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "\"中 전체 용량 5분의 1 삼켰다\"… 바이트댄스, 中 AI 데이터센터 최대 임차인 등극",
-      "summary": "생성형 인공지능(AI) 서비스의 폭발적인 확산으로 중국 내 데이터센터 인프라 건설 붐이 가속화되는 가운데, 동영상 플랫폼 틱톡(TikTok)과 더우인의 모기업인 바이트댄스(ByteDance)가 중국 전역에 구축된 데이터센터 전체 전력 용량의 약 20%를 홀로 점유하며 국가 최대의 임차인 ...",
-      "source": "글로벌이코노믹",
-      "publishedAt": "2026-09-28",
-      "url": "https://www.g-enews.com/article/Global-Biz/2026/09/2026092908300938370c8c1c064d_1",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.iN6MHb_dlxUxGGw09KUrsQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "삼성, AI 인프라 생태계 공략…‘헬릭스’에 10억 달러 투자",
-      "summary": "[뉴스투데이=전소영 기자] 삼성 주요 6개 계열사가 글로벌 투자회사 KKR이 설립한 AI(인공지능) 인프라 기업에 공동 투자해 글로벌 AI 데이터센터 생태계 공략에 나선다. 삼성전자·삼성물산·삼성SDS·삼성SDI·삼성생명·삼성화재는 29일 KKR이 설립한 ‘헬릭스 디지 ...",
-      "source": "뉴스투데이",
-      "publishedAt": "2026-09-29",
-      "url": "https://www.news2day.co.kr/article/20260929500020",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.MA1VYox7U62ALY5ymKMWVw&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.mk.co.kr/news/business/12163353",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.AlknNEEkGg-N7PjVeLENKg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
