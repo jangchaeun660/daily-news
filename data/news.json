@@ -1,97 +1,79 @@
 {
-  "updatedAt": "2026-10-01",
-  "windowStart": "2026-09-29T22:00:00.000Z",
-  "windowEnd": "2026-09-30T22:00:00.000Z",
+  "updatedAt": "2026-10-02",
+  "windowStart": "2026-09-30T22:00:00.000Z",
+  "windowEnd": "2026-10-01T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "국감에서 불붙은 통합돌봄 \"국가 최소 돌봄 기준 필요\"",
-      "summary": "입법조사처, 최근 ‘2026 국정감사 이슈 분석-정부가 답해야 할 올해의 질문’ 발간 지자체 간 서비스 격차 해소·수요 높은 ‘방문재활’ 입법 개선 계획 등 질의 과제로 제시 지역사회 통합돌봄이 올해 국정감사에서 다뤄야 할 어젠다로 꼽혔다. 통합돌봄 제도가 전국적으로 시행됐지만 거주 지역에 따른 서비스 격차가 큰 만큼, 제도적·법적 보완 방안을 점검해야 한 ...",
-      "source": "브라보 마이 라이프 on MSN",
-      "publishedAt": "2026-09-30",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B5%AD%EA%B0%90%EC%97%90%EC%84%9C-%EB%B6%88%EB%B6%99%EC%9D%80-%ED%86%B5%ED%95%A9%EB%8F%8C%EB%B4%84-%EA%B5%AD%EA%B0%80-%EC%B5%9C%EC%86%8C-%EB%8F%8C%EB%B4%84-%EA%B8%B0%EC%A4%80-%ED%95%84%EC%9A%94/ar-AA2dfiJy",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.oKpschgY4z8BgNFNhr7aQQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "'기독교' 박위, 목사마저 일침..\"선한 영향력? 오만해서 그렇다\" [Oh!쎈 이슈]",
-      "summary": "‘위라클’ 박위가 사회복무요원 저격 논란 이후 긴 침묵을 이어가고 있는 가운데 목사로부터 비판을 받았다. 박요한 목사는 지난 19일 자신의 유튜브 채널을 통해 “박위라는 기독고 청년이 있다. 척추가 다쳐 장애인이 ...",
-      "source": "미주중앙일보",
-      "publishedAt": "2026-09-23",
-      "url": "https://www.koreadaily.com/article/20260922230817282",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.JNENvRoDMROU_72l6FYe2A&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "뉴스보다 빠른 김지은의 이슈전파사... 평일 오후 3시 LIVE [알립니다]",
-      "summary": "한국일보 시사 유튜브 ‘김지은의 이슈전파사’가 28일부터 평일 오후 3시 시청자를 찾아갑니다. 그동안 오후 6시에 하루의 이슈를 정리해온 이슈전파사는 앞으로 3시간 먼저 그날의 핵심 이슈와 쟁점을 짚고 뉴스를 보는 기준을 ...",
-      "source": "한국일보 on MSN",
-      "publishedAt": "2026-09-28",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%89%B4%EC%8A%A4%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EA%B9%80%EC%A7%80%EC%9D%80%EC%9D%98-%EC%9D%B4%EC%8A%88%EC%A0%84%ED%8C%8C%EC%82%AC-%ED%8F%89%EC%9D%BC-%EC%98%A4%ED%9B%84-3%EC%8B%9C-live-%EC%95%8C%EB%A6%BD%EB%8B%88%EB%8B%A4/ar-AA2d4Jg6",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ebCmupLelPFnvZQaJGf1xg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "李 “메가프로젝트, 첨단산업·주거·교육·문화 어우러져야”",
-      "summary": "이재명 대통령이 ‘3차 메가프로젝트 민관 합동점검회의’를 주재한 자리에서 남부권 반도체벨트를 비롯한 중점 정책에 속도를 낼 것을 각 부처에 당부했다. 특히 첨단산업 정책을 주거·교육·의료·문화와 연계해 이주 인구의 정주여건을 개선하고, 지역별 반도체 산업 강점을 유기적으로 연결해야 한다고 강조했다. 29일 이 대통령은 청와대 본관에서 메가프로젝트 3차 민관 ...",
-      "source": "매일경제",
-      "publishedAt": "2026-09-29",
-      "url": "https://www.mk.co.kr/news/economy/12163849",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.K85rxQpXWLl7U1zVYFtgnw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[국정 지지율] 이재명 대통령 긍정 38.5% 반등·부정 57.8% (한국사회여론연구소)",
-      "summary": "한국사회여론연구소 조사에서 이재명 대통령 국정운영 긍정평가는 38.5%로 직전보다 2.6%포인트 상승했고, 부정평가는 57.8%로 1.6%포인트 하락해 긍부정 격차는 19.3%포인트로 좁혀졌다.",
-      "source": "톱스타뉴스 on MSN",
-      "publishedAt": "2026-09-30",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B5%AD%EC%A0%95-%EC%A7%80%EC%A7%80%EC%9C%A8-%EC%9D%B4%EC%9E%AC%EB%AA%85-%EB%8C%80%ED%86%B5%EB%A0%B9-%EA%B8%8D%EC%A0%95-38-5-%EB%B0%98%EB%93%B1-%EB%B6%80%EC%A0%95-57-8-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EC%97%AC%EB%A1%A0%EC%97%B0%EA%B5%AC%EC%86%8C/ar-AA2dePuF",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.wh--SIeYKxjZt2DH9GoS8A&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "앤트로픽 \"인공지능은 의식 가진 존재…도덕 심어줘야\"",
-      "summary": "인공지능의 위험성을 경고하는 개발자들의 발언이 이어지는 속에서 인공지능의 발전을 제약하면 안 된다는 주장과 방치할 경우 인류를 말살할 것이라는 주장이 대립하고 있다. 이와 관련 미 뉴욕타임스(NYT)는 29일(현지시각) 인공지능 선두주자로 꼽히는 클로드의 개발사 앤트로픽(Anthropic)이 인공지능이 의식을 가진 존재로 취급하면서 윤리 의식을 갖도록 하는 ...",
-      "source": "NEWSIS on MSN",
-      "publishedAt": "2026-09-30",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%80-%EC%9D%98%EC%8B%9D-%EA%B0%80%EC%A7%84-%EC%A1%B4%EC%9E%AC-%EB%8F%84%EB%8D%95-%EC%8B%AC%EC%96%B4%EC%A4%98%EC%95%BC/ar-AA2deEWi",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.9riurjI2V6a50QEnt0KeqA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "“韓도 우주에 데이터센터 띄운다···국산 AI반도체·태양전지 우주서 검증”",
-      "summary": "[이데일리 강민구 기자] “지상 데이터센터는 구축하는데 전력·냉각수·부지·민원·규제 등 구조적인 한계가 있습니다. 미국, 중국 등 우주강국이 우주 데이터센터 구축에 속도를 내는 상황에서 우리나라도 서둘러 대응을 해야 합니다.” K우주 데이터센터 단계별 개발 전략 및 국내 AI 추론용 반도체 활용 방안 (그래픽=김일환 기자)이춘우 K-문샷 프로젝트 우주 분 ...",
-      "source": "다음 뉴스",
+      "title": "최경순 경기도의원 “주거와 돌봄 통합, 혁신적 복지 패러다임될 것”",
+      "summary": "경기도의회 보건복지위원회 최경순 의원(더민주, 안양2)이 지난달 30일 경기도의회 중회의실에서 ‘경기도 지역사회 계속거주(AIP)와 통합돌봄의 실질적 추진을 위한 정책토론회’를 개최하고, 주거와 돌봄을 통합하는 새로운 복지정책 방향과 경기도형 실행 방안을 논의했다.최 ...",
+      "source": "서울신문 on MSN",
       "publishedAt": "2026-10-01",
-      "url": "https://v.daum.net/v/20261001060456427",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.AD9jmkzWXoD-fG12jIMmuw&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%B5%9C%EA%B2%BD%EC%88%9C-%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%9D%98%EC%9B%90-%EC%A3%BC%EA%B1%B0%EC%99%80-%EB%8F%8C%EB%B4%84-%ED%86%B5%ED%95%A9-%ED%98%81%EC%8B%A0%EC%A0%81-%EB%B3%B5%EC%A7%80-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%EB%90%A0-%EA%B2%83/ar-AA2dkaCT",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.dRwuKjTbu-rnnEYq3suydg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "도미노피자, 골프 국가대표·유망주 지원...사회공헌 외연 확대",
+      "summary": "[HBN뉴스 = 신영관 기자] 한국도미노피자가 아동·청소년과 군 장병 등을 대상으로 이어온 사회공헌 활동의 범위를 스포츠 인재 육성으로 넓히고 있다. 기존 야구 분야 지원에 이어 골프 국가대표와 유망주 후원까지 확대하며 스포츠 분야 사회공헌의 폭을 넓 ...",
+      "source": "하비엔뉴스 on MSN",
+      "publishedAt": "2026-10-02",
+      "url": "https://www.msn.com/ko-kr/news/news/%EB%8F%84%EB%AF%B8%EB%85%B8%ED%94%BC%EC%9E%90-%EA%B3%A8%ED%94%84-%EA%B5%AD%EA%B0%80%EB%8C%80%ED%91%9C-%EC%9C%A0%EB%A7%9D%EC%A3%BC-%EC%A7%80%EC%9B%90-%EC%82%AC%ED%9A%8C%EA%B3%B5%ED%97%8C-%EC%99%B8%EC%97%B0-%ED%99%95%EB%8C%80/ar-AA2dnx4b",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.9whj2ZYSO3R5bzn9zuUlKw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "세무사 91.7% \"구재이 세무사회 잘한다\"...3년차 '넘사벽' 지지",
+      "summary": "구재이 한국세무사회 집행부가 재임 3년을 넘긴 시점에도 회원 10명 중 9명 으로부터 회무수행에 대한 긍정 평가를 받으며 높은 신임을 이어가고 있는 것으로 나타났다.한국세무사회가 지난 8월 31일부터 9월 15일까지 등록한 개업회원을 대상으로 온라인 설문조사를 실시한 결과 이같이 집계됐다. 설문에는 개업회원의 10% 수준인 1507명이 답했다.조사 결과 구 ...",
+      "source": "일간 NTN",
+      "publishedAt": "2026-10-01",
+      "url": "https://www.intn.co.kr/news/articleView.html?idxno=2053782",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Ptyb5ukxUtucK7qNqBMz3A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "글로벌 공급망 주도권 쥔 삼성… 韓 ‘AI 반도체’ 격전지 부상",
-      "summary": "공급사와 고객사였던 삼성전자와 엔비디아·AMD의 관계가 글로벌 인공지능(AI) 시장의 ‘동맹관계’로 격상하면서 그간 AI 반도체 공급지였던 대한민국이 ‘격전지’로 바뀌고 있다. AI 데이터센터(AIDC) 등 향후 글로벌 AI 시장의 급성장 및 반도체 가격 상승에 삼성전자가 글로벌 반도체 공급망의 주도권을 확보하면서 빅테크(거대기술기업)의 구애도 이어지는 모 ...",
-      "source": "세계일보",
-      "publishedAt": "2026-09-30",
-      "url": "https://www.segye.com/newsView/20260930516522",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.5y2U5-NMO8c5LsEOVQT44A&pid=News&w=1200&h=675&c=14"
+      "title": "우주로 간 인공지능…구글, 우주데이터센터 시험위성 첫 발사",
+      "summary": "곽노필의 미래창자체개발 인공지능 전용 칩 4개 탑재1년 간 제미나이 가동·냉각 기술 검증 ...",
+      "source": "한겨레 on MSN",
+      "publishedAt": "2026-10-02",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EC%9A%B0%EC%A3%BC%EB%A1%9C-%EA%B0%84-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B5%AC%EA%B8%80-%EC%9A%B0%EC%A3%BC%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%8B%9C%ED%97%98%EC%9C%84%EC%84%B1-%EC%B2%AB-%EB%B0%9C%EC%82%AC/ar-AA2dnLOg",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.F76ssAXQjhiXedN55IckiQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "스타트업과 손잡고 AI 데이터센터 생태계 강화",
-      "summary": "GS가 기가와트(GW)급 AI 데이터센터 사업과 함께 관련 기술 생태계 조성에 나섰다. 그룹이 보유한 역량에 스타트업의 혁신 기술을 접목해 AI 데이터센터 밸류체인 전반의 경쟁력을 강화한다는 구상이다. GS벤처스는 지난 15일 ...",
-      "source": "한국일보 on MSN",
-      "publishedAt": "2026-09-30",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EA%B3%BC-%EC%86%90%EC%9E%A1%EA%B3%A0-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%83%9D%ED%83%9C%EA%B3%84-%EA%B0%95%ED%99%94/ar-AA2ddZMe",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.JwnJWL4qz24gFCF-JSEraQ&pid=News&w=1200&h=675&c=14"
+      "title": "“인공지능 기반 현장 위험 요인 개선”…중부발전, ‘제3차 안전동행 소통회의’ 개최",
+      "summary": "본사·사업소·협력기업 참여 안전관리 고도화 ‘안전셀피 챌린지 숏폼 공모전’ 시상 병행 이영조 사장(첫째줄 가운데)과 관계자들이 2026년 제3차 안전동행 소통회의가 끝난 후 단체 기념사진을 촬영하고 있다. [한국중부발전] 한국중부발전이 현장 중심의 인공지능(AI) 기반 안전관리 고도화와 위험 요인 개선에 나선다. 중부발전은 현장 중심의 안전경영을 확립하기 ...",
+      "source": "매일경제 on MSN",
+      "publishedAt": "2026-10-02",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B8%B0%EB%B0%98-%ED%98%84%EC%9E%A5-%EC%9C%84%ED%97%98-%EC%9A%94%EC%9D%B8-%EA%B0%9C%EC%84%A0-%EC%A4%91%EB%B6%80%EB%B0%9C%EC%A0%84-%EC%A0%9C3%EC%B0%A8-%EC%95%88%EC%A0%84%EB%8F%99%ED%96%89-%EC%86%8C%ED%86%B5%ED%9A%8C%EC%9D%98-%EA%B0%9C%EC%B5%9C/ar-AA2dnJIv",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.l0zl4rM0iq4TeN31p1cHOw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "마이크론, 4분기 매출 542억달러…AI 메모리 수요에 어닝 서프라이즈",
-      "summary": "미국 메모리 반도체 기업 마이크론이 인공지능(AI) 데이터센터 투자 확대에 따른 메모리 수요 급증에 힘입어 시장 전망을 크게 웃도는 실적을 내놨다. 다음 분기 매출 전망도 시장 예상치를 대폭 상회하면서 AI를 중심으로 한 ...",
-      "source": "디지털타임스 on MSN",
-      "publishedAt": "2026-09-30",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%A0-4%EB%B6%84%EA%B8%B0-%EB%A7%A4%EC%B6%9C-542%EC%96%B5%EB%8B%AC%EB%9F%AC-ai-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%88%98%EC%9A%94%EC%97%90-%EC%96%B4%EB%8B%9D-%EC%84%9C%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88/ar-AA2diLXb",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.nilH-NXnTHmd0-pfh4581g&pid=News&w=1200&h=675&c=14"
+      "title": "환경산업기술원, ‘인공지능(AI) 윤리 준수기관’ 확인마크 획득",
+      "summary": "[에너지데일리 송병훈 기자] 한국환경산업기술원(원장 남광우)은 한국지능정보사회진흥원(NIA)이 운영하는 ‘인공지능(AI) 윤리 준수기관’ 확인마크를 기후에너지환경부 산하 공공기관 최초로 획득했다고 지난 1일 밝혔다. ‘인공지능 윤리 준수기관’ 확인마크는 인공지능의 윤리적인 개발과 활용, 기관의 책임성 강화를 위해 일정 요건을 갖춘 기관에 한국지능정보사회진흥 ...",
+      "source": "에너지데일리",
+      "publishedAt": "2026-10-01",
+      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203762",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.1SwRL-60tHaPXtpXKnrIJA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "서강대학교, 인공지능혁신인재양성사업 선정",
+      "summary": "서강대학교(총장 심종혁)가 제조 산업의 인공지능 전환을 선도할 고급 인재 양성에 본격적으로 나선다. 서강대학교는 과학기술정보통신부가 추진하고 정보통신기획평가원이 전담하는 ‘2026년도 인공지능혁신인재양성사업’에 신규 선정됐다고 밝혔다. 사업단장은 서강대학교 인공지능학과 ...",
+      "source": "한겨레",
+      "publishedAt": "2026-10-01",
+      "url": "https://www.hani.co.kr/arti/economy/biznews/1280395.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.SpAQPRXxOygC3fhL3cDE_Q&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "전기안전공사, 인공지능 활용 업무 전반 혁신 나서",
+      "summary": "[투데이에너지 이종수 기자] 한국전기안전공사(사장 남화영)는 인공지능(AI)을 활용해 업무 전반의 혁신에 나선다고 1일 밝혔다.공사는 인공지능을 중심으로 전기안전 업무의 미래 대응 방향을 담은 ‘인공지능전환(AX) 이행안’을 수립하고, 전기재해 위험 예측부터 점검 및 검사 업무, 대국 ...",
+      "source": "투데이에너지",
+      "publishedAt": "2026-10-01",
+      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=303729",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.9Bg24lQF8_dhmUIsMm34Sg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }

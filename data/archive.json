@@ -1,5 +1,84 @@
 [
   {
+    "updatedAt": "2026-10-02",
+    "windowStart": "2026-09-30T22:00:00.000Z",
+    "windowEnd": "2026-10-01T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "최경순 경기도의원 “주거와 돌봄 통합, 혁신적 복지 패러다임될 것”",
+        "summary": "경기도의회 보건복지위원회 최경순 의원(더민주, 안양2)이 지난달 30일 경기도의회 중회의실에서 ‘경기도 지역사회 계속거주(AIP)와 통합돌봄의 실질적 추진을 위한 정책토론회’를 개최하고, 주거와 돌봄을 통합하는 새로운 복지정책 방향과 경기도형 실행 방안을 논의했다.최 ...",
+        "source": "서울신문 on MSN",
+        "publishedAt": "2026-10-01",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%B5%9C%EA%B2%BD%EC%88%9C-%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%9D%98%EC%9B%90-%EC%A3%BC%EA%B1%B0%EC%99%80-%EB%8F%8C%EB%B4%84-%ED%86%B5%ED%95%A9-%ED%98%81%EC%8B%A0%EC%A0%81-%EB%B3%B5%EC%A7%80-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%EB%90%A0-%EA%B2%83/ar-AA2dkaCT",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.dRwuKjTbu-rnnEYq3suydg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "도미노피자, 골프 국가대표·유망주 지원...사회공헌 외연 확대",
+        "summary": "[HBN뉴스 = 신영관 기자] 한국도미노피자가 아동·청소년과 군 장병 등을 대상으로 이어온 사회공헌 활동의 범위를 스포츠 인재 육성으로 넓히고 있다. 기존 야구 분야 지원에 이어 골프 국가대표와 유망주 후원까지 확대하며 스포츠 분야 사회공헌의 폭을 넓 ...",
+        "source": "하비엔뉴스 on MSN",
+        "publishedAt": "2026-10-02",
+        "url": "https://www.msn.com/ko-kr/news/news/%EB%8F%84%EB%AF%B8%EB%85%B8%ED%94%BC%EC%9E%90-%EA%B3%A8%ED%94%84-%EA%B5%AD%EA%B0%80%EB%8C%80%ED%91%9C-%EC%9C%A0%EB%A7%9D%EC%A3%BC-%EC%A7%80%EC%9B%90-%EC%82%AC%ED%9A%8C%EA%B3%B5%ED%97%8C-%EC%99%B8%EC%97%B0-%ED%99%95%EB%8C%80/ar-AA2dnx4b",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.9whj2ZYSO3R5bzn9zuUlKw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "세무사 91.7% \"구재이 세무사회 잘한다\"...3년차 '넘사벽' 지지",
+        "summary": "구재이 한국세무사회 집행부가 재임 3년을 넘긴 시점에도 회원 10명 중 9명 으로부터 회무수행에 대한 긍정 평가를 받으며 높은 신임을 이어가고 있는 것으로 나타났다.한국세무사회가 지난 8월 31일부터 9월 15일까지 등록한 개업회원을 대상으로 온라인 설문조사를 실시한 결과 이같이 집계됐다. 설문에는 개업회원의 10% 수준인 1507명이 답했다.조사 결과 구 ...",
+        "source": "일간 NTN",
+        "publishedAt": "2026-10-01",
+        "url": "https://www.intn.co.kr/news/articleView.html?idxno=2053782",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Ptyb5ukxUtucK7qNqBMz3A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "우주로 간 인공지능…구글, 우주데이터센터 시험위성 첫 발사",
+        "summary": "곽노필의 미래창자체개발 인공지능 전용 칩 4개 탑재1년 간 제미나이 가동·냉각 기술 검증 ...",
+        "source": "한겨레 on MSN",
+        "publishedAt": "2026-10-02",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EC%9A%B0%EC%A3%BC%EB%A1%9C-%EA%B0%84-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B5%AC%EA%B8%80-%EC%9A%B0%EC%A3%BC%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%8B%9C%ED%97%98%EC%9C%84%EC%84%B1-%EC%B2%AB-%EB%B0%9C%EC%82%AC/ar-AA2dnLOg",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.F76ssAXQjhiXedN55IckiQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "“인공지능 기반 현장 위험 요인 개선”…중부발전, ‘제3차 안전동행 소통회의’ 개최",
+        "summary": "본사·사업소·협력기업 참여 안전관리 고도화 ‘안전셀피 챌린지 숏폼 공모전’ 시상 병행 이영조 사장(첫째줄 가운데)과 관계자들이 2026년 제3차 안전동행 소통회의가 끝난 후 단체 기념사진을 촬영하고 있다. [한국중부발전] 한국중부발전이 현장 중심의 인공지능(AI) 기반 안전관리 고도화와 위험 요인 개선에 나선다. 중부발전은 현장 중심의 안전경영을 확립하기 ...",
+        "source": "매일경제 on MSN",
+        "publishedAt": "2026-10-02",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B8%B0%EB%B0%98-%ED%98%84%EC%9E%A5-%EC%9C%84%ED%97%98-%EC%9A%94%EC%9D%B8-%EA%B0%9C%EC%84%A0-%EC%A4%91%EB%B6%80%EB%B0%9C%EC%A0%84-%EC%A0%9C3%EC%B0%A8-%EC%95%88%EC%A0%84%EB%8F%99%ED%96%89-%EC%86%8C%ED%86%B5%ED%9A%8C%EC%9D%98-%EA%B0%9C%EC%B5%9C/ar-AA2dnJIv",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.l0zl4rM0iq4TeN31p1cHOw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "환경산업기술원, ‘인공지능(AI) 윤리 준수기관’ 확인마크 획득",
+        "summary": "[에너지데일리 송병훈 기자] 한국환경산업기술원(원장 남광우)은 한국지능정보사회진흥원(NIA)이 운영하는 ‘인공지능(AI) 윤리 준수기관’ 확인마크를 기후에너지환경부 산하 공공기관 최초로 획득했다고 지난 1일 밝혔다. ‘인공지능 윤리 준수기관’ 확인마크는 인공지능의 윤리적인 개발과 활용, 기관의 책임성 강화를 위해 일정 요건을 갖춘 기관에 한국지능정보사회진흥 ...",
+        "source": "에너지데일리",
+        "publishedAt": "2026-10-01",
+        "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203762",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.1SwRL-60tHaPXtpXKnrIJA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "서강대학교, 인공지능혁신인재양성사업 선정",
+        "summary": "서강대학교(총장 심종혁)가 제조 산업의 인공지능 전환을 선도할 고급 인재 양성에 본격적으로 나선다. 서강대학교는 과학기술정보통신부가 추진하고 정보통신기획평가원이 전담하는 ‘2026년도 인공지능혁신인재양성사업’에 신규 선정됐다고 밝혔다. 사업단장은 서강대학교 인공지능학과 ...",
+        "source": "한겨레",
+        "publishedAt": "2026-10-01",
+        "url": "https://www.hani.co.kr/arti/economy/biznews/1280395.html",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.SpAQPRXxOygC3fhL3cDE_Q&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "전기안전공사, 인공지능 활용 업무 전반 혁신 나서",
+        "summary": "[투데이에너지 이종수 기자] 한국전기안전공사(사장 남화영)는 인공지능(AI)을 활용해 업무 전반의 혁신에 나선다고 1일 밝혔다.공사는 인공지능을 중심으로 전기안전 업무의 미래 대응 방향을 담은 ‘인공지능전환(AX) 이행안’을 수립하고, 전기재해 위험 예측부터 점검 및 검사 업무, 대국 ...",
+        "source": "투데이에너지",
+        "publishedAt": "2026-10-01",
+        "url": "https://www.todayenergy.kr/news/articleView.html?idxno=303729",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.9Bg24lQF8_dhmUIsMm34Sg&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-10-01",
     "windowStart": "2026-09-29T22:00:00.000Z",
     "windowEnd": "2026-09-30T22:00:00.000Z",
@@ -560,103 +639,6 @@
         "publishedAt": "2026-09-25",
         "url": "https://www.jabon.co.kr/news/articleView.html?idxno=7122",
         "imageUrl": "https://www.bing.com/th?id=ONUT.3XmTclkmysQChqLVsDBEaA&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-09-25",
-    "windowStart": "2026-09-23T22:00:00.000Z",
-    "windowEnd": "2026-09-24T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "한국 외교 돕는 외국인 '재외명예영사'란… 83개국 152명 활약",
-        "summary": "사회적 지위·경제력 요건…무보수로 한국인 보호 등 영사 활동 (서울=연합뉴스) 김지헌 기자 = 외국에서 한국의 국익을 지키고 국민을 보호하는 활동은 보통 외교관이 하며, 한국 외교관은 한국 국적자만 할 수 있다. 한국인이 아니며 정식 경로를 밟은 직업 외교관이 아님에도 세계 각지에서 한국과 한국인을 위해 봉사하는 이들, ...",
-        "source": "연합뉴스 on MSN",
-        "publishedAt": "2026-09-25",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD-%EC%99%B8%EA%B5%90-%EB%8F%95%EB%8A%94-%EC%99%B8%EA%B5%AD%EC%9D%B8-%EC%9E%AC%EC%99%B8%EB%AA%85%EC%98%88%EC%98%81%EC%82%AC-%EB%9E%80-83%EA%B0%9C%EA%B5%AD-152%EB%AA%85-%ED%99%9C%EC%95%BD/ar-AA2cUV29",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ulDAbBnWxXUaC-Jr94P_6A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "'기독교' 박위, 목사마저 일침.. \"선한 영향력? 오만해서 그렇다\" [Oh!쎈 이슈]",
-        "summary": "‘위라클’ 박위가 사회복무요원 저격 논란 이후 긴 침묵을 이어가고 있는 가운데 목사로부터 비판을 받았다.박요한 목사는 지난 19일 자신의 유튜브 채널을 통해 “박위라는 기독고 청년이 있다. 척..",
-        "source": "OSEN on MSN",
-        "publishedAt": "2026-09-23",
-        "url": "https://www.msn.com/ko-kr/entertainment/tv/%EA%B8%B0%EB%8F%85%EA%B5%90-%EB%B0%95%EC%9C%84-%EB%AA%A9%EC%82%AC%EB%A7%88%EC%A0%80-%EC%9D%BC%EC%B9%A8-%EC%84%A0%ED%95%9C-%EC%98%81%ED%96%A5%EB%A0%A5-%EC%98%A4%EB%A7%8C%ED%95%B4%EC%84%9C-%EA%B7%B8%EB%A0%87%EB%8B%A4-oh%EC%8E%88-%EC%9D%B4%EC%8A%88/ar-AA2cN7h1",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.jn0Y42ReumujMZGSCM1OOg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[로펌이슈] 법무법인 동인, 2026 서울사회복지대회 서울시의회 의장상 수상",
-        "summary": "[서울=뉴스핌] 홍석희 기자 = 법무법인 동인(대표변호사 원창연)이 11일 서울여성플라자 국제회의장에서 열린 '2026 서울사회복지대회'에서 지역사회 나눔 문화 확산과 사회공헌에 기여한 공로로 서울특별시의회 의장상을 수상했다. 동인은 2017년부터 소외계층 여성 보호 및 자립 지원을 위해 매년 연말 후원금을 전달하며 ...",
-        "source": "뉴스핌 on MSN",
-        "publishedAt": "2026-09-11",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%A1%9C%ED%8E%8C%EC%9D%B4%EC%8A%88-%EB%B2%95%EB%AC%B4%EB%B2%95%EC%9D%B8-%EB%8F%99%EC%9D%B8-2026-%EC%84%9C%EC%9A%B8%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EB%8C%80%ED%9A%8C-%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%9D%98%ED%9A%8C-%EC%9D%98%EC%9E%A5%EC%83%81-%EC%88%98%EC%83%81/ar-AA2c09wx",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.1neiMAic5S3I_fOjrSQ1iw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "청년정책, ‘사후 지원’서 ‘사전 투자’로…자립·도약 뒷받침 [예방국가: 위기보다 한 발 먼저 ④]",
-        "summary": "청년이 취업에 실패하거나 경제적 어려움에 빠진 뒤 지원하는 데 머물렀던 청년정책의 무게중심이 사회에 첫발을 내딛는 단계부터 기회를 넓히는 ‘사전 투자’로 옮겨가고 있다. 정부는 ‘청년의 정책 참여 확대와 기본생활 지원으로 함께 만드는 미래’를 국정과제 89번으로 정하고 ...",
-        "source": "경기일보",
-        "publishedAt": "2026-09-17",
-        "url": "https://www.kyeonggi.com/article/20260916580493",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.NKAfveg6WMRYJJBF08qTPQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "외국인 유학생 불법체류자 5배 급증… 이민정책 분절화 해결해야",
-        "summary": "■김옥녀 숙명여대 사회복지학과 교수유학생 불법체류자, 2014년 6700명→ 2024년 3만 4000명한국서 박사 학위 취득한 유학생 81%가 정주 못 하고 떠나학교 밖 주거, 의료 등 보호 제대로 받지 못하는 게 현실교육, 취업, 정착 한 단계만 누락되도 불법 체류자로 전락고용노동부·법무부 등 업무 분절... 통합 컨트럴타워 필요해 국내 대학이나 어학당에 ...",
-        "source": "서울경제 on MSN",
-        "publishedAt": "2026-09-17",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%99%B8%EA%B5%AD%EC%9D%B8-%EC%9C%A0%ED%95%99%EC%83%9D-%EB%B6%88%EB%B2%95%EC%B2%B4%EB%A5%98%EC%9E%90-5%EB%B0%B0-%EA%B8%89%EC%A6%9D-%EC%9D%B4%EB%AF%BC%EC%A0%95%EC%B1%85-%EB%B6%84%EC%A0%88%ED%99%94-%ED%95%B4%EA%B2%B0%ED%95%B4%EC%95%BC/ar-AA2cmYG8",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.EKPJFqeauJzJ7nP5yA7kZg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "국적 해운사 인공지능 전환 잰걸음…업체간 격차도 확대",
-        "summary": "(부산=연합뉴스) 박창수 기자 = 국적 해운사가 항로와 자율 운항, 운송 수요 예측 등 업무에 걸쳐 인공지능 전환 (AX)에 속도를 내고 있다. 해운사간 격차도 확대되고 있어 업계 공동 플랫폼 구축 등 협력 전략이 필요하다는 지적이 나온다.",
-        "source": "연합뉴스",
-        "publishedAt": "2026-09-24",
-        "url": "https://www.yna.co.kr/view/AKR20260921119500051",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.EbUIGdcHlIyY2-HqJ9xDCQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "오픈AI의 에이전트, 호주 정부 웹사이트 '침투'... 인공지능의 첫 정부 해킹",
-        "summary": "지난 6월, 오픈AI의 통제를 벗어난 '불량' 인공지능(AI) 에이전트가 호주 정부 웹사이트를 해킹해 비공개 데이터에 접근한 것으로 알려졌다. 전문가들에 따르면 AI 모델이 정부 기관을 해킹한 첫 사례다. 미국 뉴욕을 방문 중인 앤서니 앨버니지 총리는 23일(현지시각) 해당 에이전트가 호주의 보편적 의료보험 제도인 '메디케어'의 통계 포털에 \"침투\" 했다고 ...",
-        "source": "BBC",
-        "publishedAt": "2026-09-24",
-        "url": "https://www.bbc.com/korean/articles/cm750g7lpqwwo",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.j4gP3RTJrCMdJk0Q21Rg4g&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[신간] 인공지능의 법과 정책...각계 전문가 34명 저술",
-        "summary": "(지디넷코리아=방은주 기자)인공지능(AI) 시대다. AI는 기술만의 문제가 아니다. 우리 사회 곳곳에 스며들어 있기 때문이다. 기술 개발과 활용, 그리고 그 과정에서 발생하는 책임과 위험도 이해해야 한다. AI를 제대로 이해하려면 기술만 알아서는 안 되고, 그 기술이 사회에서 작동하는 법·제도·정책까지 함께 알아야 하는 것이다. 와중에, AI기술 전문가와 ...",
-        "source": "지디넷코리아 on MSN",
-        "publishedAt": "2026-09-24",
-        "url": "https://www.msn.com/ko-kr/news/techandscience/%EC%8B%A0%EA%B0%84-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%98-%EB%B2%95%EA%B3%BC-%EC%A0%95%EC%B1%85-%EA%B0%81%EA%B3%84-%EC%A0%84%EB%AC%B8%EA%B0%80-34%EB%AA%85-%EC%A0%80%EC%88%A0/ar-AA2cRteQ",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.3xPyyaxf0EvunCU7ggXibQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "전북도, 피지컬AI 클러스터 육성 속도… 투자유치·금융지원 '투트랙'",
-        "summary": "전북특별자치도는 '피지컬 인공지능(AI) 생태계 조성 연구개발 사업' 착수에 이어 기업 투자유치와 금융지원 기반 강화에 나서는 등 피지컬AI 산업 클러스터 육성에 속도를 내고 있다고 25일 밝혔다. 도는 지난 22일 서울 한국산업은행 본점 IR센터에서 열린 '피지컬AI 지역거점 발전 포럼'에 참석해 로봇기업과 스타트업 등 200여 개 기업을 대상으로 전북의 ...",
-        "source": "전자신문",
-        "publishedAt": "2026-09-24",
-        "url": "https://www.etnews.com/20260922000454",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.nJ25HMLnCm-kwAcysHIFMQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[AI프리즘] 조선소·공장이 AI 훈련장으로…한국의 피지컬 AI 승부수",
-        "summary": "(서울=연합뉴스) 박동주 기자 = 22일 서울 영등포구 한국산업은행 본점에서 열린 '피지컬 AI 지역거점 발전포럼'에 앞서 배경훈 부총리 겸 과학기술정보통신부 장관과 이억원 금융위원장 등 참석자들이 피지컬 AI 체험존을 둘러보고 있다. 2026.9.22 pdj6635@yna.co.kr ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-09-24",
-        "url": "https://www.yna.co.kr/view/AKR20260923139300017",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ENdDhiunObXm2aFWHQ5QVw&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
