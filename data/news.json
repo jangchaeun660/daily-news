@@ -1,16 +1,25 @@
 {
-  "updatedAt": "2026-10-03",
-  "windowStart": "2026-10-01T22:00:00.000Z",
-  "windowEnd": "2026-10-02T22:00:00.000Z",
+  "updatedAt": "2026-10-04",
+  "windowStart": "2026-10-02T22:00:00.000Z",
+  "windowEnd": "2026-10-03T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "오텔로의 비극은 가짜뉴스에서 시작… 아내의 불륜을 암시하는 뉴스[오페라 사회학]",
-      "summary": "오텔로의 비극은 가짜뉴스에서 시작… 아내의 불륜을 암시하는 뉴스[오페라 사회학] , [조동균의 오페라 사회학] 오늘의 눈으로 읽는 100년 전 오페라 이야기 (2) 주세페 베르디 '오텔로' 스토킹·빈곤·가짜뉴스·권력남용…오늘의 사회문제를 16편의 오페라로 읽는다.",
-      "source": "한국경제",
-      "publishedAt": "2026-10-02",
-      "url": "https://www.hankyung.com/article/202609156062i",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.0xzVJFQy6zZKAvAU4h25dg&pid=News&w=1200&h=675&c=14"
+      "title": "\"사회서비스 바우처 부정수급 4년간 1465억…AI 탐지 비중은 '반토막'\"",
+      "summary": "(부산=뉴스1) 이주현 기자 = 사회서비스 바우처 부정수급 적발액이 최근 4년간 1400억 원을 넘어선 가운데, 부정수급을 찾아내기 위해 도입된 인공지능(AI) 기반 부정수급탐지시스템(FDS)의 적발 비중은 오히려 절반 이하로 떨어진 것으로 나타났다.2일 국회 보건복지위..",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-10-03",
+      "url": "https://www.fnnews.com/news/202610031251455820",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.de97HlHfvaZAQ5PrOTx9nQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[N2 포커스] 야구 대신 핸드볼·펜싱 키운 최태원…‘사회적 가치 경영’ 결실",
+      "summary": "[뉴스투데이=전소영 기자] 16일간의 2026 아이치·나고야 아시안게임 대장정이 막바지에 접어든 가운데 태극마크를 달고 경기장을 누빈 대한민국 선수단의 메달 소식이 이어지고 있다. 이번 대회에서는 SK그룹이 후원하는 선수단 ‘팀 SK’의 활약도 눈길을 끌었다. 펜싱과 ...",
+      "source": "뉴스투데이",
+      "publishedAt": "2026-10-03",
+      "url": "https://www.news2day.co.kr/article/20261002500200",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.xIuYRP10kSLG5L5TAqJrqg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -32,57 +41,57 @@
     },
     {
       "category": "society",
-      "title": "[포토뉴스]한국기후변화연구원, 1일 지역사회 나눔 실천 공로 춘천시장 표창 수상",
-      "summary": "한국기후변화연구원은 1일 춘천연탄은행 행복센터에서 지역사회 나눔문화 확산과 이웃사랑 실천에 기여한 공로로 춘천시장 표창을 수상했다. 연구원은 지난 2017년부터 매년 연탄은행을 통해 연탄을 구입해 지역 내 에너지 취약계층에 전달하고, 임직원이 직접 연탄 배달 봉사에 참 ...",
-      "source": "강원일보",
-      "publishedAt": "2026-10-01",
-      "url": "https://kwnews.co.kr/article/20261001501011",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.GxfhV6HUYEILTcNx8ASQXA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "한국지능정보사회진흥원 조직개편…AI정부 실행력 높인다",
-      "summary": "(서울=연합뉴스) 권하영 기자 = 한국지능정보사회진흥원 (NIA)이 국가 인공지능 (AI) 정책의 현장 실행력을 높이고 'AI 3대 강국' 실현을 견인하기 위해 조직개편을 단행했다. NIA는 AI정부 기반 안정성 강화, AI 전환 (AX) 지원 기능 강화, AI 3대 메가프로젝트 대응체계 마련에 초점을 둔 조직개편을 단행했다고 7일 밝혔다.",
-      "source": "연합뉴스",
-      "publishedAt": "2026-09-07",
-      "url": "https://www.yna.co.kr/view/AKR20260907043300017",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.t-UIkRYcV4uE-lPNEhW8mw&pid=News&w=1200&h=675&c=14"
+      "title": "李 “메가프로젝트, 첨단산업·주거·교육·문화 어우러져야”",
+      "summary": "이재명 대통령이 ‘3차 메가프로젝트 민관 합동점검회의’를 주재한 자리에서 남부권 반도체벨트를 비롯한 중점 정책에 속도를 낼 것을 각 부처에 당부했다. 특히 첨단산업 정책을 주거·교육·의료·문화와 연계해 이주 인구의 정주여건을 개선하고, 지역별 반도체 산업 강점을 유기적으로 연결해야 한다고 강조했다. 29일 이 대통령은 청와대 본관에서 메가프로젝트 3차 민관 ...",
+      "source": "매일경제",
+      "publishedAt": "2026-09-29",
+      "url": "https://www.mk.co.kr/news/economy/12163849",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.K85rxQpXWLl7U1zVYFtgnw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "우주로 간 인공지능…구글, 우주데이터센터 시험위성 첫 발사",
-      "summary": "구글이 인공지능(AI) 연산을 지구 궤도에서 수행하는 '우주데이터센터' 구상을 현실화하기 위한 첫 시험위성을 발사했다. 구글은 1일 오전 11시32분(한국시각 2일 오전 3시32분) 캘리포니아 반덴버그우주군기지에서 우주데이터센터 구축을 위한 '프로젝트 선캐처(Proje ...",
-      "source": "한겨레",
-      "publishedAt": "2026-10-02",
-      "url": "https://www.hani.co.kr/arti/science/technology/1280571.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.9x-ZnbeO4h4tF2fDZ2BcDQ&pid=News&w=1200&h=675&c=14"
+      "title": "미중 패권 다툼 속 통제 불능 인공지능 공포 배선트 비상 통보선 구축 제안",
+      "summary": "스콧 배선트 미국 재무장관이 인공지능 사고 발생 시 미국과 중국이 비상 통보하는 체계 구축을 제안할 계획이며 중국 지도부 역시 동의할 가능성이 크다고 내다봤다.악시오스는 10월 3일(현지시각) 자사 대담 프로그램을 인용해 배선트 장관이 시진핑 주석의 국빈 방문에 앞서 허리펑 중국 부총리와 미국 모델 대비 90% 수준 성능을 내는 개방형 기술 위험을 통제하기 ...",
+      "source": "글로벌이코노믹 on MSN",
+      "publishedAt": "2026-10-04",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EB%AF%B8%EC%A4%91-%ED%8C%A8%EA%B6%8C-%EB%8B%A4%ED%88%BC-%EC%86%8D-%ED%86%B5%EC%A0%9C-%EB%B6%88%EB%8A%A5-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B3%B5%ED%8F%AC-%EB%B0%B0%EC%84%A0%ED%8A%B8-%EB%B9%84%EC%83%81-%ED%86%B5%EB%B3%B4%EC%84%A0-%EA%B5%AC%EC%B6%95-%EC%A0%9C%EC%95%88/ar-AA2dvLRY",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.rZZOr2YO8cUwRAhCC1whEw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[글로벌 두뇌전쟁①]삼성, 인도 R&D '글로벌 기술기지'로…AI·통신 핵심기술 개발",
-      "summary": "인공지능(AI)과 소프트웨어가 산업 경쟁력을 좌우하면서 국내 기업의 글로벌 연구개발(R&D) 전략도 달라지고 있다. 과거 해외 연구소가 한국에서 개발한 제품을 현지 시장에 맞게 바꾸는 역할을 했다면 이제는 해외 연구진이 글로벌 제품에 들어가는 핵심 기술을 직접 개발하는 단계로 진화하고 있다. 삼성전자는 인도와 베트남, LG전자는 베트남, 현대자동차그룹은 인 ...",
-      "source": "다음 뉴스",
+      "title": "AI 현재와 미래는...‘AI 페스타’서 직접 보고 체험한다",
+      "summary": "전문 기술 용어나 알고리즘 공식은 잊어도 좋다. 눈앞에서 로봇 팔이 움직이고, 몇 마디 프롬프트 입력만으로 서류 작업이 끝나는 세상이 왔다. 오감으로 체험하는 AI의 현재와 미래가 한 자리에 모인다.과학기술정보통신부가 주최하고 한국인공지능·소프트웨어산업협회(KOSA)와 ...",
+      "source": "지디넷코리아",
       "publishedAt": "2026-10-03",
-      "url": "https://v.daum.net/v/20261003093114736",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.4hYeLrO4LXQH4SlRWqGNQQ&pid=News&w=1200&h=675&c=14"
+      "url": "https://zdnet.co.kr/view/?no=20260930230542",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.hBmLb0X1-AWrEZqCWDU3_A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "대한화학회, 28일부터 학술대회…AI·첨단소재 등 화학의 산업 역할 조명",
-      "summary": "대한화학회가 창립 80주년을 맞아 인공지능(AI)과 반도체, 첨단소재, 신약개발 등 미래 산업과 화학의 접점을 논의하는 대규모 학술대회를 연다. 기초화학 연구를 넘어 AI 기반 연구와 첨단 산업 기술에 적용되는 화학의 역할을 폭넓게 다룬다.대한화학회(KCS)는 오는 28일부터 30일까지 경기 수원컨벤션센터에서 ‘제138회 학술발표회, 총회 및 기기전시회’를 ...",
-      "source": "스트레이트뉴스",
-      "publishedAt": "2026-10-02",
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=312443",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Smbmx-8vPnDFqsvSqMfX1g&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[테크톡노트] AI는 왜 'SI'가 됐나…트럼프가 이름 바꾼 이유",
-      "summary": "[테크톡노트] AI는 왜 'SI'가 됐나…트럼프가 이름 바꾼 이유 \"인공은 가짜처럼 들려\"…연방정부 공식 용어까지 변경 AI 부정여론 돌파·중국과 기술패권 경쟁 포석 (서울=연합뉴스) 권하영 기자 = '인공지능(AI)' 대신 '슈퍼 인텔리전스(SI)'. 도널드 트럼프 미국..",
+      "title": "[만나보니] AI 석학 대니얼 리 \"AI 혁명 이제 시작…개발 멈춰선 안돼\"",
+      "summary": "[만나보니] AI 석학 대니얼 리 \"AI 혁명 이제 시작…개발 멈춰선 안돼\" \"AI 아직 초기 단계…더 많은 R&D 필요·접근권 넓혀야\" \"한국, 미중 잇는 'AI 브로커' 가능…빠른 실험·통합 강점\" (서울=연합뉴스) 조승한 기자 = \"발전을 통제할 수 있는 장치는 마련..",
       "source": "파이낸셜뉴스",
-      "publishedAt": "2026-10-02",
-      "url": "https://www.fnnews.com/news/202610030702000472",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.6waRGAeQAi_wz8aeVm0bQQ&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-10-03",
+      "url": "https://www.fnnews.com/news/202610040733429754",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.pcwe_ygKgXyuxsZWEJ1nFA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "경인사연, AI 확산 따른 산업구조·사회 전환, 포용 정책 설계 논의",
+      "summary": "경제·인문사회연구회(NRC)가 인공지능(AI) 확산에 따른 산업구조·사회의 전환과 포용적 정책 설계를 위한 논의의 장을 마련했다. 국책연구기관 연구진을 중심으로 학계 등 전문가들이 참여해 AI 확산으로 인한 사회·산업구조 전환 및 문제점을 짚어보고 포용적 정책 설계를 위한 정책 방향도 제시할 계획이다. 3일 경제·인문사회연구회에 따르면 과학기술정책연구원(S ...",
+      "source": "브릿지경제 on MSN",
+      "publishedAt": "2026-10-03",
+      "url": "https://www.msn.com/ko-kr/money/%EA%B8%B0%EC%88%A0/%EA%B2%BD%EC%9D%B8%EC%82%AC%EC%97%B0-ai-%ED%99%95%EC%82%B0-%EB%94%B0%EB%A5%B8-%EC%82%B0%EC%97%85%EA%B5%AC%EC%A1%B0-%EC%82%AC%ED%9A%8C-%EC%A0%84%ED%99%98-%ED%8F%AC%EC%9A%A9-%EC%A0%95%EC%B1%85-%EC%84%A4%EA%B3%84-%EB%85%BC%EC%9D%98/ar-AA2dt20y",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.BB4a1c9a8w2IVgQnZTdhSg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "[소외된 SW ㊦] GPU·모델만으론 부족…AI 투자, '돈 버는 SW'로 이어져야",
+      "summary": "(지디넷코리아=한정호 기자)정부가 인공지능(AI)을 국가 핵심 성장동력으로 내세워 대규모 투자를 확대하는 가운데, 정책 무게중심을 인프라와 기술 확보에서 국내 소프트웨어(SW) 기업의 사업화와 성장으로 넓혀야 한다는 목소리가 커지고 있다. 그래픽처리장치(GPU)와 AI 모델 확보에 그치지 않고 산업별 서비스와 솔루션 개발, 실제 구매와 운영까지 이어지는 시 ...",
+      "source": "지디넷코리아 on MSN",
+      "publishedAt": "2026-10-04",
+      "url": "https://www.msn.com/ko-kr/news/techandscience/%EC%86%8C%EC%99%B8%EB%90%9C-sw-gpu-%EB%AA%A8%EB%8D%B8%EB%A7%8C%EC%9C%BC%EB%A1%A0-%EB%B6%80%EC%A1%B1-ai-%ED%88%AC%EC%9E%90-%EB%8F%88-%EB%B2%84%EB%8A%94-sw%EB%A1%9C-%EC%9D%B4%EC%96%B4%EC%A0%B8%EC%95%BC/ar-AA2duVqO",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.41thZoSBBQuSMu3VnkAu1A&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
