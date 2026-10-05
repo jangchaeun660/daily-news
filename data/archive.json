@@ -1,5 +1,84 @@
 [
   {
+    "updatedAt": "2026-10-05",
+    "windowStart": "2026-10-03T22:00:00.000Z",
+    "windowEnd": "2026-10-04T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "‘기간제’ 권하는 사회?...계약직 역대 최대인데 ‘4년 연장’까지",
+        "summary": "【투데이신문 권신영 기자】300인 이상 기업의 기간제·단시간 노동자 규모가 역대 최대치를 기록했다. 이런 가운데 정부가 메가특구 내 기간제 노동자의 사용기간을 현행 2년에서 최대 4년으로 늘리는 특례를 추진하면서 고용불안이 장기화할 수 있다는 우려가 나온다.30일 고용노동부(이하 노동부)가 발표한 ‘2026년 고용형태 공시 결과’에 따르면 올해 3월 31일 ...",
+        "source": "투데이신문",
+        "publishedAt": "2026-09-30",
+        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129755",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.rBL5KuNlZzTLX0LYhTSoaQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "뉴스보다 빠른 김지은의 이슈전파사... 평일 오후 3시 LIVE [알립니다]",
+        "summary": "한국일보 시사 유튜브 ‘김지은의 이슈전파사’가 28일부터 평일 오후 3시 시청자를 찾아갑니다. 그동안 오후 6시에 하루의 이슈를 정리해온 이슈전파사는 앞으로 3시간 먼저 그날의 핵심 이슈와 쟁점을 짚고 뉴스를 보는 기준을 ...",
+        "source": "한국일보 on MSN",
+        "publishedAt": "2026-09-28",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%89%B4%EC%8A%A4%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EA%B9%80%EC%A7%80%EC%9D%80%EC%9D%98-%EC%9D%B4%EC%8A%88%EC%A0%84%ED%8C%8C%EC%82%AC-%ED%8F%89%EC%9D%BC-%EC%98%A4%ED%9B%84-3%EC%8B%9C-live-%EC%95%8C%EB%A6%BD%EB%8B%88%EB%8B%A4/ar-AA2d4Jg6",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ebCmupLelPFnvZQaJGf1xg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[포토뉴스]한국기후변화연구원, 1일 지역사회 나눔 실천 공로 춘천시장 표창 수상",
+        "summary": "한국기후변화연구원은 1일 춘천연탄은행 행복센터에서 지역사회 나눔문화 확산과 이웃사랑 실천에 기여한 공로로 춘천시장 표창을 수상했다. 연구원은 지난 2017년부터 매년 연탄은행을 통해 연탄을 구입해 지역 내 에너지 취약계층에 전달하고, 임직원이 직접 연탄 배달 봉사에 참 ...",
+        "source": "강원일보",
+        "publishedAt": "2026-10-01",
+        "url": "https://kwnews.co.kr/article/20261001501011",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.GxfhV6HUYEILTcNx8ASQXA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "\"사회서비스 바우처 부정수급 4년간 1465억…AI 탐지 비중은 '반토막'\"",
+        "summary": "(부산=뉴스1) 이주현 기자 = 사회서비스 바우처 부정수급 적발액이 최근 4년간 1400억 원을 넘어선 가운데, 부정수급을 찾아내기 위해 도입된 인공지능(AI) 기반 부정수급탐지시스템(FDS)의 적발 비중은 오히려 절반 이하로 떨어진 것으로 나타났다.2일 국회 보건복지위..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-10-03",
+        "url": "https://www.fnnews.com/news/202610031251455820",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.de97HlHfvaZAQ5PrOTx9nQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "한국금융인재개발원, 사회초년생 돈 관리 돕는다... '아하! 머니클럽' 운영",
+        "summary": "[파이낸셜뉴스] 한국금융인재개발원이 사회초년생의 월급관리와 올바른 금융습관 형성을 돕는 '아하! 머니클럽'을 운영한다. 2일 한국금융인재개발원은 신용카드사회공헌재단이 추진하고 개발원이 위탁 운영하는 아하! 머니클럽이 지난달 19일 서울 영등포구 여의도 FKI타워에서 입단식을 열고 8주간의 활동을 시작했다고 밝혔다. 입단식에는 서울·경기·충청·호남·영남 등 ...",
+        "source": "파이낸셜뉴스 on MSN",
+        "publishedAt": "2026-10-02",
+        "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%ED%95%9C%EA%B5%AD%EA%B8%88%EC%9C%B5%EC%9D%B8%EC%9E%AC%EA%B0%9C%EB%B0%9C%EC%9B%90-%EC%82%AC%ED%9A%8C%EC%B4%88%EB%85%84%EC%83%9D-%EB%8F%88-%EA%B4%80%EB%A6%AC-%EB%8F%95%EB%8A%94%EB%8B%A4-%EC%95%84%ED%95%98-%EB%A8%B8%EB%8B%88%ED%81%B4%EB%9F%BD-%EC%9A%B4%EC%98%81/ar-AA2dos0O",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.1X_g50JbkrMEmPR9LlLTaA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "G검정 제1장 '인공지능이란' 전반부: 인공지능의 정의부터 AI 붐의 역사와 인공지능의 과제까지",
+        "summary": "출처: 니혼게이자이신문 요약 해설 진단사 가츠동[비공식] https://www.youtube.com/watch?v=Ak5tLTh8jQ8 공개: 2025-05-11 / 19분 / 5,044회 재생 다루는 범위: 공식 텍스트 제1장 '인공지능이란'의 전반부(제1장의 1). 서두에 G검정 시험 개요 이 영상에서 다루는 범위인공지능이라는 단어의 기원과 정의, 인공 ...",
+        "source": "note",
+        "publishedAt": "2026-10-04",
+        "url": "https://note.com/study963/n/n2b7f70436ea4?hl=ko",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.WVNUrSxyHLtvuuO0QmmNpw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "사제파트너스 산업안전 가디언AI 투자…박은수 마수걸이",
+        "summary": "사제파트너스가 지난 7월 23일 산업안전 AI·로보틱스 스타트업 가디언에이아이의 지분을 43억 2000만원에 취득했다. 가디언에이아이는 AI 영상 분석과 자율주행 로봇을 결합한 안전관리 솔루션을 개발하며 삼표그룹과 기술 검증을 진행해왔다. 가디언에이아이는 확보한 자금을 AI 안전관제 기술 고도화와 순찰로봇 상용화 및 국내외 고객사 확대에 투입할 예정이다.",
+        "source": "딜사이트",
+        "publishedAt": "2026-10-04",
+        "url": "https://dealsite.co.kr/articles/170090",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.tBBSvSecQ8Iy1ZgUIdCNKQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "반도체 '후공정' 기술 상세 보고서: AI 시대를 지탱하는 정밀 기술과 전략적 생태계",
+        "summary": "임원 요약반도체 산업의 부가가치는 현재 '전공정의 미세화'에서 '후공정의 통합 기술'로 결정적인 패러다임 시프트를 일으키고 있다. 회로의 미세함을 겨루던 시대는 물리적 한계로 인해 종언을 맞이했으며, 현재는 칩 간을 얼마나 고밀도로 연결하고, 열을 제어하며, 패키징하는지가 시스템 성능을 좌우하는 주전장이 되었다. 본 보고서에서는 세계 점유율 100%에 가까 ...",
+        "source": "note",
+        "publishedAt": "2026-10-04",
+        "url": "https://note.com/trang_1985/n/n2ee9f72483b3?hl=ko",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.lXBhQZ99osnZ2_kd-4kT-Q&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-10-04",
     "windowStart": "2026-10-02T22:00:00.000Z",
     "windowEnd": "2026-10-03T22:00:00.000Z",
@@ -551,103 +630,6 @@
         "publishedAt": "2026-09-29",
         "url": "https://www.news2day.co.kr/article/20260929500020",
         "imageUrl": "https://www.bing.com/th?id=ONUT.MA1VYox7U62ALY5ymKMWVw&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-09-28",
-    "windowStart": "2026-09-26T22:00:00.000Z",
-    "windowEnd": "2026-09-27T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "뉴스보다 빠른 김지은의 이슈전파사... 평일 오후 3시 LIVE [알립니다]",
-        "summary": "한국일보 시사 유튜브 ‘김지은의 이슈전파사’가 28일부터 평일 오후 3시 시청자를 찾아갑니다. 그동안 오후 6시에 하루의 이슈를 정리해온 이슈전파사는 앞으로 3시간 먼저 그날의 핵심 이슈와 쟁점을 짚고 뉴스를 보는 기준을 ...",
-        "source": "한국일보 on MSN",
-        "publishedAt": "2026-09-27",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%89%B4%EC%8A%A4%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EA%B9%80%EC%A7%80%EC%9D%80%EC%9D%98-%EC%9D%B4%EC%8A%88%EC%A0%84%ED%8C%8C%EC%82%AC-%ED%8F%89%EC%9D%BC-%EC%98%A4%ED%9B%84-3%EC%8B%9C-live-%EC%95%8C%EB%A6%BD%EB%8B%88%EB%8B%A4/ar-AA2d4Jg6",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ebCmupLelPFnvZQaJGf1xg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "윤호중, UN 사회연대경제 고위급 회의 참석…햇빛소득마을 소개",
-        "summary": "윤호중, UN 사회연대경제 고위급 회의 참석…햇빛소득마을 소개 스페인·세네갈과 MOU…사회연대금융·공동연구 등 협력 (서울=연합뉴스) 차민지 기자 = 윤호중 행정안전부 장관은 지난 24∼26일 미국 뉴욕에서 열린 유엔 사회연대경제 고위급 회의에 참석해 사회연..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-09-27",
-        "url": "https://www.fnnews.com/news/202609271200384054",
-        "imageUrl": "https://www.bing.com/th?id=ONUT._a2ENJv2bVKrgELWJlEmhw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "'기독교' 박위, 목사마저 일침..\"선한 영향력? 오만해서 그렇다\" [Oh!쎈 이슈]",
-        "summary": "‘위라클’ 박위가 사회복무요원 저격 논란 이후 긴 침묵을 이어가고 있는 가운데 목사로부터 비판을 받았다. 박요한 목사는 지난 19일 자신의 유튜브 채널을 통해 “박위라는 기독고 청년이 있다. 척추가 다쳐 장애인이 ...",
-        "source": "미주중앙일보",
-        "publishedAt": "2026-09-23",
-        "url": "https://www.koreadaily.com/article/20260922230817282",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.JNENvRoDMROU_72l6FYe2A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈 & 뉴스] 장애인·비장애인 함께 노래한 ‘진주 하모니’...지역사회 어울림 확대",
-        "summary": "충북 진천군 장애인주간보호시설(관장 이재성)의 장애인·비장애인 어울림 합창단 ‘진주 하모니’가 문화예술 활동을 통해 지역사회와 소통하는 자리를 마련했다. 진주 하모니는 지난 12일 충북혁신도시 유소년축구장에서 열린 ‘올댓퍼포먼스(All THAT PERFORMANCE)’ 무대에 올라 합창곡 ‘개똥벌레’를 선보였다. (사)한국연예예술인총연합회 진천지회가 주최· ...",
-        "source": "티티엘뉴스",
-        "publishedAt": "2026-09-14",
-        "url": "https://www.ttlnews.com/news/articleView.html?idxno=3143034",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.QamYBSBZNCsi3zObo_K6yw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "글로벌 경제 글로벌 산업 글로벌 정치 글로벌 사회",
-        "summary": "최근 볼리비아의 융가스 숲에서 표범을 닮은 점박이 고양이가 새로운 고양이 종으로 확인됐다. 과학계에 알려지지 않았던 새로운 야생 고양이 종이 확인된 것은 약 100년 만이다. 17일(현지시간) 영국 일간 가디언 보도에 따르면 이 고양이는 몸길이는 약 46㎝, 몸무게는 약 1.4kg로 일반적인 집고양이보다 조금 더 작으며 현지에서는 ‘틸카요’(tilcayo) ...",
-        "source": "매일경제",
-        "publishedAt": "2026-09-17",
-        "url": "https://www.mk.co.kr/news/world/global-society/",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.xnEZ_y1a825gkQWOyT1xQg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "오픈AI·앤트로픽, 인공지능 보안 사고 수만 건 조사…‘통제 능력’ 의문",
-        "summary": "앤트로픽과 오픈에이아이(AI)가 자사 인공지능 모델이 일으킨 수만 건의 보안 사고를 조사하고 있다. 인공지능 기업들이 자사의 기술을 완전히 통제할 수 있는지를 두고 의문이 제기되고 있다. 미 매체 액시오스는 27일(현지시각) 복수의 소식통을 인용해 앤트로픽과 오픈에이아 ...",
-        "source": "한겨레",
-        "publishedAt": "2026-09-27",
-        "url": "https://www.hani.co.kr/arti/international/america/1279692.html",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.5y-zkizhn5jsIpRyYTgpAg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "MS \"한국 AI 사용률 40.6% … 4계단 상승한 세계 12위\"",
-        "summary": "전 세계 생성형 인공지능(AI) 사용이 확대되는 가운데 한국의 AI 사용자 비중이 40%를 넘어선 것으로 나타났다. 한국은 주요 경제권 가운데 세 차례 연속 가장 큰 상승 폭을 기록하며 세계 12위로 올라섰다.28일 마이크로소프트(MS) AI 이코노미 인스티튜트가 발표한 ‘AI 확산 보고서: 2026년 2분기 트렌드와 인사이트’에 따르면 올해 6월 기준 전 ...",
-        "source": "뉴데일리 경제",
-        "publishedAt": "2026-09-27",
-        "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/28/2026092800028.html",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.-yRw9xVnqbYvCBs5nTBMkg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "유료 구독 3% 늪에 빠진 AI, 컴퓨팅 증설 활주로는 더 넓어졌다",
-        "summary": "뱅크오브아메리카 고객 가계 결제 데이터를 집계한 결과 인공지능 서비스를 유료로 결제하는 가구 비중은 약 3%에 머물렀다.더 모틀리 풀은 2026년 9월 26일(현지시각) 이 통계를 인용하며 생성형 인공지능 보급률이 초기 단계여서 데이터센터 컴퓨팅 설비투자 활주로가 길게 열려 있다고 보도 ...",
-        "source": "글로벌이코노믹",
-        "publishedAt": "2026-09-27",
-        "url": "https://www.g-enews.com/article/Global-Biz/2026/09/202609271015057407fbbec65dfb_1",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.1R1cQWI3FyiT06e7OGM3JQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[스마트 산업강국 함께 하는 제조혁신 4.0] \"AI 시대 주인공은 나\"… 68개국 청년들 미래 기술 뽐냈다",
-        "summary": "27일 중국 상하이 대표 공연장인 메르세데스-벤츠 아레나. 세계 청년 기술 인재들의 축제인 '제48회 국제기능올림픽' 폐막식이 이곳에서 성대하게 열렸다. 국제기능올림픽은 17~25세 전 세계 젊은이들이 산업 현장에서 활용되는 각종 기능의 숙련도를 겨루는 대회로 2년마다 개최된다. 이번 국제기능올림픽은 이달 22~27일 68개 국가·지역에서 온 1385명의 ...",
-        "source": "매일경제",
-        "publishedAt": "2026-09-27",
-        "url": "https://www.mk.co.kr/news/business/12162023",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.n51uug4d8Z13z7Kt6jzbDg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[에이전틱 AI 맵 2026] 미소정보기술, AI 에이전트 개발부터 운영까지 ‘액틱’으로 통합",
-        "summary": "인공지능(AI) 에이전트 시대가 본격화되고 있지만 국내에서는 아직 시장을 대표하는 기업이나 생태계의 윤곽이 뚜렷하지 않다. IT조선은 한국지능정보사회진흥원(NIA)과 공동기획으로 국내 에이전틱 AI 산업의 현주소를 살펴보기 위한 ‘에이전틱 AI 맵’ 프로젝트를 진행한다. 에이전틱 AI 얼라이언스 회원사를 대상으로 실시한 설문조사를 바탕으로 맵을 공개하고, ...",
-        "source": "IT 조선 on MSN",
-        "publishedAt": "2026-09-28",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%EB%A7%B5-2026-%EB%AF%B8%EC%86%8C%EC%A0%95%EB%B3%B4%EA%B8%B0%EC%88%A0-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EB%B6%80%ED%84%B0-%EC%9A%B4%EC%98%81%EA%B9%8C%EC%A7%80-%EC%95%A1%ED%8B%B1-%EC%9C%BC%EB%A1%9C-%ED%86%B5%ED%95%A9/ar-AA2d4Ygu",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.mB_dqBmPtrVelJwM7lUhQQ&pid=News&w=1200&h=675&c=14"
       }
     ]
   }

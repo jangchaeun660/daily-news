@@ -1,26 +1,8 @@
 {
-  "updatedAt": "2026-10-04",
-  "windowStart": "2026-10-02T22:00:00.000Z",
-  "windowEnd": "2026-10-03T22:00:00.000Z",
+  "updatedAt": "2026-10-05",
+  "windowStart": "2026-10-03T22:00:00.000Z",
+  "windowEnd": "2026-10-04T22:00:00.000Z",
   "articles": [
-    {
-      "category": "society",
-      "title": "\"사회서비스 바우처 부정수급 4년간 1465억…AI 탐지 비중은 '반토막'\"",
-      "summary": "(부산=뉴스1) 이주현 기자 = 사회서비스 바우처 부정수급 적발액이 최근 4년간 1400억 원을 넘어선 가운데, 부정수급을 찾아내기 위해 도입된 인공지능(AI) 기반 부정수급탐지시스템(FDS)의 적발 비중은 오히려 절반 이하로 떨어진 것으로 나타났다.2일 국회 보건복지위..",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-10-03",
-      "url": "https://www.fnnews.com/news/202610031251455820",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.de97HlHfvaZAQ5PrOTx9nQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[N2 포커스] 야구 대신 핸드볼·펜싱 키운 최태원…‘사회적 가치 경영’ 결실",
-      "summary": "[뉴스투데이=전소영 기자] 16일간의 2026 아이치·나고야 아시안게임 대장정이 막바지에 접어든 가운데 태극마크를 달고 경기장을 누빈 대한민국 선수단의 메달 소식이 이어지고 있다. 이번 대회에서는 SK그룹이 후원하는 선수단 ‘팀 SK’의 활약도 눈길을 끌었다. 펜싱과 ...",
-      "source": "뉴스투데이",
-      "publishedAt": "2026-10-03",
-      "url": "https://www.news2day.co.kr/article/20261002500200",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.xIuYRP10kSLG5L5TAqJrqg&pid=News&w=1200&h=675&c=14"
-    },
     {
       "category": "society",
       "title": "‘기간제’ 권하는 사회?...계약직 역대 최대인데 ‘4년 연장’까지",
@@ -41,57 +23,57 @@
     },
     {
       "category": "society",
-      "title": "李 “메가프로젝트, 첨단산업·주거·교육·문화 어우러져야”",
-      "summary": "이재명 대통령이 ‘3차 메가프로젝트 민관 합동점검회의’를 주재한 자리에서 남부권 반도체벨트를 비롯한 중점 정책에 속도를 낼 것을 각 부처에 당부했다. 특히 첨단산업 정책을 주거·교육·의료·문화와 연계해 이주 인구의 정주여건을 개선하고, 지역별 반도체 산업 강점을 유기적으로 연결해야 한다고 강조했다. 29일 이 대통령은 청와대 본관에서 메가프로젝트 3차 민관 ...",
-      "source": "매일경제",
-      "publishedAt": "2026-09-29",
-      "url": "https://www.mk.co.kr/news/economy/12163849",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.K85rxQpXWLl7U1zVYFtgnw&pid=News&w=1200&h=675&c=14"
+      "title": "[포토뉴스]한국기후변화연구원, 1일 지역사회 나눔 실천 공로 춘천시장 표창 수상",
+      "summary": "한국기후변화연구원은 1일 춘천연탄은행 행복센터에서 지역사회 나눔문화 확산과 이웃사랑 실천에 기여한 공로로 춘천시장 표창을 수상했다. 연구원은 지난 2017년부터 매년 연탄은행을 통해 연탄을 구입해 지역 내 에너지 취약계층에 전달하고, 임직원이 직접 연탄 배달 봉사에 참 ...",
+      "source": "강원일보",
+      "publishedAt": "2026-10-01",
+      "url": "https://kwnews.co.kr/article/20261001501011",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.GxfhV6HUYEILTcNx8ASQXA&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "ai",
-      "title": "미중 패권 다툼 속 통제 불능 인공지능 공포 배선트 비상 통보선 구축 제안",
-      "summary": "스콧 배선트 미국 재무장관이 인공지능 사고 발생 시 미국과 중국이 비상 통보하는 체계 구축을 제안할 계획이며 중국 지도부 역시 동의할 가능성이 크다고 내다봤다.악시오스는 10월 3일(현지시각) 자사 대담 프로그램을 인용해 배선트 장관이 시진핑 주석의 국빈 방문에 앞서 허리펑 중국 부총리와 미국 모델 대비 90% 수준 성능을 내는 개방형 기술 위험을 통제하기 ...",
-      "source": "글로벌이코노믹 on MSN",
-      "publishedAt": "2026-10-04",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EB%AF%B8%EC%A4%91-%ED%8C%A8%EA%B6%8C-%EB%8B%A4%ED%88%BC-%EC%86%8D-%ED%86%B5%EC%A0%9C-%EB%B6%88%EB%8A%A5-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B3%B5%ED%8F%AC-%EB%B0%B0%EC%84%A0%ED%8A%B8-%EB%B9%84%EC%83%81-%ED%86%B5%EB%B3%B4%EC%84%A0-%EA%B5%AC%EC%B6%95-%EC%A0%9C%EC%95%88/ar-AA2dvLRY",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.rZZOr2YO8cUwRAhCC1whEw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "AI 현재와 미래는...‘AI 페스타’서 직접 보고 체험한다",
-      "summary": "전문 기술 용어나 알고리즘 공식은 잊어도 좋다. 눈앞에서 로봇 팔이 움직이고, 몇 마디 프롬프트 입력만으로 서류 작업이 끝나는 세상이 왔다. 오감으로 체험하는 AI의 현재와 미래가 한 자리에 모인다.과학기술정보통신부가 주최하고 한국인공지능·소프트웨어산업협회(KOSA)와 ...",
-      "source": "지디넷코리아",
-      "publishedAt": "2026-10-03",
-      "url": "https://zdnet.co.kr/view/?no=20260930230542",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.hBmLb0X1-AWrEZqCWDU3_A&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[만나보니] AI 석학 대니얼 리 \"AI 혁명 이제 시작…개발 멈춰선 안돼\"",
-      "summary": "[만나보니] AI 석학 대니얼 리 \"AI 혁명 이제 시작…개발 멈춰선 안돼\" \"AI 아직 초기 단계…더 많은 R&D 필요·접근권 넓혀야\" \"한국, 미중 잇는 'AI 브로커' 가능…빠른 실험·통합 강점\" (서울=연합뉴스) 조승한 기자 = \"발전을 통제할 수 있는 장치는 마련..",
+      "category": "society",
+      "title": "\"사회서비스 바우처 부정수급 4년간 1465억…AI 탐지 비중은 '반토막'\"",
+      "summary": "(부산=뉴스1) 이주현 기자 = 사회서비스 바우처 부정수급 적발액이 최근 4년간 1400억 원을 넘어선 가운데, 부정수급을 찾아내기 위해 도입된 인공지능(AI) 기반 부정수급탐지시스템(FDS)의 적발 비중은 오히려 절반 이하로 떨어진 것으로 나타났다.2일 국회 보건복지위..",
       "source": "파이낸셜뉴스",
       "publishedAt": "2026-10-03",
-      "url": "https://www.fnnews.com/news/202610040733429754",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.pcwe_ygKgXyuxsZWEJ1nFA&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.fnnews.com/news/202610031251455820",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.de97HlHfvaZAQ5PrOTx9nQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "한국금융인재개발원, 사회초년생 돈 관리 돕는다... '아하! 머니클럽' 운영",
+      "summary": "[파이낸셜뉴스] 한국금융인재개발원이 사회초년생의 월급관리와 올바른 금융습관 형성을 돕는 '아하! 머니클럽'을 운영한다. 2일 한국금융인재개발원은 신용카드사회공헌재단이 추진하고 개발원이 위탁 운영하는 아하! 머니클럽이 지난달 19일 서울 영등포구 여의도 FKI타워에서 입단식을 열고 8주간의 활동을 시작했다고 밝혔다. 입단식에는 서울·경기·충청·호남·영남 등 ...",
+      "source": "파이낸셜뉴스 on MSN",
+      "publishedAt": "2026-10-02",
+      "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%ED%95%9C%EA%B5%AD%EA%B8%88%EC%9C%B5%EC%9D%B8%EC%9E%AC%EA%B0%9C%EB%B0%9C%EC%9B%90-%EC%82%AC%ED%9A%8C%EC%B4%88%EB%85%84%EC%83%9D-%EB%8F%88-%EA%B4%80%EB%A6%AC-%EB%8F%95%EB%8A%94%EB%8B%A4-%EC%95%84%ED%95%98-%EB%A8%B8%EB%8B%88%ED%81%B4%EB%9F%BD-%EC%9A%B4%EC%98%81/ar-AA2dos0O",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.1X_g50JbkrMEmPR9LlLTaA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "경인사연, AI 확산 따른 산업구조·사회 전환, 포용 정책 설계 논의",
-      "summary": "경제·인문사회연구회(NRC)가 인공지능(AI) 확산에 따른 산업구조·사회의 전환과 포용적 정책 설계를 위한 논의의 장을 마련했다. 국책연구기관 연구진을 중심으로 학계 등 전문가들이 참여해 AI 확산으로 인한 사회·산업구조 전환 및 문제점을 짚어보고 포용적 정책 설계를 위한 정책 방향도 제시할 계획이다. 3일 경제·인문사회연구회에 따르면 과학기술정책연구원(S ...",
-      "source": "브릿지경제 on MSN",
-      "publishedAt": "2026-10-03",
-      "url": "https://www.msn.com/ko-kr/money/%EA%B8%B0%EC%88%A0/%EA%B2%BD%EC%9D%B8%EC%82%AC%EC%97%B0-ai-%ED%99%95%EC%82%B0-%EB%94%B0%EB%A5%B8-%EC%82%B0%EC%97%85%EA%B5%AC%EC%A1%B0-%EC%82%AC%ED%9A%8C-%EC%A0%84%ED%99%98-%ED%8F%AC%EC%9A%A9-%EC%A0%95%EC%B1%85-%EC%84%A4%EA%B3%84-%EB%85%BC%EC%9D%98/ar-AA2dt20y",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.BB4a1c9a8w2IVgQnZTdhSg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[소외된 SW ㊦] GPU·모델만으론 부족…AI 투자, '돈 버는 SW'로 이어져야",
-      "summary": "(지디넷코리아=한정호 기자)정부가 인공지능(AI)을 국가 핵심 성장동력으로 내세워 대규모 투자를 확대하는 가운데, 정책 무게중심을 인프라와 기술 확보에서 국내 소프트웨어(SW) 기업의 사업화와 성장으로 넓혀야 한다는 목소리가 커지고 있다. 그래픽처리장치(GPU)와 AI 모델 확보에 그치지 않고 산업별 서비스와 솔루션 개발, 실제 구매와 운영까지 이어지는 시 ...",
-      "source": "지디넷코리아 on MSN",
+      "title": "G검정 제1장 '인공지능이란' 전반부: 인공지능의 정의부터 AI 붐의 역사와 인공지능의 과제까지",
+      "summary": "출처: 니혼게이자이신문 요약 해설 진단사 가츠동[비공식] https://www.youtube.com/watch?v=Ak5tLTh8jQ8 공개: 2025-05-11 / 19분 / 5,044회 재생 다루는 범위: 공식 텍스트 제1장 '인공지능이란'의 전반부(제1장의 1). 서두에 G검정 시험 개요 이 영상에서 다루는 범위인공지능이라는 단어의 기원과 정의, 인공 ...",
+      "source": "note",
       "publishedAt": "2026-10-04",
-      "url": "https://www.msn.com/ko-kr/news/techandscience/%EC%86%8C%EC%99%B8%EB%90%9C-sw-gpu-%EB%AA%A8%EB%8D%B8%EB%A7%8C%EC%9C%BC%EB%A1%A0-%EB%B6%80%EC%A1%B1-ai-%ED%88%AC%EC%9E%90-%EB%8F%88-%EB%B2%84%EB%8A%94-sw%EB%A1%9C-%EC%9D%B4%EC%96%B4%EC%A0%B8%EC%95%BC/ar-AA2duVqO",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.41thZoSBBQuSMu3VnkAu1A&pid=News&w=1200&h=675&c=14"
+      "url": "https://note.com/study963/n/n2b7f70436ea4?hl=ko",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.WVNUrSxyHLtvuuO0QmmNpw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "사제파트너스 산업안전 가디언AI 투자…박은수 마수걸이",
+      "summary": "사제파트너스가 지난 7월 23일 산업안전 AI·로보틱스 스타트업 가디언에이아이의 지분을 43억 2000만원에 취득했다. 가디언에이아이는 AI 영상 분석과 자율주행 로봇을 결합한 안전관리 솔루션을 개발하며 삼표그룹과 기술 검증을 진행해왔다. 가디언에이아이는 확보한 자금을 AI 안전관제 기술 고도화와 순찰로봇 상용화 및 국내외 고객사 확대에 투입할 예정이다.",
+      "source": "딜사이트",
+      "publishedAt": "2026-10-04",
+      "url": "https://dealsite.co.kr/articles/170090",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.tBBSvSecQ8Iy1ZgUIdCNKQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "반도체 '후공정' 기술 상세 보고서: AI 시대를 지탱하는 정밀 기술과 전략적 생태계",
+      "summary": "임원 요약반도체 산업의 부가가치는 현재 '전공정의 미세화'에서 '후공정의 통합 기술'로 결정적인 패러다임 시프트를 일으키고 있다. 회로의 미세함을 겨루던 시대는 물리적 한계로 인해 종언을 맞이했으며, 현재는 칩 간을 얼마나 고밀도로 연결하고, 열을 제어하며, 패키징하는지가 시스템 성능을 좌우하는 주전장이 되었다. 본 보고서에서는 세계 점유율 100%에 가까 ...",
+      "source": "note",
+      "publishedAt": "2026-10-04",
+      "url": "https://note.com/trang_1985/n/n2ee9f72483b3?hl=ko",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.lXBhQZ99osnZ2_kd-4kT-Q&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
