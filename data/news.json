@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-05",
-  "windowStart": "2026-10-03T22:00:00.000Z",
-  "windowEnd": "2026-10-04T22:00:00.000Z",
+  "updatedAt": "2026-10-06",
+  "windowStart": "2026-10-04T22:00:00.000Z",
+  "windowEnd": "2026-10-05T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
@@ -31,49 +31,49 @@
       "imageUrl": "https://www.bing.com/th?id=ONUT.GxfhV6HUYEILTcNx8ASQXA&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "society",
-      "title": "\"사회서비스 바우처 부정수급 4년간 1465억…AI 탐지 비중은 '반토막'\"",
-      "summary": "(부산=뉴스1) 이주현 기자 = 사회서비스 바우처 부정수급 적발액이 최근 4년간 1400억 원을 넘어선 가운데, 부정수급을 찾아내기 위해 도입된 인공지능(AI) 기반 부정수급탐지시스템(FDS)의 적발 비중은 오히려 절반 이하로 떨어진 것으로 나타났다.2일 국회 보건복지위..",
+      "category": "ai",
+      "title": "인하대, 'AX 대학원' 선정…산업현장 AI 전환 석·박사 양성",
+      "summary": "인하대, 'AX 대학원' 선정…산업현장 AI 전환 석·박사 양성 (인천=연합뉴스) 황정환 기자 = 인하대학교는 과학기술정보통신부가 추진하는 '인공지능혁신(AX) 대학원 사업'에 최종 선정돼 국비 162억5천만원을 지원받는다고 6일 밝혔다. 이 사업은 산업 현장에 인..",
       "source": "파이낸셜뉴스",
-      "publishedAt": "2026-10-03",
-      "url": "https://www.fnnews.com/news/202610031251455820",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.de97HlHfvaZAQ5PrOTx9nQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "한국금융인재개발원, 사회초년생 돈 관리 돕는다... '아하! 머니클럽' 운영",
-      "summary": "[파이낸셜뉴스] 한국금융인재개발원이 사회초년생의 월급관리와 올바른 금융습관 형성을 돕는 '아하! 머니클럽'을 운영한다. 2일 한국금융인재개발원은 신용카드사회공헌재단이 추진하고 개발원이 위탁 운영하는 아하! 머니클럽이 지난달 19일 서울 영등포구 여의도 FKI타워에서 입단식을 열고 8주간의 활동을 시작했다고 밝혔다. 입단식에는 서울·경기·충청·호남·영남 등 ...",
-      "source": "파이낸셜뉴스 on MSN",
-      "publishedAt": "2026-10-02",
-      "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%ED%95%9C%EA%B5%AD%EA%B8%88%EC%9C%B5%EC%9D%B8%EC%9E%AC%EA%B0%9C%EB%B0%9C%EC%9B%90-%EC%82%AC%ED%9A%8C%EC%B4%88%EB%85%84%EC%83%9D-%EB%8F%88-%EA%B4%80%EB%A6%AC-%EB%8F%95%EB%8A%94%EB%8B%A4-%EC%95%84%ED%95%98-%EB%A8%B8%EB%8B%88%ED%81%B4%EB%9F%BD-%EC%9A%B4%EC%98%81/ar-AA2dos0O",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.1X_g50JbkrMEmPR9LlLTaA&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-10-05",
+      "url": "https://www.fnnews.com/news/202610060901031085",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Qq53j-Le8bI8KsM3biSdIA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "G검정 제1장 '인공지능이란' 전반부: 인공지능의 정의부터 AI 붐의 역사와 인공지능의 과제까지",
-      "summary": "출처: 니혼게이자이신문 요약 해설 진단사 가츠동[비공식] https://www.youtube.com/watch?v=Ak5tLTh8jQ8 공개: 2025-05-11 / 19분 / 5,044회 재생 다루는 범위: 공식 텍스트 제1장 '인공지능이란'의 전반부(제1장의 1). 서두에 G검정 시험 개요 이 영상에서 다루는 범위인공지능이라는 단어의 기원과 정의, 인공 ...",
-      "source": "note",
-      "publishedAt": "2026-10-04",
-      "url": "https://note.com/study963/n/n2b7f70436ea4?hl=ko",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.WVNUrSxyHLtvuuO0QmmNpw&pid=News&w=1200&h=675&c=14"
+      "title": "국산 AI 칩으로 판단하고 숙련공 용접 배운다…두산로보틱스, 국책과제 선정",
+      "summary": "【뉴스퀘스트=이승주 기자】 두산로보틱스가 국산 AI 반도체를 탑재한 협동로봇과 원전 기자재용 지능형 용접 기술 개발에 나선다. 로봇이 현장에서 스스로 판단하는 기반 기술과 숙련공의 작업을 재현하는 응용 기술을 함께 개발해 제조업 자동화 시장을 공략한다. 두산로보틱스는 산업통상부와 한국산업기술기획평가원이 공동 주관한 ‘K-온디바이스 AI 반도체 기술개발사업’ ...",
+      "source": "뉴스퀘스트",
+      "publishedAt": "2026-10-05",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302029",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ZrFuqrPK4ITvUUnOOvOAZA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "사제파트너스 산업안전 가디언AI 투자…박은수 마수걸이",
-      "summary": "사제파트너스가 지난 7월 23일 산업안전 AI·로보틱스 스타트업 가디언에이아이의 지분을 43억 2000만원에 취득했다. 가디언에이아이는 AI 영상 분석과 자율주행 로봇을 결합한 안전관리 솔루션을 개발하며 삼표그룹과 기술 검증을 진행해왔다. 가디언에이아이는 확보한 자금을 AI 안전관제 기술 고도화와 순찰로봇 상용화 및 국내외 고객사 확대에 투입할 예정이다.",
-      "source": "딜사이트",
-      "publishedAt": "2026-10-04",
-      "url": "https://dealsite.co.kr/articles/170090",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.tBBSvSecQ8Iy1ZgUIdCNKQ&pid=News&w=1200&h=675&c=14"
+      "title": "국내외 AI 기업 350곳 집결…과기정통부, 'AI 페스타' 개최",
+      "summary": "[디지털투데이 이진호 기자] 과학기술정보통신부가 오는 6일부터 8일까지 서울 코엑스에서 'AI 주간 2026-AI 페스타'를 개최한다. 국내외 AI 기업과 기관 350여개사가 참여해 500여개 전시 부스를 운영한다.과기정통부는 한국인공지능·소프트웨어산업협회(KOSA), AI페스타조직위원회와 함께 'AI, 현실이 되다. 모두의 AI'를 슬로건으로 이번 행사를 ...",
+      "source": "디지털투데이",
+      "publishedAt": "2026-10-05",
+      "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=704948",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.fYJygEBLCbxE6ip8gUg2GQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "반도체 '후공정' 기술 상세 보고서: AI 시대를 지탱하는 정밀 기술과 전략적 생태계",
-      "summary": "임원 요약반도체 산업의 부가가치는 현재 '전공정의 미세화'에서 '후공정의 통합 기술'로 결정적인 패러다임 시프트를 일으키고 있다. 회로의 미세함을 겨루던 시대는 물리적 한계로 인해 종언을 맞이했으며, 현재는 칩 간을 얼마나 고밀도로 연결하고, 열을 제어하며, 패키징하는지가 시스템 성능을 좌우하는 주전장이 되었다. 본 보고서에서는 세계 점유율 100%에 가까 ...",
-      "source": "note",
-      "publishedAt": "2026-10-04",
-      "url": "https://note.com/trang_1985/n/n2ee9f72483b3?hl=ko",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.lXBhQZ99osnZ2_kd-4kT-Q&pid=News&w=1200&h=675&c=14"
+      "title": "두산로보틱스, 989억원 규모 ‘피지컬 AI’ 국책과제 2건 수주",
+      "summary": "두산로보틱스는 산업통상부와 한국산업기술기획평가원이 주관한 피지컬 인공지능(AI) 관련 국책과제 2건에 선정됐다고 6일 밝혔다. 두 과제의 총 연구개발비는 약 989억원으로, 이 가운데 정부 지원금은 약 681억원이다. 첫 번째 과제인 ‘온디바이스 AI 반도체 기반 차세 ...",
+      "source": "브릿지경제",
+      "publishedAt": "2026-10-06",
+      "url": "https://www.viva100.com/article/20261006500433",
+      "imageUrl": "https://www.bing.com/th?id=ONUT._KxPmVPxaevUsmxfQ8BLTg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "AI가 발전기 고치고, 농장 전력량 줄이고 … 제주 산업현장 바뀐다",
+      "summary": "제주 풍력발전기 날개 안으로 소형 로봇이 들어가 균열과 부식을 찾아낸다. 인공지능(AI)은 발견된 결함을 분석해 수리 방법과 비용까지 계산한다. 전력 사용량이 많은 식물공장에서는 태양광 발전량과 전력 수요를 예측해 작물 생육 속도를 높인다. 에너지 효율을 높여 전기료 절감도 뒤따른다. 제주에서 이처럼 풍력발전과 스마트팜 등 산업 현장의 난제를 AI로 해결하 ...",
+      "source": "매일경제",
+      "publishedAt": "2026-10-05",
+      "url": "https://www.mk.co.kr/news/business/12168456",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.e49V3FznEQ8f-dlfN09ZXg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }

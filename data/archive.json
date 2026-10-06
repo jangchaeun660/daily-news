@@ -1,5 +1,84 @@
 [
   {
+    "updatedAt": "2026-10-06",
+    "windowStart": "2026-10-04T22:00:00.000Z",
+    "windowEnd": "2026-10-05T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "‘기간제’ 권하는 사회?...계약직 역대 최대인데 ‘4년 연장’까지",
+        "summary": "【투데이신문 권신영 기자】300인 이상 기업의 기간제·단시간 노동자 규모가 역대 최대치를 기록했다. 이런 가운데 정부가 메가특구 내 기간제 노동자의 사용기간을 현행 2년에서 최대 4년으로 늘리는 특례를 추진하면서 고용불안이 장기화할 수 있다는 우려가 나온다.30일 고용노동부(이하 노동부)가 발표한 ‘2026년 고용형태 공시 결과’에 따르면 올해 3월 31일 ...",
+        "source": "투데이신문",
+        "publishedAt": "2026-09-30",
+        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129755",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.rBL5KuNlZzTLX0LYhTSoaQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "뉴스보다 빠른 김지은의 이슈전파사... 평일 오후 3시 LIVE [알립니다]",
+        "summary": "한국일보 시사 유튜브 ‘김지은의 이슈전파사’가 28일부터 평일 오후 3시 시청자를 찾아갑니다. 그동안 오후 6시에 하루의 이슈를 정리해온 이슈전파사는 앞으로 3시간 먼저 그날의 핵심 이슈와 쟁점을 짚고 뉴스를 보는 기준을 ...",
+        "source": "한국일보 on MSN",
+        "publishedAt": "2026-09-28",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%89%B4%EC%8A%A4%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EA%B9%80%EC%A7%80%EC%9D%80%EC%9D%98-%EC%9D%B4%EC%8A%88%EC%A0%84%ED%8C%8C%EC%82%AC-%ED%8F%89%EC%9D%BC-%EC%98%A4%ED%9B%84-3%EC%8B%9C-live-%EC%95%8C%EB%A6%BD%EB%8B%88%EB%8B%A4/ar-AA2d4Jg6",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ebCmupLelPFnvZQaJGf1xg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[포토뉴스]한국기후변화연구원, 1일 지역사회 나눔 실천 공로 춘천시장 표창 수상",
+        "summary": "한국기후변화연구원은 1일 춘천연탄은행 행복센터에서 지역사회 나눔문화 확산과 이웃사랑 실천에 기여한 공로로 춘천시장 표창을 수상했다. 연구원은 지난 2017년부터 매년 연탄은행을 통해 연탄을 구입해 지역 내 에너지 취약계층에 전달하고, 임직원이 직접 연탄 배달 봉사에 참 ...",
+        "source": "강원일보",
+        "publishedAt": "2026-10-01",
+        "url": "https://kwnews.co.kr/article/20261001501011",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.GxfhV6HUYEILTcNx8ASQXA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "인하대, 'AX 대학원' 선정…산업현장 AI 전환 석·박사 양성",
+        "summary": "인하대, 'AX 대학원' 선정…산업현장 AI 전환 석·박사 양성 (인천=연합뉴스) 황정환 기자 = 인하대학교는 과학기술정보통신부가 추진하는 '인공지능혁신(AX) 대학원 사업'에 최종 선정돼 국비 162억5천만원을 지원받는다고 6일 밝혔다. 이 사업은 산업 현장에 인..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-10-05",
+        "url": "https://www.fnnews.com/news/202610060901031085",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Qq53j-Le8bI8KsM3biSdIA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "국산 AI 칩으로 판단하고 숙련공 용접 배운다…두산로보틱스, 국책과제 선정",
+        "summary": "【뉴스퀘스트=이승주 기자】 두산로보틱스가 국산 AI 반도체를 탑재한 협동로봇과 원전 기자재용 지능형 용접 기술 개발에 나선다. 로봇이 현장에서 스스로 판단하는 기반 기술과 숙련공의 작업을 재현하는 응용 기술을 함께 개발해 제조업 자동화 시장을 공략한다. 두산로보틱스는 산업통상부와 한국산업기술기획평가원이 공동 주관한 ‘K-온디바이스 AI 반도체 기술개발사업’ ...",
+        "source": "뉴스퀘스트",
+        "publishedAt": "2026-10-05",
+        "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302029",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ZrFuqrPK4ITvUUnOOvOAZA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "국내외 AI 기업 350곳 집결…과기정통부, 'AI 페스타' 개최",
+        "summary": "[디지털투데이 이진호 기자] 과학기술정보통신부가 오는 6일부터 8일까지 서울 코엑스에서 'AI 주간 2026-AI 페스타'를 개최한다. 국내외 AI 기업과 기관 350여개사가 참여해 500여개 전시 부스를 운영한다.과기정통부는 한국인공지능·소프트웨어산업협회(KOSA), AI페스타조직위원회와 함께 'AI, 현실이 되다. 모두의 AI'를 슬로건으로 이번 행사를 ...",
+        "source": "디지털투데이",
+        "publishedAt": "2026-10-05",
+        "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=704948",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.fYJygEBLCbxE6ip8gUg2GQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "두산로보틱스, 989억원 규모 ‘피지컬 AI’ 국책과제 2건 수주",
+        "summary": "두산로보틱스는 산업통상부와 한국산업기술기획평가원이 주관한 피지컬 인공지능(AI) 관련 국책과제 2건에 선정됐다고 6일 밝혔다. 두 과제의 총 연구개발비는 약 989억원으로, 이 가운데 정부 지원금은 약 681억원이다. 첫 번째 과제인 ‘온디바이스 AI 반도체 기반 차세 ...",
+        "source": "브릿지경제",
+        "publishedAt": "2026-10-06",
+        "url": "https://www.viva100.com/article/20261006500433",
+        "imageUrl": "https://www.bing.com/th?id=ONUT._KxPmVPxaevUsmxfQ8BLTg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI가 발전기 고치고, 농장 전력량 줄이고 … 제주 산업현장 바뀐다",
+        "summary": "제주 풍력발전기 날개 안으로 소형 로봇이 들어가 균열과 부식을 찾아낸다. 인공지능(AI)은 발견된 결함을 분석해 수리 방법과 비용까지 계산한다. 전력 사용량이 많은 식물공장에서는 태양광 발전량과 전력 수요를 예측해 작물 생육 속도를 높인다. 에너지 효율을 높여 전기료 절감도 뒤따른다. 제주에서 이처럼 풍력발전과 스마트팜 등 산업 현장의 난제를 AI로 해결하 ...",
+        "source": "매일경제",
+        "publishedAt": "2026-10-05",
+        "url": "https://www.mk.co.kr/news/business/12168456",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.e49V3FznEQ8f-dlfN09ZXg&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-10-05",
     "windowStart": "2026-10-03T22:00:00.000Z",
     "windowEnd": "2026-10-04T22:00:00.000Z",
@@ -533,103 +612,6 @@
         "publishedAt": "2026-09-29",
         "url": "https://www.mk.co.kr/news/business/12163353",
         "imageUrl": "https://www.bing.com/th?id=ONUT.AlknNEEkGg-N7PjVeLENKg&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-09-29",
-    "windowStart": "2026-09-27T22:00:00.000Z",
-    "windowEnd": "2026-09-28T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "[규제 묶인 NPO③] \"사회 환원도 맘대로 못해\"… '한국형 게이츠 재단' 막는 빗장",
-        "summary": "세계적 자산가 빌 게이츠가 설립한 '게이츠 재단'은 2045년 12월31일자로 문을 닫는다. 향후 20년 동안 2000억달러(약 270조원)에 달하는 그의 재산 대부분을 공익사업에 투입한 뒤 해산하는 이른바 '선셋 ...",
-        "source": "아시아경제 on MSN",
-        "publishedAt": "2026-09-29",
-        "url": "https://www.msn.com/ko-kr/news/other/%EA%B7%9C%EC%A0%9C-%EB%AC%B6%EC%9D%B8-npo-%EC%82%AC%ED%9A%8C-%ED%99%98%EC%9B%90%EB%8F%84-%EB%A7%98%EB%8C%80%EB%A1%9C-%EB%AA%BB%ED%95%B4-%ED%95%9C%EA%B5%AD%ED%98%95-%EA%B2%8C%EC%9D%B4%EC%B8%A0-%EC%9E%AC%EB%8B%A8-%EB%A7%89%EB%8A%94-%EB%B9%97%EC%9E%A5/ar-AA2d9ywA",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.jvKk8BeiaebkpDSkig6ASQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "“지금까지 이런 수입차 브랜드는 없었다”…한국에 진심, 역시 차원이 달라",
-        "summary": "BMW그룹, 15년간 한국과 함께 성장 한국 사회 성장과 가치 창출에 한몫 BMW코리아미래재단, 사회공헌 메카 운전자·보행자 등으로 교육대상 확대 BMW 드라이빙 센터 [사진출처=BMW] “한국에서 돈만 벌고 끝? 한국에도 큰 기여” BMW그룹과 한국과의 관계는 자동차 판매 그 이상이다. BMW그룹은 지난 30년간 국내 진출한 수입차 브랜드 중 한국 사회에 ...",
-        "source": "매일경제 on MSN",
-        "publishedAt": "2026-09-28",
-        "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%EC%A7%80%EA%B8%88%EA%B9%8C%EC%A7%80-%EC%9D%B4%EB%9F%B0-%EC%88%98%EC%9E%85%EC%B0%A8-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%8A%94-%EC%97%86%EC%97%88%EB%8B%A4-%ED%95%9C%EA%B5%AD%EC%97%90-%EC%A7%84%EC%8B%AC-%EC%97%AD%EC%8B%9C-%EC%B0%A8%EC%9B%90%EC%9D%B4-%EB%8B%AC%EB%9D%BC/ar-AA2d7bya",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.XV52T05YtfX0JRsxsz6FCg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "뉴스보다 빠른 김지은의 이슈전파사... 평일 오후 3시 LIVE [알립니다]",
-        "summary": "한국일보 시사 유튜브 ‘김지은의 이슈전파사’가 28일부터 평일 오후 3시 시청자를 찾아갑니다. 그동안 오후 6시에 하루의 이슈를 정리해온 이슈전파사는 앞으로 3시간 먼저 그날의 핵심 이슈와 쟁점을 짚고 뉴스를 보는 기준을 ...",
-        "source": "한국일보 on MSN",
-        "publishedAt": "2026-09-28",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%89%B4%EC%8A%A4%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EA%B9%80%EC%A7%80%EC%9D%80%EC%9D%98-%EC%9D%B4%EC%8A%88%EC%A0%84%ED%8C%8C%EC%82%AC-%ED%8F%89%EC%9D%BC-%EC%98%A4%ED%9B%84-3%EC%8B%9C-live-%EC%95%8C%EB%A6%BD%EB%8B%88%EB%8B%A4/ar-AA2d4Jg6",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ebCmupLelPFnvZQaJGf1xg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "'기독교' 박위, 목사마저 일침..\"선한 영향력? 오만해서 그렇다\" [Oh!쎈 이슈]",
-        "summary": "‘위라클’ 박위가 사회복무요원 저격 논란 이후 긴 침묵을 이어가고 있는 가운데 목사로부터 비판을 받았다. 박요한 목사는 지난 19일 자신의 유튜브 채널을 통해 “박위라는 기독고 청년이 있다. 척추가 다쳐 장애인이 ...",
-        "source": "미주중앙일보",
-        "publishedAt": "2026-09-23",
-        "url": "https://www.koreadaily.com/article/20260922230817282",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.JNENvRoDMROU_72l6FYe2A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "청년정책, ‘사후 지원’서 ‘사전 투자’로…자립·도약 뒷받침 [예방국가: 위기보다 한 발 먼저 ④]",
-        "summary": "청년이 취업에 실패하거나 경제적 어려움에 빠진 뒤 지원하는 데 머물렀던 청년정책의 무게중심이 사회에 첫발을 내딛는 단계부터 기회를 넓히는 ‘사전 투자’로 옮겨가고 있다. 정부는 ‘청년의 정책 참여 확대와 기본생활 지원으로 함께 만드는 미래’를 국정과제 89번으로 정하고 ...",
-        "source": "경기일보",
-        "publishedAt": "2026-09-17",
-        "url": "https://www.kyeonggi.com/article/20260916580493",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.NKAfveg6WMRYJJBF08qTPQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "인공지능 관련 주요 법제 정비 및 허위조작정보 관련 법 개정 동향",
-        "summary": "인공지능 발전과 신뢰 기반 조성 등에 관한 기본법(이하 “인공지능기본법”)과 개인정보 보호법 등 인공지능과 관련된 주요 법제가 정비되고 있습니다. 또한, 온라인상 허위조작정보의 유통을 금지하고 대규모 정보 공유 플랫폼에 유통방지 의무를 부과하는 개정 정보통신망 이용촉진 및 정보보호 등에 관한 법률(이하 “정보통신망법”)이 2026. 7. 7.부터 시행되었습",
-        "source": "법률신문",
-        "publishedAt": "2026-09-28",
-        "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226937",
-        "imageUrl": "/th?id=ONUT.wDbY5Eksf6VwnQalbC1iSQ&pid=News"
-      },
-      {
-        "category": "ai",
-        "title": "삼성, 美 AI 인프라 기업 헬릭스에 10억달러 투자…반도체 넘어 데이터센터로",
-        "summary": "삼성전자 5억달러·5개 관계사 5억달러 투자 KKR·KIA 등과 창립 투자자로 참여 데이터센터·전력·냉각 아우른 AI 생태계 공략 [연합뉴스] 삼성전자·삼성물산·삼성SDS·삼성SDI·삼성생명·삼성화재 등 삼성 6개사가 미국 인공지능(AI) 인프라 기업 ‘헬릭스 디지털 인프라스트럭처’에 총 10억달러(약 1조3600억원)를 투자한다. AI 반도체를 넘어 데이 ...",
-        "source": "매일경제 on MSN",
-        "publishedAt": "2026-09-29",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%82%BC%EC%84%B1-%E7%BE%8E-ai-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B8%B0%EC%97%85-%ED%97%AC%EB%A6%AD%EC%8A%A4%EC%97%90-10%EC%96%B5%EB%8B%AC%EB%9F%AC-%ED%88%AC%EC%9E%90-%EB%B0%98%EB%8F%84%EC%B2%B4-%EB%84%98%EC%96%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%EB%A1%9C/ar-AA2d9qOa",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.UKSPmMYKsISDQ9gui-ATeA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "파워넷, AI 데이터센터 전원기술 국산화…8kW급 PSU·800VDC로 확대",
-        "summary": "전원공급장치 전문기업 파워넷이 생성형 AI 확산에 따른 데이터센터 전력 수요 증가에 대응해 AI 서버용 핵심 전원기술 국산화와 제품 포트폴리오 확대에 나선다. 한양대학교 ERICA와 8kW급 전원공급장치(PSU)의 핵심 제어기술을 공동 개발하고, 공통 이중화 전원공급장치(CRPS)와 800VDC 기반 고전압 전원공급장치까지 기술 영역을 넓힌다는 계획이다.",
-        "source": "이투데이 on MSN",
-        "publishedAt": "2026-09-29",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EB%B0%8F-%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4/%ED%8C%8C%EC%9B%8C%EB%84%B7-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%A0%84%EC%9B%90%EA%B8%B0%EC%88%A0-%EA%B5%AD%EC%82%B0%ED%99%94-8kw%EA%B8%89-psu-800vdc%EB%A1%9C-%ED%99%95%EB%8C%80/ar-AA2d9KoL",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.POjRoZ9k76ZFMK_H8-Mv_A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "\"中 전체 용량 5분의 1 삼켰다\"… 바이트댄스, 中 AI 데이터센터 최대 임차인 등극",
-        "summary": "생성형 인공지능(AI) 서비스의 폭발적인 확산으로 중국 내 데이터센터 인프라 건설 붐이 가속화되는 가운데, 동영상 플랫폼 틱톡(TikTok)과 더우인의 모기업인 바이트댄스(ByteDance)가 중국 전역에 구축된 데이터센터 전체 전력 용량의 약 20%를 홀로 점유하며 국가 최대의 임차인 ...",
-        "source": "글로벌이코노믹",
-        "publishedAt": "2026-09-28",
-        "url": "https://www.g-enews.com/article/Global-Biz/2026/09/2026092908300938370c8c1c064d_1",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.iN6MHb_dlxUxGGw09KUrsQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "삼성, AI 인프라 생태계 공략…‘헬릭스’에 10억 달러 투자",
-        "summary": "[뉴스투데이=전소영 기자] 삼성 주요 6개 계열사가 글로벌 투자회사 KKR이 설립한 AI(인공지능) 인프라 기업에 공동 투자해 글로벌 AI 데이터센터 생태계 공략에 나선다. 삼성전자·삼성물산·삼성SDS·삼성SDI·삼성생명·삼성화재는 29일 KKR이 설립한 ‘헬릭스 디지 ...",
-        "source": "뉴스투데이",
-        "publishedAt": "2026-09-29",
-        "url": "https://www.news2day.co.kr/article/20260929500020",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.MA1VYox7U62ALY5ymKMWVw&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
