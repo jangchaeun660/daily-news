@@ -1,79 +1,97 @@
 {
-  "updatedAt": "2026-10-06",
-  "windowStart": "2026-10-04T22:00:00.000Z",
-  "windowEnd": "2026-10-05T22:00:00.000Z",
+  "updatedAt": "2026-10-07",
+  "windowStart": "2026-10-05T22:00:00.000Z",
+  "windowEnd": "2026-10-06T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "‘기간제’ 권하는 사회?...계약직 역대 최대인데 ‘4년 연장’까지",
-      "summary": "【투데이신문 권신영 기자】300인 이상 기업의 기간제·단시간 노동자 규모가 역대 최대치를 기록했다. 이런 가운데 정부가 메가특구 내 기간제 노동자의 사용기간을 현행 2년에서 최대 4년으로 늘리는 특례를 추진하면서 고용불안이 장기화할 수 있다는 우려가 나온다.30일 고용노동부(이하 노동부)가 발표한 ‘2026년 고용형태 공시 결과’에 따르면 올해 3월 31일 ...",
-      "source": "투데이신문",
-      "publishedAt": "2026-09-30",
-      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129755",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.rBL5KuNlZzTLX0LYhTSoaQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "뉴스보다 빠른 김지은의 이슈전파사... 평일 오후 3시 LIVE [알립니다]",
-      "summary": "한국일보 시사 유튜브 ‘김지은의 이슈전파사’가 28일부터 평일 오후 3시 시청자를 찾아갑니다. 그동안 오후 6시에 하루의 이슈를 정리해온 이슈전파사는 앞으로 3시간 먼저 그날의 핵심 이슈와 쟁점을 짚고 뉴스를 보는 기준을 ...",
-      "source": "한국일보 on MSN",
-      "publishedAt": "2026-09-28",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%89%B4%EC%8A%A4%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EA%B9%80%EC%A7%80%EC%9D%80%EC%9D%98-%EC%9D%B4%EC%8A%88%EC%A0%84%ED%8C%8C%EC%82%AC-%ED%8F%89%EC%9D%BC-%EC%98%A4%ED%9B%84-3%EC%8B%9C-live-%EC%95%8C%EB%A6%BD%EB%8B%88%EB%8B%A4/ar-AA2d4Jg6",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ebCmupLelPFnvZQaJGf1xg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[포토뉴스]한국기후변화연구원, 1일 지역사회 나눔 실천 공로 춘천시장 표창 수상",
-      "summary": "한국기후변화연구원은 1일 춘천연탄은행 행복센터에서 지역사회 나눔문화 확산과 이웃사랑 실천에 기여한 공로로 춘천시장 표창을 수상했다. 연구원은 지난 2017년부터 매년 연탄은행을 통해 연탄을 구입해 지역 내 에너지 취약계층에 전달하고, 임직원이 직접 연탄 배달 봉사에 참 ...",
-      "source": "강원일보",
-      "publishedAt": "2026-10-01",
-      "url": "https://kwnews.co.kr/article/20261001501011",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.GxfhV6HUYEILTcNx8ASQXA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "인하대, 'AX 대학원' 선정…산업현장 AI 전환 석·박사 양성",
-      "summary": "인하대, 'AX 대학원' 선정…산업현장 AI 전환 석·박사 양성 (인천=연합뉴스) 황정환 기자 = 인하대학교는 과학기술정보통신부가 추진하는 '인공지능혁신(AX) 대학원 사업'에 최종 선정돼 국비 162억5천만원을 지원받는다고 6일 밝혔다. 이 사업은 산업 현장에 인..",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-10-05",
-      "url": "https://www.fnnews.com/news/202610060901031085",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Qq53j-Le8bI8KsM3biSdIA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "국산 AI 칩으로 판단하고 숙련공 용접 배운다…두산로보틱스, 국책과제 선정",
-      "summary": "【뉴스퀘스트=이승주 기자】 두산로보틱스가 국산 AI 반도체를 탑재한 협동로봇과 원전 기자재용 지능형 용접 기술 개발에 나선다. 로봇이 현장에서 스스로 판단하는 기반 기술과 숙련공의 작업을 재현하는 응용 기술을 함께 개발해 제조업 자동화 시장을 공략한다. 두산로보틱스는 산업통상부와 한국산업기술기획평가원이 공동 주관한 ‘K-온디바이스 AI 반도체 기술개발사업’ ...",
-      "source": "뉴스퀘스트",
-      "publishedAt": "2026-10-05",
-      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302029",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ZrFuqrPK4ITvUUnOOvOAZA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "국내외 AI 기업 350곳 집결…과기정통부, 'AI 페스타' 개최",
-      "summary": "[디지털투데이 이진호 기자] 과학기술정보통신부가 오는 6일부터 8일까지 서울 코엑스에서 'AI 주간 2026-AI 페스타'를 개최한다. 국내외 AI 기업과 기관 350여개사가 참여해 500여개 전시 부스를 운영한다.과기정통부는 한국인공지능·소프트웨어산업협회(KOSA), AI페스타조직위원회와 함께 'AI, 현실이 되다. 모두의 AI'를 슬로건으로 이번 행사를 ...",
-      "source": "디지털투데이",
-      "publishedAt": "2026-10-05",
-      "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=704948",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.fYJygEBLCbxE6ip8gUg2GQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "두산로보틱스, 989억원 규모 ‘피지컬 AI’ 국책과제 2건 수주",
-      "summary": "두산로보틱스는 산업통상부와 한국산업기술기획평가원이 주관한 피지컬 인공지능(AI) 관련 국책과제 2건에 선정됐다고 6일 밝혔다. 두 과제의 총 연구개발비는 약 989억원으로, 이 가운데 정부 지원금은 약 681억원이다. 첫 번째 과제인 ‘온디바이스 AI 반도체 기반 차세 ...",
-      "source": "브릿지경제",
+      "title": "[대한민국 사회안전망의 그늘, 고독사 보험 ③-完]사회·공공주택 확충 시급...임대인 인식개선도 절실",
+      "summary": "사회적 핫이슈로 급부상한 고독사 관련 위험자를 찾아낼 체계는 커지고 있는데, 임대인이 사망 뒤 부담할 비용을 나누는 보험은 국내 보험시장에서 사실상 자리를 잡지 못했다. DB손해보험이 2017년 관련 상품을 내놨지만 올해 5월 파악된 가입 실적은 미미했다.7일 관련 업계 등에 따르면 보건복지부는 올해 2월 고독사위기대응시스템을 개통했다. 체납과 전기사용량 ...",
+      "source": "핀포인트뉴스",
       "publishedAt": "2026-10-06",
-      "url": "https://www.viva100.com/article/20261006500433",
-      "imageUrl": "https://www.bing.com/th?id=ONUT._KxPmVPxaevUsmxfQ8BLTg&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492094",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.X9dppQ7eVfZJhmUEXD-ukw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "한국사회공헌협회, 10월 사회공헌프렌즈데이 성료… 버터플라이 팀 최종 우승",
+      "summary": "행정안전부 소관 공익법인 한국사회공헌협회 (회장 국도형)가 지난 3일 서울 송파구 KT송파빌딩에서 '10월 사회공헌프렌즈데이'를 성황리에 마무리했다. 사회공헌프렌즈데이는 협회가 매월 여는 정기 행사로, 청년챔프단과 사회적인플루언서, 기업인, 임원진이 한자리에 모이는 자리다. 이날 행사는 오후 2시부터 4시까지 두 시간 동안 진행됐다.",
+      "source": "티티엘뉴스",
+      "publishedAt": "2026-10-06",
+      "url": "https://www.ttlnews.com/news/articleView.html?idxno=3149621",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.EKVxdchHCOa-lEORtVs2ew&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "MDPI, 한국제품안전학회와 맞손…국내 인문사회 분야 첫 제휴",
+      "summary": "이상우 MDPI 코리아 지사장은 “우수한 연구 역량을 보유한 한국제품안전학회와 인문사회 분야 첫 제휴 협약을 맺게 되어 뜻깊다”며 “앞으로도 국내 학계와의 긴밀한 협력을 통해 우리나라의 우수한 연구 성과가 전 세계에 더욱 신속하고 투명하게 확산될 수 있도록 지원하겠다”고 밝혔다. MDPI는 국내 연구자와 기관을 대상으로 한 협력도 확대하고 있다. 2024년 ...",
+      "source": "뉴스탭",
+      "publishedAt": "2026-10-07",
+      "url": "https://www.newstap.co.kr/news/articleView.html?idxno=335330",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.e-Eg4vQiToonZ0A1VjZUkg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "'부자 나무' 예천 석송령, 사회문화적 가치 검증 받는다",
+      "summary": "'부자 나무' 예천 석송령, 사회문화적 가치 검증 받는다 (예천=연합뉴스) 김현태 기자 = 경북 예천군 예천박물관은 천연기념물 소나무인 석송령의 토지등기 100주년을 기념하는 '한국의 인격수 가치 증진 연구사업'이 2027년도 국가유산청 국비 지원 사업에 최종 선정..",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-10-06",
+      "url": "https://www.fnnews.com/news/202610070643418257",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.81Jjhe7JFHq6Fvb28PZNhQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[포토뉴스]한국건강관리협회 강원특별자치도지부-한국자유총연맹 춘천시지회, 건강증진 업무협약 체결",
+      "summary": "한국건강관리협회 강원특별자치도지부는 6일 협회 회의실에서 한국자유총연맹 춘천시지회와 건강증진을 위한 업무협약을 체결했다. 이번 협약은 양기관의 상호 협력을 통해 회원들의 건강검진 참여 기회를 확대하고, 질환 조기 발견과 예방을 위해 마련됐다. 한국건강관리협회 강원특별자 ...",
+      "source": "강원일보",
+      "publishedAt": "2026-10-06",
+      "url": "https://kwnews.co.kr/article/20261006501329",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.6KxQGmJBYciaYwTKBwPkbA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "AI가 발전기 고치고, 농장 전력량 줄이고 … 제주 산업현장 바뀐다",
-      "summary": "제주 풍력발전기 날개 안으로 소형 로봇이 들어가 균열과 부식을 찾아낸다. 인공지능(AI)은 발견된 결함을 분석해 수리 방법과 비용까지 계산한다. 전력 사용량이 많은 식물공장에서는 태양광 발전량과 전력 수요를 예측해 작물 생육 속도를 높인다. 에너지 효율을 높여 전기료 절감도 뒤따른다. 제주에서 이처럼 풍력발전과 스마트팜 등 산업 현장의 난제를 AI로 해결하 ...",
+      "title": "인공지능 활용 화재원인 10초내 판별",
+      "summary": "[의학신문·일간보사=이정윤 기자] 화재원인을 인공지능을 활용해 10초 안에 판별하는 기법이 개발됐다. 한국전기안전공사(사장 남화영)는 조사관의 판단에 의존하던 전기화재 원인조사에 인공지능(AI)을 도입해 데이터 기반 판별이 가능한 앱을 개발·운영하고 있는데 최장 10일이 걸리던 원인 판별 시간을 10초 안으로 줄이며 화재조사기법을 한 단계 발전시켰다고 7일 ...",
+      "source": "의학신문",
+      "publishedAt": "2026-10-06",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013408",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.UckW4nPL5xeWSciuISTL7A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "인천시, 피지컬 인공지능 실증센터 구축 착수",
+      "summary": "인천시는 2026년 피지컬 인공지능(AI) 실증센터 구축 및 운영 사업에 착수하고, 인천글로벌캠퍼스 내에 기술의 모사 및 가상환경 실증을 뒷받침할 ‘인천 피지컬 인공지능(AI) 실증센터’ 구축에 돌입했다고 7일 밝혔다. 시에 따르면 이번 사업은 지역 제조 및 물류 등 주력산업과 피지컬 인공지능(AI) 기술의 융합을 촉진하고, 기술 검증에서 실제 현장 적용에 ...",
+      "source": "뉴시스 on MSN",
+      "publishedAt": "2026-10-07",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EC%B2%9C%EC%8B%9C-%ED%94%BC%EC%A7%80%EC%BB%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%8B%A4%EC%A6%9D%EC%84%BC%ED%84%B0-%EA%B5%AC%EC%B6%95-%EC%B0%A9%EC%88%98/ar-AA2dHPN4",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.wM6dul-EkXQDwQlkkxDZlg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "인공지능 활용으로 위해성 평가기간 70% 이상 단축",
+      "summary": "[헤럴드경제=이태형 기자] 기후에너지환경부 소속 국립환경과학원은 화학물질 위해성 평가에 활용되는 유해성 자료를 인공지능(AI)이 자동으로 수집·추출해 데이터베이스로 구축하는 기술을 개발하고 국제 특허를 출원한다고 7일 밝혔다. 위해성 평가는 화학물질이 얼마나 유해한지와 그 물질이 사람이나 환경에 얼마나 영향을 미치는지를 종합해 위험한 정도를 판단하는 과정으 ...",
+      "source": "헤럴드경제 on MSN",
+      "publishedAt": "2026-10-07",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%99%9C%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%9C%84%ED%95%B4%EC%84%B1-%ED%8F%89%EA%B0%80%EA%B8%B0%EA%B0%84-70-%EC%9D%B4%EC%83%81-%EB%8B%A8%EC%B6%95/ar-AA2dIufh",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.w29MLQ1bO6r7HPvZlkyqSg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "“카본매트도 AI(인공지능) 시대. 사람이 있을 땐 알아서 맞추고 아무도 없을 땐 알아서 아끼는.”(지진희)",
+      "summary": "“카본매트도 AI(인공지능) 시대. 사람이 있을 땐 알아서 맞추고 아무도 없을 땐 알아서 아끼는.”(지진희) 6일 귀뚜라미는 ‘귀뚜라미보일러 AI’와 ‘귀뚜라미 카본매트 AI’의 주요 기능을 담은 신규 CF 2편을 공개했다고 밝혔다. 귀뚜라미보일러 AI에 적용된 ‘AI 방방난방 시스템’은 사용자의 생활패턴에 맞춰 공간별 난방을 더욱 편리하고 효율적으로 관리 ...",
       "source": "매일경제",
-      "publishedAt": "2026-10-05",
-      "url": "https://www.mk.co.kr/news/business/12168456",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.e49V3FznEQ8f-dlfN09ZXg&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-10-06",
+      "url": "https://www.mk.co.kr/news/pick/12169595",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.F5vWrGhqy_dSaQR4AfmZDw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "[굿모닝! 글로벌 뉴욕증시] 인공지능(AI)에 따른 주요 기업들의 실적 기대감에 상승 마감",
+      "summary": "뉴욕증시는 美 국채금리 상승세가 진정되고 국제유가가 약세를 보이면서 투심을 끌어 올렸고 다음주 본격적인 실적 발표 시즌에 따른 주요 기업들의 실적 기대감이 커지면서 3대 지수 모두 상승 마감했다. 웰스파이어 어드바이저스의 올리버 퍼시 수석부사장은 \"유가가 안정되거나 내려가면 에너지발 물가에 대한 불안이 줄어 금리가 내려가고, 그것이 다시 주가를 끌어올린다\" ...",
+      "source": "뉴스퀘스트",
+      "publishedAt": "2026-10-06",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302151",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.eGqj07Hv7mCYr2p6Ak8xog&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
