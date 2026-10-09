@@ -1,34 +1,52 @@
 {
-  "updatedAt": "2026-10-08",
-  "windowStart": "2026-10-06T22:00:00.000Z",
-  "windowEnd": "2026-10-07T22:00:00.000Z",
+  "updatedAt": "2026-10-09",
+  "windowStart": "2026-10-07T22:00:00.000Z",
+  "windowEnd": "2026-10-08T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "보험GA협회-한국손해사정사회, '소비자보호인증설계사' 제도 본격 시행...제1기 정규교육과정 개강",
-      "summary": "(사)한국보험대리점협회(회장 김용태)는 (사)한국손해사정사회(회장 민병진)와 함께 '소비자보호인증설계사'인증제도를 도입·시행하고, 10월 7일 제1기 정규교육과정을 개강했다고 밝혔다.'소비자보호인증설계사'는 소비자보호 역량과 전문성을 갖춘 보험설계사를 교육하고 인증하는 제도다. 보험계 ...",
-      "source": "보험저널",
-      "publishedAt": "2026-10-07",
-      "url": "https://www.insjournal.co.kr/news/articleView.html?idxno=33362",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.8ws5xPirjHMsmIMHxMTeNQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "환영사 하는 김형철 한국지능정보사회진흥원 원장",
-      "summary": "(서울=연합뉴스) 김형철 한국지능정보사회진흥원 원장이 7일 서울 중구 커뮤니티하우스 마실에서 열린 '청년 공공AX 서포터즈' 발대식에서 환영사를 하고 있다. 2026.10.7 [행정안전부 제공. 재판매 및 DB 금지] 제보는 카카오톡 okjebo 2026/10/07 15:42 송고 2 ...",
-      "source": "연합뉴스",
-      "publishedAt": "2026-10-07",
-      "url": "https://www.yna.co.kr/view/PYH20261007231200013",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.eNJz7PF5mcsqFex_-d2pZg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "'부자 나무' 예천 석송령, 사회문화적 가치 검증 받는다",
-      "summary": "'부자 나무' 예천 석송령, 사회문화적 가치 검증 받는다 (예천=연합뉴스) 김현태 기자 = 경북 예천군 예천박물관은 천연기념물 소나무인 석송령의 토지등기 100주년을 기념하는 '한국의 인격수 가치 증진 연구사업'이 2027년도 국가유산청 국비 지원 사업에 최종 선정..",
+      "title": "與김병주 \"방산5사 영업이익 2.7조인데…사회공헌 지출은 1% 미만\"",
+      "summary": "與김병주 \"방산5사 영업이익 2.7조인데…사회공헌 지출은 1% 미만\" 사회공헌 지출액 173억…매출액 대비 비중도 대기업 평균 밑돌아 (서울=연합뉴스) 최주성 기자 = 국내 주요 방산기업들이 사상 최대 규모 실적을 올리고 있음에도 사회공헌 활동에는 미진하다는 지..",
       "source": "파이낸셜뉴스",
-      "publishedAt": "2026-10-07",
-      "url": "https://www.fnnews.com/news/202610070643418257",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.81Jjhe7JFHq6Fvb28PZNhQ&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-10-08",
+      "url": "https://www.fnnews.com/news/202610090700238327",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.yDoFTK7ruKa9-fy2_KHh8A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "“존엄한 노년과 사회참여 권리 실현”… '노인인권을 지지하는 사람들' 공식 출범",
+      "summary": "한국노인종합복지관협회(회장 김형식)가 후원한 '노인인권을 지지하는 사람들'(약칭 노인지사)의 출범식 및 토론회가 지난 7일 서울 여의도 국회의원회관 제2세미나실에서 열렸다.노인지사는 노인을 존엄과 권리를 지닌 시민으로 존중하고, 스스로 삶을 선택하며 사회에 활발히 참여할 권리를 보장하자는 취지로 마련됐다. 이번 출범식에는 최영애와 이혜경 공동대표를 비롯해 ...",
+      "source": "복지타임즈",
+      "publishedAt": "2026-10-08",
+      "url": "http://www.bokjitimes.com/news/articleView.html?idxno=44411",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.mhQTjuR6PFQ_iPgg5p8EFQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "유니세프 한국위, 기업 사회공헌 모색 '파트너십 포럼' 개최",
+      "summary": "유니세프 한국위, 기업 사회공헌 모색 '파트너십 포럼' 개최 (서울=연합뉴스) 정아란 기자 = 유니세프 한국위원회가 기업의 특성과 강점을 살린 사회공헌 방향을 모색하는 '2026 기업 파트너십 포럼'을 열었다. 유니세프 한국위원회는 지난 1일 서울 마포구 사옥..",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-10-08",
+      "url": "https://www.fnnews.com/news/202610081417053917",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.aesKpzOrYL_Dl1OoL_fWTw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "한국사회보장정보원, 대구·경북 대학 찾아 '희망이음' 실습교육 확대",
+      "summary": "이로운넷 = 이수진 에디터사회복지 현장에서 사용하는 정보시스템을 대학 재학 중 미리 익힐 수 있도록 예비사회복지사 대상 실무교육이 대구·경북 지역 대학으로 확대된다.한국사회보장정보원(원장 김현준) 대구경북지역센터는 예비사회복지사를 대상으로 지역 대학을 직접 찾아가는 사회서비스정보시스템 ...",
+      "source": "이로운넷",
+      "publishedAt": "2026-10-08",
+      "url": "https://www.eroun.net/news/articleView.html?idxno=91896",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Vkujy7ZkX-F76JMo0tMtMw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "케이블TV '미디어 기본 사회' 3대 약속…지역뉴스·모두의TV·AI교육",
+      "summary": "한국케이블TV방송협회(협회)가 '미디어 기본사회' 구축을 위한 실천 계획으로 지역뉴스·모두의TV·인공지능(AI) 교육을 내세웠다. 이는 AI 시대에도 지역 미디어의 역할이 사라지지 않도록 하기 위한 계획이다. 협회는 8일 서울 가든호텔에서 '미디어 기본사회 케이블TV가 잇겠습니다'기자 ...",
+      "source": "블로터",
+      "publishedAt": "2026-10-08",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675294",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.q_OjjLubZ6s4H4P0Au1ZKg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
@@ -41,39 +59,30 @@
     },
     {
       "category": "ai",
-      "title": "KTC 기계ISC, ‘AI 융합산업 HRD포럼’ 공동 개최",
-      "summary": "한국기계전기전자시험연구원(원장 양병내, 이하 KTC) 기계산업 인적자원개발위원회(기계ISC)는 자동차ISC, 재료ISC, 정보기술·사업관리ISC와 공동으로 7일 코엑스에서 ‘2026 AI 융합산업 인적자원개발(HRD) 포럼’을 개최했다고 밝혔다.포럼에는 고용노동부, AI에 따른 산업전환에 관심 있는 기업 관계자 및 전문가 등 약 200명이 참석했다.4개 I ...",
-      "source": "일렉타임즈",
-      "publishedAt": "2026-10-07",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=373210",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.d_86Y4dXRAmKaO08h-DxHw&pid=News&w=1200&h=675&c=14"
+      "title": "뉴엔AI, 코오롱베니트 AI 생태계 합류…산업 AX 사업 박차",
+      "summary": "산업 맞춤형 인공지능(AI) 분석 기업 뉴엔AI가 AI 협력 생태계에 합류한다. 코오롱베니트가 보유한 고객 네트워크와 연계해 AI 전환(AX) 사업을 확대할 계획이다. 8일 뉴엔AI는 코오롱베니트와 ‘코오롱베니트 AI 얼라이언스’ 프로젝트 참여를 위한 전략적 업무협약(MOU)을 맺었다고 밝혔다. 코오롱베니트 AI 얼라이언스는 참여사의 기술을 실제 고객 프로 ...",
+      "source": "매일경제",
+      "publishedAt": "2026-10-08",
+      "url": "https://www.mk.co.kr/news/business/12171515",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.SJJAc2GgwdhdzqQO58AIBA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "킨텍스, 건설부터 도시까지…'AI 안전기술' 한자리에",
+      "summary": "10월14~16일 건설·안전박람회와 도시안전기술 박람회 동시 개최 300여 전문기업 참여…AI 사고예측·로봇·드론 등 최신 기술 선봬 킨텍스는 오는 14일부터 16일까지 제1전시장에서 '2026 한국건설·안전박람회'와 '2026 도시안전기술 박람회'를 동시 개최한다고 8일 밝혔다. 이번 행사에는 건설·산업 현장과 도시 안전 분야 300여개 전문기업이 참여한 ...",
+      "source": "머니투데이 on MSN",
+      "publishedAt": "2026-10-08",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%82%A8%ED%85%8D%EC%8A%A4-%EA%B1%B4%EC%84%A4%EB%B6%80%ED%84%B0-%EB%8F%84%EC%8B%9C%EA%B9%8C%EC%A7%80-ai-%EC%95%88%EC%A0%84%EA%B8%B0%EC%88%A0-%ED%95%9C%EC%9E%90%EB%A6%AC%EC%97%90/ar-AA2dMM0W",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.5cc180256fe37f6d2636597e420bb098&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
       "title": "‘누가 AI를 소유했나’…갈라지는 산업 생태계 [AI 신계급사회]",
       "summary": "AI 시대 자체 모델과 인프라 확보가 산업계에서 새로운 지배력의 원천으로 부상하고 있다. 자체 AI 모델과 그래픽처리장치(GPU), 데이터센터 등 인프라를 확보하거나 특화서비스로 독자적인 데이터를 축적할 수 있는 기업들은 경쟁 우위에 설 수 있지만, 해외 모델의 앱 응용프로그램 인터페이스(API)를 빌려 단순 서비스를 제공하는 기업들은 비용 부담과 기술 주 ...",
       "source": "이투데이 on MSN",
-      "publishedAt": "2026-10-07",
+      "publishedAt": "2026-10-08",
       "url": "https://www.msn.com/ko-kr/news/other/%EB%88%84%EA%B0%80-ai%EB%A5%BC-%EC%86%8C%EC%9C%A0%ED%96%88%EB%82%98-%EA%B0%88%EB%9D%BC%EC%A7%80%EB%8A%94-%EC%82%B0%EC%97%85-%EC%83%9D%ED%83%9C%EA%B3%84-ai-%EC%8B%A0%EA%B3%84%EA%B8%89%EC%82%AC%ED%9A%8C/ar-AA2dLM8G",
       "imageUrl": "https://www.bing.com/th?id=ONUT.E2-u3g1bWKqqZHsLxF9igw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "한국전력기술, AI 리더십 강화하고 협력사와 노하우 나눈다",
-      "summary": "[에너지데일리 송병훈 기자] 한국전력기술(사장 김태균)은 지난 6일 김천 본사에서 임원 및 부서장이 함께하는 ‘2026년 AX시대 리더십 교육’을 실시했다고 밝혔다. 이번 교육은 한전기술이 설계업무 전반에 인공지능(AI) 활용을 확대하는 가운데 일하는 방식과 조직문화를 변화시키기 위한 리더의 역할을 모색하기 위해 마련됐다. ‘AI 시대 리더의 역할 및 조직 ...",
-      "source": "에너지데일리",
-      "publishedAt": "2026-10-07",
-      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203905",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.RG1uIOH4gcOytuQgWxKvLg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "엘리스그룹, 모듈형 AI 데이터센터 'PMDC' 상표 등록",
-      "summary": "인공지능(AI) 풀스택 기업 엘리스그룹이 자체 개발한 모듈형 AI 데이터센터 ‘PMDC’의 상표권을 확보했다. 데이터센터 구축부터 AI 클라우드 운영까지 이어지는 자체 기술력을 바탕으로 국내외 AI 인프라 시장 공략을 강화한다. 엘리스그룹은 자체 개발한 모듈형 AI 데이터센터 ‘PMDC’의 상표권 등록을 완료했다고 8일 밝혔다. 엘리스그룹은 지난 9월 17 ...",
-      "source": "아주경제",
-      "publishedAt": "2026-10-07",
-      "url": "https://www.ajunews.com/view/20261008100115857",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.-PGFoNYg9Z8SVJcQRJB8EQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
