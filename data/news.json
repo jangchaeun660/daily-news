@@ -1,88 +1,97 @@
 {
-  "updatedAt": "2026-10-09",
-  "windowStart": "2026-10-07T22:00:00.000Z",
-  "windowEnd": "2026-10-08T22:00:00.000Z",
+  "updatedAt": "2026-10-10",
+  "windowStart": "2026-10-08T22:00:00.000Z",
+  "windowEnd": "2026-10-09T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "與김병주 \"방산5사 영업이익 2.7조인데…사회공헌 지출은 1% 미만\"",
-      "summary": "與김병주 \"방산5사 영업이익 2.7조인데…사회공헌 지출은 1% 미만\" 사회공헌 지출액 173억…매출액 대비 비중도 대기업 평균 밑돌아 (서울=연합뉴스) 최주성 기자 = 국내 주요 방산기업들이 사상 최대 규모 실적을 올리고 있음에도 사회공헌 활동에는 미진하다는 지..",
+      "title": "[천지일보 이슈종합] 오늘의이슈‧안보여론조사‧국산극초음속미사일‧노벨문학상‧국정감사‧농지전수조사‧경상수지흑자 ...",
+      "summary": "[천지일보=강수경 기자] 국민 10명 중 6명이 현재 우리나라의 안보 상황을 우려하고 있다는 여론조사 결과가 8일 나왔다. 우리 군은 독자 기술로 개발 중인 극초음속 활공비행체(HGV)의 첫 시험발사에 성공했다. 캐나다 출신의 시인이자 고전문학 연구자인 앤 카슨(76)이 2026년 노 ...",
+      "source": "천지일보",
+      "publishedAt": "2026-10-09",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3438984",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.lt2WCiXCbObPWuQljkM9qQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[신간] 한반도 화교사회 140년…'경계를 살아온 사람들'",
+      "summary": "[신간] 한반도 화교사회 140년…'경계를 살아온 사람들' 세상을 바꾼 혁신을 만드는 힘…'세상에서 가장 짧은 혁신의 역사' (서울=연합뉴스) 강종훈 기자 = ▲ 경계를 살아온 사람들 = 이정희 지음. 화교 사회를 오랫동안 연구해온 저자가 140년 넘게 한반도에서 ..",
       "source": "파이낸셜뉴스",
-      "publishedAt": "2026-10-08",
-      "url": "https://www.fnnews.com/news/202610090700238327",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.yDoFTK7ruKa9-fy2_KHh8A&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-10-09",
+      "url": "https://www.fnnews.com/news/202610100810369728",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.EYFO5t5sLwxobwsa3MK8lg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "“존엄한 노년과 사회참여 권리 실현”… '노인인권을 지지하는 사람들' 공식 출범",
-      "summary": "한국노인종합복지관협회(회장 김형식)가 후원한 '노인인권을 지지하는 사람들'(약칭 노인지사)의 출범식 및 토론회가 지난 7일 서울 여의도 국회의원회관 제2세미나실에서 열렸다.노인지사는 노인을 존엄과 권리를 지닌 시민으로 존중하고, 스스로 삶을 선택하며 사회에 활발히 참여할 권리를 보장하자는 취지로 마련됐다. 이번 출범식에는 최영애와 이혜경 공동대표를 비롯해 ...",
-      "source": "복지타임즈",
-      "publishedAt": "2026-10-08",
-      "url": "http://www.bokjitimes.com/news/articleView.html?idxno=44411",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.mhQTjuR6PFQ_iPgg5p8EFQ&pid=News&w=1200&h=675&c=14"
+      "title": "‘기간제’ 권하는 사회?...계약직 역대 최대인데 ‘4년 연장’까지",
+      "summary": "【투데이신문 권신영 기자】300인 이상 기업의 기간제·단시간 노동자 규모가 역대 최대치를 기록했다. 이런 가운데 정부가 메가특구 내 기간제 노동자의 사용기간을 현행 2년에서 최대 4년으로 늘리는 특례를 추진하면서 고용불안이 장기화할 수 있다는 우려가 나온다.30일 고용노동부(이하 노동부)가 발표한 ‘2026년 고용형태 공시 결과’에 따르면 올해 3월 31일 ...",
+      "source": "투데이신문",
+      "publishedAt": "2026-09-30",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129755",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.rBL5KuNlZzTLX0LYhTSoaQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "유니세프 한국위, 기업 사회공헌 모색 '파트너십 포럼' 개최",
-      "summary": "유니세프 한국위, 기업 사회공헌 모색 '파트너십 포럼' 개최 (서울=연합뉴스) 정아란 기자 = 유니세프 한국위원회가 기업의 특성과 강점을 살린 사회공헌 방향을 모색하는 '2026 기업 파트너십 포럼'을 열었다. 유니세프 한국위원회는 지난 1일 서울 마포구 사옥..",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-10-08",
-      "url": "https://www.fnnews.com/news/202610081417053917",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.aesKpzOrYL_Dl1OoL_fWTw&pid=News&w=1200&h=675&c=14"
+      "title": "[이슈5] 광화문 하늘 가로지른 아찔한 '외줄쇼'…국내 첫 슬랙라인에 \"와!\" 外",
+      "summary": "지금 이 시각 주목할만한 이슈 짚어보겠습니다. 서울 광화문 상공에서 국내 최초 슬랙라인 퍼포먼스가 열렸습니다. 아파트 40층 높이에 설치된 외줄 위를, 안전 줄 하나에만 의지한 채 가로지르는 아찔한 공연인데요. 시민들에게는 잊지 못할 추억이 됐습니다. 최덕재 기자입니다. 파주 냉동창고 살인사건 피의자가 구속 상태로 재판에 넘겨졌습니다. 검찰 ...",
+      "source": "연합뉴스TV on MSN",
+      "publishedAt": "2026-10-01",
+      "url": "https://www.msn.com/ko-kr/news/news/%EC%9D%B4%EC%8A%885-%EA%B4%91%ED%99%94%EB%AC%B8-%ED%95%98%EB%8A%98-%EA%B0%80%EB%A1%9C%EC%A7%80%EB%A5%B8-%EC%95%84%EC%B0%94%ED%95%9C-%EC%99%B8%EC%A4%84%EC%87%BC-%EA%B5%AD%EB%82%B4-%EC%B2%AB-%EC%8A%AC%EB%9E%99%EB%9D%BC%EC%9D%B8%EC%97%90-%EC%99%80-%E5%A4%96/ar-AA2dluN3",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.SS02gk1nioY8UOicDvmacA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "한국사회보장정보원, 대구·경북 대학 찾아 '희망이음' 실습교육 확대",
-      "summary": "이로운넷 = 이수진 에디터사회복지 현장에서 사용하는 정보시스템을 대학 재학 중 미리 익힐 수 있도록 예비사회복지사 대상 실무교육이 대구·경북 지역 대학으로 확대된다.한국사회보장정보원(원장 김현준) 대구경북지역센터는 예비사회복지사를 대상으로 지역 대학을 직접 찾아가는 사회서비스정보시스템 ...",
-      "source": "이로운넷",
-      "publishedAt": "2026-10-08",
-      "url": "https://www.eroun.net/news/articleView.html?idxno=91896",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Vkujy7ZkX-F76JMo0tMtMw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "케이블TV '미디어 기본 사회' 3대 약속…지역뉴스·모두의TV·AI교육",
-      "summary": "한국케이블TV방송협회(협회)가 '미디어 기본사회' 구축을 위한 실천 계획으로 지역뉴스·모두의TV·인공지능(AI) 교육을 내세웠다. 이는 AI 시대에도 지역 미디어의 역할이 사라지지 않도록 하기 위한 계획이다. 협회는 8일 서울 가든호텔에서 '미디어 기본사회 케이블TV가 잇겠습니다'기자 ...",
-      "source": "블로터",
-      "publishedAt": "2026-10-08",
-      "url": "https://www.bloter.net/news/articleView.html?idxno=675294",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.q_OjjLubZ6s4H4P0Au1ZKg&pid=News&w=1200&h=675&c=14"
+      "title": "청년·저소득층서 '한국 사회 불공정'…10여년간 인식 악화",
+      "summary": "한국 사회가 불공정하다고 인식하는 경향이 청년층과 저소득층, 비수도권 거주자 등에서 상대적으로 강한 것으로 나타났다. 지난 10여년간 온건한 수준의 불공정 인식은 줄어든 반면 강한 불공정 인식은 늘면서 전반적인 공정성 인식도 악화한 것으로 분석됐다. 5일 '한국행정연구' 최신호에 실린 '공정을 향한 한국인의 시선은?: 한국 사회 연도별 공정성 인식 및 유 ...",
+      "source": "다음 뉴스",
+      "publishedAt": "2010-05-10",
+      "url": "https://v.daum.net/v/20261005104801481",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.PBiNkbG2BoSSjY3M26JMXg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "뉴엔AI, 코오롱베니트 AI 얼라이언스 합류…산업 AX 사업 확대",
-      "summary": "100여개 AI 기업 협력 생태계 참여…제조·금융·건설 등 고객 접점 넓혀 뉴엔AI가 코오롱베니트의 AI 협력 생태계에 합류한다. 뉴엔AI는 AX 전문기업 코오롱베니트가 운영하는 '코오롱베니트 AI 얼라이언스'와 전략적 업무협약을 체결했다고 8일 밝혔다. 이번 협약으로 뉴엔AI는 AI 얼라이언스 공식 참여사로서 보유한 AI 기술과 솔루션을 활용해 산업 현장 ...",
+      "title": "\"AI 사고 숨기면 안 돼\"...미 정부, 즉시 신고·시정 의무화",
+      "summary": "미국 트럼프 행정부가 인공지능 기업들을 상대로 자사 모델이 일으킨 사고를 정부에 즉시 신고하고 시정하도록 의무화했습니다. 백악관 직속 전담 조직은 성명을 통해 AI 사고 보고는 중대한 국가안보 의무라며 모든 기업은 사고를 즉각 공개하고 피해를 바로잡아야 한다고 강조했습니다. 그동안 AI 산업 발전을 위해 자율 규제 방침을 고수해 온 미국 정부가 강제적 조치 ...",
+      "source": "YTN",
+      "publishedAt": "2026-10-10",
+      "url": "https://www.ytn.co.kr/_ln/0104_202610101001306885",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.T3BIR7Z8dc8JIJ0zM0TIDQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "건보공단, 전 직원 AI 교육 나선다… 인공지능 전환 역량 강화",
+      "summary": "AI 활용·전략기획·관리자 리더십 등 4개 과정…집합·온라인 교육 병행 직급별 기본·리더십 교육에도 AI 과목 편성…직무·직급별 교육체계 구축 국민건강보험공단이 인공지능(AI)을 실제 업무에 활용하기 위한 전 직원 교육에 나선다. AI 활용부터 인공지능 전환(AX) 전략기획, 관리자 리더십까지 직무와 직급에 맞춘 교육체계를 구축해 행정 서비스의 효율성과 조 ...",
       "source": "머니투데이 on MSN",
-      "publishedAt": "2026-10-08",
-      "url": "https://www.msn.com/ko-kr/news/techandscience/%EB%89%B4%EC%97%94ai-%EC%BD%94%EC%98%A4%EB%A1%B1%EB%B2%A0%EB%8B%88%ED%8A%B8-ai-%EC%96%BC%EB%9D%BC%EC%9D%B4%EC%96%B8%EC%8A%A4-%ED%95%A9%EB%A5%98-%EC%82%B0%EC%97%85-ax-%EC%82%AC%EC%97%85-%ED%99%95%EB%8C%80/ar-AA2dMuiX",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.JpF8Z2Dc6ONWppYq1f2DjA&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-10-07",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B1%B4%EB%B3%B4%EA%B3%B5%EB%8B%A8-%EC%A0%84-%EC%A7%81%EC%9B%90-ai-%EA%B5%90%EC%9C%A1-%EB%82%98%EC%84%A0%EB%8B%A4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%EC%97%AD%EB%9F%89-%EA%B0%95%ED%99%94/ar-AA2dHIYa",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.YSkQbHnmWh2tnOxkq0NjKQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "뉴엔AI, 코오롱베니트 AI 생태계 합류…산업 AX 사업 박차",
-      "summary": "산업 맞춤형 인공지능(AI) 분석 기업 뉴엔AI가 AI 협력 생태계에 합류한다. 코오롱베니트가 보유한 고객 네트워크와 연계해 AI 전환(AX) 사업을 확대할 계획이다. 8일 뉴엔AI는 코오롱베니트와 ‘코오롱베니트 AI 얼라이언스’ 프로젝트 참여를 위한 전략적 업무협약(MOU)을 맺었다고 밝혔다. 코오롱베니트 AI 얼라이언스는 참여사의 기술을 실제 고객 프로 ...",
-      "source": "매일경제",
-      "publishedAt": "2026-10-08",
-      "url": "https://www.mk.co.kr/news/business/12171515",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.SJJAc2GgwdhdzqQO58AIBA&pid=News&w=1200&h=675&c=14"
+      "title": "“최대 90일 수급 예측 가능”…서부발전, 인공지능 활용 유연탄 수입·재고 통합 관리",
+      "summary": "서부발전이 인공지능(AI)을 활용한 ‘유연탄 수입·재고 통합관제시스템’ 구축을 마치고 당초 계획보다 한 달가량 앞당긴 지난달 30일부터 본격 운영을 시작했다. 6일 서부발전에 따르면 이번 시스템은 지난 6월 구축한 ‘선박운항일정 자동화 예측시스템(ETA-Pro)’을 외항 대기와 하역, 저탄장 재고 관리까지 확장한 것이다. 기상 악화와 항만 혼잡 등 다양한 ...",
+      "source": "다음 뉴스",
+      "publishedAt": "2010-06-08",
+      "url": "https://v.daum.net/v/20261006083900307",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.QHgyO1_KDKQRvQQsKY0t8Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "킨텍스, 건설부터 도시까지…'AI 안전기술' 한자리에",
-      "summary": "10월14~16일 건설·안전박람회와 도시안전기술 박람회 동시 개최 300여 전문기업 참여…AI 사고예측·로봇·드론 등 최신 기술 선봬 킨텍스는 오는 14일부터 16일까지 제1전시장에서 '2026 한국건설·안전박람회'와 '2026 도시안전기술 박람회'를 동시 개최한다고 8일 밝혔다. 이번 행사에는 건설·산업 현장과 도시 안전 분야 300여개 전문기업이 참여한 ...",
-      "source": "머니투데이 on MSN",
-      "publishedAt": "2026-10-08",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%82%A8%ED%85%8D%EC%8A%A4-%EA%B1%B4%EC%84%A4%EB%B6%80%ED%84%B0-%EB%8F%84%EC%8B%9C%EA%B9%8C%EC%A7%80-ai-%EC%95%88%EC%A0%84%EA%B8%B0%EC%88%A0-%ED%95%9C%EC%9E%90%EB%A6%AC%EC%97%90/ar-AA2dMM0W",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.5cc180256fe37f6d2636597e420bb098&pid=News&w=1200&h=675&c=14"
+      "title": "북구, 인공지능(AI) 활용 행정 효율 높인다",
+      "summary": "전남광주통합특별시 북구(구청장 신수정)가 행정업무와 당직 민원 대응에 인공지능(AI)을 본격적으로 접목하며 스마트 행정 체계 구축에 나서고 있다. 28일 북구는 공직자들의 행정업무 효율성을 높이기 위한 '생성형 AI 플랫폼'과 야간·휴일에 발생하는 당직 민원을 AI가 응대하는 'AI 당직 콜봇'을 운영 중이라고 밝혔다. 이번 정책은 행정 업무 전반에서 인공 ...",
+      "source": "연합뉴스",
+      "publishedAt": "2026-09-28",
+      "url": "https://www.yna.co.kr/view/RPR20260928005400353",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.P3rb_Z_ELK2_3xjXgrj0zA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "‘누가 AI를 소유했나’…갈라지는 산업 생태계 [AI 신계급사회]",
-      "summary": "AI 시대 자체 모델과 인프라 확보가 산업계에서 새로운 지배력의 원천으로 부상하고 있다. 자체 AI 모델과 그래픽처리장치(GPU), 데이터센터 등 인프라를 확보하거나 특화서비스로 독자적인 데이터를 축적할 수 있는 기업들은 경쟁 우위에 설 수 있지만, 해외 모델의 앱 응용프로그램 인터페이스(API)를 빌려 단순 서비스를 제공하는 기업들은 비용 부담과 기술 주 ...",
-      "source": "이투데이 on MSN",
-      "publishedAt": "2026-10-08",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%88%84%EA%B0%80-ai%EB%A5%BC-%EC%86%8C%EC%9C%A0%ED%96%88%EB%82%98-%EA%B0%88%EB%9D%BC%EC%A7%80%EB%8A%94-%EC%82%B0%EC%97%85-%EC%83%9D%ED%83%9C%EA%B3%84-ai-%EC%8B%A0%EA%B3%84%EA%B8%89%EC%82%AC%ED%9A%8C/ar-AA2dLM8G",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.E2-u3g1bWKqqZHsLxF9igw&pid=News&w=1200&h=675&c=14"
+      "title": "인공지능 활용으로 위해성 평가기간 70% 이상 단축",
+      "summary": "[헤럴드경제=이태형 기자] 기후에너지환경부 소속 국립환경과학원은 화학물질 위해성 평가에 활용되는 유해성 자료를 인공지능(AI)이 자동으로 수집·추출해 데이터베이스로 구축하는 기술을 개발하고 국제 특허를 출원한다고 7일 밝혔다. 위해성 평가는 화학물질이 얼마나 유해한지와 그 물질이 사람이나 환경에 얼마나 영향을 미치는지를 종합해 위험한 정도를 판단하는 과정으 ...",
+      "source": "헤럴드경제 on MSN",
+      "publishedAt": "2026-10-07",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%99%9C%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%9C%84%ED%95%B4%EC%84%B1-%ED%8F%89%EA%B0%80%EA%B8%B0%EA%B0%84-70-%EC%9D%B4%EC%83%81-%EB%8B%A8%EC%B6%95/ar-AA2dIufh",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.w29MLQ1bO6r7HPvZlkyqSg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
