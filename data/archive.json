@@ -1,5 +1,75 @@
 [
   {
+    "updatedAt": "2026-10-13",
+    "windowStart": "2026-10-11T22:00:00.000Z",
+    "windowEnd": "2026-10-12T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "한국사회복지관협회, 노후 복지관 개선 예산 요청",
+        "summary": "[서울=뉴스핌] 조한웅 기자 = 한국사회복지관협회는 영구임대단지 내 노후 사회복지관의 안전 확보와 복지서비스 환경 개선을 위한 리모델링 사업의 필요성을 건의하며 정부 예산 반영을 요청했다. 협회는 관련 예산이 현재까지 반영되지 않고 있다며 국가 차원의 지원이 시급하다고 밝혔다. 영구임대단지 내 사회복지관은 LH가 ...",
+        "source": "뉴스핌 on MSN",
+        "publishedAt": "2026-10-13",
+        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EA%B4%80%ED%98%91%ED%9A%8C-%EB%85%B8%ED%9B%84-%EB%B3%B5%EC%A7%80%EA%B4%80-%EA%B0%9C%EC%84%A0-%EC%98%88%EC%82%B0-%EC%9A%94%EC%B2%AD/ar-AA2e6MT0",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.KsoPvHF9A2fwwmoBzDB03w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "\"사회공헌도 AI 활용해 평가 … 가치 창출땐 인센티브 줘야\"",
+        "summary": "최태원 SK 회장이 인공지능(AI) 기술을 활용해 사회적 가치 창출에 보상하는 시스템을 갖춰야 한다고 강조했다. 12일 최 회장은 서울 역삼동 한국고등교육재단빌딩에서 열린 사회적기업월드포럼(SEWF) 주최 '생태계 리더십 익스체인지(Ecosystem Leadership Exchange)' 기조연설에서 \"이타심에만 의존해서는 팽창하는 사회 문제를 해결할 규모 ...",
+        "source": "매일경제",
+        "publishedAt": "2026-10-12",
+        "url": "https://www.mk.co.kr/news/business/12173863",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.QY6SGsr2B4BsZ0IUdPIHWg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "“한국일보 유튜브 김어준·유시민에 대립되는 기조, 논쟁 기회도 안 줘”",
+        "summary": "한국일보 뉴스이용자위원회가 한국일보 유튜브 채널 ‘이슈전파사’에 대한 평가를 진행했다. 일부 위원은 유튜브 정치·시사 채널이 모두 비슷해지고 있는 상황에서 한국일보 유튜브 역시 다른 채널 라이브의 일반적인 문법을 따르고 있다고 지적했다.지난 7일자 24면에 한국일보 11기 뉴스이용자위원회 ‘동영상 평가’ 기사가 실렸다. 한국일보 뉴스이용자위원회는 위원장 민 ...",
+        "source": "미디어오늘",
+        "publishedAt": "2026-10-12",
+        "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337665",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.NjAFTvrxZz32-EgG1VgSdA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "경남 10개 태양광기업, 사회복지시설 10곳에 발전설비 무상 지원",
+        "summary": "경남 10개 태양광기업, 사회복지시설 10곳에 발전설비 무상 지원 (창원=연합뉴스) 이정훈 기자 = 경남도는 13일 밀양시 하남읍 이레직업재활시설에서 지역 기업들의 지원을 받아 태양광 발전설비 합동 준공식을 개최했다. 디에스엠, 한진솔라, 그랜드썬 등 경남 1..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-10-12",
+        "url": "https://www.fnnews.com/news/202610131110070318",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.em2LMdrRyCuwE1vtUmNUfQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "화웨이, AI 연산부터 전력·산업 적용까지 AI 인프라 전반 전시",
+        "summary": "AI 페스타 2026 전시장에서는 AI의 '현실화'가 얼마나 다양한 층위에서 동시에 진행되고 있는지를 한눈에 볼 수 있었다. 대규모 연산을 받쳐주는 서버와 데이터센터 인프라, 기업이 AI를 내재화하도록 돕는 에이전틱 플랫폼, 공공·국방이라는 민감한 도메인에 맞춤 적용되는 경량 모델, 협업 데이터와 AI를 연결해 업무 자동화를 실현하는 솔루션, 그리고 가상과 ...",
+        "source": "헬로티",
+        "publishedAt": "2026-10-13",
+        "url": "https://www.hellot.net/news/article.html?no=115407",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.aKIZ2-e_33EimbXNqtkNhw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "\"AI 데이터센터 亞 허브 … 韓이 차지할 가능성 높아\"",
+        "summary": "데디 이스칸다르 데이터센터호크 아시아·태평양 총괄 인터뷰韓 데이터센터 시장 성장 속도3년 만에 두배 늘만큼 가팔라日은 시설 짓는데 오래 걸리고홍콩은 지정학적 불확실성 커韓 반도체 산업·인력기반 탄탄전력 확보는 해결해야 할 과제 ...",
+        "source": "매일경제",
+        "publishedAt": "2026-10-12",
+        "url": "https://www.mk.co.kr/news/it/12173702",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.vmQp8jp7q46Ff0VO5anRxA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "텍사스 선거에 데이터센터 100GW 걸렸다…AI주 새 변수",
+        "summary": "미국 데이터센터 계획 용량 331GW 가운데 약 100GW가 몰린 텍사스의 주지사 선거가 AI 관련주의 새 변수로 떠올랐다. 전기요금과 용수 부담을 걱정하는 여론이 커지자 그레그 애벗 주지사는 지난 8월 데이터센터 감사를 지시했다.",
+        "source": "jabon",
+        "publishedAt": "2026-10-12",
+        "url": "https://www.jabon.co.kr/news/articleView.html?idxno=7548",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ZTJwDmiaHjM57dctTIqwSA&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-10-12",
     "windowStart": "2026-10-10T22:00:00.000Z",
     "windowEnd": "2026-10-11T22:00:00.000Z",
@@ -551,85 +621,6 @@
         "publishedAt": "2026-10-06",
         "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302151",
         "imageUrl": "https://www.bing.com/th?id=ONUT.eGqj07Hv7mCYr2p6Ak8xog&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-10-06",
-    "windowStart": "2026-10-04T22:00:00.000Z",
-    "windowEnd": "2026-10-05T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "‘기간제’ 권하는 사회?...계약직 역대 최대인데 ‘4년 연장’까지",
-        "summary": "【투데이신문 권신영 기자】300인 이상 기업의 기간제·단시간 노동자 규모가 역대 최대치를 기록했다. 이런 가운데 정부가 메가특구 내 기간제 노동자의 사용기간을 현행 2년에서 최대 4년으로 늘리는 특례를 추진하면서 고용불안이 장기화할 수 있다는 우려가 나온다.30일 고용노동부(이하 노동부)가 발표한 ‘2026년 고용형태 공시 결과’에 따르면 올해 3월 31일 ...",
-        "source": "투데이신문",
-        "publishedAt": "2026-09-30",
-        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129755",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.rBL5KuNlZzTLX0LYhTSoaQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "뉴스보다 빠른 김지은의 이슈전파사... 평일 오후 3시 LIVE [알립니다]",
-        "summary": "한국일보 시사 유튜브 ‘김지은의 이슈전파사’가 28일부터 평일 오후 3시 시청자를 찾아갑니다. 그동안 오후 6시에 하루의 이슈를 정리해온 이슈전파사는 앞으로 3시간 먼저 그날의 핵심 이슈와 쟁점을 짚고 뉴스를 보는 기준을 ...",
-        "source": "한국일보 on MSN",
-        "publishedAt": "2026-09-28",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%89%B4%EC%8A%A4%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EA%B9%80%EC%A7%80%EC%9D%80%EC%9D%98-%EC%9D%B4%EC%8A%88%EC%A0%84%ED%8C%8C%EC%82%AC-%ED%8F%89%EC%9D%BC-%EC%98%A4%ED%9B%84-3%EC%8B%9C-live-%EC%95%8C%EB%A6%BD%EB%8B%88%EB%8B%A4/ar-AA2d4Jg6",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ebCmupLelPFnvZQaJGf1xg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[포토뉴스]한국기후변화연구원, 1일 지역사회 나눔 실천 공로 춘천시장 표창 수상",
-        "summary": "한국기후변화연구원은 1일 춘천연탄은행 행복센터에서 지역사회 나눔문화 확산과 이웃사랑 실천에 기여한 공로로 춘천시장 표창을 수상했다. 연구원은 지난 2017년부터 매년 연탄은행을 통해 연탄을 구입해 지역 내 에너지 취약계층에 전달하고, 임직원이 직접 연탄 배달 봉사에 참 ...",
-        "source": "강원일보",
-        "publishedAt": "2026-10-01",
-        "url": "https://kwnews.co.kr/article/20261001501011",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.GxfhV6HUYEILTcNx8ASQXA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "인하대, 'AX 대학원' 선정…산업현장 AI 전환 석·박사 양성",
-        "summary": "인하대, 'AX 대학원' 선정…산업현장 AI 전환 석·박사 양성 (인천=연합뉴스) 황정환 기자 = 인하대학교는 과학기술정보통신부가 추진하는 '인공지능혁신(AX) 대학원 사업'에 최종 선정돼 국비 162억5천만원을 지원받는다고 6일 밝혔다. 이 사업은 산업 현장에 인..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-10-05",
-        "url": "https://www.fnnews.com/news/202610060901031085",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Qq53j-Le8bI8KsM3biSdIA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "국산 AI 칩으로 판단하고 숙련공 용접 배운다…두산로보틱스, 국책과제 선정",
-        "summary": "【뉴스퀘스트=이승주 기자】 두산로보틱스가 국산 AI 반도체를 탑재한 협동로봇과 원전 기자재용 지능형 용접 기술 개발에 나선다. 로봇이 현장에서 스스로 판단하는 기반 기술과 숙련공의 작업을 재현하는 응용 기술을 함께 개발해 제조업 자동화 시장을 공략한다. 두산로보틱스는 산업통상부와 한국산업기술기획평가원이 공동 주관한 ‘K-온디바이스 AI 반도체 기술개발사업’ ...",
-        "source": "뉴스퀘스트",
-        "publishedAt": "2026-10-05",
-        "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302029",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ZrFuqrPK4ITvUUnOOvOAZA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "국내외 AI 기업 350곳 집결…과기정통부, 'AI 페스타' 개최",
-        "summary": "[디지털투데이 이진호 기자] 과학기술정보통신부가 오는 6일부터 8일까지 서울 코엑스에서 'AI 주간 2026-AI 페스타'를 개최한다. 국내외 AI 기업과 기관 350여개사가 참여해 500여개 전시 부스를 운영한다.과기정통부는 한국인공지능·소프트웨어산업협회(KOSA), AI페스타조직위원회와 함께 'AI, 현실이 되다. 모두의 AI'를 슬로건으로 이번 행사를 ...",
-        "source": "디지털투데이",
-        "publishedAt": "2026-10-05",
-        "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=704948",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.fYJygEBLCbxE6ip8gUg2GQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "두산로보틱스, 989억원 규모 ‘피지컬 AI’ 국책과제 2건 수주",
-        "summary": "두산로보틱스는 산업통상부와 한국산업기술기획평가원이 주관한 피지컬 인공지능(AI) 관련 국책과제 2건에 선정됐다고 6일 밝혔다. 두 과제의 총 연구개발비는 약 989억원으로, 이 가운데 정부 지원금은 약 681억원이다. 첫 번째 과제인 ‘온디바이스 AI 반도체 기반 차세 ...",
-        "source": "브릿지경제",
-        "publishedAt": "2026-10-06",
-        "url": "https://www.viva100.com/article/20261006500433",
-        "imageUrl": "https://www.bing.com/th?id=ONUT._KxPmVPxaevUsmxfQ8BLTg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "AI가 발전기 고치고, 농장 전력량 줄이고 … 제주 산업현장 바뀐다",
-        "summary": "제주 풍력발전기 날개 안으로 소형 로봇이 들어가 균열과 부식을 찾아낸다. 인공지능(AI)은 발견된 결함을 분석해 수리 방법과 비용까지 계산한다. 전력 사용량이 많은 식물공장에서는 태양광 발전량과 전력 수요를 예측해 작물 생육 속도를 높인다. 에너지 효율을 높여 전기료 절감도 뒤따른다. 제주에서 이처럼 풍력발전과 스마트팜 등 산업 현장의 난제를 AI로 해결하 ...",
-        "source": "매일경제",
-        "publishedAt": "2026-10-05",
-        "url": "https://www.mk.co.kr/news/business/12168456",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.e49V3FznEQ8f-dlfN09ZXg&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
