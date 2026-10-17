@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-10-18",
+    "windowStart": "2026-10-16T22:00:00.000Z",
+    "windowEnd": "2026-10-17T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[포토뉴스]제2회 고성군 사회복지사의 날 기념 및 2026년 고성군·속초시 사회복지사 연합 명랑체육대회",
+        "summary": "제2회 고성군 사회복지사의 날 기념 및 2026년 고성군(회장:김유심)·속초시(회장:정지현) 사회복지사 연합 명랑체육대회가 17일 고성종합체육관에서 함명준 군수를 비롯한 함용빈 군의장, 이양수 국회의원, 이병선 속초시장, 이지영 도의원, 정석왕 한국사회복지사협회장, 진 ...",
+        "source": "강원일보",
+        "publishedAt": "2026-10-17",
+        "url": "https://kwnews.co.kr/article/20261017500114",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.pSCp-tYo0RtIkfDGoilCTQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "이 대통령 “인구정책은 노동·복지·일자리·주거·교육정책”",
+        "summary": "이재명 대통령은 “우리가 만들어 갈 인구정책은 노동정책이기도, 복지정책이기도, 일자리·주거정책인 동시에 교육정책이어야 한다”고 말했다. 이 대통령은 14일 오후 청와대에서 열린 ‘국민주권정부 인구전략 비전선포식’에서 “이제는 (양적 성장뿐 아니라) 질적 성장을 추구하는 인구정책의 대전환이 필요하다”며 “대한민국의 사회경제 시스템 전반 ...",
+        "source": "매일노동뉴스",
+        "publishedAt": "2026-10-15",
+        "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237219",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.RHGKhij9c9jN6prw8Ze4eA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "이 대통령 “출산 장려만으론 안 된다”…노동·주거까지 인구정책 뜯어고친다",
+        "summary": "이재명 대통령이 14일 청와대에서 열린 인구전략 비전선포식에서 발언하고 있다. [연합뉴스] 이재명 대통령이 저출생·고령화 대응을 위해 지난 20년간 막대한 재정을 투입하고도 인구 문제가 해결되지 않았다며 국가 시스템 전반을 재설계하겠다고 밝혔다. 출산율과 인구 규모를 늘리는 데 초점을 맞춘 기존 정책에서 벗어나 노동·주거·복지·보육을 아우르는 인구정책 대전 ...",
+        "source": "매일경제 on MSN",
+        "publishedAt": "2026-10-14",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4-%EB%8C%80%ED%86%B5%EB%A0%B9-%EC%B6%9C%EC%82%B0-%EC%9E%A5%EB%A0%A4%EB%A7%8C%EC%9C%BC%EB%A1%A0-%EC%95%88-%EB%90%9C%EB%8B%A4-%EB%85%B8%EB%8F%99-%EC%A3%BC%EA%B1%B0%EA%B9%8C%EC%A7%80-%EC%9D%B8%EA%B5%AC%EC%A0%95%EC%B1%85-%EB%9C%AF%EC%96%B4%EA%B3%A0%EC%B9%9C%EB%8B%A4/ar-AA2ecgpf",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.km9WRPIL0N5Z2quFOyAlXg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "李대통령 \"출산율 넘어 삶의 질로\"…인구정책 대전환 주문",
+        "summary": "이재명 대통령이 14일 출산율과 인구 규모 확대에 집중해 온 기존 인구정책에서 벗어나 국민의 삶의 질을 높이는 방향으로 정책의 근본적인 전환을 주문했다. 저출생과 고령화를 개별 정책만으로 해결하기보다 노동·주거·복지·교육 등 사회경제 시스템 전반을 다시 설계해야 한다는 취지다.이 대통령은 이날 오후 청와대 영빈관에서 열린 '국민주권정부 인구전략 비전선포식' ...",
+        "source": "스트레이트뉴스",
+        "publishedAt": "2026-10-14",
+        "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313151",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.bCSIwmViZUmF4xkFYMwW1A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "李대통령 “인구정책의 판 바꿀 때”…출산율 넘어 ‘국가 시스템 재설계’ 주문",
+        "summary": "[직썰 / 김봉연 기자] 이재명 대통령이 저출생·고령화에 대응하기 위해 대한민국 사회경제 시스템 전반을 근본적으로 재설계해야 한다고 강조했다. 출생아 수 확대에 무게를 뒀던 기존 정책의 한계를 넘어 노동·주거·복지·교육·돌봄을 아우르는 인구정책의 전환을 주문한 것이다.지난해 출생아 수가 25만명을 넘어서며 2년 연속 반등했지만 합계출산율은 여전히 0.8명 ...",
+        "source": "직썰",
+        "publishedAt": "2026-10-14",
+        "url": "https://www.ziksir.com/news/articleView.html?idxno=149370",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.pz5n9KozvczPTjrzVf2lWg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "‘인공지능, 로봇기술의 특별한 체험’… 마송중앙초등학교, ‘2026 AI 드림페스타’ 운영",
+        "summary": "김포 마송중앙초등학교 학생들이 인공지능과 로봇기술의 특별한 체험을 했다. 마송중앙초는 최근 교내 강당에서 4학년과 6학년 학생 159명을 대상으로 미래 사회의 핵심역량을 기르기 위한 ‘2026 AI 드림페스타’를 운영했다고 15일 밝혔다. 이번 행사는 학생들이 인공지능 ...",
+        "source": "경기일보",
+        "publishedAt": "2026-10-15",
+        "url": "https://www.kyeonggi.com/article/20261015580426",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.lfQekKXM2niNFvbNAaFlBA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "北, 신형 초고속 정밀유도 어뢰 발사시험… 인공지능 도입(종합)",
+        "summary": "로켓추진장치 탑재 주장 어뢰 15일 수중시험발사…전문가 \"초공동어뢰 추정\" 수중타격능력 고도화 과시…\"韓과 해군력 격차 줄이려는 시도\" (서울=연합뉴스) 이은정 기자 = 북한이 신형 초고속 정밀유도 어뢰무기체계 '잠-2.0' 실탄을 시험발사했다고 밝혔다. 조선중앙통신은 17일 \"국방과학원과 미사일총국, 수뢰무기연구국이 ...",
+        "source": "연합뉴스 on MSN",
+        "publishedAt": "2026-10-17",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%E5%8C%97-%EC%8B%A0%ED%98%95-%EC%B4%88%EA%B3%A0%EC%86%8D-%EC%A0%95%EB%B0%80%EC%9C%A0%EB%8F%84-%EC%96%B4%EB%A2%B0-%EB%B0%9C%EC%82%AC%EC%8B%9C%ED%97%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8F%84%EC%9E%85-%EC%A2%85%ED%95%A9/ar-AA2epmgX",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.-qbjY7tUsTv68za3Wn7nRA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[2027정시] ‘AI중심대학’ 서강대, 컴퓨터공학과 32명 인공지능학과 10명.. AI기반자유전공학부 36명",
+        "summary": "서강대가 2027학년 정시 수능 (일반)에서 컴퓨터공학과 32명, 인공지능학과 10명, AI기반자유전공학부 36명 등 78명을 모집한다. 컴퓨터공학과와 인공지능학과는 나군, AI기반자유전공학부는 다군이다. 수시 이월 전 인원이며 모두 수능 100%로 반영한다.",
+        "source": "hanibnews.com",
+        "publishedAt": "2026-10-15",
+        "url": "https://www.hanibnews.com/news/articleView.html?idxno=880",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.uErLYfLE-1zBhJosOhy0zw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "北, 인공지능 도입 신형 초고속 어뢰 ‘잠-2.0’ 시험발사",
+        "summary": "북한이 목표 탐색과 유도 기능에 인공지능(AI)을 적용한 신형 초고속 정밀유도 어뢰무기체계 ‘잠-2.0’을 시험발사했다고 17일 밝혔다. 최근 잠수함발사 전략순항미사일 시험과 구축함 취역에 이어 해군 전력 강화에 ...",
+        "source": "중앙일보",
+        "publishedAt": "2026-10-16",
+        "url": "https://www.koreadaily.com/article/20261016170059621",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Wx4hYRfaY23jWoc1--x6WA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "3분기 인공지능 툴 키워드 공고 170%↑…증가율 1위는 '클로드'",
+        "summary": "잡코리아가 올해 3분기 게재된 채용 공고를 분석한 결과 클로드·챗GPT·제미나이 등 AI 툴 키워드 공고는 지난해 같은 기간보다 170% 늘었다. 'AI'나 '인공지능'을 언급한 공고도 늘었지만, 툴 명칭을 직접 적은 공고는 그보다 훨씬 가파르게 증가했다. 'AI 활용 능력 우대'라는 막연한 표현에서 나아가 입사 후 바로 쓸 수 있는 도구를 구체적으로 묻는 ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-10-12",
+        "url": "https://www.yna.co.kr/view/AKR20261012031700003",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.t2ritzmYlq7aXLlCeO60-g&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-10-17",
     "windowStart": "2026-10-15T22:00:00.000Z",
     "windowEnd": "2026-10-16T22:00:00.000Z",
@@ -551,103 +648,6 @@
         "publishedAt": "2026-10-12",
         "url": "https://www.msn.com/ko-kr/autos/%EC%9D%BC%EB%B0%98/%EC%A0%84%EA%B8%B0%EC%B0%A8-%EC%BA%90%EC%A6%98%EC%97%90-%EC%A0%84%EB%9E%B5-%EC%88%98%EC%A0%95-%EC%A0%84%EA%B3%A0%EC%B2%B4-%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%82%AC-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%ED%95%AD%EA%B3%B5%EC%9C%BC%EB%A1%9C-%ED%99%9C%EB%A1%9C/ar-AA2e1qRX",
         "imageUrl": "https://www.bing.com/th?id=ONUT.l2HN563j2SeOp4Hr-8H14g&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-10-11",
-    "windowStart": "2026-10-09T22:00:00.000Z",
-    "windowEnd": "2026-10-10T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "유니세프 한국위원회, 기업 맞춤형 사회공헌 해법 모색…파트너십 포럼 개최",
-        "summary": "유니세프 한국위원회 (회장 정갑영)는 지난 1일 서울 마포구 유니세프 한국위원회에서 기업의 전문성과 자원을 활용한 사회공헌 방향을 모색하는 ‘2026 기업 파트너십 포럼’을 개최했다고 밝혔다. ‘우리다운 사회공헌 찾기’를 주제로 열린 이번 포럼은 기업이 보유한 전문성과 자산, 임직원 및 고객의 참여를 아동 지원 활동과 연결하는 다양한 협력 방안을 공유하기 ...",
-        "source": "뉴스탭",
-        "publishedAt": "2026-10-10",
-        "url": "https://www.newstap.co.kr/news/articleView.html?idxno=335562",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.e-Eg4vQiToonZ0A1VjZUkg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[신간] 한반도 화교사회 140년…'경계를 살아온 사람들'",
-        "summary": "[신간] 한반도 화교사회 140년…'경계를 살아온 사람들' 세상을 바꾼 혁신을 만드는 힘…'세상에서 가장 짧은 혁신의 역사' (서울=연합뉴스) 강종훈 기자 = ▲ 경계를 살아온 사람들 = 이정희 지음. 화교 사회를 오랫동안 연구해온 저자가 140년 넘게 한반도에서 ..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-10-10",
-        "url": "https://www.fnnews.com/news/202610100810369728",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.EYFO5t5sLwxobwsa3MK8lg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "‘기간제’ 권하는 사회?...계약직 역대 최대인데 ‘4년 연장’까지",
-        "summary": "【투데이신문 권신영 기자】300인 이상 기업의 기간제·단시간 노동자 규모가 역대 최대치를 기록했다. 이런 가운데 정부가 메가특구 내 기간제 노동자의 사용기간을 현행 2년에서 최대 4년으로 늘리는 특례를 추진하면서 고용불안이 장기화할 수 있다는 우려가 나온다.30일 고용노동부(이하 노동부)가 발표한 ‘2026년 고용형태 공시 결과’에 따르면 올해 3월 31일 ...",
-        "source": "투데이신문",
-        "publishedAt": "2026-09-30",
-        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129755",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.rBL5KuNlZzTLX0LYhTSoaQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "메가특구 노동특례 사회적 대화 3차 실무협의…노사 발제",
-        "summary": "메가특구 노동특례 사회적 대화 3차 실무협의…노사 발제 (서울=연합뉴스) 한혜원 기자 = 고용노동부는 8일 가칭 메가특구 특별법 내 노동 특례 논의를 위한 노사정 사회적 대화의 3차 실무협의체 회의를 실시했다고 밝혔다. 노동계에서는 한국노동조합총연맹(한국..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-10-08",
-        "url": "https://www.fnnews.com/news/202610081931253325",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.xy1vnlojQdAXFheFhK9Eig&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[포토뉴스]한국기후변화연구원, 1일 지역사회 나눔 실천 공로 춘천시장 표창 수상",
-        "summary": "한국기후변화연구원은 1일 춘천연탄은행 행복센터에서 지역사회 나눔문화 확산과 이웃사랑 실천에 기여한 공로로 춘천시장 표창을 수상했다. 연구원은 지난 2017년부터 매년 연탄은행을 통해 연탄을 구입해 지역 내 에너지 취약계층에 전달하고, 임직원이 직접 연탄 배달 봉사에 참 ...",
-        "source": "강원일보",
-        "publishedAt": "2026-10-01",
-        "url": "https://kwnews.co.kr/article/20261001501011",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.GxfhV6HUYEILTcNx8ASQXA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "AI가 바꾼 메모리 시장…HBM 쏠림에 공급 부족 2028년까지 지속",
-        "summary": "[선데이 모닝 인사이트] 수자이 시바쿠마르, 찰스 웨스너 전략국제문제연구소 미국혁신재건 프로그램 연구원 보고서 '메모리 사이클을 넘어: AI, HBM, 그리고 새로운 반도체 부족' 트럼프 2기 출범, AI의 발달, 기후변화 등 글로벌 사회의 불확실성이 커졌습니다. 는 매주 일요일 오전, 깊이 있는 시각과 예리한 분석으로 불확실성 커진 세상을 헤쳐나갈 지혜를 ...",
-        "source": "머니투데이 on MSN",
-        "publishedAt": "2026-10-10",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EB%B0%8F-%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4/ai%EA%B0%80-%EB%B0%94%EA%BE%BC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%8B%9C%EC%9E%A5-hbm-%EC%8F%A0%EB%A6%BC%EC%97%90-%EA%B3%B5%EA%B8%89-%EB%B6%80%EC%A1%B1-2028%EB%85%84%EA%B9%8C%EC%A7%80-%EC%A7%80%EC%86%8D/ar-AA2dYfeU",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.QcFyDuUWqIop489ZHco8vw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "‘2026 국제치안산업대전’, 21일 송도컨벤시아서 개막…피지컬AI·로봇·정보보호 등 한자리에",
-        "summary": "국내 유일의 치안산업 전문 전시회인 ‘2026 국제치안산업대전(KOREA POLICE WORLD EXPO 2026)’이 오는 21일부터 24일까지 4일간 인천 송도컨벤시아에서 열린다. 올해 전시회에는 국내외 약 220개사가 ...",
-        "source": "디지털타임스 on MSN",
-        "publishedAt": "2026-10-11",
-        "url": "https://www.msn.com/ko-kr/news/other/2026-%EA%B5%AD%EC%A0%9C%EC%B9%98%EC%95%88%EC%82%B0%EC%97%85%EB%8C%80%EC%A0%84-21%EC%9D%BC-%EC%86%A1%EB%8F%84%EC%BB%A8%EB%B2%A4%EC%8B%9C%EC%95%84%EC%84%9C-%EA%B0%9C%EB%A7%89-%ED%94%BC%EC%A7%80%EC%BB%ACai-%EB%A1%9C%EB%B4%87-%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8-%EB%93%B1-%ED%95%9C%EC%9E%90%EB%A6%AC%EC%97%90/ar-AA2dYHhX",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.pJ-qZ2e2b63faFDKS5EayQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[정의선 회장 6년] 車 넘어 '피지컬 AI' 승부수…로봇·자율주행 확장",
-        "summary": "(서울=뉴스1) 박기범 기자\"현대차그룹은 전통적인 자동차 제조의 경계를 넘어 자율주행, 로보틱스, AI 팩토리 등으로 영역을 확장하며 피지컬 AI 설루션 기업으로 전환을 추진하고 있습니다.\"정의선 현대자동차(005380)그룹 회장이 지난 7월 미국 '샌프란시스코 AI 서밋..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-10-10",
-        "url": "https://www.fnnews.com/news/202610110801527513",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.QoqX76W8C-6yVd89BCunIA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "대구디지털혁신진흥원, 지역 전략산업 AI 대전환 본격 추진",
-        "summary": "DIP는 대구의 전략산업인 로봇과 바이오·헬스케어 분야를 중심으로 인공지능 전환 (AX) 핵심기술을 확보하고 지역 산업 전반의 혁신 생태계를 조성하기 위해 올해부터 2030년까지 5년간 총 4207억원 (국비 2286억원, 지방비 839억원, 민자 1082억원)을 투입해 대규모 다부처 연구개발 (R&D) 사업을 진행한다.",
-        "source": "경북도민일보",
-        "publishedAt": "2026-10-10",
-        "url": "https://www.hidomin.com/news/articleView.html?idxno=724237",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.d91Id_VZdWbbODdgMosB1w&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "AI로 불법주청자 잡고 교량 진단...건설연, 상용화 속도",
-        "summary": "한국건설기술연구원이 인공지능 (AI)을 도로에 접목해 실시간으로 안전성을 평가하는 기술을 속속 선보이고 있다. 이미 실증 단계를 넘어 상용화 수준까지 도달해 각종 지방자치단체에서 적은 예산으로도 효율적 관리가 가능해질 전망이다.",
-        "source": "서울경제",
-        "publishedAt": "2026-10-10",
-        "url": "https://www.sedaily.com/article/20099979",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.0xqSfdrc6YUdf-ZDxOYl8A&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
