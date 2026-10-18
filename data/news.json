@@ -1,16 +1,25 @@
 {
-  "updatedAt": "2026-10-18",
-  "windowStart": "2026-10-16T22:00:00.000Z",
-  "windowEnd": "2026-10-17T22:00:00.000Z",
+  "updatedAt": "2026-10-19",
+  "windowStart": "2026-10-17T22:00:00.000Z",
+  "windowEnd": "2026-10-18T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[포토뉴스]제2회 고성군 사회복지사의 날 기념 및 2026년 고성군·속초시 사회복지사 연합 명랑체육대회",
-      "summary": "제2회 고성군 사회복지사의 날 기념 및 2026년 고성군(회장:김유심)·속초시(회장:정지현) 사회복지사 연합 명랑체육대회가 17일 고성종합체육관에서 함명준 군수를 비롯한 함용빈 군의장, 이양수 국회의원, 이병선 속초시장, 이지영 도의원, 정석왕 한국사회복지사협회장, 진 ...",
-      "source": "강원일보",
-      "publishedAt": "2026-10-17",
-      "url": "https://kwnews.co.kr/article/20261017500114",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.pSCp-tYo0RtIkfDGoilCTQ&pid=News&w=1200&h=675&c=14"
+      "title": "'박위 매장하기' 작정했나..사과+자숙 두달째, 무차별 파묘 '눈살'[Oh!쎈 이슈]",
+      "summary": "사회복무요원 저격으로 시작된 유튜버 박위의 논란이 끝없는 과거 재조명으로 두 달째 잡음이 이어지고 있다. 다만 이번 논란의 본질과는 관련없는 무분별한 '파묘'가 계속되면서 대중의 피로를 유발하고 있..",
+      "source": "OSEN on MSN",
+      "publishedAt": "2026-10-18",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%B0%95%EC%9C%84-%EB%A7%A4%EC%9E%A5%ED%95%98%EA%B8%B0-%EC%9E%91%EC%A0%95%ED%96%88%EB%82%98-%EC%82%AC%EA%B3%BC-%EC%9E%90%EC%88%99-%EB%91%90%EB%8B%AC%EC%A7%B8-%EB%AC%B4%EC%B0%A8%EB%B3%84-%ED%8C%8C%EB%AC%98-%EB%88%88%EC%82%B4-oh-%EC%8E%88-%EC%9D%B4%EC%8A%88/ar-AA2euzkw",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.5BXkxbPRfJxzSmXaKSqZDQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[이슈] 기부부터 헌혈까지... 한국마사회 영남본부, 지역사회 나눔 확대",
+      "summary": "지역사회에 대한 기업의 사회공헌이 현금 기부를 넘어 취약계층 지원과 생명 나눔으로 다양해지고 있다. 한국마사회 영남지역본부와 렛츠런파크 부산경남이 축산물 기부와 정기 헌혈을 각각 추진하며 지역사회와의 상생 활동에 나섰다.",
+      "source": "글로벌이코노믹 on MSN",
+      "publishedAt": "2026-10-15",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4%EC%8A%88-%EA%B8%B0%EB%B6%80%EB%B6%80%ED%84%B0-%ED%97%8C%ED%98%88%EA%B9%8C%EC%A7%80-%ED%95%9C%EA%B5%AD%EB%A7%88%EC%82%AC%ED%9A%8C-%EC%98%81%EB%82%A8%EB%B3%B8%EB%B6%80-%EC%A7%80%EC%97%AD%EC%82%AC%ED%9A%8C-%EB%82%98%EB%88%94-%ED%99%95%EB%8C%80/ar-AA2eh9Zm",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-XJ5u-K5y0hcM7ZlMAdjRg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -40,58 +49,49 @@
       "imageUrl": "https://www.bing.com/th?id=ONUT.bCSIwmViZUmF4xkFYMwW1A&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "society",
-      "title": "李대통령 “인구정책의 판 바꿀 때”…출산율 넘어 ‘국가 시스템 재설계’ 주문",
-      "summary": "[직썰 / 김봉연 기자] 이재명 대통령이 저출생·고령화에 대응하기 위해 대한민국 사회경제 시스템 전반을 근본적으로 재설계해야 한다고 강조했다. 출생아 수 확대에 무게를 뒀던 기존 정책의 한계를 넘어 노동·주거·복지·교육·돌봄을 아우르는 인구정책의 전환을 주문한 것이다.지난해 출생아 수가 25만명을 넘어서며 2년 연속 반등했지만 합계출산율은 여전히 0.8명 ...",
-      "source": "직썰",
-      "publishedAt": "2026-10-14",
-      "url": "https://www.ziksir.com/news/articleView.html?idxno=149370",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.pz5n9KozvczPTjrzVf2lWg&pid=News&w=1200&h=675&c=14"
+      "category": "ai",
+      "title": "연가시와 알고리즘 [이서윤의 인공지능&인권지능]",
+      "summary": "이서윤 | 사법연수원 교수·판사 5년 전 고베대학교 연구팀은 연가시의 숙주 조종 메커니즘에 관한 100년 묵은 수수께끼를 풀었다. 연가시에 감염된 사마귀는 이리저리 배회하다 물에 들어가 결국 익사하고 마는데, 그 이유는 사마귀의 빛에 대한 본능적 감각이 왜곡되어 물빛에 강렬한 이끌림을 느끼게 되기 때문이라는 것이다. 사마귀에게 직접 물에 뛰어들 것을 명령 ...",
+      "source": "한겨레 on MSN",
+      "publishedAt": "2026-10-18",
+      "url": "https://www.msn.com/ko-kr/news/opinion/%EC%97%B0%EA%B0%80%EC%8B%9C%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%EC%84%9C%EC%9C%A4%EC%9D%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9D%B8%EA%B6%8C%EC%A7%80%EB%8A%A5/ar-AA2etgwA",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.2X4Ng22eMeopTrkjLsTwUw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "‘인공지능, 로봇기술의 특별한 체험’… 마송중앙초등학교, ‘2026 AI 드림페스타’ 운영",
-      "summary": "김포 마송중앙초등학교 학생들이 인공지능과 로봇기술의 특별한 체험을 했다. 마송중앙초는 최근 교내 강당에서 4학년과 6학년 학생 159명을 대상으로 미래 사회의 핵심역량을 기르기 위한 ‘2026 AI 드림페스타’를 운영했다고 15일 밝혔다. 이번 행사는 학생들이 인공지능 ...",
+      "title": "센스톤, 과기부 피지컬AI 보안 과제서 산업설비 보안 맡는다",
+      "summary": "[이데일리 김현아 기자] 조선공학도에서 보안 전문가로, 다시 독자 기술을 앞세운 창업가로 변신한 유창훈 센스톤 대표가 인공지능(AI)과 로봇 시대의 산업설비 보안 시장 공략에 속도를 내고 있다. 기존 인증 기술의 가격 경쟁에서 벗어나 단방향 동적 인증 기술인 OTAC를 개발한 데 이어, 피지컬AI가 실제 설비를 제어하는 환경의 보안으로 사업 영역을 넓히고 ...",
+      "source": "이데일리 on MSN",
+      "publishedAt": "2026-10-19",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%84%BC%EC%8A%A4%ED%86%A4-%EA%B3%BC%EA%B8%B0%EB%B6%80-%ED%94%BC%EC%A7%80%EC%BB%ACai-%EB%B3%B4%EC%95%88-%EA%B3%BC%EC%A0%9C%EC%84%9C-%EC%82%B0%EC%97%85%EC%84%A4%EB%B9%84-%EB%B3%B4%EC%95%88-%EB%A7%A1%EB%8A%94%EB%8B%A4/ar-AA2escrV",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.BOboFfe2K6q1fs5qol5otQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "금속산업대전2026, AI 첨단제조의 산업현장 적용을 조명한다",
+      "summary": "AI 첨단제조의 연구개발과 산업현장 적용을 살펴보는 기술교류회가 '금속산업대전2026'에서 열린다. 한국전람이 주최하는 이번 전시회는 오는 28일부터 30일까지 경기도 고양시 킨텍스 제1전시장 3홀에서 개최되며, 금속 제조산업의 제품 전시와 전문 세미나를 통해 제조기술의 활용 방향을 소개한다. 개막일인 28일에는 한국교통대학교의 AI첨단제조공동연구센터(센터 ...",
+      "source": "전자신문 on MSN",
+      "publishedAt": "2026-10-19",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B8%88%EC%86%8D%EC%82%B0%EC%97%85%EB%8C%80%EC%A0%842026-ai-%EC%B2%A8%EB%8B%A8%EC%A0%9C%EC%A1%B0%EC%9D%98-%EC%82%B0%EC%97%85%ED%98%84%EC%9E%A5-%EC%A0%81%EC%9A%A9%EC%9D%84-%EC%A1%B0%EB%AA%85%ED%95%9C%EB%8B%A4/ar-AA2evj8f",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-dYVKeyBvZs4WdzexO5D_A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "김연상 차세대융합기술연구원장 “첨단기술, 연구실 넘어 산업현장·도민 삶으로 이어져야” [경기인터뷰]",
+      "summary": "연구실에서 탄생한 기술이 도로 위 운전자의 안전을 지키고, 산업단지의 대기오염을 감시한다. 차세대융합기술연구원(이하 융기원)이 추구해 온 ‘현장에서 작동하는 기술’의 모습이다. 융기원은 최근 이 같은 성과를 인정받아 기관 설립 이후 처음으로 대통령표창을 받았다. 첨단기 ...",
       "source": "경기일보",
-      "publishedAt": "2026-10-15",
-      "url": "https://www.kyeonggi.com/article/20261015580426",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.lfQekKXM2niNFvbNAaFlBA&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-10-18",
+      "url": "https://www.kyeonggi.com/article/20261018580094",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.1JXkc0lUyWymGcKYr3KlIg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "北, 신형 초고속 정밀유도 어뢰 발사시험… 인공지능 도입(종합)",
-      "summary": "로켓추진장치 탑재 주장 어뢰 15일 수중시험발사…전문가 \"초공동어뢰 추정\" 수중타격능력 고도화 과시…\"韓과 해군력 격차 줄이려는 시도\" (서울=연합뉴스) 이은정 기자 = 북한이 신형 초고속 정밀유도 어뢰무기체계 '잠-2.0' 실탄을 시험발사했다고 밝혔다. 조선중앙통신은 17일 \"국방과학원과 미사일총국, 수뢰무기연구국이 ...",
-      "source": "연합뉴스 on MSN",
-      "publishedAt": "2026-10-17",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%E5%8C%97-%EC%8B%A0%ED%98%95-%EC%B4%88%EA%B3%A0%EC%86%8D-%EC%A0%95%EB%B0%80%EC%9C%A0%EB%8F%84-%EC%96%B4%EB%A2%B0-%EB%B0%9C%EC%82%AC%EC%8B%9C%ED%97%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8F%84%EC%9E%85-%EC%A2%85%ED%95%A9/ar-AA2epmgX",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.-qbjY7tUsTv68za3Wn7nRA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[2027정시] ‘AI중심대학’ 서강대, 컴퓨터공학과 32명 인공지능학과 10명.. AI기반자유전공학부 36명",
-      "summary": "서강대가 2027학년 정시 수능 (일반)에서 컴퓨터공학과 32명, 인공지능학과 10명, AI기반자유전공학부 36명 등 78명을 모집한다. 컴퓨터공학과와 인공지능학과는 나군, AI기반자유전공학부는 다군이다. 수시 이월 전 인원이며 모두 수능 100%로 반영한다.",
-      "source": "hanibnews.com",
-      "publishedAt": "2026-10-15",
-      "url": "https://www.hanibnews.com/news/articleView.html?idxno=880",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.uErLYfLE-1zBhJosOhy0zw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "北, 인공지능 도입 신형 초고속 어뢰 ‘잠-2.0’ 시험발사",
-      "summary": "북한이 목표 탐색과 유도 기능에 인공지능(AI)을 적용한 신형 초고속 정밀유도 어뢰무기체계 ‘잠-2.0’을 시험발사했다고 17일 밝혔다. 최근 잠수함발사 전략순항미사일 시험과 구축함 취역에 이어 해군 전력 강화에 ...",
-      "source": "중앙일보",
-      "publishedAt": "2026-10-16",
-      "url": "https://www.koreadaily.com/article/20261016170059621",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Wx4hYRfaY23jWoc1--x6WA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "3분기 인공지능 툴 키워드 공고 170%↑…증가율 1위는 '클로드'",
-      "summary": "잡코리아가 올해 3분기 게재된 채용 공고를 분석한 결과 클로드·챗GPT·제미나이 등 AI 툴 키워드 공고는 지난해 같은 기간보다 170% 늘었다. 'AI'나 '인공지능'을 언급한 공고도 늘었지만, 툴 명칭을 직접 적은 공고는 그보다 훨씬 가파르게 증가했다. 'AI 활용 능력 우대'라는 막연한 표현에서 나아가 입사 후 바로 쓸 수 있는 도구를 구체적으로 묻는 ...",
-      "source": "연합뉴스",
-      "publishedAt": "2026-10-12",
-      "url": "https://www.yna.co.kr/view/AKR20261012031700003",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.t2ritzmYlq7aXLlCeO60-g&pid=News&w=1200&h=675&c=14"
+      "title": "뉴시스 창사 25주년 '10년 후 한국' 포럼 개막…\"AI·반도체로 대한민국 미래 그린다\"",
+      "summary": "[서울=뉴시스]유희석 기자 = 국내 최대 민영뉴스통신사 뉴시스가 창사 25주년을 맞아 오늘(19일) 서울 중구 더그랜드롯데 서울 크리스탈볼룸에서 '2026 뉴시스 창사 25주년 포럼-10년 후 한국'을 개최한다. 이번 포럼은 'NEXT KOREA: 기술이 만드는 다음 대한민국'을 ..",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-10-18",
+      "url": "https://www.fnnews.com/news/202610190500505367",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.GheClI8LJUY_ALIGeR2nYg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }

@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-10-19",
+    "windowStart": "2026-10-17T22:00:00.000Z",
+    "windowEnd": "2026-10-18T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "'박위 매장하기' 작정했나..사과+자숙 두달째, 무차별 파묘 '눈살'[Oh!쎈 이슈]",
+        "summary": "사회복무요원 저격으로 시작된 유튜버 박위의 논란이 끝없는 과거 재조명으로 두 달째 잡음이 이어지고 있다. 다만 이번 논란의 본질과는 관련없는 무분별한 '파묘'가 계속되면서 대중의 피로를 유발하고 있..",
+        "source": "OSEN on MSN",
+        "publishedAt": "2026-10-18",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%B0%95%EC%9C%84-%EB%A7%A4%EC%9E%A5%ED%95%98%EA%B8%B0-%EC%9E%91%EC%A0%95%ED%96%88%EB%82%98-%EC%82%AC%EA%B3%BC-%EC%9E%90%EC%88%99-%EB%91%90%EB%8B%AC%EC%A7%B8-%EB%AC%B4%EC%B0%A8%EB%B3%84-%ED%8C%8C%EB%AC%98-%EB%88%88%EC%82%B4-oh-%EC%8E%88-%EC%9D%B4%EC%8A%88/ar-AA2euzkw",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.5BXkxbPRfJxzSmXaKSqZDQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈] 기부부터 헌혈까지... 한국마사회 영남본부, 지역사회 나눔 확대",
+        "summary": "지역사회에 대한 기업의 사회공헌이 현금 기부를 넘어 취약계층 지원과 생명 나눔으로 다양해지고 있다. 한국마사회 영남지역본부와 렛츠런파크 부산경남이 축산물 기부와 정기 헌혈을 각각 추진하며 지역사회와의 상생 활동에 나섰다.",
+        "source": "글로벌이코노믹 on MSN",
+        "publishedAt": "2026-10-15",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4%EC%8A%88-%EA%B8%B0%EB%B6%80%EB%B6%80%ED%84%B0-%ED%97%8C%ED%98%88%EA%B9%8C%EC%A7%80-%ED%95%9C%EA%B5%AD%EB%A7%88%EC%82%AC%ED%9A%8C-%EC%98%81%EB%82%A8%EB%B3%B8%EB%B6%80-%EC%A7%80%EC%97%AD%EC%82%AC%ED%9A%8C-%EB%82%98%EB%88%94-%ED%99%95%EB%8C%80/ar-AA2eh9Zm",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.-XJ5u-K5y0hcM7ZlMAdjRg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "이 대통령 “인구정책은 노동·복지·일자리·주거·교육정책”",
+        "summary": "이재명 대통령은 “우리가 만들어 갈 인구정책은 노동정책이기도, 복지정책이기도, 일자리·주거정책인 동시에 교육정책이어야 한다”고 말했다. 이 대통령은 14일 오후 청와대에서 열린 ‘국민주권정부 인구전략 비전선포식’에서 “이제는 (양적 성장뿐 아니라) 질적 성장을 추구하는 인구정책의 대전환이 필요하다”며 “대한민국의 사회경제 시스템 전반 ...",
+        "source": "매일노동뉴스",
+        "publishedAt": "2026-10-15",
+        "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237219",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.RHGKhij9c9jN6prw8Ze4eA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "이 대통령 “출산 장려만으론 안 된다”…노동·주거까지 인구정책 뜯어고친다",
+        "summary": "이재명 대통령이 14일 청와대에서 열린 인구전략 비전선포식에서 발언하고 있다. [연합뉴스] 이재명 대통령이 저출생·고령화 대응을 위해 지난 20년간 막대한 재정을 투입하고도 인구 문제가 해결되지 않았다며 국가 시스템 전반을 재설계하겠다고 밝혔다. 출산율과 인구 규모를 늘리는 데 초점을 맞춘 기존 정책에서 벗어나 노동·주거·복지·보육을 아우르는 인구정책 대전 ...",
+        "source": "매일경제 on MSN",
+        "publishedAt": "2026-10-14",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4-%EB%8C%80%ED%86%B5%EB%A0%B9-%EC%B6%9C%EC%82%B0-%EC%9E%A5%EB%A0%A4%EB%A7%8C%EC%9C%BC%EB%A1%A0-%EC%95%88-%EB%90%9C%EB%8B%A4-%EB%85%B8%EB%8F%99-%EC%A3%BC%EA%B1%B0%EA%B9%8C%EC%A7%80-%EC%9D%B8%EA%B5%AC%EC%A0%95%EC%B1%85-%EB%9C%AF%EC%96%B4%EA%B3%A0%EC%B9%9C%EB%8B%A4/ar-AA2ecgpf",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.km9WRPIL0N5Z2quFOyAlXg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "李대통령 \"출산율 넘어 삶의 질로\"…인구정책 대전환 주문",
+        "summary": "이재명 대통령이 14일 출산율과 인구 규모 확대에 집중해 온 기존 인구정책에서 벗어나 국민의 삶의 질을 높이는 방향으로 정책의 근본적인 전환을 주문했다. 저출생과 고령화를 개별 정책만으로 해결하기보다 노동·주거·복지·교육 등 사회경제 시스템 전반을 다시 설계해야 한다는 취지다.이 대통령은 이날 오후 청와대 영빈관에서 열린 '국민주권정부 인구전략 비전선포식' ...",
+        "source": "스트레이트뉴스",
+        "publishedAt": "2026-10-14",
+        "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313151",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.bCSIwmViZUmF4xkFYMwW1A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "연가시와 알고리즘 [이서윤의 인공지능&인권지능]",
+        "summary": "이서윤 | 사법연수원 교수·판사 5년 전 고베대학교 연구팀은 연가시의 숙주 조종 메커니즘에 관한 100년 묵은 수수께끼를 풀었다. 연가시에 감염된 사마귀는 이리저리 배회하다 물에 들어가 결국 익사하고 마는데, 그 이유는 사마귀의 빛에 대한 본능적 감각이 왜곡되어 물빛에 강렬한 이끌림을 느끼게 되기 때문이라는 것이다. 사마귀에게 직접 물에 뛰어들 것을 명령 ...",
+        "source": "한겨레 on MSN",
+        "publishedAt": "2026-10-18",
+        "url": "https://www.msn.com/ko-kr/news/opinion/%EC%97%B0%EA%B0%80%EC%8B%9C%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%EC%84%9C%EC%9C%A4%EC%9D%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9D%B8%EA%B6%8C%EC%A7%80%EB%8A%A5/ar-AA2etgwA",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.2X4Ng22eMeopTrkjLsTwUw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "센스톤, 과기부 피지컬AI 보안 과제서 산업설비 보안 맡는다",
+        "summary": "[이데일리 김현아 기자] 조선공학도에서 보안 전문가로, 다시 독자 기술을 앞세운 창업가로 변신한 유창훈 센스톤 대표가 인공지능(AI)과 로봇 시대의 산업설비 보안 시장 공략에 속도를 내고 있다. 기존 인증 기술의 가격 경쟁에서 벗어나 단방향 동적 인증 기술인 OTAC를 개발한 데 이어, 피지컬AI가 실제 설비를 제어하는 환경의 보안으로 사업 영역을 넓히고 ...",
+        "source": "이데일리 on MSN",
+        "publishedAt": "2026-10-19",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%84%BC%EC%8A%A4%ED%86%A4-%EA%B3%BC%EA%B8%B0%EB%B6%80-%ED%94%BC%EC%A7%80%EC%BB%ACai-%EB%B3%B4%EC%95%88-%EA%B3%BC%EC%A0%9C%EC%84%9C-%EC%82%B0%EC%97%85%EC%84%A4%EB%B9%84-%EB%B3%B4%EC%95%88-%EB%A7%A1%EB%8A%94%EB%8B%A4/ar-AA2escrV",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.BOboFfe2K6q1fs5qol5otQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "금속산업대전2026, AI 첨단제조의 산업현장 적용을 조명한다",
+        "summary": "AI 첨단제조의 연구개발과 산업현장 적용을 살펴보는 기술교류회가 '금속산업대전2026'에서 열린다. 한국전람이 주최하는 이번 전시회는 오는 28일부터 30일까지 경기도 고양시 킨텍스 제1전시장 3홀에서 개최되며, 금속 제조산업의 제품 전시와 전문 세미나를 통해 제조기술의 활용 방향을 소개한다. 개막일인 28일에는 한국교통대학교의 AI첨단제조공동연구센터(센터 ...",
+        "source": "전자신문 on MSN",
+        "publishedAt": "2026-10-19",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B8%88%EC%86%8D%EC%82%B0%EC%97%85%EB%8C%80%EC%A0%842026-ai-%EC%B2%A8%EB%8B%A8%EC%A0%9C%EC%A1%B0%EC%9D%98-%EC%82%B0%EC%97%85%ED%98%84%EC%9E%A5-%EC%A0%81%EC%9A%A9%EC%9D%84-%EC%A1%B0%EB%AA%85%ED%95%9C%EB%8B%A4/ar-AA2evj8f",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.-dYVKeyBvZs4WdzexO5D_A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "김연상 차세대융합기술연구원장 “첨단기술, 연구실 넘어 산업현장·도민 삶으로 이어져야” [경기인터뷰]",
+        "summary": "연구실에서 탄생한 기술이 도로 위 운전자의 안전을 지키고, 산업단지의 대기오염을 감시한다. 차세대융합기술연구원(이하 융기원)이 추구해 온 ‘현장에서 작동하는 기술’의 모습이다. 융기원은 최근 이 같은 성과를 인정받아 기관 설립 이후 처음으로 대통령표창을 받았다. 첨단기 ...",
+        "source": "경기일보",
+        "publishedAt": "2026-10-18",
+        "url": "https://www.kyeonggi.com/article/20261018580094",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.1JXkc0lUyWymGcKYr3KlIg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "뉴시스 창사 25주년 '10년 후 한국' 포럼 개막…\"AI·반도체로 대한민국 미래 그린다\"",
+        "summary": "[서울=뉴시스]유희석 기자 = 국내 최대 민영뉴스통신사 뉴시스가 창사 25주년을 맞아 오늘(19일) 서울 중구 더그랜드롯데 서울 크리스탈볼룸에서 '2026 뉴시스 창사 25주년 포럼-10년 후 한국'을 개최한다. 이번 포럼은 'NEXT KOREA: 기술이 만드는 다음 대한민국'을 ..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-10-18",
+        "url": "https://www.fnnews.com/news/202610190500505367",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.GheClI8LJUY_ALIGeR2nYg&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-10-18",
     "windowStart": "2026-10-16T22:00:00.000Z",
     "windowEnd": "2026-10-17T22:00:00.000Z",
@@ -551,103 +648,6 @@
         "publishedAt": "2026-10-12",
         "url": "https://www.jabon.co.kr/news/articleView.html?idxno=7548",
         "imageUrl": "https://www.bing.com/th?id=ONUT.ZTJwDmiaHjM57dctTIqwSA&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-10-12",
-    "windowStart": "2026-10-10T22:00:00.000Z",
-    "windowEnd": "2026-10-11T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "자본주의 사회 주거난 언급하며 살림집 무상 공급 정책 선전",
-        "summary": "북한이 자본주의 사회의 주거난을 거론하면서 사회주의 무상 살림집 공급 정책 선전에 나선 것으로 전해졌다. 양강도 소식통은 12일 데일리NK에 “혜산시에서는 지난달 중순부터 ‘위대한 농촌건설 강령이 안아온 전변과 자본주의 사회의 비참한 현실’이라는 제목의 강연회가 진행되고 있다”며 “핵심은 살림집 건설과 무상 공급 정책으로 사회주의의 우월성을 선전하는 데 이 ...",
-        "source": "데일리NK",
-        "publishedAt": "2026-10-11",
-        "url": "https://www.dailynk.com/20261012-1/",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.asVo0rAcFLqDPm-r34mBDg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "황성온 교수·이경진 원장 강연…인천교육청, '교사와 영유아의 사회정서 역량 기르기’ 연수 실시",
-        "summary": "[한국강사신문 최주리 시민기자] 인천광역시교육청이 교사의 사회정서 역량을 높이고 이를 바탕으로 영유아의 건강한 사회정서 발달을 지원하기 위한 현장 중심 연수를 운영했다.인천광역시교육청(교육감 도성훈)은 경인교육대학교와 협력해 6일 유치원과 어린이집 교원 200여 명을 대상으로 ‘함께 살아가는 힘, 교사와 영유아의 사회정서 역량 기르기’ 연수를 실시했다고 밝 ...",
-        "source": "한국강사신문",
-        "publishedAt": "2026-10-11",
-        "url": "https://www.lecturernews.com/news/articleView.html?idxno=211872",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.jFBLNyVA4Ikw1vk6d2gevQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "‘기간제’ 권하는 사회?...계약직 역대 최대인데 ‘4년 연장’까지",
-        "summary": "【투데이신문 권신영 기자】300인 이상 기업의 기간제·단시간 노동자 규모가 역대 최대치를 기록했다. 이런 가운데 정부가 메가특구 내 기간제 노동자의 사용기간을 현행 2년에서 최대 4년으로 늘리는 특례를 추진하면서 고용불안이 장기화할 수 있다는 우려가 나온다.30일 고용노동부(이하 노동부)가 발표한 ‘2026년 고용형태 공시 결과’에 따르면 올해 3월 31일 ...",
-        "source": "투데이신문",
-        "publishedAt": "2026-09-30",
-        "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129755",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.rBL5KuNlZzTLX0LYhTSoaQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "유니세프 한국위원회, 기업 맞춤형 사회공헌 해법 모색…파트너십 포럼 개최",
-        "summary": "유니세프 한국위원회 (회장 정갑영)는 지난 1일 서울 마포구 유니세프 한국위원회에서 기업의 전문성과 자원을 활용한 사회공헌 방향을 모색하는 ‘2026 기업 파트너십 포럼’을 개최했다고 밝혔다. ‘우리다운 사회공헌 찾기’를 주제로 열린 이번 포럼은 기업이 보유한 전문성과 자산, 임직원 및 고객의 참여를 아동 지원 활동과 연결하는 다양한 협력 방안을 공유하기 ...",
-        "source": "뉴스탭",
-        "publishedAt": "2026-10-10",
-        "url": "https://www.newstap.co.kr/news/articleView.html?idxno=335562",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.e-Eg4vQiToonZ0A1VjZUkg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "한국사회복지정책연구원, 피포스와 ‘장애인 맞춤형 복지용품 개발·보급’ 맞손",
-        "summary": "【에이블뉴스 백민 기자】 한국사회복지정책연구원(이사장 김종인)과 장애인·노인 복지용품 전문 개발·보급 기업 피포스(회장 이창훈)가 지난 7일 취약계층의 복지 증진과 삶의 질 향상을 위한 업무협약을 체결했다.이번 협약은 초고령사회 진입 및 장애인 복지 수요 다양화에 발맞춰 연구 기관의 정책적 전문성과 현장 중심의 제품 개발·보급 역량을 결합해 실질적인 복지 ...",
-        "source": "에이블뉴스",
-        "publishedAt": "2026-10-08",
-        "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=233766",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.yfqEmhC1PdgPdJvWcWb-bA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "중기부, ‘모두의창업’ 도전자 도울 AI 솔루션 103개 공개",
-        "summary": "1라운드 진출자, 100만원 이내로 이용 솔루션 기능과 이용 방법은 14일 공개 중소벤처기업부가 2차 ‘모두의 창업’ 아이디어 구체화를 도울 인공지능(AI) 솔루션을 공개했다. 중기부는 12일 2차 모두의 창업 도전자의 아이디어 구체화와 사업 모델 고도화를 지원할 AI 솔루션 공급 기업 50개사, 103개 솔루션을 공개한다고 밝혔다. 모두의 창업은 국민 누 ...",
-        "source": "서울경제 on MSN",
-        "publishedAt": "2026-10-12",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%A4%91%EA%B8%B0%EB%B6%80-%EB%AA%A8%EB%91%90%EC%9D%98%EC%B0%BD%EC%97%85-%EB%8F%84%EC%A0%84%EC%9E%90-%EB%8F%84%EC%9A%B8-ai-%EC%86%94%EB%A3%A8%EC%85%98-103%EA%B0%9C-%EA%B3%B5%EA%B0%9C/ar-AA2e1ov7",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.b7zktJ7Sbt0mqTyrb8ve7w&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "AI를 위해 우리의 전기 요금은 오를 것인가?",
-        "summary": "데이터 센터의 확대, 전력 수요의 증가, 그리고 우리 삶에 미치는 영향. 생성형 AI의 보급이 전기 요금에 미치는 영향을 일본과 세계의 데이터를 통해 살펴봅니다. ChatGPT에 질문하기. AI에게 글을 써달라고 하기. 이미지 생성하기. 업무나 일상생활에서 생성형 AI를 사용할 기회가 늘어났습니다.매우 편리합니다. 예전 같으면 몇 시간씩 걸렸을 조사나 작업 ...",
-        "source": "note",
-        "publishedAt": "2026-10-12",
-        "url": "https://note.com/life_mosaic/n/n4e940241bb3f?hl=ko",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.caERi6eRquvMAmyVhA27XA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "LG CNS, 모듈형 데이터센터 기반 AI 팩토리로 승부",
-        "summary": "Google 검색에서 한국경제 기사를 더 자주 볼 수 있습니다. 싱가포르에서 열린 ‘데이터센터 월드 아시아 2026’에서 LG CNS 직원이 ‘프리패브 모듈형 데이터센터’를 소개하는 모습. LG CNS 제공 LG CNS가 인공지능(AI) 팩토리 시장 공략에 속도를 내고 있다. 그래픽처리장치(GPU)·서버·전력·냉각 설비를 모듈로 제작해 현장에 신속하게 구축 ...",
-        "source": "한국경제",
-        "publishedAt": "2026-10-11",
-        "url": "https://www.hankyung.com/article/2026101140011",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.6Ikg432TpY-l-6UBKLyZwA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "GS그룹, 중소기업에 AI 에이전트 무상 공유…스타트업과 데이터센터 기술 협력",
-        "summary": "GS그룹이 자체 개발한 인공지능(AI) 플랫폼과 에이전트를 중소기업에 무상 공개하며 ‘상생 생태계’ 구축에 집중하고 있다. 대기업의 AI 전환(AX) 노하우를 중소·중견기업과 나누면서 기업 간 기술 격차를 해소하겠다는 구상이다. 스타트업에도 적극적으로 투자해 한국의 AI 산업 육성에도 기여할 방침이다.GS그룹은 안전관리 AI 에이전트 ‘에어(AIR)’를 중 ...",
-        "source": "한국경제 on MSN",
-        "publishedAt": "2026-10-11",
-        "url": "https://www.msn.com/ko-kr/news/other/gs%EA%B7%B8%EB%A3%B9-%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%97%90-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%AC%B4%EC%83%81-%EA%B3%B5%EC%9C%A0-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B8%B0%EC%88%A0-%ED%98%91%EB%A0%A5/ar-AA2e04a6",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Dt0XIeKRQaoXHocpVqqR8g&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "전기차 캐즘에 전략 수정… 전고체 배터리사, AI 데이터센터·항공으로 활로",
-        "summary": "'차세대 전기차(EV)의 게임 체인저'로 기대를 모았던 전고체 배터리(All-Solid-State Battery) 업계가 전기차 시장의 수요 둔화와 천문학적인 양산 비용의 벽에 부딪혀 사업 전략을 대대적으로 수정하고 있다.글로벌 배터리 스타트업들이 값비싼 제조 단가를 감당하기 어려운 승용차 시장 대신, 화재 위험이 없고 높은 단가를 기꺼이 지불할 수 있는 ...",
-        "source": "글로벌이코노믹 on MSN",
-        "publishedAt": "2026-10-12",
-        "url": "https://www.msn.com/ko-kr/autos/%EC%9D%BC%EB%B0%98/%EC%A0%84%EA%B8%B0%EC%B0%A8-%EC%BA%90%EC%A6%98%EC%97%90-%EC%A0%84%EB%9E%B5-%EC%88%98%EC%A0%95-%EC%A0%84%EA%B3%A0%EC%B2%B4-%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%82%AC-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%ED%95%AD%EA%B3%B5%EC%9C%BC%EB%A1%9C-%ED%99%9C%EB%A1%9C/ar-AA2e1qRX",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.l2HN563j2SeOp4Hr-8H14g&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
