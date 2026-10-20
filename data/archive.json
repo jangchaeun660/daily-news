@@ -1,5 +1,84 @@
 [
   {
+    "updatedAt": "2026-10-20",
+    "windowStart": "2026-10-18T22:00:00.000Z",
+    "windowEnd": "2026-10-19T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "패색 짙은 美공화당…중간선거 앞두고 '성전환·사회주의' 쟁점화",
+        "summary": "[서울=뉴시스] 권성근 기자 = 미국 중간선거가 약 보름 앞으로 다가온 가운데 공화당이 문화사회 이슈를 선거 쟁점으로 부각하는 데 집중하고 있다. 18일(현지 시간) 월스트리트저널(WSJ)에 따르면 공화당 후보들은 선거를 앞두고 마지막 유세에서 민주당의 트랜스젠..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-10-19",
+        "url": "https://www.fnnews.com/news/202610191529338841",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.nLKh1diBy08OBEwROHOKFA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "이주민 유치에서 정착으로…주거·교육 잇는 지역정책 제안",
+        "summary": "이주민을 얼마나 많이 유치했는지보다 지역에서 어떻게 살아가는지에 초점을 맞춰 이민정책을 설계해야 한다는 제안이 나왔다. 일자리와 주거, 자녀교육을 함께 지원하고 정책 성과도 안정적인 정착으로 평가하자는 취지다. 경기도와 경기도이민사회통합지원센터는 지난 16일 오후 의정 ...",
+        "source": "한겨레",
+        "publishedAt": "2026-10-19",
+        "url": "https://www.hani.co.kr/arti/area/capital/1283059.html",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.5vZ--9hCV0yXRo3A-NGWWg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "조 국 원장, “AI·반도체 성장 넘어 주거·돌봄 해결해야, 민생복지 메가프로젝트” 제안",
+        "summary": "조국 조국혁신정책연구원장이 내란 이후 대한민국이 나아갈 방향으로 산업 성장 중심의 정책을 넘어 주거와 돌봄 문제를 해결하는 대규모 민생·복지 정책을 추진해야 한다고 강조했다.AI·반도체 등 첨단산업 투자가 국가 경제의 성장동력이 될 수 있지만, 그 성과가 국민 개개인의 삶을 개선하는 ...",
+        "source": "mdns",
+        "publishedAt": "2026-10-19",
+        "url": "https://www.mdns.co.kr/news/articleView.html?idxno=40864",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ctI8ZMWGPdYG46Z1uo1p_A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "아크릴-KT, 의료 인공지능 전환 협력…데이터 플랫폼·AI 서비스 공동 사업화",
+        "summary": "[이데일리 김형일 기자] 인공지능 전환(AX) 인프라 전문기업 아크릴(0007C0)이 KT와 의료 데이터 표준화 및 활용, 의료 AI 기술·서비스 실증, 연구개발과 사업화 등을 위한 업무협약(MOU)을 체결했다고 20일 밝혔다. (왼쪽부터)박상현 아크릴 매니저, 고의열 아크릴 이사, 신현경 아크릴 부대표, 박외진 아크릴 대표이사, 노형래 KT 기업사업본부장 ...",
+        "source": "이데일리 on MSN",
+        "publishedAt": "2026-10-20",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%95%84%ED%81%AC%EB%A6%B4-kt-%EC%9D%98%EB%A3%8C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%ED%98%91%EB%A0%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC-ai-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B3%B5%EB%8F%99-%EC%82%AC%EC%97%85%ED%99%94/ar-AA2fBnyV",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.BgN-x8jmdM51oq3wUDUf9A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "\"소부장도 액티브로 적극 대응\"... KB운용 ‘RISE 반도체소부장액티브’ 출시",
+        "summary": "인공지능(AI) 서버 수요와 메모리 가격 상승으로 반도체 업황 회복 기대가 커지면서 장비·소재·부품 기업을 겨냥한 투자 상품도 늘고 있다. KB자산운용은 업종별 흐름과 기업별 수주 상황을 반영해 투자 비중을 조절하는 액티브 상장지수펀드(ETF)를 선보인다. KB자산운용 ...",
+        "source": "메트로신문",
+        "publishedAt": "2026-10-20",
+        "url": "https://www.metroseoul.co.kr/article/20261020500076",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.5NMi5OX4zTlc43NGriTihQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "“포켓부터 데이터센터까지 ··· ‘하이브리드 AI’ 인프라 시장 선도”",
+        "summary": "[데이터넷] 레노버가 글로벌 CIO를 대상으로 심층 조사해 발표한 ‘CIO 플레이북 2026’에 따르면 거대언어모델(LLM), 생성형 AI를 거쳐 이제는 스스로 과업을 수행하는 ‘에이전틱 AI’로 기업들의 관심사가 옮겨가며, 질문도 ‘AI를 사용할 것인가’에서 ‘투자한 AI로 얼마나 효율적으로 성과를 낼 것인가’로 바뀌었다.투자 의지도 확고한 것으로 나타났 ...",
+        "source": "데이터넷",
+        "publishedAt": "2026-10-19",
+        "url": "https://www.datanet.co.kr/news/articleView.html?idxno=215196",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.CrEkmQvl5UcbWfvNKJIW4g&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[김대호 진단] 천덕꾸러기 데이터센터",
+        "summary": "천덕꾸러기로 변한 데이터센터인공지능 혁명과 함께 한때 경제 발전의 아이콘으로 인기를 누렸던 데이터센터가 어느 사이 천덕꾸러기 신세로 전락하고 있다. 전 세계를 뒤흔든 생성형 AI 열풍 속에서 데이터센터는 미래의 황금알을 낳는 거위이자 기술 진보의 상징으로 찬양받았다.",
+        "source": "글로벌이코노믹 on MSN",
+        "publishedAt": "2026-10-19",
+        "url": "https://www.msn.com/ko-kr/news/other/%EA%B9%80%EB%8C%80%ED%98%B8-%EC%A7%84%EB%8B%A8-%EC%B2%9C%EB%8D%95%EA%BE%B8%EB%9F%AC%EA%B8%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0/ar-AA2fAh1t",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.zTr7caaTMJuE3LoAH09sNg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "삼일PwC, 2026 산업AI EXPO 첫 참가…제조 생산계획 AI 솔루션 공개",
+        "summary": "삼일PwC는 오는 21일부터 23일까지 경기 고양시 일산 킨텍스 제1전시장에서 열리는 '2026 산업AI EXPO'에 처음 참가해 산업 현장에 특화된 인공지능(AI) 서비스를 선보인다고 20일 밝혔다.",
+        "source": "조세일보 on MSN",
+        "publishedAt": "2026-10-20",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%82%BC%EC%9D%BCpwc-2026-%EC%82%B0%EC%97%85ai-expo-%EC%B2%AB-%EC%B0%B8%EA%B0%80-%EC%A0%9C%EC%A1%B0-%EC%83%9D%EC%82%B0%EA%B3%84%ED%9A%8D-ai-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B3%B5%EA%B0%9C/ar-AA2fBZb4",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.FHgvvsBC6nlNei3yXWrvrw&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-10-19",
     "windowStart": "2026-10-17T22:00:00.000Z",
     "windowEnd": "2026-10-18T22:00:00.000Z",
@@ -578,76 +657,6 @@
         "publishedAt": "2026-10-13",
         "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/14/2026101400042.html",
         "imageUrl": "https://www.bing.com/th?id=ONUT.3Xfe9ITFkDpzk-IwYGHbJA&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-10-13",
-    "windowStart": "2026-10-11T22:00:00.000Z",
-    "windowEnd": "2026-10-12T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "한국사회복지관협회, 노후 복지관 개선 예산 요청",
-        "summary": "[서울=뉴스핌] 조한웅 기자 = 한국사회복지관협회는 영구임대단지 내 노후 사회복지관의 안전 확보와 복지서비스 환경 개선을 위한 리모델링 사업의 필요성을 건의하며 정부 예산 반영을 요청했다. 협회는 관련 예산이 현재까지 반영되지 않고 있다며 국가 차원의 지원이 시급하다고 밝혔다. 영구임대단지 내 사회복지관은 LH가 ...",
-        "source": "뉴스핌 on MSN",
-        "publishedAt": "2026-10-13",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EA%B4%80%ED%98%91%ED%9A%8C-%EB%85%B8%ED%9B%84-%EB%B3%B5%EC%A7%80%EA%B4%80-%EA%B0%9C%EC%84%A0-%EC%98%88%EC%82%B0-%EC%9A%94%EC%B2%AD/ar-AA2e6MT0",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.KsoPvHF9A2fwwmoBzDB03w&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "\"사회공헌도 AI 활용해 평가 … 가치 창출땐 인센티브 줘야\"",
-        "summary": "최태원 SK 회장이 인공지능(AI) 기술을 활용해 사회적 가치 창출에 보상하는 시스템을 갖춰야 한다고 강조했다. 12일 최 회장은 서울 역삼동 한국고등교육재단빌딩에서 열린 사회적기업월드포럼(SEWF) 주최 '생태계 리더십 익스체인지(Ecosystem Leadership Exchange)' 기조연설에서 \"이타심에만 의존해서는 팽창하는 사회 문제를 해결할 규모 ...",
-        "source": "매일경제",
-        "publishedAt": "2026-10-12",
-        "url": "https://www.mk.co.kr/news/business/12173863",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.QY6SGsr2B4BsZ0IUdPIHWg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "“한국일보 유튜브 김어준·유시민에 대립되는 기조, 논쟁 기회도 안 줘”",
-        "summary": "한국일보 뉴스이용자위원회가 한국일보 유튜브 채널 ‘이슈전파사’에 대한 평가를 진행했다. 일부 위원은 유튜브 정치·시사 채널이 모두 비슷해지고 있는 상황에서 한국일보 유튜브 역시 다른 채널 라이브의 일반적인 문법을 따르고 있다고 지적했다.지난 7일자 24면에 한국일보 11기 뉴스이용자위원회 ‘동영상 평가’ 기사가 실렸다. 한국일보 뉴스이용자위원회는 위원장 민 ...",
-        "source": "미디어오늘",
-        "publishedAt": "2026-10-12",
-        "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337665",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.NjAFTvrxZz32-EgG1VgSdA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "경남 10개 태양광기업, 사회복지시설 10곳에 발전설비 무상 지원",
-        "summary": "경남 10개 태양광기업, 사회복지시설 10곳에 발전설비 무상 지원 (창원=연합뉴스) 이정훈 기자 = 경남도는 13일 밀양시 하남읍 이레직업재활시설에서 지역 기업들의 지원을 받아 태양광 발전설비 합동 준공식을 개최했다. 디에스엠, 한진솔라, 그랜드썬 등 경남 1..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-10-12",
-        "url": "https://www.fnnews.com/news/202610131110070318",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.em2LMdrRyCuwE1vtUmNUfQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "화웨이, AI 연산부터 전력·산업 적용까지 AI 인프라 전반 전시",
-        "summary": "AI 페스타 2026 전시장에서는 AI의 '현실화'가 얼마나 다양한 층위에서 동시에 진행되고 있는지를 한눈에 볼 수 있었다. 대규모 연산을 받쳐주는 서버와 데이터센터 인프라, 기업이 AI를 내재화하도록 돕는 에이전틱 플랫폼, 공공·국방이라는 민감한 도메인에 맞춤 적용되는 경량 모델, 협업 데이터와 AI를 연결해 업무 자동화를 실현하는 솔루션, 그리고 가상과 ...",
-        "source": "헬로티",
-        "publishedAt": "2026-10-13",
-        "url": "https://www.hellot.net/news/article.html?no=115407",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.aKIZ2-e_33EimbXNqtkNhw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "\"AI 데이터센터 亞 허브 … 韓이 차지할 가능성 높아\"",
-        "summary": "데디 이스칸다르 데이터센터호크 아시아·태평양 총괄 인터뷰韓 데이터센터 시장 성장 속도3년 만에 두배 늘만큼 가팔라日은 시설 짓는데 오래 걸리고홍콩은 지정학적 불확실성 커韓 반도체 산업·인력기반 탄탄전력 확보는 해결해야 할 과제 ...",
-        "source": "매일경제",
-        "publishedAt": "2026-10-12",
-        "url": "https://www.mk.co.kr/news/it/12173702",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.vmQp8jp7q46Ff0VO5anRxA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "텍사스 선거에 데이터센터 100GW 걸렸다…AI주 새 변수",
-        "summary": "미국 데이터센터 계획 용량 331GW 가운데 약 100GW가 몰린 텍사스의 주지사 선거가 AI 관련주의 새 변수로 떠올랐다. 전기요금과 용수 부담을 걱정하는 여론이 커지자 그레그 애벗 주지사는 지난 8월 데이터센터 감사를 지시했다.",
-        "source": "jabon",
-        "publishedAt": "2026-10-12",
-        "url": "https://www.jabon.co.kr/news/articleView.html?idxno=7548",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ZTJwDmiaHjM57dctTIqwSA&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
