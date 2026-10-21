@@ -1,79 +1,88 @@
 {
-  "updatedAt": "2026-10-20",
-  "windowStart": "2026-10-18T22:00:00.000Z",
-  "windowEnd": "2026-10-19T22:00:00.000Z",
+  "updatedAt": "2026-10-21",
+  "windowStart": "2026-10-19T22:00:00.000Z",
+  "windowEnd": "2026-10-20T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "패색 짙은 美공화당…중간선거 앞두고 '성전환·사회주의' 쟁점화",
-      "summary": "[서울=뉴시스] 권성근 기자 = 미국 중간선거가 약 보름 앞으로 다가온 가운데 공화당이 문화사회 이슈를 선거 쟁점으로 부각하는 데 집중하고 있다. 18일(현지 시간) 월스트리트저널(WSJ)에 따르면 공화당 후보들은 선거를 앞두고 마지막 유세에서 민주당의 트랜스젠..",
+      "title": "\"한국 아동 행복감 14개국 중 11위…지역별 삶의 질 격차\"",
+      "summary": "\"한국 아동 행복감 14개국 중 11위…지역별 삶의 질 격차\" 세이브더칠드런·서울대 사회복지연구소 심포지엄…세종 1위·전북 최하위 (서울=연합뉴스) 정아란 기자 = 한국 아동의 행복감이 국제 비교에서 14개국 중 11위에 그친 것으로 나타났다. 국내에서도 아동의 ..",
       "source": "파이낸셜뉴스",
-      "publishedAt": "2026-10-19",
-      "url": "https://www.fnnews.com/news/202610191529338841",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.nLKh1diBy08OBEwROHOKFA&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-10-20",
+      "url": "https://www.fnnews.com/news/202610201605460122",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.AcFjvjssitIM4RCz-aDYgQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "이주민 유치에서 정착으로…주거·교육 잇는 지역정책 제안",
-      "summary": "이주민을 얼마나 많이 유치했는지보다 지역에서 어떻게 살아가는지에 초점을 맞춰 이민정책을 설계해야 한다는 제안이 나왔다. 일자리와 주거, 자녀교육을 함께 지원하고 정책 성과도 안정적인 정착으로 평가하자는 취지다. 경기도와 경기도이민사회통합지원센터는 지난 16일 오후 의정 ...",
-      "source": "한겨레",
-      "publishedAt": "2026-10-19",
-      "url": "https://www.hani.co.kr/arti/area/capital/1283059.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.5vZ--9hCV0yXRo3A-NGWWg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "조 국 원장, “AI·반도체 성장 넘어 주거·돌봄 해결해야, 민생복지 메가프로젝트” 제안",
-      "summary": "조국 조국혁신정책연구원장이 내란 이후 대한민국이 나아갈 방향으로 산업 성장 중심의 정책을 넘어 주거와 돌봄 문제를 해결하는 대규모 민생·복지 정책을 추진해야 한다고 강조했다.AI·반도체 등 첨단산업 투자가 국가 경제의 성장동력이 될 수 있지만, 그 성과가 국민 개개인의 삶을 개선하는 ...",
-      "source": "mdns",
-      "publishedAt": "2026-10-19",
-      "url": "https://www.mdns.co.kr/news/articleView.html?idxno=40864",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ctI8ZMWGPdYG46Z1uo1p_A&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "아크릴-KT, 의료 인공지능 전환 협력…데이터 플랫폼·AI 서비스 공동 사업화",
-      "summary": "[이데일리 김형일 기자] 인공지능 전환(AX) 인프라 전문기업 아크릴(0007C0)이 KT와 의료 데이터 표준화 및 활용, 의료 AI 기술·서비스 실증, 연구개발과 사업화 등을 위한 업무협약(MOU)을 체결했다고 20일 밝혔다. (왼쪽부터)박상현 아크릴 매니저, 고의열 아크릴 이사, 신현경 아크릴 부대표, 박외진 아크릴 대표이사, 노형래 KT 기업사업본부장 ...",
-      "source": "이데일리 on MSN",
-      "publishedAt": "2026-10-20",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%95%84%ED%81%AC%EB%A6%B4-kt-%EC%9D%98%EB%A3%8C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A0%84%ED%99%98-%ED%98%91%EB%A0%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC-ai-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B3%B5%EB%8F%99-%EC%82%AC%EC%97%85%ED%99%94/ar-AA2fBnyV",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.BgN-x8jmdM51oq3wUDUf9A&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "\"소부장도 액티브로 적극 대응\"... KB운용 ‘RISE 반도체소부장액티브’ 출시",
-      "summary": "인공지능(AI) 서버 수요와 메모리 가격 상승으로 반도체 업황 회복 기대가 커지면서 장비·소재·부품 기업을 겨냥한 투자 상품도 늘고 있다. KB자산운용은 업종별 흐름과 기업별 수주 상황을 반영해 투자 비중을 조절하는 액티브 상장지수펀드(ETF)를 선보인다. KB자산운용 ...",
-      "source": "메트로신문",
-      "publishedAt": "2026-10-20",
-      "url": "https://www.metroseoul.co.kr/article/20261020500076",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.5NMi5OX4zTlc43NGriTihQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "“포켓부터 데이터센터까지 ··· ‘하이브리드 AI’ 인프라 시장 선도”",
-      "summary": "[데이터넷] 레노버가 글로벌 CIO를 대상으로 심층 조사해 발표한 ‘CIO 플레이북 2026’에 따르면 거대언어모델(LLM), 생성형 AI를 거쳐 이제는 스스로 과업을 수행하는 ‘에이전틱 AI’로 기업들의 관심사가 옮겨가며, 질문도 ‘AI를 사용할 것인가’에서 ‘투자한 AI로 얼마나 효율적으로 성과를 낼 것인가’로 바뀌었다.투자 의지도 확고한 것으로 나타났 ...",
-      "source": "데이터넷",
-      "publishedAt": "2026-10-19",
-      "url": "https://www.datanet.co.kr/news/articleView.html?idxno=215196",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.CrEkmQvl5UcbWfvNKJIW4g&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[김대호 진단] 천덕꾸러기 데이터센터",
-      "summary": "천덕꾸러기로 변한 데이터센터인공지능 혁명과 함께 한때 경제 발전의 아이콘으로 인기를 누렸던 데이터센터가 어느 사이 천덕꾸러기 신세로 전락하고 있다. 전 세계를 뒤흔든 생성형 AI 열풍 속에서 데이터센터는 미래의 황금알을 낳는 거위이자 기술 진보의 상징으로 찬양받았다.",
+      "title": "한국사회보장정보원, 부정수급 예방교육 실시... 사회서비스 신뢰성 높일 것",
+      "summary": "한국사회보장정보원이 장애인활동지원사업 종사자를 대상으로 ‘사회서비스 전자바우처 부정수급 예방교육’을 실시한다.21일 한국사회보장정보원에 따르면 이번 교육은 현장의 부정수급을 예방하고 올바른 바우처 이용·결제 관행을 정착시키기 위한 목적이다.교육은 부산경남지역센터와 대구경북지역센터가 각각 울산과 포항에서 진행하며 해당 지역의 서비스 제공인력과 전담인력 등 7 ...",
       "source": "글로벌이코노믹 on MSN",
-      "publishedAt": "2026-10-19",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B9%80%EB%8C%80%ED%98%B8-%EC%A7%84%EB%8B%A8-%EC%B2%9C%EB%8D%95%EA%BE%B8%EB%9F%AC%EA%B8%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0/ar-AA2fAh1t",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.zTr7caaTMJuE3LoAH09sNg&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-10-21",
+      "url": "https://www.msn.com/ko-kr/news/news/%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EB%B6%80%EC%A0%95%EC%88%98%EA%B8%89-%EC%98%88%EB%B0%A9%EA%B5%90%EC%9C%A1-%EC%8B%A4%EC%8B%9C-%EC%82%AC%ED%9A%8C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%8B%A0%EB%A2%B0%EC%84%B1-%EB%86%92%EC%9D%BC-%EA%B2%83/ar-AA2fFOUo",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.qVOyFD5Yu49Ff_vJIl-Bew&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "韓 아동 행복감 14개국 중 11위 그쳐…국내 지역별론 세종 1위",
+      "summary": "한국 아동의 행복감이 국제 14개국과 비교했을 때 11위에 불과한 것으로 나타났다. 특히 국내에서도 지역에 따라 아동 삶의 질 격차가 컸다. 삶의 질 지수가 가장 높은 지역은 세종시였다. 국제아동권리 비정부기구(NGO) 세이브더칠드런은 20일 서울 여의도 켄싱턴호텔에서 서울대 사회복지연구소와 함께 '2026 한국 아동 삶의 질 심포지엄'을 열고 이러한 결과 ...",
+      "source": "아시아경제 on MSN",
+      "publishedAt": "2026-10-20",
+      "url": "https://www.msn.com/ko-kr/news/other/%E9%9F%93-%EC%95%84%EB%8F%99-%ED%96%89%EB%B3%B5%EA%B0%90-14%EA%B0%9C%EA%B5%AD-%EC%A4%91-11%EC%9C%84-%EA%B7%B8%EC%B3%90-%EA%B5%AD%EB%82%B4-%EC%A7%80%EC%97%AD%EB%B3%84%EB%A1%A0-%EC%84%B8%EC%A2%85-1%EC%9C%84/ar-AA2fDDd9",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.aa0bbb08774c1b7146f23c3464874a55&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "한국알콘, 시각장애 아동·학생 지원 사회공헌활동 전개",
+      "summary": "[라포르시안] 한국알콘이 ‘세계 눈의 날’(World Sight Day)을 기념해 시각장애 학생과 아동을 위한 사회공헌활동을 전개했다. 회사는 지난 15일 임직원들이 시각장애 학생과 아동에게 기부할 흰지팡이와 모루 인형을 직접 제작하고, 국립서울맹학교를 찾아 교육 환경 정화 봉사를 진행했다고 20일 밝혔다. 세계 눈의 날은 국제실명예방기구(IAPB)가 매년 ...",
+      "source": "라포르시안",
+      "publishedAt": "2026-10-20",
+      "url": "https://www.rapportian.com/news/articleView.html?idxno=241457",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.j3StjzQiTzN_iH-X2dAMVA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "삼일PwC, 2026 산업AI EXPO 첫 참가…제조 생산계획 AI 솔루션 공개",
-      "summary": "삼일PwC는 오는 21일부터 23일까지 경기 고양시 일산 킨텍스 제1전시장에서 열리는 '2026 산업AI EXPO'에 처음 참가해 산업 현장에 특화된 인공지능(AI) 서비스를 선보인다고 20일 밝혔다.",
-      "source": "조세일보 on MSN",
+      "title": "메타크라우드, KCI 등재지 '인공지능인문학연구'에 AI 개입 분석 솔루션 'TextShield(글자국)' 공급 계약 체결",
+      "summary": "정부 연구비 약 8억8000만원이 투입된 KCI 등재 논문에 생성형 AI가 만든 가짜 참고문헌 17건이 인용되어 게재 철회 및 해당 저자 3년 투고 금지 처분을 받은 사건이 지난 3일 보도로 알려진 가운데, 국내 한 학술지가 투고 단계에서 논문의 AI 개입 여부 검증 체계 도입을 결정하며 주목받고 있다. AI 기반 신뢰 기술(Trust Technology) ...",
+      "source": "전자신문 on MSN",
       "publishedAt": "2026-10-20",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%82%BC%EC%9D%BCpwc-2026-%EC%82%B0%EC%97%85ai-expo-%EC%B2%AB-%EC%B0%B8%EA%B0%80-%EC%A0%9C%EC%A1%B0-%EC%83%9D%EC%82%B0%EA%B3%84%ED%9A%8D-ai-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B3%B5%EA%B0%9C/ar-AA2fBZb4",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.FHgvvsBC6nlNei3yXWrvrw&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%A9%94%ED%83%80%ED%81%AC%EB%9D%BC%EC%9A%B0%EB%93%9C-kci-%EB%93%B1%EC%9E%AC%EC%A7%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B8%EB%AC%B8%ED%95%99%EC%97%B0%EA%B5%AC%EC%97%90-ai-%EA%B0%9C%EC%9E%85-%EB%B6%84%EC%84%9D-%EC%86%94%EB%A3%A8%EC%85%98-textshield%EA%B8%80%EC%9E%90%EA%B5%AD-%EA%B3%B5%EA%B8%89-%EA%B3%84%EC%95%BD-%EC%B2%B4%EA%B2%B0/ar-AA2fDfc6",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.1eOsbsTPF5_7D5V2ryGPmQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "머스크, 테슬라·스페이스X 합병검토 공식화…\"슈퍼지능 시너지\"(종합)",
+      "summary": "양사 이사회에 합병검토 특별위 구성…\"나는 이해충돌 당사자라 참여 불가\" \"내년말 AI 부문 연매출 최대 1조달러…내달 스타십 부스터·선체 동시회수 시도\" (샌프란시스코=연합뉴스) 권영전 특파원 = 일론 머스크가 ...",
+      "source": "미주중앙일보",
+      "publishedAt": "2026-10-20",
+      "url": "https://www.koreadaily.com/article/20261020163605175",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.fiadtNNz1DdcSZRP_bEUXQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "\"GPU 사면 뭐 하나\" AI 산업 성장 가로막는 건...골드만삭스의 경고",
+      "summary": "인공지능(AI) 산업의 폭발적인 성장을 가로막는 가장 치명적인 병목 요인은 자금 부족이나 반도체 수급이 아닌 전력 기반시설 부족이라는 분석이 나왔다. 글로벌 투자은행 골드만삭스는 20일 'AI 시대의 전력 확보'라는 제목의 보고서에서 전력망 연결 지연과 전력 공급난이 AI 데이터센터 확장과 대규모 투자 집행의 핵심 리스크로 떠올랐다고 분석했다.",
+      "source": "머니투데이",
+      "publishedAt": "2026-10-20",
+      "url": "https://www.mt.co.kr/world/2026/10/21/2026102107295119895",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.D3FVl9wWSd2Qfn_WXEKYtA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "한국오므론제어기기, 'AI·로봇 안전제어 솔루션 챌린지' 성과공유회 개최",
+      "summary": "한국오므론제어기기, AI·로봇 안전제어 솔루션 챌린지 성과공유회 개최 대한상의 서울기술교육센터와 청년 일경험 프로그램 운영 대학·특성화고 24개 팀, 약 100명 참여프로젝트 결과 발표 우수 10개 팀 선정11월 2026 로보월드 전시 연계 예정 ...",
+      "source": "조선비즈",
+      "publishedAt": "2026-10-20",
+      "url": "https://biz.chosun.com/industry/business_info/2026/10/21/KQWIEXFACRA2NAAS42WRFPWYUU/",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.2COnMz2KtfHPysoz_pZbKw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "인천 AI 기술기업 69% 연구개발·실증 단계…도입수요 기업 71.4%는 계획·예산 없어",
+      "summary": "인천의 인공지능(AI) 기술기업 10곳 중 7곳은 수익을 창출하지 못하는 ‘연구개발 및 시제품’ 단계에 머무르고 있는 것으로 나타났다. 더군다나 지역에서 AI 도입을 원하는 기업 대부분은 예산 부족 등으로 어려움을 겪고 있는 만큼 공항과 항만·산업단지 등을 활용한 실증 ...",
+      "source": "경기일보",
+      "publishedAt": "2026-10-20",
+      "url": "https://www.kyeonggi.com/article/20261020580571",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.LXe9z-O6M8u_TX178czFlw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
