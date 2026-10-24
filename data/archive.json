@@ -1,5 +1,93 @@
 [
   {
+    "updatedAt": "2026-10-24",
+    "windowStart": "2026-10-22T22:00:00.000Z",
+    "windowEnd": "2026-10-23T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "우리은행, 사회적경제기업 10곳에 1억3천만원 지원",
+        "summary": "우리은행, 사회적경제기업 10곳에 1억3천만원 지원 (서울=연합뉴스) 이도흔 기자 = 우리은행은 사회적경제기업 10곳에 총 1억3천만원을 지원했다고 23일 밝혔다. 우리은행은 전날 한국YMCA연합회에서 한국사회적기업진흥원과 함께 추진한 '2025년 우리 임팩트 챌린..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-10-23",
+        "url": "https://www.fnnews.com/news/202610231413313090",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.n1TyRh9npOAhvu7vaPFMSQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "‘2027학년도 수시모집 면접 대비’ 시사 이슈 살펴보기 ③: 경제·노동·사회 불평등",
+        "summary": "수시모집 대학별 면접이 본격화하면서 시사 이슈에 대한 수험생들의 관심도 높아지고 있다. 올해는 인공지능(AI)을 비롯해 의료개혁과 지역의사제, 저출생·고령화, 청년 일자리, 기후위기, 반도체 산업, 국제질서와 통상 변화 등 교육·사회·경제 전반의 굵 ...",
+        "source": "조선에듀 on MSN",
+        "publishedAt": "2026-10-21",
+        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/2027%ED%95%99%EB%85%84%EB%8F%84-%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91-%EB%A9%B4%EC%A0%91-%EB%8C%80%EB%B9%84-%EC%8B%9C%EC%82%AC-%EC%9D%B4%EC%8A%88-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-%EA%B2%BD%EC%A0%9C-%EB%85%B8%EB%8F%99-%EC%82%AC%ED%9A%8C-%EB%B6%88%ED%8F%89%EB%93%B1/ar-AA2fIdNA",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.24gG8l0UREHXgX-3dkBUig&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "‘2027학년도 수시모집 면접 대비’ 시사 이슈 살펴보기 ⑤: 정치·법·사회적 권리",
+        "summary": "수시모집 대학별 면접이 본격화하면서 시사 이슈에 대한 수험생들의 관심도 높아지고 있다. 올해는 인공지능(AI)을 비롯해 의료개혁과 지역의사제, 저출생·고령화, 청년 일자리, 기후위기, 반도체 산업, 국제질서와 통상 변화 등 교육·사회·경제 전반의 굵 ...",
+        "source": "조선에듀 on MSN",
+        "publishedAt": "2026-10-21",
+        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/2027%ED%95%99%EB%85%84%EB%8F%84-%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91-%EB%A9%B4%EC%A0%91-%EB%8C%80%EB%B9%84-%EC%8B%9C%EC%82%AC-%EC%9D%B4%EC%8A%88-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-%EC%A0%95%EC%B9%98-%EB%B2%95-%EC%82%AC%ED%9A%8C%EC%A0%81-%EA%B6%8C%EB%A6%AC/ar-AA2fIDPu",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.DvfXUOco7ry3Uag-LurtSg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "“대입 면접서 시사 이슈 나오면?”…상식 암기보다 중요한 4단계 답변법",
+        "summary": "대학수학능력시험이 한 달 앞으로 다가온 가운데 수시모집 대학별 면접도 이어지고 있다. 면접을 준비하는 수험생이라면 최근 사회적 쟁점을 어디까지 공부해야 할지 고민하기 쉽다.대입 면접에서 시사 이슈가 그대로 ‘상식 문제’처럼 출제되는 경우는 많지 않다 ...",
+        "source": "조선에듀 on MSN",
+        "publishedAt": "2026-10-21",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%8C%80%EC%9E%85-%EB%A9%B4%EC%A0%91%EC%84%9C-%EC%8B%9C%EC%82%AC-%EC%9D%B4%EC%8A%88-%EB%82%98%EC%98%A4%EB%A9%B4-%EC%83%81%EC%8B%9D-%EC%95%94%EA%B8%B0%EB%B3%B4%EB%8B%A4-%EC%A4%91%EC%9A%94%ED%95%9C-4%EB%8B%A8%EA%B3%84-%EB%8B%B5%EB%B3%80%EB%B2%95/ar-AA2fHW7J",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.oDf2YXBRCFtbazMnakQMsg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "패색 짙은 美공화당…중간선거 앞두고 '성전환·사회주의' 쟁점화",
+        "summary": "[서울=뉴시스] 권성근 기자 = 미국 중간선거가 약 보름 앞으로 다가온 가운데 공화당이 문화사회 이슈를 선거 쟁점으로 부각하는 데 집중하고 있다. 18일(현지 시간) 월스트리트저널(WSJ)에 따르면 공화당 후보들은 선거를 앞두고 마지막 유세에서 민주당의 트랜스젠..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-10-19",
+        "url": "https://www.fnnews.com/news/202610191529338841",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.nLKh1diBy08OBEwROHOKFA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[AI돋보기] AI가 더 똑똑한 AI 만든다…'지능 폭발' 현실 되나",
+        "summary": "연구진은 AI의 과제 수행 능력이 향상되는 추세가 이어지면 2028년 중반께 사람이 수개월 걸려 하는 연구 과제를 AI가 수행할 수 있다고 봤다. 현재 증가세가 유지된다는 가정에 따른 잠정 추정이다. 연구진은 근거가 아직 초기 단계이고 일부 결과는 엇갈린다고 인정했다.",
+        "source": "연합뉴스",
+        "publishedAt": "2026-10-23",
+        "url": "https://www.yna.co.kr/view/AKR20261023025100017",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.6IHMUI_y0-DF1GH20LNhhw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[단독][2027정시] '입결 없는 첫 선발' 신설학과 '주목'.. 연대 첨단약과학, 성대 인공지능, 단대 AI건축융합 등 7개교 9개학과",
+        "summary": "[베리타스알파=조혜연 기자] 올해도 AI, 컴퓨팅, 신약개발, 바이오 등 첨단분야 학과가 대거 신설돼 모집을 실시한다. 2027정시에서 주요22개대와 지역거점국립대(지거국) 9개교 가운데 7개교가 신설학과 9개에서 98명을 처음 선발한다. 주요22개대에서는 연세대 첨단약과학과(가군 5 ...",
+        "source": "베리타스알파",
+        "publishedAt": "2026-10-23",
+        "url": "https://www.veritas-a.com/news/articleView.html?idxno=633339",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.pkr1TYNerh1SAhs0T4W5Gg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "빅웨이브로보틱스, 피지컬 AI 기술 포럼 개최…'하이퍼 파운드리' 시연",
+        "summary": "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] 산업용 피지컬 AI(인공지능) 전문기업 빅웨이브로보틱스가 전날 서울 잠실 스카이31에서 '빅웨이브 시프트 2026 산업용 피지컬 AI 서밋'을 개최했다고 23일 밝혔다. '피지컬 AI, 산업을 움직이다'를 주제로 열린 이번 행사에는 엔비 ...",
+        "source": "머니투데이 on MSN",
+        "publishedAt": "2026-10-23",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%B9%85%EC%9B%A8%EC%9D%B4%EB%B8%8C%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4-%ED%94%BC%EC%A7%80%EC%BB%AC-ai-%EA%B8%B0%EC%88%A0-%ED%8F%AC%EB%9F%BC-%EA%B0%9C%EC%B5%9C-%ED%95%98%EC%9D%B4%ED%8D%BC-%ED%8C%8C%EC%9A%B4%EB%93%9C%EB%A6%AC-%EC%8B%9C%EC%97%B0/ar-AA2fTBtb",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.IaSd5eTdxCh2cMilzXG5lA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "보건산업진흥원, 의료 AI 글로벌 협력 확대 논의",
+        "summary": "한국보건산업진흥원 (원장 고상백)은 지난 22일 서울 마곡 코엑스 컨벤션센터에서 국제의약품구매기구 (Unitaid)와 공동포럼을 개최하고 의료 AI 기술의 해외 현장 적용과 의료 접근성·형평성 개선 방안을 논의했다.",
+        "source": "의학신문",
+        "publishedAt": "2026-10-23",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014650",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.lgJit72SmsvqcPP_OE25Hw&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-10-23",
     "windowStart": "2026-10-21T22:00:00.000Z",
     "windowEnd": "2026-10-22T22:00:00.000Z",
@@ -551,103 +639,6 @@
         "publishedAt": "2026-10-12",
         "url": "https://www.yna.co.kr/view/AKR20261012031700003",
         "imageUrl": "https://www.bing.com/th?id=ONUT.t2ritzmYlq7aXLlCeO60-g&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-10-17",
-    "windowStart": "2026-10-15T22:00:00.000Z",
-    "windowEnd": "2026-10-16T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "[이슈 & 뉴스] 진천 지체장애인 200여 명 한자리에...운동으로 화합·소통",
-        "summary": "(사)충북지체장애인협회 진천군지회 (지회장 최규화)는 16일 진천종합스포츠타운 다목적체육관에서 회원과 내빈 등 200여 명이 참석한 가운데 ‘2026년 지체장애인 명랑운동회’를 개최한다.",
-        "source": "티티엘뉴스",
-        "publishedAt": "2026-10-16",
-        "url": "https://www.ttlnews.com/news/articleView.html?idxno=3152475",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.RqCK27ORB6hqtD0dor9QFQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "재복무 확정 송민호, 싸이 이어 결국… 연예계 병역 흑역사 끝나지 않았다 [MD이슈]",
-        "summary": "[마이데일리 = 박서연 기자] 사회복무요원 복무 중 잦은 무단결근으로 법원에서 유죄 판결을 받은 그룹 위너의 멤버 송민호가 102일을 다시 복무해야 하는 처지에 놓였다. 소집해제 이후 남은 병역 의무를 다시 이행하게 되면서, 대한민국 연예계에 끊이지 않는 병역 관련 일탈의 역사가 또 한번 씁쓸한 도마 위에 올랐다. 16일 병무청에 따르면, 송민호는 복무 이 ...",
-        "source": "마이데일리 on MSN",
-        "publishedAt": "2026-10-16",
-        "url": "https://www.msn.com/ko-kr/news/news/%EC%9E%AC%EB%B3%B5%EB%AC%B4-%ED%99%95%EC%A0%95-%EC%86%A1%EB%AF%BC%ED%98%B8-%EC%8B%B8%EC%9D%B4-%EC%9D%B4%EC%96%B4-%EA%B2%B0%EA%B5%AD-%EC%97%B0%EC%98%88%EA%B3%84-%EB%B3%91%EC%97%AD-%ED%9D%91%EC%97%AD%EC%82%AC-%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EC%95%98%EB%8B%A4-md%EC%9D%B4%EC%8A%88/ar-AA2eppHC",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.3QVPqkdQKDnpSyc-uxxrAg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[정책 인사이트] 美·英·濠 청년 고용·주거·혼인 '평생 조사'… 토막 통계만 있는 韓",
-        "summary": "호주 정부는 뉴캐슬대학교와 퀸즐랜드 대학교와 함께 1996년 여성 5만7000명을 대상으로 한 '건강 종단 연구'를 시작했다. 국가 주도로 여성 건강 정책을 수립하기 위해 장기적이고 방대한 데이터가 필요하다는 판단 때문이다. 이 조사를 통해 자궁내막증의 실제 유병률과 이 증상을 가진 여성이 겪는 삶의 질 저하가 통계로 입증됐다. 이에 호주 정부는 세계 ...",
-        "source": "조선비즈",
-        "publishedAt": "2026-10-16",
-        "url": "https://biz.chosun.com/policy/policy_sub/2026/10/17/PEBHGL5UFZBLDEMASMS3MZC2DY/",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.TY_4A6fF6KlbY_SpRxJrAA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "공공기관 2차 이전 앞두고 혁신도시 노조 연대 재정비…이병수 의장 선출",
-        "summary": "[에너지데일리 조남준 기자 ] 공공기관 2차 지방이전 논의가 본격화되는 가운데 전국 혁신도시 이전기관 노동조합의 공동 대응을 이끌 새 지도부가 출범했다. 단순한 기관 이전을 넘어 실제 정착이 가능한 주거·의료·교육·교통 환경을 갖춰야 한다는 요구가 커지는 상황에서 노동계가 혁신도시 정책의 ‘정주여건 개선’을 핵심 의제로 전면에 내세우고 있어 향후 정부의 ...",
-        "source": "에너지데일리",
-        "publishedAt": "2026-10-16",
-        "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204112",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.U83hmj3ZV8vCr18IawFeAw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이남철의 이민정책갈럼] 희망과 통합의 언어, 한국 다문화 사회의 과제",
-        "summary": "2026년 7월, 워싱턴 D.C.에서 열린 미국 독립선언 250주년 기념행사의 하나로 전미 교육 서밋이 열렸다. 아만다 고먼(Amanda Gorman)은 기조연설자로 무대에 섰다. 그녀의 시적 비전은 행사 주제인 “Together We Thrive: Towards a More Perfect Union(함께 번영하며 더 완전한 연합을 향해)”과 깊게 연결됐다 ...",
-        "source": "ekw",
-        "publishedAt": "2026-10-16",
-        "url": "https://www.ekw.co.kr/news/articleView.html?idxno=20972",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.gNrwvuAyiGa51eloLFJOYw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "대구정책연구원, AI·로봇 융합 대응 미래산업 전략 모색",
-        "summary": "한국로봇산업진흥원 전문가 초청실증·보급·생태계 조성 정책 흐름 공유 대구정책연구원이 인공지능(AI)과 로봇 기술의 융합에 따른 산업환경 변화를 살펴보고 지역 미래산업 육성을 위한 정책 방향 모색에 나섰다.16일 연구원에 따르면 김태우 한국로봇산업진흥원 기술기반 AX본부장을 초청해 진행 ...",
-        "source": "경북일보",
-        "publishedAt": "2026-10-16",
-        "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087458",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.aeEGZzpEHO3Bm9yZy5rQ7w&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "원프레딕트, ‘AI 네이티브 팩토리’ 제시…제조 AI 기술 확대 나서",
-        "summary": "제조 인공지능 (AI) 기업 원프레딕트가 서로 다른 공장에서 공통으로 활용할 수 있는 제조 AI 기술 개발에 나선다. 개별 설비의 고장 진단과 예측을 넘어 공장 운영 전반의 의사결정을 AI가 지원하는 체계를 구축한다는 목표다.",
-        "source": "매일경제",
-        "publishedAt": "2026-10-16",
-        "url": "https://www.mk.co.kr/news/business/12177869",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.2rHWKpSE4TjPVLSKDfvfnQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "센스톤, 피지컬AI 보안 국책과제 참여…산업설비 제어 명령 사전 차단 기술 개발",
-        "summary": "OTAC 원천기술을 보유한 OT 보안 전문기업 센스톤 (대표 유창훈)이 피지컬AI 환경에서 산업설비의 비인가 접근과 위험한 제어 명령을 사전에 차단하는 보안 기술 개발에 나선다. 센스톤은 과학기술정보통신부와 정보통신산업진흥원 (NIPA)이 추진하는 ‘협업지능 시스템을 위한 피지컬AI 기반 다중 계층 보안 기술 개발’ 국책과제에 공동연구개발기관으로 참여한다고 ...",
-        "source": "뉴스탭",
-        "publishedAt": "2026-10-16",
-        "url": "https://www.newstap.co.kr/news/articleView.html?idxno=335888",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.xTJxfw62zSvSdk8U_-_A6Q&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "경상국립대학교, 기술패권 시대 경남 미래산업 전략 모색…산·학·연·관 협력 강화",
-        "summary": "[한국강사신문 한상형 기자] 경상국립대학교가 미·중 기술패권 경쟁이 심화하는 가운데 경남 주력산업의 경쟁력을 높이고 미래산업으로의 전환을 추진하기 위한 전략 모색에 나섰다. 과학기술 분야 전직 차관들이 발제자로 참여해 국가 차원의 기술 자립 전략과 경남 지역산업의 혁신 방향을 제시했다.경상국립대학교(총장 권진회) 대학원 과학기술정책학과는 지난 10월 14일 ...",
-        "source": "한국강사신문",
-        "publishedAt": "2026-10-16",
-        "url": "https://www.lecturernews.com/news/articleView.html?idxno=212091",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.yV5Xt8VkAmobd3D8otfsTg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "中 “AI는 세계에 팔되 기술은 못 준다”... 美 맞서 ‘기술 빗장’",
-        "summary": "중국이 인공지능(AI) 서비스를 세계시장에 확산시키면서도 핵심 기술의 해외 이전은 제한하는 새로운 수출통제에 나섰다. 미국이 첨단 반도체의 중국 수출을 막아온 데 맞서 중국도 자국 AI 기술의 소유권과 통제권을 지키겠다는 ...",
-        "source": "문화일보 on MSN",
-        "publishedAt": "2026-10-17",
-        "url": "https://www.msn.com/ko-kr/news/other/%E4%B8%AD-ai%EB%8A%94-%EC%84%B8%EA%B3%84%EC%97%90-%ED%8C%94%EB%90%98-%EA%B8%B0%EC%88%A0%EC%9D%80-%EB%AA%BB-%EC%A4%80%EB%8B%A4-%E7%BE%8E-%EB%A7%9E%EC%84%9C-%EA%B8%B0%EC%88%A0-%EB%B9%97%EC%9E%A5/ar-AA2ep8zH",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.1Xj48wwxBCaqyFQnnMJXzg&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
