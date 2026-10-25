@@ -1,70 +1,88 @@
 {
-  "updatedAt": "2026-10-25",
-  "windowStart": "2026-10-23T22:00:00.000Z",
-  "windowEnd": "2026-10-24T22:00:00.000Z",
+  "updatedAt": "2026-10-26",
+  "windowStart": "2026-10-24T22:00:00.000Z",
+  "windowEnd": "2026-10-25T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[박준규의 이슈언박싱] 대만 \"中 선거개입 100건 추적\"…”설마 우리도?” 한국 2030 반응은",
-      "summary": "대만 정보당국이 중국의 선거개입 의혹 사건 100여 건을 추적하고 있다고 밝히면서, 국내 온라인 커뮤니티에서도 관심이 뜨겁습니다. 젊은 층이 주로 이용하는 커뮤니티에서는 \"우리나라도 예외가 아닐 것\"이라는 경계의 목소리가 쏟아졌습니다. 반면 \"대만 집권당의 정치적 쇼일 수 있다\"거나 \"의심만으로 단정해선 안 된다\"는 반론도 함께 나왔습니다.",
-      "source": "펜앤드마이크",
-      "publishedAt": "2026-10-24",
-      "url": "https://www.pennmike.com/news/articleView.html?idxno=130207",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.P-3u81kbOh0MI6lYOQYunQ&pid=News&w=1200&h=675&c=14"
+      "title": "[가리사니] 죽어야만 영웅이 되는 사회",
+      "summary": "개인의 희생에 안전을 기대는 사회가 아니라 임무를 마치고 무사히 퇴근하는 사회가 돼야 2022년 1월 경기도 평택 냉동창고 화재 현장에서 이형석 소방경과 박수동 소방장, 조우찬 소방교가 순직했다. 당시 이들은 큰불을 진압한 뒤 마지막 인명 수색을 위해 현장에 투입됐다가 ...",
+      "source": "국민일보",
+      "publishedAt": "2026-10-25",
+      "url": "https://www.kmib.co.kr/article/20261025501577",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.5BO034nDkr5ozLvTYuVMXg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "한국효문화진흥원, 제9회 효 국제학술대회…한·중·일 효문화 모색",
-      "summary": "[대전=뉴시스]곽상훈 기자 = 한국효문화진흥원은 24일 대강당에서 '제9회 2026년 효(孝) 국제학술대회'를 개최했다고 25일 밝혔다. '한·중·일 동아시아 효문화의 현재와 미래'를 주제로 열린 학술대회는 동아시아 3국의 효문화 현황을 살펴보고 효의 현대적 의미와..",
+      "title": "사회적기업진흥원, 청년 일경험 우수사례 공모전…총 8점 선정",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 한국사회적기업진흥원은 사회적기업과 청년이 함께 만든 성과와 긍정적인 변화 사례를 발굴하기 위해 '2026년도 사회적가치형 청년 일경험 지원사업 우수사례 수기 공모전'을 개최한다고 26일 밝혔다. 대상은 지원사업에 참여 중이거나 참여를 완료한 기업과 청년이다. 공모는 '기업 분야'와 ...",
+      "source": "연합뉴스 on MSN",
+      "publishedAt": "2026-10-25",
+      "url": "https://www.msn.com/ko-kr/news/national/%EC%82%AC%ED%9A%8C%EC%A0%81%EA%B8%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90-%EC%B2%AD%EB%85%84-%EC%9D%BC%EA%B2%BD%ED%97%98-%EC%9A%B0%EC%88%98%EC%82%AC%EB%A1%80-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EC%B4%9D-8%EC%A0%90-%EC%84%A0%EC%A0%95/ar-AA2g3cDO",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.hSJqSFS7R1YENmkbS51TPg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "국민경제자문회의, ‘AI 대전환·전력망 안보’ 한국 경제 미래 해법 모색",
+      "summary": "대통령 직속 경제자문기구인 국민경제자문회의(부의장 김성식)가 급속한 인공지능(AI)의 발전에 따른 한국 사회의 광범위한 변화에 대응하기 위해 대한민국 미래 경쟁력과 사회적 포용성 확보를 위한 릴레이 공개포럼을 잇따라 개최한다. 국민경제자문회의는 26일 서울 페럼타워 페럼홀에서 ‘AI 대전환 시대, 어떻게 준비할 것인가: 역량개발과 소득보장 중심으로’를 주제 ...",
+      "source": "세계일보",
+      "publishedAt": "2026-10-25",
+      "url": "https://www.segye.com/newsView/20261025508333",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.XMRrwz9R72aizeoTIl2tuw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "이형일, 경제현안간담회 주재…전기차 등 국내생산세액공제 보완 논의",
+      "summary": "(세종=뉴스1) 전민 기자 = 이형일 부총리 겸 재정경제부 장관이 25일 관계부처 장관, 청와대 참모진과 경제현안간담회를 열고 국내생산세액공제 보완방안과 3대 핵심 사회정책 추진방안을 논의했다. 국내생산세액공제 적용 대상에서 빠진 전기차 업계 등을 중심으로 공..",
       "source": "파이낸셜뉴스",
-      "publishedAt": "2026-10-24",
-      "url": "https://www.fnnews.com/news/202610250821055776",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.TmFU-iPo8J2tmNJ_Ex1ugw&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-10-25",
+      "url": "https://www.fnnews.com/news/202610252027138584",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.6vDWzbiYr7qV1WwmAg-mdA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "정년연장에 폭발한 '프랑스', 국민 88% 찬성 '한국'…왜 다를까",
-      "summary": "정년연장에 폭발한 '프랑스', 국민 88% 찬성 '한국'…왜 다를까 연금 소득 대체율, 프랑스 70.0% vs 한국 39.0%…은퇴 후 삶의 질 차이 한국에 정년은 노후 생존 핵심…연금 정상화, 세대간 사회적 타협 필요 (서울=연합뉴스) 옥성구 기자 = 최근 프랑스 전역을 화..",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-10-24",
-      "url": "https://www.fnnews.com/news/202610250602327856",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.MylEKC7S32nT7-97WuO8sA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[한국세무사회 논평] \"서울시의회는 민간위탁 '결산서 검사’ 조례안 조속 통과시켜라\"",
-      "summary": "[한국세무사회 논평]서울특별시의회 채유미 의원을 비롯한 31명의 의원이 지난 10월 19일 공동발의한 「서울특별시 행정사무의 민간위탁에 관한 조례 일부개정조례안」이 10월 23일부터 27일까지 입법예고에 들어갔다.한국세무사회(회장 구재이)는 납세자의 권익을 보호하고 성실납세를 지원하는 공공성 높은 조세전문가이자 세출검증 전문가인 전국 1만 8천 세무사의 법 ...",
-      "source": "일간 NTN",
-      "publishedAt": "2026-10-24",
-      "url": "https://www.intn.co.kr/news/articleView.html?idxno=2054294",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.nqI_W3qf1xH9J6Nbape6Vw&pid=News&w=1200&h=675&c=14"
+      "title": "한국투자증권, 아동·청년·지역사회 아우른 사회공헌 확대",
+      "summary": "한국투자증권이 취약계층 아동 지원을 중심으로 청년 자립, 친환경 주거 개선, 지역사회 봉사까지 사회공헌 영역을 넓히고 있다.단순 기부에 그치지 않고 교육환경 개선과 일자리 연계, 임직원 참여형 봉사 등을 결합하며 장기적인 지원 체계를 이어가는 모습이다.한국투자증권은 경기 지역 취약계층 아동을 위해 약 2000세트의 선물을 후원했다고 23일 밝혔다. 이번 물 ...",
+      "source": "비즈트리뷴",
+      "publishedAt": "2026-10-25",
+      "url": "https://www.biztribune.co.kr/news/articleView.html?idxno=361210",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Z0CqMPUyhpe8zKDLRhVkhw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[만나보니] '속마음 읽는 AI' 등장…뇌파로 소통하는 로봇 시대 성큼",
-      "summary": "(서울=연합뉴스) 권하영 기자 = 사람이 말로 지시하지 않아도 속으로 '어, 이게 아닌데'라고 생각하는 순간 인공지능(AI)이 뇌파를 읽어내 스스로 행동을 수정하는 기술이 등장했다. 이 기술이 상용화되면 AI나 로봇이 사람의 의도를 실시간으로 파악하고 그에 맞춰 움직일 수 있어, 피지컬 AI와 자율주행 등 다양한 분야에서 인간과 기계의 협업 방식이 달라질 ...",
+      "title": "'인공지능 시대, 질문하는 인문학'…제21회 인문주간 개최",
+      "summary": "인문주간 행사는 인문학 대중화와 인문학 관련 연구 성과의 확산을 위해 2006년부터 매년 10월 마지막 주에 개최된다. 올해는 전국 18개 인문학 관련 기관과 함께 시민들이 직접 참여할 수 있는 190여개의 다양한 프로그램을 운영한다. 주제는 '인공지능 (AI) 시대, 질문하는 인문학'이다.",
       "source": "연합뉴스",
-      "publishedAt": "2026-10-24",
-      "url": "https://www.yna.co.kr/view/AKR20261023038500017",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.zmRRncUe6zGjwZHcps0TjQ&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-10-25",
+      "url": "https://www.yna.co.kr/view/AKR20261023165600530",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.tCW9XFZCkehLyJzpMhnr2A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[AI돋보기] AI가 더 똑똑한 AI 만든다…'지능 폭발' 현실 되나",
-      "summary": "연구진은 AI의 과제 수행 능력이 향상되는 추세가 이어지면 2028년 중반께 사람이 수개월 걸려 하는 연구 과제를 AI가 수행할 수 있다고 봤다. 현재 증가세가 유지된다는 가정에 따른 잠정 추정이다. 연구진은 근거가 아직 초기 단계이고 일부 결과는 엇갈린다고 인정했다.",
-      "source": "연합뉴스",
-      "publishedAt": "2026-10-24",
-      "url": "https://www.yna.co.kr/view/AKR20261023025100017",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.6IHMUI_y0-DF1GH20LNhhw&pid=News&w=1200&h=675&c=14"
+      "title": "하이퍼스케일러는 더 이상 '클라우드 기업'이 아니다――전력·반도체·금융을 아우르는 AI 공장의 실체",
+      "summary": "생성형 AI를 사용할 때 우리가 접하는 것은 화면 위의 입력창입니다. 하지만 그 짧은 답변의 이면에는 반도체, 데이터센터, 냉각 설비, 송전망, 그리고 거대한 자금이 움직이고 있습니다.아마존, 마이크로소프트, 구글 등을 '클라우드를 빌려주는 회사'로만 본다면 AI 시대 경쟁의 절반밖에 보지 못하는 것입니다.AI는 극히 물리적인 산업입니다국제에너지기구(IEA ...",
+      "source": "note",
+      "publishedAt": "2026-10-25",
+      "url": "https://note.com/mindful_lab/n/n02a9f48b3ea0?hl=ko",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.eSeLT86KVU95Tqr_bXN7mA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "\"AI 발열 잡아야 데이터 터진다\"… 日 미쓰비시 머티리얼, 초정밀 온도 센서 증설",
-      "summary": "생성형 인공지능(AI) 서비스의 급격한 확산으로 글로벌 데이터센터 내 초고속·대용량 데이터 통신 수요가 폭발하자, 일본 굴지의 종합 비철금속·전자소재 기업인 미쓰비시 머티리얼(Mitsubishi Materials)이 광통신 모듈의 핵심 부품인 정밀 온도 센서 증설에 대규모 승부수를 던졌다.전기 신호와 광신호를 상호 변환하는 광 트랜시버(Optical Tra ...",
-      "source": "글로벌이코노믹 on MSN",
-      "publishedAt": "2026-10-24",
-      "url": "https://www.msn.com/ko-kr/news/other/ai-%EB%B0%9C%EC%97%B4-%EC%9E%A1%EC%95%84%EC%95%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%84%B0%EC%A7%84%EB%8B%A4-%E6%97%A5-%EB%AF%B8%EC%93%B0%EB%B9%84%EC%8B%9C-%EB%A8%B8%ED%8B%B0%EB%A6%AC%EC%96%BC-%EC%B4%88%EC%A0%95%EB%B0%80-%EC%98%A8%EB%8F%84-%EC%84%BC%EC%84%9C-%EC%A6%9D%EC%84%A4/ar-AA2fZMpf",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.llY8oeWqaTunbzvi8kaErA&pid=News&w=1200&h=675&c=14"
+      "title": "HD현대사이트솔루션, AI 기반 무인굴착기 기술 개발 국책 과제 선정",
+      "summary": "63억 규모 국책 과제 참여…가상 환경서 자율화 기술 검증 HD현대사이트솔루션이 최근 산업통상부 '인공지능 무인 자율 굴착기 개발을 위한 고정밀 시뮬레이션 기반 디지털 트윈 플랫폼 개발' 국책과제에 최종 사업자로 선정됐다고 25일 밝혔다. 이번 과제는 ㈜심지, 한국건설기계연구원, 한국생산기술연구원, 한국건설기계산업협회가 참여하는 컨소시엄이 진행한다. 63억 ...",
+      "source": "머니투데이 on MSN",
+      "publishedAt": "2026-10-25",
+      "url": "https://www.msn.com/ko-kr/news/other/hd%ED%98%84%EB%8C%80%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%86%94%EB%A3%A8%EC%85%98-ai-%EA%B8%B0%EB%B0%98-%EB%AC%B4%EC%9D%B8%EA%B5%B4%EC%B0%A9%EA%B8%B0-%EA%B8%B0%EC%88%A0-%EA%B0%9C%EB%B0%9C-%EA%B5%AD%EC%B1%85-%EA%B3%BC%EC%A0%9C-%EC%84%A0%EC%A0%95/ar-AA2g0oRO",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.6ba01021fdc9a49f2a37e98b27b420c8&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "\"AI 돌봄, 기술 개발 넘어 수요자 중심 생태계 필요\"",
+      "summary": "돌봄과 미래·AI 헬스케어연구원 주최 토론회 \"수요자 중심·보조기기 지원체계 통합 필요\" 인공지능(AI)·로봇 등 첨단기술이 초고령사회 돌봄 현장에 자리 잡으려면 돌봄이 필요한 노인과 장애인의 실제 욕구를 먼저 살피고, 비용 부담과 관리·책임 주체까지 ...",
+      "source": "뉴스1",
+      "publishedAt": "2026-10-25",
+      "url": "https://www.news1.kr/bio/healthcare/6330923",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.GFc74vjlWjy1281zYeJQgg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
