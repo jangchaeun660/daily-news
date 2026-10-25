@@ -1,5 +1,75 @@
 [
   {
+    "updatedAt": "2026-10-25",
+    "windowStart": "2026-10-23T22:00:00.000Z",
+    "windowEnd": "2026-10-24T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[박준규의 이슈언박싱] 대만 \"中 선거개입 100건 추적\"…”설마 우리도?” 한국 2030 반응은",
+        "summary": "대만 정보당국이 중국의 선거개입 의혹 사건 100여 건을 추적하고 있다고 밝히면서, 국내 온라인 커뮤니티에서도 관심이 뜨겁습니다. 젊은 층이 주로 이용하는 커뮤니티에서는 \"우리나라도 예외가 아닐 것\"이라는 경계의 목소리가 쏟아졌습니다. 반면 \"대만 집권당의 정치적 쇼일 수 있다\"거나 \"의심만으로 단정해선 안 된다\"는 반론도 함께 나왔습니다.",
+        "source": "펜앤드마이크",
+        "publishedAt": "2026-10-24",
+        "url": "https://www.pennmike.com/news/articleView.html?idxno=130207",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.P-3u81kbOh0MI6lYOQYunQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "한국효문화진흥원, 제9회 효 국제학술대회…한·중·일 효문화 모색",
+        "summary": "[대전=뉴시스]곽상훈 기자 = 한국효문화진흥원은 24일 대강당에서 '제9회 2026년 효(孝) 국제학술대회'를 개최했다고 25일 밝혔다. '한·중·일 동아시아 효문화의 현재와 미래'를 주제로 열린 학술대회는 동아시아 3국의 효문화 현황을 살펴보고 효의 현대적 의미와..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-10-24",
+        "url": "https://www.fnnews.com/news/202610250821055776",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.TmFU-iPo8J2tmNJ_Ex1ugw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "정년연장에 폭발한 '프랑스', 국민 88% 찬성 '한국'…왜 다를까",
+        "summary": "정년연장에 폭발한 '프랑스', 국민 88% 찬성 '한국'…왜 다를까 연금 소득 대체율, 프랑스 70.0% vs 한국 39.0%…은퇴 후 삶의 질 차이 한국에 정년은 노후 생존 핵심…연금 정상화, 세대간 사회적 타협 필요 (서울=연합뉴스) 옥성구 기자 = 최근 프랑스 전역을 화..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-10-24",
+        "url": "https://www.fnnews.com/news/202610250602327856",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.MylEKC7S32nT7-97WuO8sA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[한국세무사회 논평] \"서울시의회는 민간위탁 '결산서 검사’ 조례안 조속 통과시켜라\"",
+        "summary": "[한국세무사회 논평]서울특별시의회 채유미 의원을 비롯한 31명의 의원이 지난 10월 19일 공동발의한 「서울특별시 행정사무의 민간위탁에 관한 조례 일부개정조례안」이 10월 23일부터 27일까지 입법예고에 들어갔다.한국세무사회(회장 구재이)는 납세자의 권익을 보호하고 성실납세를 지원하는 공공성 높은 조세전문가이자 세출검증 전문가인 전국 1만 8천 세무사의 법 ...",
+        "source": "일간 NTN",
+        "publishedAt": "2026-10-24",
+        "url": "https://www.intn.co.kr/news/articleView.html?idxno=2054294",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.nqI_W3qf1xH9J6Nbape6Vw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[만나보니] '속마음 읽는 AI' 등장…뇌파로 소통하는 로봇 시대 성큼",
+        "summary": "(서울=연합뉴스) 권하영 기자 = 사람이 말로 지시하지 않아도 속으로 '어, 이게 아닌데'라고 생각하는 순간 인공지능(AI)이 뇌파를 읽어내 스스로 행동을 수정하는 기술이 등장했다. 이 기술이 상용화되면 AI나 로봇이 사람의 의도를 실시간으로 파악하고 그에 맞춰 움직일 수 있어, 피지컬 AI와 자율주행 등 다양한 분야에서 인간과 기계의 협업 방식이 달라질 ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-10-24",
+        "url": "https://www.yna.co.kr/view/AKR20261023038500017",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.zmRRncUe6zGjwZHcps0TjQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[AI돋보기] AI가 더 똑똑한 AI 만든다…'지능 폭발' 현실 되나",
+        "summary": "연구진은 AI의 과제 수행 능력이 향상되는 추세가 이어지면 2028년 중반께 사람이 수개월 걸려 하는 연구 과제를 AI가 수행할 수 있다고 봤다. 현재 증가세가 유지된다는 가정에 따른 잠정 추정이다. 연구진은 근거가 아직 초기 단계이고 일부 결과는 엇갈린다고 인정했다.",
+        "source": "연합뉴스",
+        "publishedAt": "2026-10-24",
+        "url": "https://www.yna.co.kr/view/AKR20261023025100017",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.6IHMUI_y0-DF1GH20LNhhw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "\"AI 발열 잡아야 데이터 터진다\"… 日 미쓰비시 머티리얼, 초정밀 온도 센서 증설",
+        "summary": "생성형 인공지능(AI) 서비스의 급격한 확산으로 글로벌 데이터센터 내 초고속·대용량 데이터 통신 수요가 폭발하자, 일본 굴지의 종합 비철금속·전자소재 기업인 미쓰비시 머티리얼(Mitsubishi Materials)이 광통신 모듈의 핵심 부품인 정밀 온도 센서 증설에 대규모 승부수를 던졌다.전기 신호와 광신호를 상호 변환하는 광 트랜시버(Optical Tra ...",
+        "source": "글로벌이코노믹 on MSN",
+        "publishedAt": "2026-10-24",
+        "url": "https://www.msn.com/ko-kr/news/other/ai-%EB%B0%9C%EC%97%B4-%EC%9E%A1%EC%95%84%EC%95%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%84%B0%EC%A7%84%EB%8B%A4-%E6%97%A5-%EB%AF%B8%EC%93%B0%EB%B9%84%EC%8B%9C-%EB%A8%B8%ED%8B%B0%EB%A6%AC%EC%96%BC-%EC%B4%88%EC%A0%95%EB%B0%80-%EC%98%A8%EB%8F%84-%EC%84%BC%EC%84%9C-%EC%A6%9D%EC%84%A4/ar-AA2fZMpf",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.llY8oeWqaTunbzvi8kaErA&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-10-24",
     "windowStart": "2026-10-22T22:00:00.000Z",
     "windowEnd": "2026-10-23T22:00:00.000Z",
@@ -542,103 +612,6 @@
         "publishedAt": "2026-10-18",
         "url": "https://www.fnnews.com/news/202610190500505367",
         "imageUrl": "https://www.bing.com/th?id=ONUT.GheClI8LJUY_ALIGeR2nYg&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-10-18",
-    "windowStart": "2026-10-16T22:00:00.000Z",
-    "windowEnd": "2026-10-17T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "[포토뉴스]제2회 고성군 사회복지사의 날 기념 및 2026년 고성군·속초시 사회복지사 연합 명랑체육대회",
-        "summary": "제2회 고성군 사회복지사의 날 기념 및 2026년 고성군(회장:김유심)·속초시(회장:정지현) 사회복지사 연합 명랑체육대회가 17일 고성종합체육관에서 함명준 군수를 비롯한 함용빈 군의장, 이양수 국회의원, 이병선 속초시장, 이지영 도의원, 정석왕 한국사회복지사협회장, 진 ...",
-        "source": "강원일보",
-        "publishedAt": "2026-10-17",
-        "url": "https://kwnews.co.kr/article/20261017500114",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.pSCp-tYo0RtIkfDGoilCTQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "이 대통령 “인구정책은 노동·복지·일자리·주거·교육정책”",
-        "summary": "이재명 대통령은 “우리가 만들어 갈 인구정책은 노동정책이기도, 복지정책이기도, 일자리·주거정책인 동시에 교육정책이어야 한다”고 말했다. 이 대통령은 14일 오후 청와대에서 열린 ‘국민주권정부 인구전략 비전선포식’에서 “이제는 (양적 성장뿐 아니라) 질적 성장을 추구하는 인구정책의 대전환이 필요하다”며 “대한민국의 사회경제 시스템 전반 ...",
-        "source": "매일노동뉴스",
-        "publishedAt": "2026-10-15",
-        "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237219",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.RHGKhij9c9jN6prw8Ze4eA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "이 대통령 “출산 장려만으론 안 된다”…노동·주거까지 인구정책 뜯어고친다",
-        "summary": "이재명 대통령이 14일 청와대에서 열린 인구전략 비전선포식에서 발언하고 있다. [연합뉴스] 이재명 대통령이 저출생·고령화 대응을 위해 지난 20년간 막대한 재정을 투입하고도 인구 문제가 해결되지 않았다며 국가 시스템 전반을 재설계하겠다고 밝혔다. 출산율과 인구 규모를 늘리는 데 초점을 맞춘 기존 정책에서 벗어나 노동·주거·복지·보육을 아우르는 인구정책 대전 ...",
-        "source": "매일경제 on MSN",
-        "publishedAt": "2026-10-14",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4-%EB%8C%80%ED%86%B5%EB%A0%B9-%EC%B6%9C%EC%82%B0-%EC%9E%A5%EB%A0%A4%EB%A7%8C%EC%9C%BC%EB%A1%A0-%EC%95%88-%EB%90%9C%EB%8B%A4-%EB%85%B8%EB%8F%99-%EC%A3%BC%EA%B1%B0%EA%B9%8C%EC%A7%80-%EC%9D%B8%EA%B5%AC%EC%A0%95%EC%B1%85-%EB%9C%AF%EC%96%B4%EA%B3%A0%EC%B9%9C%EB%8B%A4/ar-AA2ecgpf",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.km9WRPIL0N5Z2quFOyAlXg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "李대통령 \"출산율 넘어 삶의 질로\"…인구정책 대전환 주문",
-        "summary": "이재명 대통령이 14일 출산율과 인구 규모 확대에 집중해 온 기존 인구정책에서 벗어나 국민의 삶의 질을 높이는 방향으로 정책의 근본적인 전환을 주문했다. 저출생과 고령화를 개별 정책만으로 해결하기보다 노동·주거·복지·교육 등 사회경제 시스템 전반을 다시 설계해야 한다는 취지다.이 대통령은 이날 오후 청와대 영빈관에서 열린 '국민주권정부 인구전략 비전선포식' ...",
-        "source": "스트레이트뉴스",
-        "publishedAt": "2026-10-14",
-        "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313151",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.bCSIwmViZUmF4xkFYMwW1A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "李대통령 “인구정책의 판 바꿀 때”…출산율 넘어 ‘국가 시스템 재설계’ 주문",
-        "summary": "[직썰 / 김봉연 기자] 이재명 대통령이 저출생·고령화에 대응하기 위해 대한민국 사회경제 시스템 전반을 근본적으로 재설계해야 한다고 강조했다. 출생아 수 확대에 무게를 뒀던 기존 정책의 한계를 넘어 노동·주거·복지·교육·돌봄을 아우르는 인구정책의 전환을 주문한 것이다.지난해 출생아 수가 25만명을 넘어서며 2년 연속 반등했지만 합계출산율은 여전히 0.8명 ...",
-        "source": "직썰",
-        "publishedAt": "2026-10-14",
-        "url": "https://www.ziksir.com/news/articleView.html?idxno=149370",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.pz5n9KozvczPTjrzVf2lWg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "‘인공지능, 로봇기술의 특별한 체험’… 마송중앙초등학교, ‘2026 AI 드림페스타’ 운영",
-        "summary": "김포 마송중앙초등학교 학생들이 인공지능과 로봇기술의 특별한 체험을 했다. 마송중앙초는 최근 교내 강당에서 4학년과 6학년 학생 159명을 대상으로 미래 사회의 핵심역량을 기르기 위한 ‘2026 AI 드림페스타’를 운영했다고 15일 밝혔다. 이번 행사는 학생들이 인공지능 ...",
-        "source": "경기일보",
-        "publishedAt": "2026-10-15",
-        "url": "https://www.kyeonggi.com/article/20261015580426",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.lfQekKXM2niNFvbNAaFlBA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "北, 신형 초고속 정밀유도 어뢰 발사시험… 인공지능 도입(종합)",
-        "summary": "로켓추진장치 탑재 주장 어뢰 15일 수중시험발사…전문가 \"초공동어뢰 추정\" 수중타격능력 고도화 과시…\"韓과 해군력 격차 줄이려는 시도\" (서울=연합뉴스) 이은정 기자 = 북한이 신형 초고속 정밀유도 어뢰무기체계 '잠-2.0' 실탄을 시험발사했다고 밝혔다. 조선중앙통신은 17일 \"국방과학원과 미사일총국, 수뢰무기연구국이 ...",
-        "source": "연합뉴스 on MSN",
-        "publishedAt": "2026-10-17",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%E5%8C%97-%EC%8B%A0%ED%98%95-%EC%B4%88%EA%B3%A0%EC%86%8D-%EC%A0%95%EB%B0%80%EC%9C%A0%EB%8F%84-%EC%96%B4%EB%A2%B0-%EB%B0%9C%EC%82%AC%EC%8B%9C%ED%97%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8F%84%EC%9E%85-%EC%A2%85%ED%95%A9/ar-AA2epmgX",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.-qbjY7tUsTv68za3Wn7nRA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[2027정시] ‘AI중심대학’ 서강대, 컴퓨터공학과 32명 인공지능학과 10명.. AI기반자유전공학부 36명",
-        "summary": "서강대가 2027학년 정시 수능 (일반)에서 컴퓨터공학과 32명, 인공지능학과 10명, AI기반자유전공학부 36명 등 78명을 모집한다. 컴퓨터공학과와 인공지능학과는 나군, AI기반자유전공학부는 다군이다. 수시 이월 전 인원이며 모두 수능 100%로 반영한다.",
-        "source": "hanibnews.com",
-        "publishedAt": "2026-10-15",
-        "url": "https://www.hanibnews.com/news/articleView.html?idxno=880",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.uErLYfLE-1zBhJosOhy0zw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "北, 인공지능 도입 신형 초고속 어뢰 ‘잠-2.0’ 시험발사",
-        "summary": "북한이 목표 탐색과 유도 기능에 인공지능(AI)을 적용한 신형 초고속 정밀유도 어뢰무기체계 ‘잠-2.0’을 시험발사했다고 17일 밝혔다. 최근 잠수함발사 전략순항미사일 시험과 구축함 취역에 이어 해군 전력 강화에 ...",
-        "source": "중앙일보",
-        "publishedAt": "2026-10-16",
-        "url": "https://www.koreadaily.com/article/20261016170059621",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Wx4hYRfaY23jWoc1--x6WA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "3분기 인공지능 툴 키워드 공고 170%↑…증가율 1위는 '클로드'",
-        "summary": "잡코리아가 올해 3분기 게재된 채용 공고를 분석한 결과 클로드·챗GPT·제미나이 등 AI 툴 키워드 공고는 지난해 같은 기간보다 170% 늘었다. 'AI'나 '인공지능'을 언급한 공고도 늘었지만, 툴 명칭을 직접 적은 공고는 그보다 훨씬 가파르게 증가했다. 'AI 활용 능력 우대'라는 막연한 표현에서 나아가 입사 후 바로 쓸 수 있는 도구를 구체적으로 묻는 ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-10-12",
-        "url": "https://www.yna.co.kr/view/AKR20261012031700003",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.t2ritzmYlq7aXLlCeO60-g&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
