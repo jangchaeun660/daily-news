@@ -1,88 +1,97 @@
 {
-  "updatedAt": "2026-10-26",
-  "windowStart": "2026-10-24T22:00:00.000Z",
-  "windowEnd": "2026-10-25T22:00:00.000Z",
+  "updatedAt": "2026-10-27",
+  "windowStart": "2026-10-25T22:00:00.000Z",
+  "windowEnd": "2026-10-26T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[가리사니] 죽어야만 영웅이 되는 사회",
-      "summary": "개인의 희생에 안전을 기대는 사회가 아니라 임무를 마치고 무사히 퇴근하는 사회가 돼야 2022년 1월 경기도 평택 냉동창고 화재 현장에서 이형석 소방경과 박수동 소방장, 조우찬 소방교가 순직했다. 당시 이들은 큰불을 진압한 뒤 마지막 인명 수색을 위해 현장에 투입됐다가 ...",
-      "source": "국민일보",
-      "publishedAt": "2026-10-25",
-      "url": "https://www.kmib.co.kr/article/20261025501577",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.5BO034nDkr5ozLvTYuVMXg&pid=News&w=1200&h=675&c=14"
+      "title": "사회적 기업 최적의 비즈니스 모델은…정부, 밸류업 데이 개최",
+      "summary": "[세종=뉴스핌] 양가희 기자 = 사회적 기업 효율을 높이기 위한 사업 모델 공모전 최종 발표가 다음 달 이뤄진다. 공모전 본선에 진출한 10개 기업은 각자의 비즈니스 모델과 사회적 가치 창출 계획을 발표하고 최종 심사를 받을 예정이다.고용노동부와 한국사회적기업 ...",
+      "source": "뉴스핌",
+      "publishedAt": "2026-10-27",
+      "url": "https://www.newspim.com/news/view/20261026000810",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ED6o1TUpJHwVs4iRyP7K9Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "사회적기업진흥원, 청년 일경험 우수사례 공모전…총 8점 선정",
-      "summary": "(서울=연합뉴스) 옥성구 기자 = 한국사회적기업진흥원은 사회적기업과 청년이 함께 만든 성과와 긍정적인 변화 사례를 발굴하기 위해 '2026년도 사회적가치형 청년 일경험 지원사업 우수사례 수기 공모전'을 개최한다고 26일 밝혔다. 대상은 지원사업에 참여 중이거나 참여를 완료한 기업과 청년이다. 공모는 '기업 분야'와 ...",
-      "source": "연합뉴스 on MSN",
-      "publishedAt": "2026-10-25",
-      "url": "https://www.msn.com/ko-kr/news/national/%EC%82%AC%ED%9A%8C%EC%A0%81%EA%B8%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90-%EC%B2%AD%EB%85%84-%EC%9D%BC%EA%B2%BD%ED%97%98-%EC%9A%B0%EC%88%98%EC%82%AC%EB%A1%80-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EC%B4%9D-8%EC%A0%90-%EC%84%A0%EC%A0%95/ar-AA2g3cDO",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.hSJqSFS7R1YENmkbS51TPg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "국민경제자문회의, ‘AI 대전환·전력망 안보’ 한국 경제 미래 해법 모색",
-      "summary": "대통령 직속 경제자문기구인 국민경제자문회의(부의장 김성식)가 급속한 인공지능(AI)의 발전에 따른 한국 사회의 광범위한 변화에 대응하기 위해 대한민국 미래 경쟁력과 사회적 포용성 확보를 위한 릴레이 공개포럼을 잇따라 개최한다. 국민경제자문회의는 26일 서울 페럼타워 페럼홀에서 ‘AI 대전환 시대, 어떻게 준비할 것인가: 역량개발과 소득보장 중심으로’를 주제 ...",
-      "source": "세계일보",
-      "publishedAt": "2026-10-25",
-      "url": "https://www.segye.com/newsView/20261025508333",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.XMRrwz9R72aizeoTIl2tuw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "이형일, 경제현안간담회 주재…전기차 등 국내생산세액공제 보완 논의",
-      "summary": "(세종=뉴스1) 전민 기자 = 이형일 부총리 겸 재정경제부 장관이 25일 관계부처 장관, 청와대 참모진과 경제현안간담회를 열고 국내생산세액공제 보완방안과 3대 핵심 사회정책 추진방안을 논의했다. 국내생산세액공제 적용 대상에서 빠진 전기차 업계 등을 중심으로 공..",
+      "title": "한국P&G, 소비자와 지역사회 잇는 생활밀착형 사회공헌 확대",
+      "summary": "(서울=뉴스1) 박혜연 기자 = 생활용품부터 편의시설까지 한국P&G가 일상과 밀접한 영역에서 사회공헌 활동을 이어가며 소비자와 지역 사회가 체감할 수 있는 변화를 만들어가고 있다. 시각장애인의 안전한 생활용품 사용을 돕는 지원 사업과 폐플라스틱을 공공 편의..",
       "source": "파이낸셜뉴스",
-      "publishedAt": "2026-10-25",
-      "url": "https://www.fnnews.com/news/202610252027138584",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.6vDWzbiYr7qV1WwmAg-mdA&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-10-26",
+      "url": "https://www.fnnews.com/news/202610260919589717",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.XNnLtywDvp69YCPGUK3Hpw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "한국투자증권, 아동·청년·지역사회 아우른 사회공헌 확대",
-      "summary": "한국투자증권이 취약계층 아동 지원을 중심으로 청년 자립, 친환경 주거 개선, 지역사회 봉사까지 사회공헌 영역을 넓히고 있다.단순 기부에 그치지 않고 교육환경 개선과 일자리 연계, 임직원 참여형 봉사 등을 결합하며 장기적인 지원 체계를 이어가는 모습이다.한국투자증권은 경기 지역 취약계층 아동을 위해 약 2000세트의 선물을 후원했다고 23일 밝혔다. 이번 물 ...",
-      "source": "비즈트리뷴",
-      "publishedAt": "2026-10-25",
-      "url": "https://www.biztribune.co.kr/news/articleView.html?idxno=361210",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Z0CqMPUyhpe8zKDLRhVkhw&pid=News&w=1200&h=675&c=14"
+      "title": "한국기독교생명윤리협회, ‘젠더 이념과 PC주의’ 공개 세미나 개최",
+      "summary": "한국기독교생명윤리협회(한기윤, 상임대표 이승구 목사)가 오는 2026년 11월 16일(월) 오후 7시 서울 동작구 동작대로9길 8-5(사당동) 소재 엘벧엘교회 예배당에서 공개 세미나를 개최한다.이번 세미나는 현대 사회의 주요 쟁점으로 떠오른 젠더 이념과 정치적 올바름(PC주의), 트랜스젠더 관련 의료윤리 문제를 기독교적 관점에서 살펴보고 논의하기 위해 마련 ...",
+      "source": "kosinnews.com",
+      "publishedAt": "2026-10-26",
+      "url": "https://www.kosinnews.com/news/articleView.html?idxno=38063",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.GuxlAprdfcf0WUGckrtqxQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "한국룬드벡, 세계정신건강의 날 맞아 지역사회 정신건강 회복 인프라 지원",
+      "summary": "[의학신문·일간보사=김상일 기자]한국룬드벡 (대표 브래드 에드워즈)은 세계정신건강의 날을 맞아 사회복지법인 한울정신건강복지재단에 정신질환 당사자의 지역사회 회복과 일상생활을 지원하기 위한 기부금 1000만원을 전달했다고 밝혔다.",
+      "source": "의학신문",
+      "publishedAt": "2026-10-27",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014871",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.544OgPkCikySCvgz-_w55w&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "한국 TI인권 시민연대 “연 2만% 불법사채, 처벌 넘어 범죄수익·사회적 비용 환수해야”",
+      "summary": "한국 TI인권 시민연대 불법사채 대응센터는 최근 경남경찰청이 수십억 원대 부당이득을 취한 불법사채 조직원 10명을 구속 송치한 사건을 계기로 성명을 발표했다.센터는 50만 원에서 100만 원 사이의 소액 대출이 단기간에 감당하기 어려운 채무로 불어나는 구조적 문제를 지적하며, 범죄수익 ...",
+      "source": "비즈니스코리아",
+      "publishedAt": "2026-10-26",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279670",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.vFNVXCdry78Rg5SMVoW26Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "'인공지능 시대, 질문하는 인문학'…제21회 인문주간 개최",
-      "summary": "인문주간 행사는 인문학 대중화와 인문학 관련 연구 성과의 확산을 위해 2006년부터 매년 10월 마지막 주에 개최된다. 올해는 전국 18개 인문학 관련 기관과 함께 시민들이 직접 참여할 수 있는 190여개의 다양한 프로그램을 운영한다. 주제는 '인공지능 (AI) 시대, 질문하는 인문학'이다.",
-      "source": "연합뉴스",
-      "publishedAt": "2026-10-25",
-      "url": "https://www.yna.co.kr/view/AKR20261023165600530",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.tCW9XFZCkehLyJzpMhnr2A&pid=News&w=1200&h=675&c=14"
+      "title": "LS에코에너지 인공지능 데이터센터 수요 타고 울트라커패시터 키운다: 베트남에 650억 원 들여 생산거점 구축",
+      "summary": "LS에코에너지가 울트라커패시터(UC)를 새 먹거리로 점찍고 베트남에 생산거점을 마련한다. UC는 전기를 빠르게 저장·공급해 수소연료전지 발전 시스템의 순간적 전력 부족을 보완하는 에너지저장장치다. 인공지능 데이터센터(AIDC) 전력 수요 증가로 수소연료전지 발전설비 투자가 확대되면서 UC 수요도 늘어날 것으로 전망된다. LS에코에너지는 베트남 생산법인 LS ...",
+      "source": "허프포스트코리아 on MSN",
+      "publishedAt": "2026-10-26",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/ls%EC%97%90%EC%BD%94%EC%97%90%EB%84%88%EC%A7%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%88%98%EC%9A%94-%ED%83%80%EA%B3%A0-%EC%9A%B8%ED%8A%B8%EB%9D%BC%EC%BB%A4%ED%8C%A8%EC%8B%9C%ED%84%B0-%ED%82%A4%EC%9A%B4%EB%8B%A4-%EB%B2%A0%ED%8A%B8%EB%82%A8%EC%97%90-650%EC%96%B5-%EC%9B%90-%EB%93%A4%EC%97%AC-%EC%83%9D%EC%82%B0%EA%B1%B0%EC%A0%90-%EA%B5%AC%EC%B6%95/ar-AA2g4YhW",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.tIv1i3Gc4QzghAaWxFPGmQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "하이퍼스케일러는 더 이상 '클라우드 기업'이 아니다――전력·반도체·금융을 아우르는 AI 공장의 실체",
-      "summary": "생성형 AI를 사용할 때 우리가 접하는 것은 화면 위의 입력창입니다. 하지만 그 짧은 답변의 이면에는 반도체, 데이터센터, 냉각 설비, 송전망, 그리고 거대한 자금이 움직이고 있습니다.아마존, 마이크로소프트, 구글 등을 '클라우드를 빌려주는 회사'로만 본다면 AI 시대 경쟁의 절반밖에 보지 못하는 것입니다.AI는 극히 물리적인 산업입니다국제에너지기구(IEA ...",
-      "source": "note",
-      "publishedAt": "2026-10-25",
-      "url": "https://note.com/mindful_lab/n/n02a9f48b3ea0?hl=ko",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.eSeLT86KVU95Tqr_bXN7mA&pid=News&w=1200&h=675&c=14"
+      "title": "경북도, 국산 AI반도체 실증 거점 구축 나선다⋯경북 인공지능 생태계 조성 MOU",
+      "summary": "제조·로봇·모빌리티 분야 실증 생태계 조성 지역 AI 산업 경쟁력 강화 위한 협력체계 구축 출발점 경북도가 국산 인공지능(AI) 반도체의 산업 현장 확산과 AI 산업 생태계 조성을 위한 실증 거점 구축에 나섰다. 경북도는 26일 서울 퓨리오사AI 본사에서 경산시, 퓨리오사AI, 경북IT융합산업기술원과 '경북 인공지능 반도체 실증 및 산업 생태계 조성 업무협 ...",
+      "source": "이투데이 on MSN",
+      "publishedAt": "2026-10-26",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EB%B6%81%EB%8F%84-%EA%B5%AD%EC%82%B0-ai%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%8B%A4%EC%A6%9D-%EA%B1%B0%EC%A0%90-%EA%B5%AC%EC%B6%95-%EB%82%98%EC%84%A0%EB%8B%A4-%EA%B2%BD%EB%B6%81-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%83%9D%ED%83%9C%EA%B3%84-%EC%A1%B0%EC%84%B1-mou/ar-AA2g4QDu",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.UiLdZk62D527UjmAe8UKPg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "HD현대사이트솔루션, AI 기반 무인굴착기 기술 개발 국책 과제 선정",
-      "summary": "63억 규모 국책 과제 참여…가상 환경서 자율화 기술 검증 HD현대사이트솔루션이 최근 산업통상부 '인공지능 무인 자율 굴착기 개발을 위한 고정밀 시뮬레이션 기반 디지털 트윈 플랫폼 개발' 국책과제에 최종 사업자로 선정됐다고 25일 밝혔다. 이번 과제는 ㈜심지, 한국건설기계연구원, 한국생산기술연구원, 한국건설기계산업협회가 참여하는 컨소시엄이 진행한다. 63억 ...",
-      "source": "머니투데이 on MSN",
-      "publishedAt": "2026-10-25",
-      "url": "https://www.msn.com/ko-kr/news/other/hd%ED%98%84%EB%8C%80%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%86%94%EB%A3%A8%EC%85%98-ai-%EA%B8%B0%EB%B0%98-%EB%AC%B4%EC%9D%B8%EA%B5%B4%EC%B0%A9%EA%B8%B0-%EA%B8%B0%EC%88%A0-%EA%B0%9C%EB%B0%9C-%EA%B5%AD%EC%B1%85-%EA%B3%BC%EC%A0%9C-%EC%84%A0%EC%A0%95/ar-AA2g0oRO",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.6ba01021fdc9a49f2a37e98b27b420c8&pid=News&w=1200&h=675&c=14"
+      "title": "인공지능 답변에 동의하지 않을 능력 [세상읽기]",
+      "summary": "김보라미 | 법률사무소 디케 변호사 “제미나이에게 물어봤습니다.” 지난 21일 이재명 대통령이 엑스(X)에 올린 글의 제목이다. 공소청장·중대범죄수사청장의 국무회의 배석을 둘러싼 비판에 대해, 정부조직법 제11조를 부정하는 배석 불가론은 위헌적 ...",
+      "source": "한겨레",
+      "publishedAt": "2026-10-26",
+      "url": "https://www.hani.co.kr/arti/opinion/column/1284279.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.zPRKca9CgW_QGMGEwAZVYQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "\"AI 돌봄, 기술 개발 넘어 수요자 중심 생태계 필요\"",
-      "summary": "돌봄과 미래·AI 헬스케어연구원 주최 토론회 \"수요자 중심·보조기기 지원체계 통합 필요\" 인공지능(AI)·로봇 등 첨단기술이 초고령사회 돌봄 현장에 자리 잡으려면 돌봄이 필요한 노인과 장애인의 실제 욕구를 먼저 살피고, 비용 부담과 관리·책임 주체까지 ...",
-      "source": "뉴스1",
-      "publishedAt": "2026-10-25",
-      "url": "https://www.news1.kr/bio/healthcare/6330923",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.GFc74vjlWjy1281zYeJQgg&pid=News&w=1200&h=675&c=14"
+      "title": "'AI 금융사' 변신한 엔비디아 시험대…네오클라우드 보증 리스크",
+      "summary": "전 세계 인공지능(AI) 인프라 구축의 '핵심 금융사'로 부상한 엔비디아(NAS:NVDA)가 주요 파트너사들의 신용 위험 고조와 주가 폭락으로 첫 번째 대형 스트레스 테스트에 직면했다고 CNBC가 24일(현지 시각) 보도했다.생성형 AI 초기 반도체 공급에 주력했던 엔비디아는 최근 AI 모델 개발사와 데이터센터 기업, '네오클라우드(neocloud)' 기업 ...",
+      "source": "연합인포맥스",
+      "publishedAt": "2026-10-26",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441042",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-tRSLj_8EMsF-phBMozjQA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "앤트로픽 IPO 상장 추진 소식에 SK하이닉스 7%대 급등… AI 반도체 밸류체인 수혜 집중",
+      "summary": "[글로벌 AI 대어 앤트로픽의 상장 추진 소식] ...",
+      "source": "뷰어스 on MSN",
+      "publishedAt": "2026-10-27",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD-ipo-%EC%83%81%EC%9E%A5-%EC%B6%94%EC%A7%84-%EC%86%8C%EC%8B%9D%EC%97%90-sk%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4-7-%EB%8C%80-%EA%B8%89%EB%93%B1-ai-%EB%B0%98%EB%8F%84%EC%B2%B4-%EB%B0%B8%EB%A5%98%EC%B2%B4%EC%9D%B8-%EC%88%98%ED%98%9C-%EC%A7%91%EC%A4%91/ar-AA2g7Iqx",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.9GpTq1RlnBlFEow6IFl7NA&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
