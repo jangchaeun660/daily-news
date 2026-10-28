@@ -1,97 +1,88 @@
 {
-  "updatedAt": "2026-10-27",
-  "windowStart": "2026-10-25T22:00:00.000Z",
-  "windowEnd": "2026-10-26T22:00:00.000Z",
+  "updatedAt": "2026-10-28",
+  "windowStart": "2026-10-26T22:00:00.000Z",
+  "windowEnd": "2026-10-27T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "사회적 기업 최적의 비즈니스 모델은…정부, 밸류업 데이 개최",
-      "summary": "[세종=뉴스핌] 양가희 기자 = 사회적 기업 효율을 높이기 위한 사업 모델 공모전 최종 발표가 다음 달 이뤄진다. 공모전 본선에 진출한 10개 기업은 각자의 비즈니스 모델과 사회적 가치 창출 계획을 발표하고 최종 심사를 받을 예정이다.고용노동부와 한국사회적기업 ...",
-      "source": "뉴스핌",
-      "publishedAt": "2026-10-27",
-      "url": "https://www.newspim.com/news/view/20261026000810",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ED6o1TUpJHwVs4iRyP7K9Q&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "한국P&G, 소비자와 지역사회 잇는 생활밀착형 사회공헌 확대",
-      "summary": "(서울=뉴스1) 박혜연 기자 = 생활용품부터 편의시설까지 한국P&G가 일상과 밀접한 영역에서 사회공헌 활동을 이어가며 소비자와 지역 사회가 체감할 수 있는 변화를 만들어가고 있다. 시각장애인의 안전한 생활용품 사용을 돕는 지원 사업과 폐플라스틱을 공공 편의..",
+      "title": "시흥시, 사회연대경제기본법 시행 앞두고 대응 본격화",
+      "summary": "[시흥=뉴시스] 박석희 기자 = 경기 시흥시가 내년 3월 사회연대경제기본법 시행을 앞두고 지역 사회적경제 생태계 정비와 민관 협력체계 구축에 나섰다. 시흥시는 최근 시흥비즈니스센터 컨벤션홀에서 '2026 시흥시 사회적경제 포럼'을 열고 법 시행에 따른 지역 사..",
       "source": "파이낸셜뉴스",
-      "publishedAt": "2026-10-26",
-      "url": "https://www.fnnews.com/news/202610260919589717",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.XNnLtywDvp69YCPGUK3Hpw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "한국기독교생명윤리협회, ‘젠더 이념과 PC주의’ 공개 세미나 개최",
-      "summary": "한국기독교생명윤리협회(한기윤, 상임대표 이승구 목사)가 오는 2026년 11월 16일(월) 오후 7시 서울 동작구 동작대로9길 8-5(사당동) 소재 엘벧엘교회 예배당에서 공개 세미나를 개최한다.이번 세미나는 현대 사회의 주요 쟁점으로 떠오른 젠더 이념과 정치적 올바름(PC주의), 트랜스젠더 관련 의료윤리 문제를 기독교적 관점에서 살펴보고 논의하기 위해 마련 ...",
-      "source": "kosinnews.com",
-      "publishedAt": "2026-10-26",
-      "url": "https://www.kosinnews.com/news/articleView.html?idxno=38063",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.GuxlAprdfcf0WUGckrtqxQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "한국룬드벡, 세계정신건강의 날 맞아 지역사회 정신건강 회복 인프라 지원",
-      "summary": "[의학신문·일간보사=김상일 기자]한국룬드벡 (대표 브래드 에드워즈)은 세계정신건강의 날을 맞아 사회복지법인 한울정신건강복지재단에 정신질환 당사자의 지역사회 회복과 일상생활을 지원하기 위한 기부금 1000만원을 전달했다고 밝혔다.",
-      "source": "의학신문",
       "publishedAt": "2026-10-27",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014871",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.544OgPkCikySCvgz-_w55w&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.fnnews.com/news/202610280850240402",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.2oym6thMpPYSAke5r6VawA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "한국 TI인권 시민연대 “연 2만% 불법사채, 처벌 넘어 범죄수익·사회적 비용 환수해야”",
-      "summary": "한국 TI인권 시민연대 불법사채 대응센터는 최근 경남경찰청이 수십억 원대 부당이득을 취한 불법사채 조직원 10명을 구속 송치한 사건을 계기로 성명을 발표했다.센터는 50만 원에서 100만 원 사이의 소액 대출이 단기간에 감당하기 어려운 채무로 불어나는 구조적 문제를 지적하며, 범죄수익 ...",
-      "source": "비즈니스코리아",
-      "publishedAt": "2026-10-26",
-      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279670",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.vFNVXCdry78Rg5SMVoW26Q&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "LS에코에너지 인공지능 데이터센터 수요 타고 울트라커패시터 키운다: 베트남에 650억 원 들여 생산거점 구축",
-      "summary": "LS에코에너지가 울트라커패시터(UC)를 새 먹거리로 점찍고 베트남에 생산거점을 마련한다. UC는 전기를 빠르게 저장·공급해 수소연료전지 발전 시스템의 순간적 전력 부족을 보완하는 에너지저장장치다. 인공지능 데이터센터(AIDC) 전력 수요 증가로 수소연료전지 발전설비 투자가 확대되면서 UC 수요도 늘어날 것으로 전망된다. LS에코에너지는 베트남 생산법인 LS ...",
-      "source": "허프포스트코리아 on MSN",
-      "publishedAt": "2026-10-26",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/ls%EC%97%90%EC%BD%94%EC%97%90%EB%84%88%EC%A7%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%88%98%EC%9A%94-%ED%83%80%EA%B3%A0-%EC%9A%B8%ED%8A%B8%EB%9D%BC%EC%BB%A4%ED%8C%A8%EC%8B%9C%ED%84%B0-%ED%82%A4%EC%9A%B4%EB%8B%A4-%EB%B2%A0%ED%8A%B8%EB%82%A8%EC%97%90-650%EC%96%B5-%EC%9B%90-%EB%93%A4%EC%97%AC-%EC%83%9D%EC%82%B0%EA%B1%B0%EC%A0%90-%EA%B5%AC%EC%B6%95/ar-AA2g4YhW",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.tIv1i3Gc4QzghAaWxFPGmQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "경북도, 국산 AI반도체 실증 거점 구축 나선다⋯경북 인공지능 생태계 조성 MOU",
-      "summary": "제조·로봇·모빌리티 분야 실증 생태계 조성 지역 AI 산업 경쟁력 강화 위한 협력체계 구축 출발점 경북도가 국산 인공지능(AI) 반도체의 산업 현장 확산과 AI 산업 생태계 조성을 위한 실증 거점 구축에 나섰다. 경북도는 26일 서울 퓨리오사AI 본사에서 경산시, 퓨리오사AI, 경북IT융합산업기술원과 '경북 인공지능 반도체 실증 및 산업 생태계 조성 업무협 ...",
-      "source": "이투데이 on MSN",
-      "publishedAt": "2026-10-26",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EB%B6%81%EB%8F%84-%EA%B5%AD%EC%82%B0-ai%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%8B%A4%EC%A6%9D-%EA%B1%B0%EC%A0%90-%EA%B5%AC%EC%B6%95-%EB%82%98%EC%84%A0%EB%8B%A4-%EA%B2%BD%EB%B6%81-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%83%9D%ED%83%9C%EA%B3%84-%EC%A1%B0%EC%84%B1-mou/ar-AA2g4QDu",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.UiLdZk62D527UjmAe8UKPg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "인공지능 답변에 동의하지 않을 능력 [세상읽기]",
-      "summary": "김보라미 | 법률사무소 디케 변호사 “제미나이에게 물어봤습니다.” 지난 21일 이재명 대통령이 엑스(X)에 올린 글의 제목이다. 공소청장·중대범죄수사청장의 국무회의 배석을 둘러싼 비판에 대해, 정부조직법 제11조를 부정하는 배석 불가론은 위헌적 ...",
-      "source": "한겨레",
-      "publishedAt": "2026-10-26",
-      "url": "https://www.hani.co.kr/arti/opinion/column/1284279.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.zPRKca9CgW_QGMGEwAZVYQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "'AI 금융사' 변신한 엔비디아 시험대…네오클라우드 보증 리스크",
-      "summary": "전 세계 인공지능(AI) 인프라 구축의 '핵심 금융사'로 부상한 엔비디아(NAS:NVDA)가 주요 파트너사들의 신용 위험 고조와 주가 폭락으로 첫 번째 대형 스트레스 테스트에 직면했다고 CNBC가 24일(현지 시각) 보도했다.생성형 AI 초기 반도체 공급에 주력했던 엔비디아는 최근 AI 모델 개발사와 데이터센터 기업, '네오클라우드(neocloud)' 기업 ...",
-      "source": "연합인포맥스",
-      "publishedAt": "2026-10-26",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441042",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.-tRSLj_8EMsF-phBMozjQA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "앤트로픽 IPO 상장 추진 소식에 SK하이닉스 7%대 급등… AI 반도체 밸류체인 수혜 집중",
-      "summary": "[글로벌 AI 대어 앤트로픽의 상장 추진 소식] ...",
-      "source": "뷰어스 on MSN",
+      "title": "\"입주민 권리\" vs \"5분 우회하라고?\"…단지 내 '통행로 차단' 갈등[이슈N]",
+      "summary": "[서울=뉴시스]이준형 인턴 기자 = 대단지 아파트들이 보안 강화와 시설물 관리를 이유로 단지 내 통행로를 차단하면서 인근 주민과의 갈등이 깊어지고 있다. 입주민의 안전 확보 요구가 인근 주민들의 이동 편의와 충돌하며 지역 사회의 새로운 분쟁 요소로 떠오르는 ..",
+      "source": "파이낸셜뉴스",
       "publishedAt": "2026-10-27",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD-ipo-%EC%83%81%EC%9E%A5-%EC%B6%94%EC%A7%84-%EC%86%8C%EC%8B%9D%EC%97%90-sk%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4-7-%EB%8C%80-%EA%B8%89%EB%93%B1-ai-%EB%B0%98%EB%8F%84%EC%B2%B4-%EB%B0%B8%EB%A5%98%EC%B2%B4%EC%9D%B8-%EC%88%98%ED%98%9C-%EC%A7%91%EC%A4%91/ar-AA2g7Iqx",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.9GpTq1RlnBlFEow6IFl7NA&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.fnnews.com/news/202610270700494636",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Zc-mr3pzauppmkbYjml-Bw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "“성공회대·구로구의회·청년이 한자리에”… 성공회대, 구로구 맞춤형 첫 청년정책 간담회 개최",
+      "summary": "성공회대학교 (총장 김경문) 평생학습연구소 청년연구센터는 오는 11월 2일 오후 7시 성공회대학교 새천년관 7107호에서 ‘구로구 청년에게 직접 듣고, 내일의 구로를 그리다’를 주제로 한 제1회 청년정책 간담회를 개최한다고 27일 밝혔다.",
+      "source": "스마트경제",
+      "publishedAt": "2026-10-27",
+      "url": "https://www.dailysmart.co.kr/news/articleView.html?idxno=131573",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.PIWX0PrewzhVXqYv1cSz_w&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "부·울·경 마약류 중독 사회재활 협의체 개최… \"치료와 회복의 안전망 강화\"",
+      "summary": "▲ 한국마약퇴치운동본부 부산지부가 개최한 '2026년 하반기 부·울·경 마약류 중독 사회재활 협의체' 참석자들이 행사 후 기념 촬영을 하며 마약류 중독자 사회 복귀 지원을 위한 의지를 다지고 있다. 한국마약퇴치운동본부 부산지부는 최근 부산시티관광호텔에서 ‘2026년 하반기 부·울·경 마약류 중독 사회재활 협의체’를 개최하고, 지역 사회 내 마약류 중독자들의 ...",
+      "source": "esnews",
+      "publishedAt": "2026-10-27",
+      "url": "https://www.esnews.kr/news/articleView.html?idxno=7028",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.aaJxlXGfZyUc7XdRjYj1Hg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "AI 활용 이끈다…제주도정 인공지능 파트너 118명 선발·운영",
+      "summary": "제주도는 인공지능(AI) 활용을 이끄는 역할을 맡는 '인공지능 파트너' 118명을 선발하고 운영에 나섰다고 27일 밝혔다. 도는 이날 제주문학관 대강당에서 위성곤 제주지사와 도 본청·직속기관·사업소·합의제기관 소속 '인공지능 파트너' 등이 참석한 가운데 발대식을 개최했다. '인공지능 파트너'는 부서 단위의 AI 활용을 이끌고, 업무에서 개선할 과제를 발굴해 ...",
+      "source": "뉴시스 on MSN",
+      "publishedAt": "2026-10-27",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/ai-%ED%99%9C%EC%9A%A9-%EC%9D%B4%EB%81%88%EB%8B%A4-%EC%A0%9C%EC%A3%BC%EB%8F%84%EC%A0%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%8C%8C%ED%8A%B8%EB%84%88-118%EB%AA%85-%EC%84%A0%EB%B0%9C-%EC%9A%B4%EC%98%81/ar-AA2g9tim",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.hUnxuPLNsxt9oTPzeC-6RA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "[AI는 지금] 구글, 로봇 훈련할 가상세계 만든다…월드모델 '지니4' 공개",
+      "summary": "(지디넷코리아=김동원 기자)구글 딥마인드가 화면과 소리를 함께 생성하는 인공지능(AI) 모델 '지니4'로 영화·게임 제작과 로봇 훈련 분야 공략에 나선다. 사용자 행동에 반응하는 가상세계를 구현해 촬영이나 개발에 앞서 아이디어를 시험하고 로봇과 AI가 과제를 수행하는 과정을 점검하도록 지원한다.구글 딥마인드는 27일(현지시간) 자사 블로그를 통해 지니4를 ...",
+      "source": "지디넷코리아 on MSN",
+      "publishedAt": "2026-10-28",
+      "url": "https://www.msn.com/ko-kr/news/techandscience/ai%EB%8A%94-%EC%A7%80%EA%B8%88-%EA%B5%AC%EA%B8%80-%EB%A1%9C%EB%B4%87-%ED%9B%88%EB%A0%A8%ED%95%A0-%EA%B0%80%EC%83%81%EC%84%B8%EA%B3%84-%EB%A7%8C%EB%93%A0%EB%8B%A4%EC%9B%94%EB%93%9C%EB%AA%A8%EB%8D%B8-%EC%A7%80%EB%8B%884-%EA%B3%B5%EA%B0%9C/ar-AA2gcx92",
+      "imageUrl": "https://www.bing.com/th?id=ONUT._USWUhL8fGxjdygMRfQj2Q&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "삼정KPMG \"반도체 시장 1조 5000억 달러 전망…AI 투자 수익성 관건\"",
+      "summary": "'AI 시대 반도체 산업이 직면한 6대 이슈' 보고서 발간\"차세대 기술 확보…투자비 회수 가능성 면밀 검토해야\" (서울=뉴스1) 전지아 기자 = 인공지능(AI) 데이터센터 투자 확대로 글로벌 반도체 시장이 빠르게 성장하면서 생산설비 확충에 따른 공급 경쟁과 투자 수익성 확보가 주요 과제로 떠오르고 있다는 분석이 나왔다.",
+      "source": "뉴스1 on MSN",
+      "publishedAt": "2026-10-28",
+      "url": "https://www.msn.com/ko-kr/news/living/%EC%82%BC%EC%A0%95kpmg-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%8B%9C%EC%9E%A5-1%EC%A1%B0-5000%EC%96%B5-%EB%8B%AC%EB%9F%AC-%EC%A0%84%EB%A7%9D-ai-%ED%88%AC%EC%9E%90-%EC%88%98%EC%9D%B5%EC%84%B1-%EA%B4%80%EA%B1%B4/ar-AA2gcWtU",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.wbygjIYIyInetSWZyVTA4g&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "삼정KPMG \"AI 투자 수익성 확보가 관건\"",
+      "summary": "[이데일리 권오석 기자] 인공지능(AI) 데이터센터를 향한 투자가 폭발하면서 글로벌 반도체 시장이 가파른 상승세를 타고 있지만, 설비 증설에 따른 공급 경쟁과 미·중 기술 패권 다툼, 막대한 투재에 따른 수익성 부담이 반도체 업계의 핵심 과제로 대두되고 있다. (사진=삼정KPMG) 삼정KPMG는 28일 ‘AI 시대 반도체 산업이 직면한 6대 이슈’ 보고서를 ...",
+      "source": "이데일리 on MSN",
+      "publishedAt": "2026-10-28",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%82%BC%EC%A0%95kpmg-ai-%ED%88%AC%EC%9E%90-%EC%88%98%EC%9D%B5%EC%84%B1-%ED%99%95%EB%B3%B4%EA%B0%80-%EA%B4%80%EA%B1%B4/ar-AA2gcW3W",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.9bvQ8NlJv8pDwOYUmLz1GQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "[10/27]AI·반도체 뉴스 요약｜Anthropic 상장 신청과 반도체주의 명암",
+      "summary": "오늘 가장 큰 화제는 Claude를 개발하는 Anthropic이 드디어 상장 신청 서류를 공개했다는 점입니다. 한편 도쿄 시장은 반도체주가 매도되고, 미국에서는 반대로 매수세가 유입되는 등 '일미 간의 온도 차'도 보였습니다. Meta의 거액 조달부터 Rapidus의 새로운 제휴까지, 한꺼번에 확인해 보겠습니다.1. Anthropic이 상장 신청 서류(S- ...",
+      "source": "note",
+      "publishedAt": "2026-10-27",
+      "url": "https://note.com/good_crocus9582/n/na7dc36157322?hl=ko",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.IEUloLESdmHxTGDjWxVgYg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }

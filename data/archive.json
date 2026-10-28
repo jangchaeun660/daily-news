@@ -1,5 +1,93 @@
 [
   {
+    "updatedAt": "2026-10-28",
+    "windowStart": "2026-10-26T22:00:00.000Z",
+    "windowEnd": "2026-10-27T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "시흥시, 사회연대경제기본법 시행 앞두고 대응 본격화",
+        "summary": "[시흥=뉴시스] 박석희 기자 = 경기 시흥시가 내년 3월 사회연대경제기본법 시행을 앞두고 지역 사회적경제 생태계 정비와 민관 협력체계 구축에 나섰다. 시흥시는 최근 시흥비즈니스센터 컨벤션홀에서 '2026 시흥시 사회적경제 포럼'을 열고 법 시행에 따른 지역 사..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-10-27",
+        "url": "https://www.fnnews.com/news/202610280850240402",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.2oym6thMpPYSAke5r6VawA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "\"입주민 권리\" vs \"5분 우회하라고?\"…단지 내 '통행로 차단' 갈등[이슈N]",
+        "summary": "[서울=뉴시스]이준형 인턴 기자 = 대단지 아파트들이 보안 강화와 시설물 관리를 이유로 단지 내 통행로를 차단하면서 인근 주민과의 갈등이 깊어지고 있다. 입주민의 안전 확보 요구가 인근 주민들의 이동 편의와 충돌하며 지역 사회의 새로운 분쟁 요소로 떠오르는 ..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-10-27",
+        "url": "https://www.fnnews.com/news/202610270700494636",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Zc-mr3pzauppmkbYjml-Bw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "“성공회대·구로구의회·청년이 한자리에”… 성공회대, 구로구 맞춤형 첫 청년정책 간담회 개최",
+        "summary": "성공회대학교 (총장 김경문) 평생학습연구소 청년연구센터는 오는 11월 2일 오후 7시 성공회대학교 새천년관 7107호에서 ‘구로구 청년에게 직접 듣고, 내일의 구로를 그리다’를 주제로 한 제1회 청년정책 간담회를 개최한다고 27일 밝혔다.",
+        "source": "스마트경제",
+        "publishedAt": "2026-10-27",
+        "url": "https://www.dailysmart.co.kr/news/articleView.html?idxno=131573",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.PIWX0PrewzhVXqYv1cSz_w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "부·울·경 마약류 중독 사회재활 협의체 개최… \"치료와 회복의 안전망 강화\"",
+        "summary": "▲ 한국마약퇴치운동본부 부산지부가 개최한 '2026년 하반기 부·울·경 마약류 중독 사회재활 협의체' 참석자들이 행사 후 기념 촬영을 하며 마약류 중독자 사회 복귀 지원을 위한 의지를 다지고 있다. 한국마약퇴치운동본부 부산지부는 최근 부산시티관광호텔에서 ‘2026년 하반기 부·울·경 마약류 중독 사회재활 협의체’를 개최하고, 지역 사회 내 마약류 중독자들의 ...",
+        "source": "esnews",
+        "publishedAt": "2026-10-27",
+        "url": "https://www.esnews.kr/news/articleView.html?idxno=7028",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.aaJxlXGfZyUc7XdRjYj1Hg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI 활용 이끈다…제주도정 인공지능 파트너 118명 선발·운영",
+        "summary": "제주도는 인공지능(AI) 활용을 이끄는 역할을 맡는 '인공지능 파트너' 118명을 선발하고 운영에 나섰다고 27일 밝혔다. 도는 이날 제주문학관 대강당에서 위성곤 제주지사와 도 본청·직속기관·사업소·합의제기관 소속 '인공지능 파트너' 등이 참석한 가운데 발대식을 개최했다. '인공지능 파트너'는 부서 단위의 AI 활용을 이끌고, 업무에서 개선할 과제를 발굴해 ...",
+        "source": "뉴시스 on MSN",
+        "publishedAt": "2026-10-27",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/ai-%ED%99%9C%EC%9A%A9-%EC%9D%B4%EB%81%88%EB%8B%A4-%EC%A0%9C%EC%A3%BC%EB%8F%84%EC%A0%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%8C%8C%ED%8A%B8%EB%84%88-118%EB%AA%85-%EC%84%A0%EB%B0%9C-%EC%9A%B4%EC%98%81/ar-AA2g9tim",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.hUnxuPLNsxt9oTPzeC-6RA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[AI는 지금] 구글, 로봇 훈련할 가상세계 만든다…월드모델 '지니4' 공개",
+        "summary": "(지디넷코리아=김동원 기자)구글 딥마인드가 화면과 소리를 함께 생성하는 인공지능(AI) 모델 '지니4'로 영화·게임 제작과 로봇 훈련 분야 공략에 나선다. 사용자 행동에 반응하는 가상세계를 구현해 촬영이나 개발에 앞서 아이디어를 시험하고 로봇과 AI가 과제를 수행하는 과정을 점검하도록 지원한다.구글 딥마인드는 27일(현지시간) 자사 블로그를 통해 지니4를 ...",
+        "source": "지디넷코리아 on MSN",
+        "publishedAt": "2026-10-28",
+        "url": "https://www.msn.com/ko-kr/news/techandscience/ai%EB%8A%94-%EC%A7%80%EA%B8%88-%EA%B5%AC%EA%B8%80-%EB%A1%9C%EB%B4%87-%ED%9B%88%EB%A0%A8%ED%95%A0-%EA%B0%80%EC%83%81%EC%84%B8%EA%B3%84-%EB%A7%8C%EB%93%A0%EB%8B%A4%EC%9B%94%EB%93%9C%EB%AA%A8%EB%8D%B8-%EC%A7%80%EB%8B%884-%EA%B3%B5%EA%B0%9C/ar-AA2gcx92",
+        "imageUrl": "https://www.bing.com/th?id=ONUT._USWUhL8fGxjdygMRfQj2Q&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "삼정KPMG \"반도체 시장 1조 5000억 달러 전망…AI 투자 수익성 관건\"",
+        "summary": "'AI 시대 반도체 산업이 직면한 6대 이슈' 보고서 발간\"차세대 기술 확보…투자비 회수 가능성 면밀 검토해야\" (서울=뉴스1) 전지아 기자 = 인공지능(AI) 데이터센터 투자 확대로 글로벌 반도체 시장이 빠르게 성장하면서 생산설비 확충에 따른 공급 경쟁과 투자 수익성 확보가 주요 과제로 떠오르고 있다는 분석이 나왔다.",
+        "source": "뉴스1 on MSN",
+        "publishedAt": "2026-10-28",
+        "url": "https://www.msn.com/ko-kr/news/living/%EC%82%BC%EC%A0%95kpmg-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%8B%9C%EC%9E%A5-1%EC%A1%B0-5000%EC%96%B5-%EB%8B%AC%EB%9F%AC-%EC%A0%84%EB%A7%9D-ai-%ED%88%AC%EC%9E%90-%EC%88%98%EC%9D%B5%EC%84%B1-%EA%B4%80%EA%B1%B4/ar-AA2gcWtU",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.wbygjIYIyInetSWZyVTA4g&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "삼정KPMG \"AI 투자 수익성 확보가 관건\"",
+        "summary": "[이데일리 권오석 기자] 인공지능(AI) 데이터센터를 향한 투자가 폭발하면서 글로벌 반도체 시장이 가파른 상승세를 타고 있지만, 설비 증설에 따른 공급 경쟁과 미·중 기술 패권 다툼, 막대한 투재에 따른 수익성 부담이 반도체 업계의 핵심 과제로 대두되고 있다. (사진=삼정KPMG) 삼정KPMG는 28일 ‘AI 시대 반도체 산업이 직면한 6대 이슈’ 보고서를 ...",
+        "source": "이데일리 on MSN",
+        "publishedAt": "2026-10-28",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%82%BC%EC%A0%95kpmg-ai-%ED%88%AC%EC%9E%90-%EC%88%98%EC%9D%B5%EC%84%B1-%ED%99%95%EB%B3%B4%EA%B0%80-%EA%B4%80%EA%B1%B4/ar-AA2gcW3W",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.9bvQ8NlJv8pDwOYUmLz1GQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[10/27]AI·반도체 뉴스 요약｜Anthropic 상장 신청과 반도체주의 명암",
+        "summary": "오늘 가장 큰 화제는 Claude를 개발하는 Anthropic이 드디어 상장 신청 서류를 공개했다는 점입니다. 한편 도쿄 시장은 반도체주가 매도되고, 미국에서는 반대로 매수세가 유입되는 등 '일미 간의 온도 차'도 보였습니다. Meta의 거액 조달부터 Rapidus의 새로운 제휴까지, 한꺼번에 확인해 보겠습니다.1. Anthropic이 상장 신청 서류(S- ...",
+        "source": "note",
+        "publishedAt": "2026-10-27",
+        "url": "https://note.com/good_crocus9582/n/na7dc36157322?hl=ko",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.IEUloLESdmHxTGDjWxVgYg&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-10-27",
     "windowStart": "2026-10-25T22:00:00.000Z",
     "windowEnd": "2026-10-26T22:00:00.000Z",
@@ -533,94 +621,6 @@
         "publishedAt": "2026-10-21",
         "url": "https://www.fnnews.com/news/202610211913417416",
         "imageUrl": "https://www.bing.com/th?id=ONUT.K8W5GcWeaxcP80U9SgKeig&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-10-21",
-    "windowStart": "2026-10-19T22:00:00.000Z",
-    "windowEnd": "2026-10-20T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "\"한국 아동 행복감 14개국 중 11위…지역별 삶의 질 격차\"",
-        "summary": "\"한국 아동 행복감 14개국 중 11위…지역별 삶의 질 격차\" 세이브더칠드런·서울대 사회복지연구소 심포지엄…세종 1위·전북 최하위 (서울=연합뉴스) 정아란 기자 = 한국 아동의 행복감이 국제 비교에서 14개국 중 11위에 그친 것으로 나타났다. 국내에서도 아동의 ..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-10-20",
-        "url": "https://www.fnnews.com/news/202610201605460122",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.AcFjvjssitIM4RCz-aDYgQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "한국사회보장정보원, 부정수급 예방교육 실시... 사회서비스 신뢰성 높일 것",
-        "summary": "한국사회보장정보원이 장애인활동지원사업 종사자를 대상으로 ‘사회서비스 전자바우처 부정수급 예방교육’을 실시한다.21일 한국사회보장정보원에 따르면 이번 교육은 현장의 부정수급을 예방하고 올바른 바우처 이용·결제 관행을 정착시키기 위한 목적이다.교육은 부산경남지역센터와 대구경북지역센터가 각각 울산과 포항에서 진행하며 해당 지역의 서비스 제공인력과 전담인력 등 7 ...",
-        "source": "글로벌이코노믹 on MSN",
-        "publishedAt": "2026-10-21",
-        "url": "https://www.msn.com/ko-kr/news/news/%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EB%B6%80%EC%A0%95%EC%88%98%EA%B8%89-%EC%98%88%EB%B0%A9%EA%B5%90%EC%9C%A1-%EC%8B%A4%EC%8B%9C-%EC%82%AC%ED%9A%8C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%8B%A0%EB%A2%B0%EC%84%B1-%EB%86%92%EC%9D%BC-%EA%B2%83/ar-AA2fFOUo",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.qVOyFD5Yu49Ff_vJIl-Bew&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "韓 아동 행복감 14개국 중 11위 그쳐…국내 지역별론 세종 1위",
-        "summary": "한국 아동의 행복감이 국제 14개국과 비교했을 때 11위에 불과한 것으로 나타났다. 특히 국내에서도 지역에 따라 아동 삶의 질 격차가 컸다. 삶의 질 지수가 가장 높은 지역은 세종시였다. 국제아동권리 비정부기구(NGO) 세이브더칠드런은 20일 서울 여의도 켄싱턴호텔에서 서울대 사회복지연구소와 함께 '2026 한국 아동 삶의 질 심포지엄'을 열고 이러한 결과 ...",
-        "source": "아시아경제 on MSN",
-        "publishedAt": "2026-10-20",
-        "url": "https://www.msn.com/ko-kr/news/other/%E9%9F%93-%EC%95%84%EB%8F%99-%ED%96%89%EB%B3%B5%EA%B0%90-14%EA%B0%9C%EA%B5%AD-%EC%A4%91-11%EC%9C%84-%EA%B7%B8%EC%B3%90-%EA%B5%AD%EB%82%B4-%EC%A7%80%EC%97%AD%EB%B3%84%EB%A1%A0-%EC%84%B8%EC%A2%85-1%EC%9C%84/ar-AA2fDDd9",
-        "imageUrl": "https://www.bing.com/th?id=ORMS.aa0bbb08774c1b7146f23c3464874a55&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "한국알콘, 시각장애 아동·학생 지원 사회공헌활동 전개",
-        "summary": "[라포르시안] 한국알콘이 ‘세계 눈의 날’(World Sight Day)을 기념해 시각장애 학생과 아동을 위한 사회공헌활동을 전개했다. 회사는 지난 15일 임직원들이 시각장애 학생과 아동에게 기부할 흰지팡이와 모루 인형을 직접 제작하고, 국립서울맹학교를 찾아 교육 환경 정화 봉사를 진행했다고 20일 밝혔다. 세계 눈의 날은 국제실명예방기구(IAPB)가 매년 ...",
-        "source": "라포르시안",
-        "publishedAt": "2026-10-20",
-        "url": "https://www.rapportian.com/news/articleView.html?idxno=241457",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.j3StjzQiTzN_iH-X2dAMVA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "메타크라우드, KCI 등재지 '인공지능인문학연구'에 AI 개입 분석 솔루션 'TextShield(글자국)' 공급 계약 체결",
-        "summary": "정부 연구비 약 8억8000만원이 투입된 KCI 등재 논문에 생성형 AI가 만든 가짜 참고문헌 17건이 인용되어 게재 철회 및 해당 저자 3년 투고 금지 처분을 받은 사건이 지난 3일 보도로 알려진 가운데, 국내 한 학술지가 투고 단계에서 논문의 AI 개입 여부 검증 체계 도입을 결정하며 주목받고 있다. AI 기반 신뢰 기술(Trust Technology) ...",
-        "source": "전자신문 on MSN",
-        "publishedAt": "2026-10-20",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%A9%94%ED%83%80%ED%81%AC%EB%9D%BC%EC%9A%B0%EB%93%9C-kci-%EB%93%B1%EC%9E%AC%EC%A7%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B8%EB%AC%B8%ED%95%99%EC%97%B0%EA%B5%AC%EC%97%90-ai-%EA%B0%9C%EC%9E%85-%EB%B6%84%EC%84%9D-%EC%86%94%EB%A3%A8%EC%85%98-textshield%EA%B8%80%EC%9E%90%EA%B5%AD-%EA%B3%B5%EA%B8%89-%EA%B3%84%EC%95%BD-%EC%B2%B4%EA%B2%B0/ar-AA2fDfc6",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.1eOsbsTPF5_7D5V2ryGPmQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "머스크, 테슬라·스페이스X 합병검토 공식화…\"슈퍼지능 시너지\"(종합)",
-        "summary": "양사 이사회에 합병검토 특별위 구성…\"나는 이해충돌 당사자라 참여 불가\" \"내년말 AI 부문 연매출 최대 1조달러…내달 스타십 부스터·선체 동시회수 시도\" (샌프란시스코=연합뉴스) 권영전 특파원 = 일론 머스크가 ...",
-        "source": "미주중앙일보",
-        "publishedAt": "2026-10-20",
-        "url": "https://www.koreadaily.com/article/20261020163605175",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.fiadtNNz1DdcSZRP_bEUXQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "\"GPU 사면 뭐 하나\" AI 산업 성장 가로막는 건...골드만삭스의 경고",
-        "summary": "인공지능(AI) 산업의 폭발적인 성장을 가로막는 가장 치명적인 병목 요인은 자금 부족이나 반도체 수급이 아닌 전력 기반시설 부족이라는 분석이 나왔다. 글로벌 투자은행 골드만삭스는 20일 'AI 시대의 전력 확보'라는 제목의 보고서에서 전력망 연결 지연과 전력 공급난이 AI 데이터센터 확장과 대규모 투자 집행의 핵심 리스크로 떠올랐다고 분석했다.",
-        "source": "머니투데이",
-        "publishedAt": "2026-10-20",
-        "url": "https://www.mt.co.kr/world/2026/10/21/2026102107295119895",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.D3FVl9wWSd2Qfn_WXEKYtA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "한국오므론제어기기, 'AI·로봇 안전제어 솔루션 챌린지' 성과공유회 개최",
-        "summary": "한국오므론제어기기, AI·로봇 안전제어 솔루션 챌린지 성과공유회 개최 대한상의 서울기술교육센터와 청년 일경험 프로그램 운영 대학·특성화고 24개 팀, 약 100명 참여프로젝트 결과 발표 우수 10개 팀 선정11월 2026 로보월드 전시 연계 예정 ...",
-        "source": "조선비즈",
-        "publishedAt": "2026-10-20",
-        "url": "https://biz.chosun.com/industry/business_info/2026/10/21/KQWIEXFACRA2NAAS42WRFPWYUU/",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.2COnMz2KtfHPysoz_pZbKw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "인천 AI 기술기업 69% 연구개발·실증 단계…도입수요 기업 71.4%는 계획·예산 없어",
-        "summary": "인천의 인공지능(AI) 기술기업 10곳 중 7곳은 수익을 창출하지 못하는 ‘연구개발 및 시제품’ 단계에 머무르고 있는 것으로 나타났다. 더군다나 지역에서 AI 도입을 원하는 기업 대부분은 예산 부족 등으로 어려움을 겪고 있는 만큼 공항과 항만·산업단지 등을 활용한 실증 ...",
-        "source": "경기일보",
-        "publishedAt": "2026-10-20",
-        "url": "https://www.kyeonggi.com/article/20261020580571",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.LXe9z-O6M8u_TX178czFlw&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
