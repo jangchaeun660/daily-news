@@ -1,5 +1,84 @@
 [
   {
+    "updatedAt": "2026-10-31",
+    "windowStart": "2026-10-29T22:00:00.000Z",
+    "windowEnd": "2026-10-30T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "시흥시 '기본사회' 본격화…\"복지 넘어 지역안전망\"",
+        "summary": "[시흥=뉴시스] 박석희 기자 = 경기 시흥시가 저성장과 양극화 심화 속에 시민 삶의 기본 조건을 보장하는 '기본사회' 구축에 나섰다. 시흥시는 지난 29일 시청 늠내홀에서 시민과 전문가, 공무원 등 300여명이 참석한 가운데 '함께 만드는 시흥시 기본사회 비전선포..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-10-29",
+        "url": "https://www.fnnews.com/news/202610300847155497",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.qDS3lHnMast2hygJakqhSQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "제17회 동아시아 시민사회 자원봉사 포럼…AI시대 역할 논의",
+        "summary": "(서울=연합뉴스) 한지은 기자 = 한국자원봉사포럼은 한국사회복지협의회와 함께 30일 서울 한국사회복지협의회 콘퍼런스실에서 '제17회 동아시아 시민사회 자원봉사 포럼'을 열었다고 밝혔다. '인공지능(AI) 시대 시민사회의 새로운 역할 기대'를 주제로 열린 이번 행사에는 한·중·일 전문가와 비영리단체 활동가 등이 참여했다. 디지털·AI 상록수협회 회장인 강민구 ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-10-29",
+        "url": "https://www.yna.co.kr/view/AKR20261030065700004",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.JIjV3PkXNWdAO5lppPOBGw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "한국사회보장정보원, 어린이집 입소 우선순위 증빙 간소화",
+        "summary": "한국사회보장정보원(원장 김현준)은 지난 28일부터 어린이집 입소 서비스에 공공마이데이터 서비스를 도입해 입소 우선순위 증빙 절차를 간소화했다고 30일 밝혔다. 이번 공공마이데이터 연계는 학부모의 증빙서류 준비 부담과 어린이집의 서류 확인 업무를 줄여, 보육서비스 ...",
+        "source": "베이비뉴스 on MSN",
+        "publishedAt": "2026-10-30",
+        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-%EC%96%B4%EB%A6%B0%EC%9D%B4%EC%A7%91-%EC%9E%85%EC%86%8C-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%EC%A6%9D%EB%B9%99-%EA%B0%84%EC%86%8C%ED%99%94/ar-AA2gn1JO",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.v-OI16S5xh51IyYM--bdKg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "국산 AI 반도체 활용법은? 오픈케이클라우드, 내달 10일 데브데이 개최",
+        "summary": "(지디넷코리아=김동원 기자)국산 인공지능(AI) 반도체를 클라우드에서 효율적으로 운영하고 실제 AI 서비스에 활용하는 기술을 공유하는 자리가 열린다. 한국전자통신연구원(ETRI)이 운영하는 오픈케이클라우드(openKcloud) 커뮤니티는 오는 11월 10일 서울 ST센터에서 '오픈케이클라우드 데브데이 2026'을 개최한다고 29일 밝혔다. 이번 행사에서는 ...",
+        "source": "지디넷코리아 on MSN",
+        "publishedAt": "2026-10-30",
+        "url": "https://www.msn.com/ko-kr/news/techandscience/%EA%B5%AD%EC%82%B0-ai-%EB%B0%98%EB%8F%84%EC%B2%B4-%ED%99%9C%EC%9A%A9%EB%B2%95%EC%9D%80-%EC%98%A4%ED%94%88%EC%BC%80%EC%9D%B4%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%82%B4%EB%8B%AC-10%EC%9D%BC-%EB%8D%B0%EB%B8%8C%EB%8D%B0%EC%9D%B4-%EA%B0%9C%EC%B5%9C/ar-AA2go5tS",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.6kHkIsgAeWLOTkwGNmowcw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "효성중공업, 독일 지멘스와 디지털 전력망·AI 데이터센터 협력 협약",
+        "summary": "효성중공업은 10월 30일 서울 강남구 그랜드 인터컨티넨탈 파르나스 호텔에서 독일 지멘스와 글로벌 전략적 파트너십 협약 (GSPA)을 맺었다. 행사 현장에는 김정관 산업통상부 장관과 스테판 루앙호프 독일 연방경제에너지부 정무차관, 우태희 효성중공업 대표이사, 정하중 한국지멘스 대표이사 등 양국 주요 관계자들이 마주 앉았다.",
+        "source": "티티엘뉴스",
+        "publishedAt": "2026-10-31",
+        "url": "https://www.ttlnews.com/news/articleView.html?idxno=3157326",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.K6juEljcCYvM889RiDjKlw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "NVIDIA는 언제까지 AI 반도체의 왕자로 군림할 수 있을까?――2030년대까지의 4가지 시나리오를 확률로 예측한다",
+        "summary": "현재 AI 반도체 세계에서 NVIDIA는 압도적인 존재이다.단, 여기서 말하는 '반도체의 왕자'란 메모리, CPU, 차량용 반도체, 아날로그 반도체 등을 포함한 반도체 산업 전체를 의미하는 것이 아니다. 더 정확하게는 생성형 AI를 구동하는 데이터센터용 AI 가속기와 그 주변 인프라에서의 왕자라는 의미이다.2026년 5월에 발표된 NVIDIA의 2027회계 ...",
+        "source": "note",
+        "publishedAt": "2026-08-10",
+        "url": "https://note.com/note0701525/n/nc3f2a07cde38?hl=ko",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.9V3uKjzwzGxQnrtr5T-XTg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "글로벌 반도체 시장 규모 1조5112억달러... AI 투자 수익성 확보가 관건",
+        "summary": "아시아투데이 조은국 기자 = AI 데이터센터 투자가 급증하면서 글로벌 반도체 시장이 빠르게 성장하고 있지만, 생산능력 확대에 따른 공급 경쟁과 미·중 기술 패권 경쟁, 대규모 투자에 따른 수익성 부담이 반도체 기업의 핵심 변수로 떠오르고 있다. 삼정KPMG는 28일 ' ...",
+        "source": "아시아투데이 on MSN",
+        "publishedAt": "2026-10-28",
+        "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%8B%9C%EC%9E%A5-%EA%B7%9C%EB%AA%A8-1%EC%A1%B05112%EC%96%B5%EB%8B%AC%EB%9F%AC-ai-%ED%88%AC%EC%9E%90-%EC%88%98%EC%9D%B5%EC%84%B1-%ED%99%95%EB%B3%B4%EA%B0%80-%EA%B4%80%EA%B1%B4/ar-AA2gddFi",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.kXyz2KL14sULs37vntWGTA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "삼정KPMG \"반도체 시장 1조 5000억 달러 전망…AI 투자 수익성 관건\"",
+        "summary": "(서울=뉴스1) 전지아 기자 = 인공지능(AI) 데이터센터 투자 확대로 글로벌 반도체 시장이 빠르게 성장하면서 생산설비 확충에 따른 공급 경쟁과 투자 수익성 확보가 주요 과제로 떠오르고 있다는 분석이 나왔다.삼정KPMG는 28일 발간한 'AI 시대 반도체 산업이 직면한 6..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-10-28",
+        "url": "https://www.fnnews.com/news/202610280943450811",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.1ShKBTOk1QWjhzU5gaHA5w&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-10-30",
     "windowStart": "2026-10-28T22:00:00.000Z",
     "windowEnd": "2026-10-29T22:00:00.000Z",
@@ -524,94 +603,6 @@
         "publishedAt": "2026-10-24",
         "url": "https://www.msn.com/ko-kr/news/other/ai-%EB%B0%9C%EC%97%B4-%EC%9E%A1%EC%95%84%EC%95%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%84%B0%EC%A7%84%EB%8B%A4-%E6%97%A5-%EB%AF%B8%EC%93%B0%EB%B9%84%EC%8B%9C-%EB%A8%B8%ED%8B%B0%EB%A6%AC%EC%96%BC-%EC%B4%88%EC%A0%95%EB%B0%80-%EC%98%A8%EB%8F%84-%EC%84%BC%EC%84%9C-%EC%A6%9D%EC%84%A4/ar-AA2fZMpf",
         "imageUrl": "https://www.bing.com/th?id=ONUT.llY8oeWqaTunbzvi8kaErA&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-10-24",
-    "windowStart": "2026-10-22T22:00:00.000Z",
-    "windowEnd": "2026-10-23T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "우리은행, 사회적경제기업 10곳에 1억3천만원 지원",
-        "summary": "우리은행, 사회적경제기업 10곳에 1억3천만원 지원 (서울=연합뉴스) 이도흔 기자 = 우리은행은 사회적경제기업 10곳에 총 1억3천만원을 지원했다고 23일 밝혔다. 우리은행은 전날 한국YMCA연합회에서 한국사회적기업진흥원과 함께 추진한 '2025년 우리 임팩트 챌린..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-10-23",
-        "url": "https://www.fnnews.com/news/202610231413313090",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.n1TyRh9npOAhvu7vaPFMSQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "‘2027학년도 수시모집 면접 대비’ 시사 이슈 살펴보기 ③: 경제·노동·사회 불평등",
-        "summary": "수시모집 대학별 면접이 본격화하면서 시사 이슈에 대한 수험생들의 관심도 높아지고 있다. 올해는 인공지능(AI)을 비롯해 의료개혁과 지역의사제, 저출생·고령화, 청년 일자리, 기후위기, 반도체 산업, 국제질서와 통상 변화 등 교육·사회·경제 전반의 굵 ...",
-        "source": "조선에듀 on MSN",
-        "publishedAt": "2026-10-21",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/2027%ED%95%99%EB%85%84%EB%8F%84-%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91-%EB%A9%B4%EC%A0%91-%EB%8C%80%EB%B9%84-%EC%8B%9C%EC%82%AC-%EC%9D%B4%EC%8A%88-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-%EA%B2%BD%EC%A0%9C-%EB%85%B8%EB%8F%99-%EC%82%AC%ED%9A%8C-%EB%B6%88%ED%8F%89%EB%93%B1/ar-AA2fIdNA",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.24gG8l0UREHXgX-3dkBUig&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "‘2027학년도 수시모집 면접 대비’ 시사 이슈 살펴보기 ⑤: 정치·법·사회적 권리",
-        "summary": "수시모집 대학별 면접이 본격화하면서 시사 이슈에 대한 수험생들의 관심도 높아지고 있다. 올해는 인공지능(AI)을 비롯해 의료개혁과 지역의사제, 저출생·고령화, 청년 일자리, 기후위기, 반도체 산업, 국제질서와 통상 변화 등 교육·사회·경제 전반의 굵 ...",
-        "source": "조선에듀 on MSN",
-        "publishedAt": "2026-10-21",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/2027%ED%95%99%EB%85%84%EB%8F%84-%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91-%EB%A9%B4%EC%A0%91-%EB%8C%80%EB%B9%84-%EC%8B%9C%EC%82%AC-%EC%9D%B4%EC%8A%88-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-%EC%A0%95%EC%B9%98-%EB%B2%95-%EC%82%AC%ED%9A%8C%EC%A0%81-%EA%B6%8C%EB%A6%AC/ar-AA2fIDPu",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.DvfXUOco7ry3Uag-LurtSg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "“대입 면접서 시사 이슈 나오면?”…상식 암기보다 중요한 4단계 답변법",
-        "summary": "대학수학능력시험이 한 달 앞으로 다가온 가운데 수시모집 대학별 면접도 이어지고 있다. 면접을 준비하는 수험생이라면 최근 사회적 쟁점을 어디까지 공부해야 할지 고민하기 쉽다.대입 면접에서 시사 이슈가 그대로 ‘상식 문제’처럼 출제되는 경우는 많지 않다 ...",
-        "source": "조선에듀 on MSN",
-        "publishedAt": "2026-10-21",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%8C%80%EC%9E%85-%EB%A9%B4%EC%A0%91%EC%84%9C-%EC%8B%9C%EC%82%AC-%EC%9D%B4%EC%8A%88-%EB%82%98%EC%98%A4%EB%A9%B4-%EC%83%81%EC%8B%9D-%EC%95%94%EA%B8%B0%EB%B3%B4%EB%8B%A4-%EC%A4%91%EC%9A%94%ED%95%9C-4%EB%8B%A8%EA%B3%84-%EB%8B%B5%EB%B3%80%EB%B2%95/ar-AA2fHW7J",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.oDf2YXBRCFtbazMnakQMsg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "패색 짙은 美공화당…중간선거 앞두고 '성전환·사회주의' 쟁점화",
-        "summary": "[서울=뉴시스] 권성근 기자 = 미국 중간선거가 약 보름 앞으로 다가온 가운데 공화당이 문화사회 이슈를 선거 쟁점으로 부각하는 데 집중하고 있다. 18일(현지 시간) 월스트리트저널(WSJ)에 따르면 공화당 후보들은 선거를 앞두고 마지막 유세에서 민주당의 트랜스젠..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-10-19",
-        "url": "https://www.fnnews.com/news/202610191529338841",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.nLKh1diBy08OBEwROHOKFA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[AI돋보기] AI가 더 똑똑한 AI 만든다…'지능 폭발' 현실 되나",
-        "summary": "연구진은 AI의 과제 수행 능력이 향상되는 추세가 이어지면 2028년 중반께 사람이 수개월 걸려 하는 연구 과제를 AI가 수행할 수 있다고 봤다. 현재 증가세가 유지된다는 가정에 따른 잠정 추정이다. 연구진은 근거가 아직 초기 단계이고 일부 결과는 엇갈린다고 인정했다.",
-        "source": "연합뉴스",
-        "publishedAt": "2026-10-23",
-        "url": "https://www.yna.co.kr/view/AKR20261023025100017",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.6IHMUI_y0-DF1GH20LNhhw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[단독][2027정시] '입결 없는 첫 선발' 신설학과 '주목'.. 연대 첨단약과학, 성대 인공지능, 단대 AI건축융합 등 7개교 9개학과",
-        "summary": "[베리타스알파=조혜연 기자] 올해도 AI, 컴퓨팅, 신약개발, 바이오 등 첨단분야 학과가 대거 신설돼 모집을 실시한다. 2027정시에서 주요22개대와 지역거점국립대(지거국) 9개교 가운데 7개교가 신설학과 9개에서 98명을 처음 선발한다. 주요22개대에서는 연세대 첨단약과학과(가군 5 ...",
-        "source": "베리타스알파",
-        "publishedAt": "2026-10-23",
-        "url": "https://www.veritas-a.com/news/articleView.html?idxno=633339",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.pkr1TYNerh1SAhs0T4W5Gg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "빅웨이브로보틱스, 피지컬 AI 기술 포럼 개최…'하이퍼 파운드리' 시연",
-        "summary": "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] 산업용 피지컬 AI(인공지능) 전문기업 빅웨이브로보틱스가 전날 서울 잠실 스카이31에서 '빅웨이브 시프트 2026 산업용 피지컬 AI 서밋'을 개최했다고 23일 밝혔다. '피지컬 AI, 산업을 움직이다'를 주제로 열린 이번 행사에는 엔비 ...",
-        "source": "머니투데이 on MSN",
-        "publishedAt": "2026-10-23",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%B9%85%EC%9B%A8%EC%9D%B4%EB%B8%8C%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4-%ED%94%BC%EC%A7%80%EC%BB%AC-ai-%EA%B8%B0%EC%88%A0-%ED%8F%AC%EB%9F%BC-%EA%B0%9C%EC%B5%9C-%ED%95%98%EC%9D%B4%ED%8D%BC-%ED%8C%8C%EC%9A%B4%EB%93%9C%EB%A6%AC-%EC%8B%9C%EC%97%B0/ar-AA2fTBtb",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.IaSd5eTdxCh2cMilzXG5lA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "보건산업진흥원, 의료 AI 글로벌 협력 확대 논의",
-        "summary": "한국보건산업진흥원 (원장 고상백)은 지난 22일 서울 마곡 코엑스 컨벤션센터에서 국제의약품구매기구 (Unitaid)와 공동포럼을 개최하고 의료 AI 기술의 해외 현장 적용과 의료 접근성·형평성 개선 방안을 논의했다.",
-        "source": "의학신문",
-        "publishedAt": "2026-10-23",
-        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014650",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.lgJit72SmsvqcPP_OE25Hw&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
