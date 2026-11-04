@@ -1,5 +1,84 @@
 [
   {
+    "updatedAt": "2026-11-04",
+    "windowStart": "2026-11-02T22:00:00.000Z",
+    "windowEnd": "2026-11-03T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "이기대 경기도의원, ‘사회혁신경제국 조직개편 및 사회연대경제 현안 정담회’ 개최",
+        "summary": "경기도의회 경제노동위원회 이기대 의원 (더불어민주당, 고양9)은 3일 경기도의회 기획재정위원회 소회의실에서 사회연대경제 관계자들 및 시·군 중간지원조직 관계자들과 정담회를 열고, 최근 입법예고된 경기도 조직개편안에 따른 사회혁신경제국 개편 방향과 관련 정책 예산 현안을 집중 논의했다.",
+        "source": "화성저널",
+        "publishedAt": "2026-11-03",
+        "url": "https://www.hsj.co.kr/news/articleView.html?idxno=56852",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.KO_uuPlredy23CiqLPIiiA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "영산조용기자선재단, 법무보호대상자 사회복귀 4천만 원 추가 지원",
+        "summary": "(재)영산조용기자선재단(이사장 윤홍열·김기돈)은 지난 11월 2일, 재단 사무실에서 한국법무보호복지공단 경기북부지부와 함께 법무보호대상자의 안정적 사회복귀와 자립을 위한 2차 지원사업 전달식을 진행했다. 이날 전달식에는 영산조용기자선재단 김기돈 이사장과 조희준 상임이사, 이재원 사무국장, 조형서 학생인턴, 한국법무보호복지공단 경기북부지부 권영호 지부장 ...",
+        "source": "크리스천투데이",
+        "publishedAt": "2026-11-03",
+        "url": "https://www.christiantoday.co.kr/news/378366",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.-SoXXnOsREEEthEF-R0Wwg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "임신 여친 기절시켜 낙태약 주입…\"또 코넬대 한국 남자\" 美 시끌",
+        "summary": "(서울=뉴스1) 김학진 기자 = 미국 육군사관학교에 재학하던 한국계 남성이 임신한 여자 친구에게 몰래 약물을 먹여 의식을 잃게 한 뒤 강제로 낙태약을 투여해 유산시킨 사건이 뒤늦게 알려졌다. 가해자가 사건 이후 코넬대에 입학했다는 사실이 알려지면서 \"또 코넬대 한국 남성이냐?\"는 부정적인 반응들이 나오고 있다. 4일 ...",
+        "source": "뉴스1 on MSN",
+        "publishedAt": "2026-11-04",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%9E%84%EC%8B%A0-%EC%97%AC%EC%B9%9C-%EA%B8%B0%EC%A0%88%EC%8B%9C%EC%BC%9C-%EB%82%99%ED%83%9C%EC%95%BD-%EC%A3%BC%EC%9E%85-%EB%98%90-%EC%BD%94%EB%84%AC%EB%8C%80-%ED%95%9C%EA%B5%AD-%EB%82%A8%EC%9E%90-%E7%BE%8E-%EC%8B%9C%EB%81%8C/ar-AA2gHgxQ",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.-tJGL9jQ0WeKs2SxoQ-L4w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[임기범의 AI 혁신 스토리] 인공지능이 낸 답만 의심할 것인가",
+        "summary": "\"'통제불가 AI 에이전트', 6시간 만에 48개국 395곳 공격\" 지난 9월 한 언론에 실린 기사의 제목이다. 해커가 부리던 인공지능(AI) 에이전트가 명령까지 어겨 가며 세계 곳곳을 공격했다는 내용이다. 6시간, 48개국, 395곳. 숫자도 놀랍지만 '통제 불가'라는 표현이 더 섬뜩하다. AI가 사람의 지시를 듣지 않기 시작했다는 뜻으로 읽히기 때문이다 ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-03",
+        "url": "https://www.yna.co.kr/view/AKR20261104063500371",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.30w3BiSs4j75EYNQaJzmBA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "美 빅테크 투자비 눈덩이…韓 반도체에 ‘겨울’ 올까 [호황의 시계②]",
+        "summary": "미국 정보 기술 대기업(빅테크)이 인공지능(AI)에 천문학적인 자금을 쏟아붓는 가운데 투자비 회수에 대한 의문이 커지고 있다. 미국 중간선거와 빅테크의 투자 속도 조정 가능성이 맞물리면서 2028년 이후 우리나라 반도체 호황이 시험대에 오를 수 있다는 관측이다.‘2029년 완판’ 외친 SK하이닉스…확정계약 밖 물량은 변수4일 반도체 업계에 따르면 SK하이닉 ...",
+        "source": "데일리안 on MSN",
+        "publishedAt": "2026-11-03",
+        "url": "https://www.msn.com/ko-kr/news/other/%E7%BE%8E-%EB%B9%85%ED%85%8C%ED%81%AC-%ED%88%AC%EC%9E%90%EB%B9%84-%EB%88%88%EB%8D%A9%EC%9D%B4-%E9%9F%93-%EB%B0%98%EB%8F%84%EC%B2%B4%EC%97%90-%EA%B2%A8%EC%9A%B8-%EC%98%AC%EA%B9%8C-%ED%98%B8%ED%99%A9%EC%9D%98-%EC%8B%9C%EA%B3%84/ar-AA2gH0bM",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.RZyddOwvmv_cArrc5LodMA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "\"새만금을 피지컬AI·로봇 산업 거점으로\"…국회서 대토론회",
+        "summary": "\"새만금을 피지컬AI·로봇 산업 거점으로\"…국회서 대토론회 도내 국회의원 공동 주최…로봇 팜 팩토리 등 5대 사업 도출 (전주=연합뉴스) 임채두 기자 = 전북의 새만금을 대한민국의 피지컬 인공지능(AI)·로봇 산업 거점으로 키울 방안을 찾는 토론회가 4일 국회..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-11-03",
+        "url": "https://www.fnnews.com/news/202611041028403857",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.vOzGEc024-7e0d8uBCDPhQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "LG AI연구원 ‘저작권 기술 어워드’서 국가지식재산위원장상 수상",
+        "summary": "LG AI연구원이 자체 개발한 AI 컴플라이언스 에이전트 ‘엑사원 넥서스(EXAONE Nexus). [LG 제공] LG AI연구원이 4일 문화체육관광부가 주최한 ‘2026 국제저작권기술 콘퍼런스(ICOTEC)’ 저작권 기술 어워드에서 국가지식재산위원장상을 수상했다. 이번 수상으로 LG AI연구원은 자체 개발한 인공지능(AI) 컴플라이언스 에이전트 ‘엑사원 ...",
+        "source": "매일경제 on MSN",
+        "publishedAt": "2026-11-04",
+        "url": "https://www.msn.com/ko-kr/news/other/lg-ai%EC%97%B0%EA%B5%AC%EC%9B%90-%EC%A0%80%EC%9E%91%EA%B6%8C-%EA%B8%B0%EC%88%A0-%EC%96%B4%EC%9B%8C%EB%93%9C-%EC%84%9C-%EA%B5%AD%EA%B0%80%EC%A7%80%EC%8B%9D%EC%9E%AC%EC%82%B0%EC%9C%84%EC%9B%90%EC%9E%A5%EC%83%81-%EC%88%98%EC%83%81/ar-AA2gHCH0",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.taANSiq9JTZuDMMVaqI0Eg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "전차·전투기 정비 판단도 AI가…정부, 군수 AI 에이전트 개발",
+        "summary": "(세종=연합뉴스) 신창용 기자 = 군수 빅데이터와 인공지능(AI)을 활용해 탱크나 전투기 등 무기체계의 가동 상태를 최상으로 유지하면서도 관리 비용을 아끼는 기술 개발이 본격화된다. 국방부와 산업통상부는 4일 대전컨벤션센터에서 한국항공우주산업(KAI), 육·해·공군, 한국국방연구원, 국방기술품질원 등 관계자 100여명이 참석한 가운데 'RAM-C AI 에이 ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-03",
+        "url": "https://www.yna.co.kr/view/AKR20261104051900003",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.YyXs-NDBn0--HrBHx7ipyg&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-11-03",
     "windowStart": "2026-11-01T22:00:00.000Z",
     "windowEnd": "2026-11-02T22:00:00.000Z",
@@ -515,94 +594,6 @@
         "publishedAt": "2026-10-28",
         "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%8B%9C%EC%9E%A5-%EA%B7%9C%EB%AA%A8-1%EC%A1%B05112%EC%96%B5%EB%8B%AC%EB%9F%AC-ai-%ED%88%AC%EC%9E%90-%EC%88%98%EC%9D%B5%EC%84%B1-%ED%99%95%EB%B3%B4%EA%B0%80-%EA%B4%80%EA%B1%B4/ar-AA2gddFi",
         "imageUrl": "https://www.bing.com/th?id=ONUT.kXyz2KL14sULs37vntWGTA&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-10-28",
-    "windowStart": "2026-10-26T22:00:00.000Z",
-    "windowEnd": "2026-10-27T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "시흥시, 사회연대경제기본법 시행 앞두고 대응 본격화",
-        "summary": "[시흥=뉴시스] 박석희 기자 = 경기 시흥시가 내년 3월 사회연대경제기본법 시행을 앞두고 지역 사회적경제 생태계 정비와 민관 협력체계 구축에 나섰다. 시흥시는 최근 시흥비즈니스센터 컨벤션홀에서 '2026 시흥시 사회적경제 포럼'을 열고 법 시행에 따른 지역 사..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-10-27",
-        "url": "https://www.fnnews.com/news/202610280850240402",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.2oym6thMpPYSAke5r6VawA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "\"입주민 권리\" vs \"5분 우회하라고?\"…단지 내 '통행로 차단' 갈등[이슈N]",
-        "summary": "[서울=뉴시스]이준형 인턴 기자 = 대단지 아파트들이 보안 강화와 시설물 관리를 이유로 단지 내 통행로를 차단하면서 인근 주민과의 갈등이 깊어지고 있다. 입주민의 안전 확보 요구가 인근 주민들의 이동 편의와 충돌하며 지역 사회의 새로운 분쟁 요소로 떠오르는 ..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-10-27",
-        "url": "https://www.fnnews.com/news/202610270700494636",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Zc-mr3pzauppmkbYjml-Bw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "“성공회대·구로구의회·청년이 한자리에”… 성공회대, 구로구 맞춤형 첫 청년정책 간담회 개최",
-        "summary": "성공회대학교 (총장 김경문) 평생학습연구소 청년연구센터는 오는 11월 2일 오후 7시 성공회대학교 새천년관 7107호에서 ‘구로구 청년에게 직접 듣고, 내일의 구로를 그리다’를 주제로 한 제1회 청년정책 간담회를 개최한다고 27일 밝혔다.",
-        "source": "스마트경제",
-        "publishedAt": "2026-10-27",
-        "url": "https://www.dailysmart.co.kr/news/articleView.html?idxno=131573",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.PIWX0PrewzhVXqYv1cSz_w&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "부·울·경 마약류 중독 사회재활 협의체 개최… \"치료와 회복의 안전망 강화\"",
-        "summary": "▲ 한국마약퇴치운동본부 부산지부가 개최한 '2026년 하반기 부·울·경 마약류 중독 사회재활 협의체' 참석자들이 행사 후 기념 촬영을 하며 마약류 중독자 사회 복귀 지원을 위한 의지를 다지고 있다. 한국마약퇴치운동본부 부산지부는 최근 부산시티관광호텔에서 ‘2026년 하반기 부·울·경 마약류 중독 사회재활 협의체’를 개최하고, 지역 사회 내 마약류 중독자들의 ...",
-        "source": "esnews",
-        "publishedAt": "2026-10-27",
-        "url": "https://www.esnews.kr/news/articleView.html?idxno=7028",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.aaJxlXGfZyUc7XdRjYj1Hg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "AI 활용 이끈다…제주도정 인공지능 파트너 118명 선발·운영",
-        "summary": "제주도는 인공지능(AI) 활용을 이끄는 역할을 맡는 '인공지능 파트너' 118명을 선발하고 운영에 나섰다고 27일 밝혔다. 도는 이날 제주문학관 대강당에서 위성곤 제주지사와 도 본청·직속기관·사업소·합의제기관 소속 '인공지능 파트너' 등이 참석한 가운데 발대식을 개최했다. '인공지능 파트너'는 부서 단위의 AI 활용을 이끌고, 업무에서 개선할 과제를 발굴해 ...",
-        "source": "뉴시스 on MSN",
-        "publishedAt": "2026-10-27",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/ai-%ED%99%9C%EC%9A%A9-%EC%9D%B4%EB%81%88%EB%8B%A4-%EC%A0%9C%EC%A3%BC%EB%8F%84%EC%A0%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%8C%8C%ED%8A%B8%EB%84%88-118%EB%AA%85-%EC%84%A0%EB%B0%9C-%EC%9A%B4%EC%98%81/ar-AA2g9tim",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.hUnxuPLNsxt9oTPzeC-6RA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[AI는 지금] 구글, 로봇 훈련할 가상세계 만든다…월드모델 '지니4' 공개",
-        "summary": "(지디넷코리아=김동원 기자)구글 딥마인드가 화면과 소리를 함께 생성하는 인공지능(AI) 모델 '지니4'로 영화·게임 제작과 로봇 훈련 분야 공략에 나선다. 사용자 행동에 반응하는 가상세계를 구현해 촬영이나 개발에 앞서 아이디어를 시험하고 로봇과 AI가 과제를 수행하는 과정을 점검하도록 지원한다.구글 딥마인드는 27일(현지시간) 자사 블로그를 통해 지니4를 ...",
-        "source": "지디넷코리아 on MSN",
-        "publishedAt": "2026-10-28",
-        "url": "https://www.msn.com/ko-kr/news/techandscience/ai%EB%8A%94-%EC%A7%80%EA%B8%88-%EA%B5%AC%EA%B8%80-%EB%A1%9C%EB%B4%87-%ED%9B%88%EB%A0%A8%ED%95%A0-%EA%B0%80%EC%83%81%EC%84%B8%EA%B3%84-%EB%A7%8C%EB%93%A0%EB%8B%A4%EC%9B%94%EB%93%9C%EB%AA%A8%EB%8D%B8-%EC%A7%80%EB%8B%884-%EA%B3%B5%EA%B0%9C/ar-AA2gcx92",
-        "imageUrl": "https://www.bing.com/th?id=ONUT._USWUhL8fGxjdygMRfQj2Q&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "삼정KPMG \"반도체 시장 1조 5000억 달러 전망…AI 투자 수익성 관건\"",
-        "summary": "'AI 시대 반도체 산업이 직면한 6대 이슈' 보고서 발간\"차세대 기술 확보…투자비 회수 가능성 면밀 검토해야\" (서울=뉴스1) 전지아 기자 = 인공지능(AI) 데이터센터 투자 확대로 글로벌 반도체 시장이 빠르게 성장하면서 생산설비 확충에 따른 공급 경쟁과 투자 수익성 확보가 주요 과제로 떠오르고 있다는 분석이 나왔다.",
-        "source": "뉴스1 on MSN",
-        "publishedAt": "2026-10-28",
-        "url": "https://www.msn.com/ko-kr/news/living/%EC%82%BC%EC%A0%95kpmg-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%8B%9C%EC%9E%A5-1%EC%A1%B0-5000%EC%96%B5-%EB%8B%AC%EB%9F%AC-%EC%A0%84%EB%A7%9D-ai-%ED%88%AC%EC%9E%90-%EC%88%98%EC%9D%B5%EC%84%B1-%EA%B4%80%EA%B1%B4/ar-AA2gcWtU",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.wbygjIYIyInetSWZyVTA4g&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "삼정KPMG \"AI 투자 수익성 확보가 관건\"",
-        "summary": "[이데일리 권오석 기자] 인공지능(AI) 데이터센터를 향한 투자가 폭발하면서 글로벌 반도체 시장이 가파른 상승세를 타고 있지만, 설비 증설에 따른 공급 경쟁과 미·중 기술 패권 다툼, 막대한 투재에 따른 수익성 부담이 반도체 업계의 핵심 과제로 대두되고 있다. (사진=삼정KPMG) 삼정KPMG는 28일 ‘AI 시대 반도체 산업이 직면한 6대 이슈’ 보고서를 ...",
-        "source": "이데일리 on MSN",
-        "publishedAt": "2026-10-28",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%82%BC%EC%A0%95kpmg-ai-%ED%88%AC%EC%9E%90-%EC%88%98%EC%9D%B5%EC%84%B1-%ED%99%95%EB%B3%B4%EA%B0%80-%EA%B4%80%EA%B1%B4/ar-AA2gcW3W",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.9bvQ8NlJv8pDwOYUmLz1GQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[10/27]AI·반도체 뉴스 요약｜Anthropic 상장 신청과 반도체주의 명암",
-        "summary": "오늘 가장 큰 화제는 Claude를 개발하는 Anthropic이 드디어 상장 신청 서류를 공개했다는 점입니다. 한편 도쿄 시장은 반도체주가 매도되고, 미국에서는 반대로 매수세가 유입되는 등 '일미 간의 온도 차'도 보였습니다. Meta의 거액 조달부터 Rapidus의 새로운 제휴까지, 한꺼번에 확인해 보겠습니다.1. Anthropic이 상장 신청 서류(S- ...",
-        "source": "note",
-        "publishedAt": "2026-10-27",
-        "url": "https://note.com/good_crocus9582/n/na7dc36157322?hl=ko",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.IEUloLESdmHxTGDjWxVgYg&pid=News&w=1200&h=675&c=14"
       }
     ]
   }

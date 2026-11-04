@@ -1,97 +1,79 @@
 {
-  "updatedAt": "2026-11-03",
-  "windowStart": "2026-11-01T22:00:00.000Z",
-  "windowEnd": "2026-11-02T22:00:00.000Z",
+  "updatedAt": "2026-11-04",
+  "windowStart": "2026-11-02T22:00:00.000Z",
+  "windowEnd": "2026-11-03T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "안산시 상상스테이션 ‘사회이슈 대응을 위한 창의적 해결방안 지원사업’ 공모 선정",
-      "summary": "안산시가 지난해 고잔역 인근에 조성한 청년문화공간인 ‘상상스테이션’이 사회복지공동모금회가 주관하는 ‘사회이슈 대응을 위한 창의적 해결방안 지원사업’ 공모에 선정됐습니다. 선정된 사업은 ‘이주배경 청년 주도의 지역사회 관계망 형성을 위한 문화예술 커뮤니티 프로젝트’로, 안산시는 이번 선정으로 지원받게 되는 9천700만 원의 사업비를 활용해 이주배경 청년들과 ...",
-      "source": "news.skbroadband",
-      "publishedAt": "2026-11-02",
-      "url": "https://news.skbroadband.com/news/articleView.html?idxno=242050",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.o0Ixo5CqHRFQHA87yUfrDQ&pid=News&w=1200&h=675&c=14"
+      "title": "이기대 경기도의원, ‘사회혁신경제국 조직개편 및 사회연대경제 현안 정담회’ 개최",
+      "summary": "경기도의회 경제노동위원회 이기대 의원 (더불어민주당, 고양9)은 3일 경기도의회 기획재정위원회 소회의실에서 사회연대경제 관계자들 및 시·군 중간지원조직 관계자들과 정담회를 열고, 최근 입법예고된 경기도 조직개편안에 따른 사회혁신경제국 개편 방향과 관련 정책 예산 현안을 집중 논의했다.",
+      "source": "화성저널",
+      "publishedAt": "2026-11-03",
+      "url": "https://www.hsj.co.kr/news/articleView.html?idxno=56852",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.KO_uuPlredy23CiqLPIiiA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "한국거래소, 지역사회 소통하며 국내외 사회공헌",
-      "summary": "한국거래소가 지역사회와 협력하며 아동 복지사업부터 해외 의료봉사까지 국내외에서 사회공헌 활동을 이어가고 있다.◇ 부산에 놀이터 20곳 조성한 KRX한국거래소는 지난 10월 1일 부산광역시 연제구 거제동에서 'KRX 통통꿈놀이터' 20호 완공식을 열었다. 행사에는 KRX국민행복재단 정상호 사무국장과 어린이재단 여승수 사무총장, 부산시 및 연제구 관계자, 인근 ...",
-      "source": "스트레이트뉴스",
-      "publishedAt": "2026-11-02",
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314421",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.FlS-3DHNaiQXF-3eAEuIfw&pid=News&w=1200&h=675&c=14"
+      "title": "영산조용기자선재단, 법무보호대상자 사회복귀 4천만 원 추가 지원",
+      "summary": "(재)영산조용기자선재단(이사장 윤홍열·김기돈)은 지난 11월 2일, 재단 사무실에서 한국법무보호복지공단 경기북부지부와 함께 법무보호대상자의 안정적 사회복귀와 자립을 위한 2차 지원사업 전달식을 진행했다. 이날 전달식에는 영산조용기자선재단 김기돈 이사장과 조희준 상임이사, 이재원 사무국장, 조형서 학생인턴, 한국법무보호복지공단 경기북부지부 권영호 지부장 ...",
+      "source": "크리스천투데이",
+      "publishedAt": "2026-11-03",
+      "url": "https://www.christiantoday.co.kr/news/378366",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-SoXXnOsREEEthEF-R0Wwg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "‘2027학년도 수시모집 면접 대비’ 시사 이슈 살펴보기 ⑤: 정치·법·사회적 권리",
-      "summary": "수시모집 대학별 면접이 본격화하면서 시사 이슈에 대한 수험생들의 관심도 높아지고 있다. 올해는 인공지능(AI)을 비롯해 의료개혁과 지역의사제, 저출생·고령화, 청년 일자리, 기후위기, 반도체 산업, 국제질서와 통상 변화 등 교육·사회·경제 전반의 굵 ...",
-      "source": "조선에듀 on MSN",
-      "publishedAt": "2026-10-21",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/2027%ED%95%99%EB%85%84%EB%8F%84-%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91-%EB%A9%B4%EC%A0%91-%EB%8C%80%EB%B9%84-%EC%8B%9C%EC%82%AC-%EC%9D%B4%EC%8A%88-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-%EC%A0%95%EC%B9%98-%EB%B2%95-%EC%82%AC%ED%9A%8C%EC%A0%81-%EA%B6%8C%EB%A6%AC/ar-AA2fIDPu",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.DvfXUOco7ry3Uag-LurtSg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[박준규의 이슈언박싱] 대만 \"中 선거개입 100건 추적\"…”설마 우리도?” 한국 2030 반응은",
-      "summary": "대만 정보당국이 중국의 선거개입 의혹 사건 100여 건을 추적하고 있다고 밝히면서, 국내 온라인 커뮤니티에서도 관심이 뜨겁습니다. 젊은 층이 주로 이용하는 커뮤니티에서는 \"우리나라도 예외가 아닐 것\"이라는 경계의 목소리가 쏟아졌습니다. 반면 \"대만 집권당의 정치적 쇼일 수 있다\"거나 \"의심만으로 단정해선 안 된다\"는 반론도 함께 나왔습니다.",
-      "source": "펜앤드마이크",
-      "publishedAt": "2026-10-24",
-      "url": "https://www.pennmike.com/news/articleView.html?idxno=130207",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.P-3u81kbOh0MI6lYOQYunQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[가리사니] 죽어야만 영웅이 되는 사회",
-      "summary": "개인의 희생에 안전을 기대는 사회가 아니라 임무를 마치고 무사히 퇴근하는 사회가 돼야 2022년 1월 경기도 평택 냉동창고 화재 현장에서 이형석 소방경과 박수동 소방장, 조우찬 소방교가 순직했다. 당시 이들은 큰불을 진압한 뒤 마지막 인명 수색을 위해 현장에 투입됐다가 ...",
-      "source": "국민일보",
-      "publishedAt": "2026-10-26",
-      "url": "https://www.kmib.co.kr/article/20261025501577",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.5BO034nDkr5ozLvTYuVMXg&pid=News&w=1200&h=675&c=14"
+      "title": "임신 여친 기절시켜 낙태약 주입…\"또 코넬대 한국 남자\" 美 시끌",
+      "summary": "(서울=뉴스1) 김학진 기자 = 미국 육군사관학교에 재학하던 한국계 남성이 임신한 여자 친구에게 몰래 약물을 먹여 의식을 잃게 한 뒤 강제로 낙태약을 투여해 유산시킨 사건이 뒤늦게 알려졌다. 가해자가 사건 이후 코넬대에 입학했다는 사실이 알려지면서 \"또 코넬대 한국 남성이냐?\"는 부정적인 반응들이 나오고 있다. 4일 ...",
+      "source": "뉴스1 on MSN",
+      "publishedAt": "2026-11-04",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%9E%84%EC%8B%A0-%EC%97%AC%EC%B9%9C-%EA%B8%B0%EC%A0%88%EC%8B%9C%EC%BC%9C-%EB%82%99%ED%83%9C%EC%95%BD-%EC%A3%BC%EC%9E%85-%EB%98%90-%EC%BD%94%EB%84%AC%EB%8C%80-%ED%95%9C%EA%B5%AD-%EB%82%A8%EC%9E%90-%E7%BE%8E-%EC%8B%9C%EB%81%8C/ar-AA2gHgxQ",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-tJGL9jQ0WeKs2SxoQ-L4w&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "울산항만공사, 인공지능 경영 관리체계 구축 착수",
-      "summary": "울산항만공사가 경영 전반에 인공지능(AI) 기술 도입을 넘어 이를 안전하고 윤리적으로 관리하는 'AI 경영 관리체계' 구축에 나섰다. 울산항만공사는 최근 AI 경영시스템(ISO/IEC 42001) 인증심사원 양성과정에 참여한 내부 직원 2명이 강도 높은 교육과 시험을 거쳐 국제 인증심사원 자격을 최종 획득했다고 2일 밝혔다. ISO/IEC 42001은 AI ...",
-      "source": "뉴시스 on MSN",
-      "publishedAt": "2026-11-02",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%9A%B8%EC%82%B0%ED%95%AD%EB%A7%8C%EA%B3%B5%EC%82%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B2%BD%EC%98%81-%EA%B4%80%EB%A6%AC%EC%B2%B4%EA%B3%84-%EA%B5%AC%EC%B6%95-%EC%B0%A9%EC%88%98/ar-AA2gyZ38",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.EbbwApS52-mbEF6WMQcBWg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "삼성SDS, 구미 AI 데이터센터 착공…60MW급 2029년 가동 목표(종합)",
-      "summary": "이날 행사는 올해 1월 세계 최대 정보기술 (IT)·가전 전시회인 CES 2026현장에서 경북도·구미시·삼성SDS가 구미 국가산업단지에 AI 데이터센터 건립을 위한 투자 양해각서를 체결한 이후 본격적인 사업에 들어가는 자리다.",
+      "title": "[임기범의 AI 혁신 스토리] 인공지능이 낸 답만 의심할 것인가",
+      "summary": "\"'통제불가 AI 에이전트', 6시간 만에 48개국 395곳 공격\" 지난 9월 한 언론에 실린 기사의 제목이다. 해커가 부리던 인공지능(AI) 에이전트가 명령까지 어겨 가며 세계 곳곳을 공격했다는 내용이다. 6시간, 48개국, 395곳. 숫자도 놀랍지만 '통제 불가'라는 표현이 더 섬뜩하다. AI가 사람의 지시를 듣지 않기 시작했다는 뜻으로 읽히기 때문이다 ...",
       "source": "연합뉴스",
-      "publishedAt": "2026-11-02",
-      "url": "https://www.yna.co.kr/view/AKR20261102107951053",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.0a59JjSQ5VURJhk3dp8GWQ&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-11-03",
+      "url": "https://www.yna.co.kr/view/AKR20261104063500371",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.30w3BiSs4j75EYNQaJzmBA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "삼성SDS 구미 AI 데이터센터 첫 삽… 60MW급 2029년 가동 목표",
-      "summary": "생성형 AI와 클라우드 수요 대응…지역경제 파급효과도 기대 (구미=연합뉴스) 김현태 기자 = 삼성SDS 구미 AI 데이터센터 기공식이 2일 경북 구미시 공단동 옛 삼성전자 1캠퍼스 부지에서 열렸다. 기공식에는 이철우 경북도지사, 김장호 구미시장, 이준희 삼성SDS 대표이사, 지형근 삼성물산 부사장과 구자근·강명구 ...",
-      "source": "연합뉴스 on MSN",
-      "publishedAt": "2026-11-02",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%82%BC%EC%84%B1sds-%EA%B5%AC%EB%AF%B8-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%B2%AB-%EC%82%BD-60mw%EA%B8%89-2029%EB%85%84-%EA%B0%80%EB%8F%99-%EB%AA%A9%ED%91%9C/ar-AA2gycGj",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Chlcf3haVhMz-PFgreDlXA&pid=News&w=1200&h=675&c=14"
+      "title": "美 빅테크 투자비 눈덩이…韓 반도체에 ‘겨울’ 올까 [호황의 시계②]",
+      "summary": "미국 정보 기술 대기업(빅테크)이 인공지능(AI)에 천문학적인 자금을 쏟아붓는 가운데 투자비 회수에 대한 의문이 커지고 있다. 미국 중간선거와 빅테크의 투자 속도 조정 가능성이 맞물리면서 2028년 이후 우리나라 반도체 호황이 시험대에 오를 수 있다는 관측이다.‘2029년 완판’ 외친 SK하이닉스…확정계약 밖 물량은 변수4일 반도체 업계에 따르면 SK하이닉 ...",
+      "source": "데일리안 on MSN",
+      "publishedAt": "2026-11-03",
+      "url": "https://www.msn.com/ko-kr/news/other/%E7%BE%8E-%EB%B9%85%ED%85%8C%ED%81%AC-%ED%88%AC%EC%9E%90%EB%B9%84-%EB%88%88%EB%8D%A9%EC%9D%B4-%E9%9F%93-%EB%B0%98%EB%8F%84%EC%B2%B4%EC%97%90-%EA%B2%A8%EC%9A%B8-%EC%98%AC%EA%B9%8C-%ED%98%B8%ED%99%A9%EC%9D%98-%EC%8B%9C%EA%B3%84/ar-AA2gH0bM",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.RZyddOwvmv_cArrc5LodMA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "삼성SDS 구미 AI 데이터센터 착공…2029년 3월 가동 목표",
-      "summary": "[경북=이데일리 홍석천 기자] 삼성SDS가 구미에 AI 전용 데이터센터를 짓는다. 전자·반도체 제조 기반이 집적된 구미에 AI·클라우드 인프라를 구축하는 사업으로, 2028년 12월 준공과 2029년 3월 가동이 목표다. 경북도와 구미시는 2일 구미시 공단동 옛 삼성전자 구미1사업장 부지에서 데이터센터 기공식을 개최했다.",
-      "source": "이데일리 on MSN",
-      "publishedAt": "2026-11-02",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%82%BC%EC%84%B1sds-%EA%B5%AC%EB%AF%B8-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%B0%A9%EA%B3%B5-2029%EB%85%84-3%EC%9B%94-%EA%B0%80%EB%8F%99-%EB%AA%A9%ED%91%9C/ar-AA2gA3Lq",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.EY_HJwcHaYBNPjNaAuMOzA&pid=News&w=1200&h=675&c=14"
+      "title": "\"새만금을 피지컬AI·로봇 산업 거점으로\"…국회서 대토론회",
+      "summary": "\"새만금을 피지컬AI·로봇 산업 거점으로\"…국회서 대토론회 도내 국회의원 공동 주최…로봇 팜 팩토리 등 5대 사업 도출 (전주=연합뉴스) 임채두 기자 = 전북의 새만금을 대한민국의 피지컬 인공지능(AI)·로봇 산업 거점으로 키울 방안을 찾는 토론회가 4일 국회..",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-11-03",
+      "url": "https://www.fnnews.com/news/202611041028403857",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.vOzGEc024-7e0d8uBCDPhQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "삼성, 60조 영남권 투자 첫삽 떴다…구미 AI데이터센터 2028년 준공",
-      "summary": "삼성이 영남권에 60조원을 투자해 ‘글로벌 피지컬 인공지능 (AI) 혁신 클러스터’를 구축하는 계획이 실행에 들어갔다. 삼성SDS가 경북 구미에서 초기 60㎿, 최대 120㎿ 규모의 AI 전용 데이터센터 건립에 나서면서다. 제조 현장의 로봇 AI 학습에 필요한 대규모 연산 인프라를 구축해 영남권 제조업의 AI 전환을 뒷받침한다는 구상이다. 2025.04 경 ...",
-      "source": "매일경제",
-      "publishedAt": "2026-11-02",
-      "url": "https://www.mk.co.kr/news/it/12194009",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ButetZre_2o8riGZWJziWQ&pid=News&w=1200&h=675&c=14"
+      "title": "LG AI연구원 ‘저작권 기술 어워드’서 국가지식재산위원장상 수상",
+      "summary": "LG AI연구원이 자체 개발한 AI 컴플라이언스 에이전트 ‘엑사원 넥서스(EXAONE Nexus). [LG 제공] LG AI연구원이 4일 문화체육관광부가 주최한 ‘2026 국제저작권기술 콘퍼런스(ICOTEC)’ 저작권 기술 어워드에서 국가지식재산위원장상을 수상했다. 이번 수상으로 LG AI연구원은 자체 개발한 인공지능(AI) 컴플라이언스 에이전트 ‘엑사원 ...",
+      "source": "매일경제 on MSN",
+      "publishedAt": "2026-11-04",
+      "url": "https://www.msn.com/ko-kr/news/other/lg-ai%EC%97%B0%EA%B5%AC%EC%9B%90-%EC%A0%80%EC%9E%91%EA%B6%8C-%EA%B8%B0%EC%88%A0-%EC%96%B4%EC%9B%8C%EB%93%9C-%EC%84%9C-%EA%B5%AD%EA%B0%80%EC%A7%80%EC%8B%9D%EC%9E%AC%EC%82%B0%EC%9C%84%EC%9B%90%EC%9E%A5%EC%83%81-%EC%88%98%EC%83%81/ar-AA2gHCH0",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.taANSiq9JTZuDMMVaqI0Eg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "전차·전투기 정비 판단도 AI가…정부, 군수 AI 에이전트 개발",
+      "summary": "(세종=연합뉴스) 신창용 기자 = 군수 빅데이터와 인공지능(AI)을 활용해 탱크나 전투기 등 무기체계의 가동 상태를 최상으로 유지하면서도 관리 비용을 아끼는 기술 개발이 본격화된다. 국방부와 산업통상부는 4일 대전컨벤션센터에서 한국항공우주산업(KAI), 육·해·공군, 한국국방연구원, 국방기술품질원 등 관계자 100여명이 참석한 가운데 'RAM-C AI 에이 ...",
+      "source": "연합뉴스",
+      "publishedAt": "2026-11-03",
+      "url": "https://www.yna.co.kr/view/AKR20261104051900003",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.YyXs-NDBn0--HrBHx7ipyg&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
