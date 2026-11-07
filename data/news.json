@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-11-06",
-  "windowStart": "2026-11-04T22:00:00.000Z",
-  "windowEnd": "2026-11-05T22:00:00.000Z",
+  "updatedAt": "2026-11-07",
+  "windowStart": "2026-11-05T22:00:00.000Z",
+  "windowEnd": "2026-11-06T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "OECD 교육국장 \"한국, 교육과정보다 대입시험 바꾸는 게 중요\"",
-      "summary": "(서울=연합뉴스) 오보람 기자 = 한국 학생들의 사회정서적 역량을 키우려면 교육과정을 개편하는 것보다 대학 입학시험을 바꾸는 게 중요하다는 경제협력개발기구 (OECD) 교육·기술국장의 제언이 나왔다.",
-      "source": "연합뉴스",
-      "publishedAt": "2026-11-05",
-      "url": "https://www.yna.co.kr/view/AKR20261105123100530",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.6oNS6eKOFt-2tuBBDiJOeA&pid=News&w=1200&h=675&c=14"
+      "title": "태극기 올려 '한국 1위' 자랑한 머스크, 정작 테슬라 등록은 전달대비 급감",
+      "summary": "[파이낸셜뉴스] 일론 머스크 테슬라 최고경영자(CEO)가 태극기에 테슬라 로고를 합성한 이미지를 사회관계망서비스(SNS)에 공유하며 한국 수입차 시장 1위를 자축했다. 그러나 테슬라의 10월 국내 신규 등록대수는 전달보다 26% 가까이 급감하면서 월 등록대수는 지난 2월 이후 처음으로 1만대 아래로 내려갔다. 6일 업계에 따르면 머스크는 전날 자신의 엑스( ...",
+      "source": "파이낸셜뉴스 on MSN",
+      "publishedAt": "2026-11-06",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%83%9C%EA%B7%B9%EA%B8%B0-%EC%98%AC%EB%A0%A4-%ED%95%9C%EA%B5%AD-1%EC%9C%84-%EC%9E%90%EB%9E%91%ED%95%9C-%EB%A8%B8%EC%8A%A4%ED%81%AC-%EC%A0%95%EC%9E%91-%ED%85%8C%EC%8A%AC%EB%9D%BC-%EB%93%B1%EB%A1%9D%EC%9D%80-%EC%A0%84%EB%8B%AC%EB%8C%80%EB%B9%84-%EA%B8%89%EA%B0%90/ar-AA2gTHmU",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.FFvIhNqa04e2_6wPXUClJw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "안산시 상상스테이션 ‘사회이슈 대응을 위한 창의적 해결방안 지원사업’ 공모 선정",
-      "summary": "안산시가 지난해 고잔역 인근에 조성한 청년문화공간인 ‘상상스테이션’이 사회복지공동모금회가 주관하는 ‘사회이슈 대응을 위한 창의적 해결방안 지원사업’ 공모에 선정됐습니다. 선정된 사업은 ‘이주배경 청년 주도의 지역사회 관계망 형성을 위한 문화예술 커뮤니티 프로젝트’로, 안산시는 이번 선정으로 지원받게 되는 9천700만 원의 사업비를 활용해 이주배경 청년들과 ...",
-      "source": "news.skbroadband",
-      "publishedAt": "2026-11-02",
-      "url": "https://news.skbroadband.com/news/articleView.html?idxno=242050",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.o0Ixo5CqHRFQHA87yUfrDQ&pid=News&w=1200&h=675&c=14"
+      "title": "[박준규의 이슈언박싱] 대만 \"中 선거개입 100건 추적\"…”설마 우리도?” 한국 2030 반응은",
+      "summary": "대만 정보당국이 중국의 선거개입 의혹 사건 100여 건을 추적하고 있다고 밝히면서, 국내 온라인 커뮤니티에서도 관심이 뜨겁습니다. 젊은 층이 주로 이용하는 커뮤니티에서는 \"우리나라도 예외가 아닐 것\"이라는 경계의 목소리가 쏟아졌습니다. 반면 \"대만 집권당의 정치적 쇼일 수 있다\"거나 \"의심만으로 단정해선 안 된다\"는 반론도 함께 나왔습니다.",
+      "source": "펜앤드마이크",
+      "publishedAt": "2026-10-24",
+      "url": "https://www.pennmike.com/news/articleView.html?idxno=130207",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.P-3u81kbOh0MI6lYOQYunQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -32,66 +32,66 @@
     },
     {
       "category": "society",
-      "title": "“대입 면접서 시사 이슈 나오면?”…상식 암기보다 중요한 4단계 답변법",
-      "summary": "대학수학능력시험이 한 달 앞으로 다가온 가운데 수시모집 대학별 면접도 이어지고 있다. 면접을 준비하는 수험생이라면 최근 사회적 쟁점을 어디까지 공부해야 할지 고민하기 쉽다.대입 면접에서 시사 이슈가 그대로 ‘상식 문제’처럼 출제되는 경우는 많지 않다 ...",
-      "source": "조선에듀 on MSN",
-      "publishedAt": "2026-10-21",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%8C%80%EC%9E%85-%EB%A9%B4%EC%A0%91%EC%84%9C-%EC%8B%9C%EC%82%AC-%EC%9D%B4%EC%8A%88-%EB%82%98%EC%98%A4%EB%A9%B4-%EC%83%81%EC%8B%9D-%EC%95%94%EA%B8%B0%EB%B3%B4%EB%8B%A4-%EC%A4%91%EC%9A%94%ED%95%9C-4%EB%8B%A8%EA%B3%84-%EB%8B%B5%EB%B3%80%EB%B2%95/ar-AA2fHW7J",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.oDf2YXBRCFtbazMnakQMsg&pid=News&w=1200&h=675&c=14"
+      "title": "안산시 상상스테이션 ‘사회이슈 대응을 위한 창의적 해결방안 지원사업’ 공모 선정",
+      "summary": "안산시가 지난해 고잔역 인근에 조성한 청년문화공간인 ‘상상스테이션’이 사회복지공동모금회가 주관하는 ‘사회이슈 대응을 위한 창의적 해결방안 지원사업’ 공모에 선정됐습니다. 선정된 사업은 ‘이주배경 청년 주도의 지역사회 관계망 형성을 위한 문화예술 커뮤니티 프로젝트’로, 안산시는 이번 선정으로 지원받게 되는 9천700만 원의 사업비를 활용해 이주배경 청년들과 ...",
+      "source": "news.skbroadband",
+      "publishedAt": "2026-11-02",
+      "url": "https://news.skbroadband.com/news/articleView.html?idxno=242050",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.o0Ixo5CqHRFQHA87yUfrDQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "이 대통령 “출산 장려만으론 안 된다”…노동·주거까지 인구정책 뜯어고친다",
-      "summary": "이재명 대통령이 저출생·고령화 대응을 위해 지난 20년간 막대한 재정을 투입하고도 인구 문제가 해결되지 않았다며 국가 시스템 전반을 재설계하겠다고 밝혔다. 출산율과 인구 규모를 늘리는 데 초점을 맞춘 기존 정책에서 벗어나 노동·주거·복지·보육을 아우르는 인구정책 대전환을 추진하겠다는 구상이다. 이 대통령은 14일 청와대에서 열린 ‘국민주권 정부 인구전략 비 ...",
-      "source": "매일경제",
-      "publishedAt": "2026-10-14",
-      "url": "https://www.mk.co.kr/news/politics/12175657",
-      "imageUrl": "https://www.bing.com/th?id=ONUT._p6fdOoduDXGWLe9uJfuKw&pid=News&w=1200&h=675&c=14"
+      "title": "\"입주민 권리\" vs \"5분 우회하라고?\"…단지 내 '통행로 차단' 갈등[이슈N]",
+      "summary": "[서울=뉴시스]이준형 인턴 기자 = 대단지 아파트들이 보안 강화와 시설물 관리를 이유로 단지 내 통행로를 차단하면서 인근 주민과의 갈등이 깊어지고 있다. 입주민의 안전 확보 요구가 인근 주민들의 이동 편의와 충돌하며 지역 사회의 새로운 분쟁 요소로 떠오르는 ..",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-10-27",
+      "url": "https://www.fnnews.com/news/202610270700494636",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Zc-mr3pzauppmkbYjml-Bw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "인공지능 시대, '인문지능'을 묻다…'2026 인문문화축제'",
-      "summary": "[헤럴드경제=김현경 기자] 인공지능(AI)의 시대에 ‘인문지능’을 묻는 축제가 열린다. 문화체육관광부와 한국문화예술교육진흥원은 6~8일 서울 마포구 레이어스튜디오11에서 ‘2026 인문문화축제’를 개최한다. 올해 축제 주제는 ‘인문지능’이다. 인문지능’은 나를 돌아보고, 타인을 이해하며, 삶의 방향을 스스로 선택하는 힘을 뜻한다. 축제는 ▷사유와 판단을 다 ...",
-      "source": "헤럴드경제 on MSN",
+      "title": "2026 인문문화축제 개막… 인공지능 시대 인간다움의 가치 조명",
+      "summary": "문화체육관광부(장관 최휘영)와 한국문화예술교육진흥원(원장 임진택)이 공동으로 마련한 ‘2026 인문문화축제’가 6일 서울 마포구 레이어스튜디오11에서 개막했다. 올해 3회째를 맞은 인문문화축제는 ‘인문지능’을 주제로 오는 ...",
+      "source": "디지털타임스 on MSN",
       "publishedAt": "2026-11-06",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%8B%9C%EB%8C%80-%EC%9D%B8%EB%AC%B8%EC%A7%80%EB%8A%A5-%EC%9D%84-%EB%AC%BB%EB%8B%A4-2026-%EC%9D%B8%EB%AC%B8%EB%AC%B8%ED%99%94%EC%B6%95%EC%A0%9C/ar-AA2gQp9a",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.sBh1ZP1euTLDaU4wisIlBg&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/news/other/2026-%EC%9D%B8%EB%AC%B8%EB%AC%B8%ED%99%94%EC%B6%95%EC%A0%9C-%EA%B0%9C%EB%A7%89-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%8B%9C%EB%8C%80-%EC%9D%B8%EA%B0%84%EB%8B%A4%EC%9B%80%EC%9D%98-%EA%B0%80%EC%B9%98-%EC%A1%B0%EB%AA%85/ar-AA2gSaZ9",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.7pGzVJ9iZbDy0lBGNlRqbA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "솔루엠, 글로벌 전력반도체 선도기업 인피니언과 AI 데이터센터 전력 협력 강화",
-      "summary": "솔루엠(대표 전성호)이 글로벌 전력반도체 선도기업인 독일 인피니언 테크놀로지스(이하 인피니언)와 손잡고 AI 데이터센터 전력 솔루션 경쟁력 강화에 나선다. 솔루엠은 5일 경기도 용인 솔스퀘어에서 인피니언과 AI 데이터센터용 고전압 직류(HVDC) 전력 솔루션 협력 강화를 위한 양해각서를 체결했다고 밝혔다. 양사는 기존 기술 협력을 바탕으로 IBC(중간 버스 ...",
-      "source": "전자신문 on MSN",
-      "publishedAt": "2026-11-05",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%86%94%EB%A3%A8%EC%97%A0-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%A0%84%EB%A0%A5%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85-%EC%9D%B8%ED%94%BC%EB%8B%88%EC%96%B8%EA%B3%BC-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%A0%84%EB%A0%A5-%ED%98%91%EB%A0%A5-%EA%B0%95%ED%99%94/ar-AA2gN7Mb",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.nCScFqUqYAJn9Q8rUODakA&pid=News&w=1200&h=675&c=14"
+      "title": "미 중간선거 쟁점된 데이터센터…버터도 안녹는 국산 AI칩 주목",
+      "summary": "CNBC, 데이터센터 물·전력 부담 조명…딥엑스 저발열 기술 소개 김녹원 대표 인터뷰·버터 실험 영상으로 반도체 발열 비교 (서울=연합뉴스) 한상용 기자 = 미국 중간선거에서 인공지능(AI) 데이터센터 건립 문제가 지역사회 쟁점으로 떠오른 가운데 전력과 냉각에 필요한 물 부담을 줄일 기술적 대안으로 국산 저발열 AI ...",
+      "source": "연합뉴스 on MSN",
+      "publishedAt": "2026-11-06",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85/%EB%AF%B8-%EC%A4%91%EA%B0%84%EC%84%A0%EA%B1%B0-%EC%9F%81%EC%A0%90%EB%90%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EB%B2%84%ED%84%B0%EB%8F%84-%EC%95%88%EB%85%B9%EB%8A%94-%EA%B5%AD%EC%82%B0-ai%EC%B9%A9-%EC%A3%BC%EB%AA%A9/ar-AA2gSh0c",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.kCV477n4XvNfy157RLsltA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "솔루엠, 인피니언과 AI 데이터센터 전력 기술 협력 강화",
-      "summary": "솔루엠(대표 전성호)이 독일 전력반도체 기업 인피니언 테크놀로지스(이하 인피니언)와 인공지능(AI) 데이터센터용 전력 솔루션 개발을 위한 기술 협력을 강화한다. 솔루엠은 5일 경기도 용인 솔스퀘어에서 인피니언과 AI 데이터센터용 고전압 직류(HVDC) 전력 솔루션 개발 협력을 위한 양해각서(MOU)를 체결했다고 밝혔다. 양사는 기존 협력 관계를 바탕으로 I ...",
-      "source": "헤럴드경제 on MSN",
-      "publishedAt": "2026-11-05",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%86%94%EB%A3%A8%EC%97%A0-%EC%9D%B8%ED%94%BC%EB%8B%88%EC%96%B8%EA%B3%BC-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%A0%84%EB%A0%A5-%EA%B8%B0%EC%88%A0-%ED%98%91%EB%A0%A5-%EA%B0%95%ED%99%94/ar-AA2gMQhA",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.08Xb-JWLZrx29koH4Q-DCQ&pid=News&w=1200&h=675&c=14"
+      "title": "도민 일상 파고든 인공지능⋯ 충남도, 전국 첫 AI 기본사회 선언",
+      "summary": "[아시아타임즈 충청취재본부=손봉환 기자]충남도가 인공지능(AI)을 도민들의 안방과 동네 어귀까지 끌어들인다. 단순히 첨단 기술을 행정에 도입하는 수준을 넘어, 220만 도민 누구나 나이나 사는 곳에 구애받지 않고 AI 혜택을 일상처럼 누리는 '사람 중심 충남 AI 기본 ...",
+      "source": "아시아타임즈",
+      "publishedAt": "2008-07-16",
+      "url": "https://www.asiatime.co.kr/article/20261104500046",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.uS6xC9lEGbNDPLHSvLOS4A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "솔루엠, 인피니언과 AI 데이터센터 전력 솔루션 협력 확대",
-      "summary": "(왼쪽부터) 전성호 솔루엠 대표이사, 아담 화이트 인피니언 파워 시스템 사장솔루엠이 독일 전력반도체 기업 인피니언 테크놀로지스와 손잡고 ...",
-      "source": "아시아투데이 on MSN",
-      "publishedAt": "2026-11-05",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%86%94%EB%A3%A8%EC%97%A0-%EC%9D%B8%ED%94%BC%EB%8B%88%EC%96%B8%EA%B3%BC-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%A0%84%EB%A0%A5-%EC%86%94%EB%A3%A8%EC%85%98-%ED%98%91%EB%A0%A5-%ED%99%95%EB%8C%80/ar-AA2gNx2X",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.3k7TPGZt5DRV4JhHDlrmhg&pid=News&w=1200&h=675&c=14"
+      "title": "'인공지능 시대, 질문하는 인문학'…제21회 인문주간 개최",
+      "summary": "인문주간 행사는 인문학 대중화와 인문학 관련 연구 성과의 확산을 위해 2006년부터 매년 10월 마지막 주에 개최된다. 올해는 전국 18개 인문학 관련 기관과 함께 시민들이 직접 참여할 수 있는 190여개의 다양한 프로그램을 운영한다. 주제는 '인공지능 (AI) 시대, 질문하는 인문학'이다.",
+      "source": "연합뉴스",
+      "publishedAt": "2026-10-25",
+      "url": "https://www.yna.co.kr/view/AKR20261023165600530",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.tCW9XFZCkehLyJzpMhnr2A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "인피니언, AI 데이터센터 전력 시장 정조준⋯ 韓 기업과 협력 확대",
-      "summary": "인공지능(AI) 확산으로 데이터센터의 전력 수요가 급증하면서 전력 효율과 안정성을 높이기 위한 전력 반도체 기술의 중요성이 커지고 있다. 독일 반도체 기업 인피니언 테크놀로지스는 고전압 직류(HVDC) 기반 전력 아키텍처와 반도체 기반 차단기 등을 앞세워 AI 데이터센터 전력 시장 공략에 나선다. 인피니언은 5일 서울 강남구 글라스타워에서 ‘AI 시대의 전 ...",
-      "source": "브릿지경제 on MSN",
-      "publishedAt": "2026-11-05",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B8%ED%94%BC%EB%8B%88%EC%96%B8-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%A0%84%EB%A0%A5-%EC%8B%9C%EC%9E%A5-%EC%A0%95%EC%A1%B0%EC%A4%80-%E9%9F%93-%EA%B8%B0%EC%97%85%EA%B3%BC-%ED%98%91%EB%A0%A5-%ED%99%95%EB%8C%80/ar-AA2gNrN6",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ls_TfwD5otPranygqmE6VQ&pid=News&w=1200&h=675&c=14"
+      "title": "중국 AI 관련 분쟁에 대한 법률 적용――최고인민법원 '인공지능 관련 분쟁 사건을 법에 따라 심리하는 것에 관한 의견'(법발〔2026 ...",
+      "summary": "집필자 소개파트너 중국 변호사·외국법 자문 변호사 추이 원잉(崔文英)오브 카운슬 중국 변호사 쉬 캉(徐康)어소시에이트중국 변호사 뉴 웨이첸(牛唯倩) 2026년 9월 7일, 중국 최고인민법원은 법발〔2026〕10호 '인공지능 관련 분쟁 사건을 법에 따라 심리하는 것에 관한 의견'(중국어: 最高人民法院关于依法审理涉人工智能纠纷案件的意见. 이하 '본 의견'이라 함 ...",
+      "source": "note",
+      "publishedAt": "2026-10-30",
+      "url": "https://note.com/king_wood_japan/n/n2617f828894a?hl=ko",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.h1-Xp1YULyTHhj8k4LS_BA&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
