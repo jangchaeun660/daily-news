@@ -1,26 +1,8 @@
 {
-  "updatedAt": "2026-11-07",
-  "windowStart": "2026-11-05T22:00:00.000Z",
-  "windowEnd": "2026-11-06T22:00:00.000Z",
+  "updatedAt": "2026-11-08",
+  "windowStart": "2026-11-06T22:00:00.000Z",
+  "windowEnd": "2026-11-07T22:00:00.000Z",
   "articles": [
-    {
-      "category": "society",
-      "title": "태극기 올려 '한국 1위' 자랑한 머스크, 정작 테슬라 등록은 전달대비 급감",
-      "summary": "[파이낸셜뉴스] 일론 머스크 테슬라 최고경영자(CEO)가 태극기에 테슬라 로고를 합성한 이미지를 사회관계망서비스(SNS)에 공유하며 한국 수입차 시장 1위를 자축했다. 그러나 테슬라의 10월 국내 신규 등록대수는 전달보다 26% 가까이 급감하면서 월 등록대수는 지난 2월 이후 처음으로 1만대 아래로 내려갔다. 6일 업계에 따르면 머스크는 전날 자신의 엑스( ...",
-      "source": "파이낸셜뉴스 on MSN",
-      "publishedAt": "2026-11-06",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%83%9C%EA%B7%B9%EA%B8%B0-%EC%98%AC%EB%A0%A4-%ED%95%9C%EA%B5%AD-1%EC%9C%84-%EC%9E%90%EB%9E%91%ED%95%9C-%EB%A8%B8%EC%8A%A4%ED%81%AC-%EC%A0%95%EC%9E%91-%ED%85%8C%EC%8A%AC%EB%9D%BC-%EB%93%B1%EB%A1%9D%EC%9D%80-%EC%A0%84%EB%8B%AC%EB%8C%80%EB%B9%84-%EA%B8%89%EA%B0%90/ar-AA2gTHmU",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.FFvIhNqa04e2_6wPXUClJw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[박준규의 이슈언박싱] 대만 \"中 선거개입 100건 추적\"…”설마 우리도?” 한국 2030 반응은",
-      "summary": "대만 정보당국이 중국의 선거개입 의혹 사건 100여 건을 추적하고 있다고 밝히면서, 국내 온라인 커뮤니티에서도 관심이 뜨겁습니다. 젊은 층이 주로 이용하는 커뮤니티에서는 \"우리나라도 예외가 아닐 것\"이라는 경계의 목소리가 쏟아졌습니다. 반면 \"대만 집권당의 정치적 쇼일 수 있다\"거나 \"의심만으로 단정해선 안 된다\"는 반론도 함께 나왔습니다.",
-      "source": "펜앤드마이크",
-      "publishedAt": "2026-10-24",
-      "url": "https://www.pennmike.com/news/articleView.html?idxno=130207",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.P-3u81kbOh0MI6lYOQYunQ&pid=News&w=1200&h=675&c=14"
-    },
     {
       "category": "society",
       "title": "[가리사니] 죽어야만 영웅이 되는 사회",
@@ -29,6 +11,15 @@
       "publishedAt": "2026-10-26",
       "url": "https://www.kmib.co.kr/article/20261025501577",
       "imageUrl": "https://www.bing.com/th?id=ONUT.5BO034nDkr5ozLvTYuVMXg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "\"입주민 권리\" vs \"5분 우회하라고?\"…단지 내 '통행로 차단' 갈등[이슈N]",
+      "summary": "[서울=뉴시스]이준형 인턴 기자 = 대단지 아파트들이 보안 강화와 시설물 관리를 이유로 단지 내 통행로를 차단하면서 인근 주민과의 갈등이 깊어지고 있다. 입주민의 안전 확보 요구가 인근 주민들의 이동 편의와 충돌하며 지역 사회의 새로운 분쟁 요소로 떠오르는 ..",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-10-27",
+      "url": "https://www.fnnews.com/news/202610270700494636",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Jk0czG4gLEsV3d9GIQX5zw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -41,30 +32,57 @@
     },
     {
       "category": "society",
-      "title": "\"입주민 권리\" vs \"5분 우회하라고?\"…단지 내 '통행로 차단' 갈등[이슈N]",
-      "summary": "[서울=뉴시스]이준형 인턴 기자 = 대단지 아파트들이 보안 강화와 시설물 관리를 이유로 단지 내 통행로를 차단하면서 인근 주민과의 갈등이 깊어지고 있다. 입주민의 안전 확보 요구가 인근 주민들의 이동 편의와 충돌하며 지역 사회의 새로운 분쟁 요소로 떠오르는 ..",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-10-27",
-      "url": "https://www.fnnews.com/news/202610270700494636",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Zc-mr3pzauppmkbYjml-Bw&pid=News&w=1200&h=675&c=14"
+      "title": "초광역특구 노사정 협의, 주거·교육 지원 논의…13일 노동시간 쟁점 돌입",
+      "summary": "초광역특구법의 노동규제 특례를 논의하는 노사정 사회적 대화에서 주거·교육·교통 지원과 인력 양성 방안이 다뤄졌다. 노사 간 입장차가 큰 주52시간 적용 예외와 기간제 근로기간 확대 문제는 11월 13일 8차 회의에서 논의될 예정이다.",
+      "source": "재경일보",
+      "publishedAt": "2026-11-06",
+      "url": "https://news.jkn.co.kr/post/1074690",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.OZQFU_pkiNmV6I1c50regg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "이 대통령 “출산 장려만으론 안 된다”…노동·주거까지 인구정책 뜯어고친다",
+      "summary": "이재명 대통령이 저출생·고령화 대응을 위해 지난 20년간 막대한 재정을 투입하고도 인구 문제가 해결되지 않았다며 국가 시스템 전반을 재설계하겠다고 밝혔다. 출산율과 인구 규모를 늘리는 데 초점을 맞춘 기존 정책에서 벗어나 노동·주거·복지·보육을 아우르는 인구정책 대전환을 추진하겠다는 구상이다. 이 대통령은 14일 청와대에서 열린 ‘국민주권 정부 인구전략 비 ...",
+      "source": "매일경제",
+      "publishedAt": "2026-10-14",
+      "url": "https://www.mk.co.kr/news/politics/12175657",
+      "imageUrl": "https://www.bing.com/th?id=ONUT._p6fdOoduDXGWLe9uJfuKw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "2026 인문문화축제 개막… 인공지능 시대 인간다움의 가치 조명",
-      "summary": "문화체육관광부(장관 최휘영)와 한국문화예술교육진흥원(원장 임진택)이 공동으로 마련한 ‘2026 인문문화축제’가 6일 서울 마포구 레이어스튜디오11에서 개막했다. 올해 3회째를 맞은 인문문화축제는 ‘인문지능’을 주제로 오는 ...",
-      "source": "디지털타임스 on MSN",
-      "publishedAt": "2026-11-06",
-      "url": "https://www.msn.com/ko-kr/news/other/2026-%EC%9D%B8%EB%AC%B8%EB%AC%B8%ED%99%94%EC%B6%95%EC%A0%9C-%EA%B0%9C%EB%A7%89-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%8B%9C%EB%8C%80-%EC%9D%B8%EA%B0%84%EB%8B%A4%EC%9B%80%EC%9D%98-%EA%B0%80%EC%B9%98-%EC%A1%B0%EB%AA%85/ar-AA2gSaZ9",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.7pGzVJ9iZbDy0lBGNlRqbA&pid=News&w=1200&h=675&c=14"
+      "title": "\"2029년 특이점 온다…AGI, 인간 뇌와 결합해 지능 100만 배 폭발\"",
+      "summary": "[서울=뉴시스] 김종민 기자 = \"인공지능(Artificial Intelligence)이라는 단어는 사실 적절치 않습니다. '인공'이라는 수식어가 마치 가짜나 모조품처럼 느껴지게 만들기 때문입니다. 하지만 AI가 내놓는 사고의 결과물은 인간의 뇌에서 나오는 지성과 본질적으로 완전히 같습니다. 진짜 지능입니다.\"'특이점(Singularity)의 전도사'로 불 ...",
+      "source": "뉴시스",
+      "publishedAt": "2026-11-08",
+      "url": "https://www.newsis.com/view/NISX20261105_0003856449",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.WUHnSnltCR-yOn68jcg0OQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "미 중간선거 쟁점된 데이터센터…버터도 안녹는 국산 AI칩 주목",
-      "summary": "CNBC, 데이터센터 물·전력 부담 조명…딥엑스 저발열 기술 소개 김녹원 대표 인터뷰·버터 실험 영상으로 반도체 발열 비교 (서울=연합뉴스) 한상용 기자 = 미국 중간선거에서 인공지능(AI) 데이터센터 건립 문제가 지역사회 쟁점으로 떠오른 가운데 전력과 냉각에 필요한 물 부담을 줄일 기술적 대안으로 국산 저발열 AI ...",
-      "source": "연합뉴스 on MSN",
+      "title": "[특집/AI 시대, 새롭게 뜨는 유망산업 제3편: 데이터센터·냉각·전력설비] “AI는 전기와 냉각을 먹고 자란다”…인프라 산업의 ...",
+      "summary": "[코리아포스트 한글판 이갑수 기자] 인공지능(AI) 산업의 경쟁이 반도체와 소프트웨어를 넘어 전력·냉각 인프라로 확대되고 있다. 고성능 반도체를 확보하더라도 충분한 전기를 안정적으로 공급하고 발생하는 열을 제때 제거하지 못하면 AI 시스템을 정상적으로 운영하기 어렵기 때문이다. AI 데이터센터의 서버 랙과 액체냉각 설비를 표현한 개념 이미지. 고밀도 AI ...",
+      "source": "코리아포스트",
+      "publishedAt": "2026-11-07",
+      "url": "https://www.koreapost.co.kr/news/articleView.html?idxno=89991",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.XUDGezapCQv9I0egK6Gstg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "‘2026 인문문화축제’ 개막… 인공지능 시대, 인간다움의 조건 ‘인문지능’을 논하다",
+      "summary": "6일 ‘2026 인문문화축제’ 개막특별포럼에서 이세돌 전 프로바둑기사와 최성운 PD가 ’AI 시대, 다시 묻는 인간다움과 인문문화의 가 ...",
+      "source": "아시아투데이 on MSN",
       "publishedAt": "2026-11-06",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85/%EB%AF%B8-%EC%A4%91%EA%B0%84%EC%84%A0%EA%B1%B0-%EC%9F%81%EC%A0%90%EB%90%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EB%B2%84%ED%84%B0%EB%8F%84-%EC%95%88%EB%85%B9%EB%8A%94-%EA%B5%AD%EC%82%B0-ai%EC%B9%A9-%EC%A3%BC%EB%AA%A9/ar-AA2gSh0c",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.kCV477n4XvNfy157RLsltA&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/news/other/2026-%EC%9D%B8%EB%AC%B8%EB%AC%B8%ED%99%94%EC%B6%95%EC%A0%9C-%EA%B0%9C%EB%A7%89-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%8B%9C%EB%8C%80-%EC%9D%B8%EA%B0%84%EB%8B%A4%EC%9B%80%EC%9D%98-%EC%A1%B0%EA%B1%B4-%EC%9D%B8%EB%AC%B8%EC%A7%80%EB%8A%A5-%EC%9D%84-%EB%85%BC%ED%95%98%EB%8B%A4/ar-AA2gSdIL",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Jw0zMDm5oBuf3nTimIsFJw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "인공지능 시대, '인문지능'을 묻다…'2026 인문문화축제'",
+      "summary": "[헤럴드경제=김현경 기자] 인공지능(AI)의 시대에 ‘인문지능’을 묻는 축제가 열린다. 문화체육관광부와 한국문화예술교육진흥원은 6~8일 서울 마포구 레이어스튜디오11에서 ‘2026 인문문화축제’를 개최한다. 올해 축제 주제는 ‘인문지능’이다. 인문지능’은 나를 돌아보고, 타인을 이해하며, 삶의 방향을 스스로 선택하는 힘을 뜻한다. 축제는 ▷사유와 판단을 다 ...",
+      "source": "헤럴드경제 on MSN",
+      "publishedAt": "2026-11-06",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%8B%9C%EB%8C%80-%EC%9D%B8%EB%AC%B8%EC%A7%80%EB%8A%A5-%EC%9D%84-%EB%AC%BB%EB%8B%A4-2026-%EC%9D%B8%EB%AC%B8%EB%AC%B8%ED%99%94%EC%B6%95%EC%A0%9C/ar-AA2gQp9a",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.0WByeROdmy0WeTSjxDBcOA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
@@ -74,24 +92,6 @@
       "publishedAt": "2008-07-16",
       "url": "https://www.asiatime.co.kr/article/20261104500046",
       "imageUrl": "https://www.bing.com/th?id=ONUT.uS6xC9lEGbNDPLHSvLOS4A&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "'인공지능 시대, 질문하는 인문학'…제21회 인문주간 개최",
-      "summary": "인문주간 행사는 인문학 대중화와 인문학 관련 연구 성과의 확산을 위해 2006년부터 매년 10월 마지막 주에 개최된다. 올해는 전국 18개 인문학 관련 기관과 함께 시민들이 직접 참여할 수 있는 190여개의 다양한 프로그램을 운영한다. 주제는 '인공지능 (AI) 시대, 질문하는 인문학'이다.",
-      "source": "연합뉴스",
-      "publishedAt": "2026-10-25",
-      "url": "https://www.yna.co.kr/view/AKR20261023165600530",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.tCW9XFZCkehLyJzpMhnr2A&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "중국 AI 관련 분쟁에 대한 법률 적용――최고인민법원 '인공지능 관련 분쟁 사건을 법에 따라 심리하는 것에 관한 의견'(법발〔2026 ...",
-      "summary": "집필자 소개파트너 중국 변호사·외국법 자문 변호사 추이 원잉(崔文英)오브 카운슬 중국 변호사 쉬 캉(徐康)어소시에이트중국 변호사 뉴 웨이첸(牛唯倩) 2026년 9월 7일, 중국 최고인민법원은 법발〔2026〕10호 '인공지능 관련 분쟁 사건을 법에 따라 심리하는 것에 관한 의견'(중국어: 最高人民法院关于依法审理涉人工智能纠纷案件的意见. 이하 '본 의견'이라 함 ...",
-      "source": "note",
-      "publishedAt": "2026-10-30",
-      "url": "https://note.com/king_wood_japan/n/n2617f828894a?hl=ko",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.h1-Xp1YULyTHhj8k4LS_BA&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
