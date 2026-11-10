@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-11-10",
+    "windowStart": "2026-11-08T22:00:00.000Z",
+    "windowEnd": "2026-11-09T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "새벽 샤워·엘리베이터 자제해달라…선 넘은 배려 요구인가 [이슈N]",
+        "summary": "아파트에서 밤늦게 샤워하는 것을 두고 이웃 간 생활 소음 논쟁이 이어지고 있다. 지난 6일 사회관계망서비스(SNS)에 늦은 시간 샤워와 세탁기 사용을 자제해 달라는 아파트 주민의 글이 올라오자, 개인의 일상생활을 어디까지 이웃이 배려해야 하는지를 두고 네티즌 사이에서 의견이 엇갈렸다. 샤워는 퇴근이나 귀가 시간이 늦은 주민에게 필수적인 일상인 만큼 시간대를 ...",
+        "source": "뉴시스 on MSN",
+        "publishedAt": "2026-11-09",
+        "url": "https://www.msn.com/ko-kr/news/national/%EC%83%88%EB%B2%BD-%EC%83%A4%EC%9B%8C-%EC%97%98%EB%A6%AC%EB%B2%A0%EC%9D%B4%ED%84%B0-%EC%9E%90%EC%A0%9C%ED%95%B4%EB%8B%AC%EB%9D%BC-%EC%84%A0-%EB%84%98%EC%9D%80-%EB%B0%B0%EB%A0%A4-%EC%9A%94%EA%B5%AC%EC%9D%B8%EA%B0%80-%EC%9D%B4%EC%8A%88n/ar-AA2h5dWr",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.q_Q2_f1-SaMPEz3kBjLhNQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "\"개인 사정 적었더니 핀잔\"…연차 사유 기재 놓고 '동상이몽'[이슈N]",
+        "summary": "[서울=뉴시스]김드보라 인턴 기자 = 연차휴가 신청서 사유란에 적힌 '개인 사정' 네 글자를 둘러싸고 직장 내 갈등이 이어지고 있다. \"사생활까지 회사에 보고할 이유는 없다\"는 직장인들의 반발과 \"원활한 업무 조율을 위해 구체적인 파악이 필요하다\"는 관리자 측의 ..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-11-09",
+        "url": "https://www.fnnews.com/news/202611090700451908",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.b13WP86mMDxIdHxGUgL7pw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "경기도 이민사회국 2년 만에 없애나…이주민단체 “정책 후퇴” 반발",
+        "summary": "경기도외국인복지센터협의회 등 이주민인권단체들이 9일 오전 10시30분 서울 중구 국가인권위원회 앞에서 기자회견을 열고 있다. 유정민 기자 경기도가 신설 2년3개월 만에 이민사회국을 성평등가족국으로 통합하는 조직개편안을 추진하면서 이주민단체들이 반발하고 있다. 이주민 권리구제 공백과 이민사회 종합계획 이행 차질에 대한 우려에서다. 경기도외국인복지센터협의회 등 ...",
+        "source": "쿠키뉴스",
+        "publishedAt": "2026-11-10",
+        "url": "https://www.kukinews.com/article/view/kuk202611090228",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ZcapOOZH3dJy7LbUkg6x_g&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "경기도의회 민주당, 행감 첫날부터 소상공인·주거·교육 현안 집중 점검",
+        "summary": "민주당은 \"행정사무감사는 도정과 교육행정을 꼼꼼하고 세밀하게 살펴 올바른 이정표를 세우는 엄중한 자리\"라며 \"첫날 7개 상임위원회에서 거둔 성과를 발판으로 19일까지 집행부에 대한 견제와 대안 제시라는 본연의 책무를 다하겠다\"고 밝혔다.",
+        "source": "경인매일",
+        "publishedAt": "2026-11-09",
+        "url": "https://www.kmaeil.com/news/articleView.html?idxno=657473",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Cnb3vTMX7xuNQnYlCRhIRw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "'줄기세포 논문 조작' 황우석, UAE 국적 취득...한국 국적 상실",
+        "summary": "줄기세포 연구 논문 조작으로 과학계는 물론 사회 전반에 큰 파문을 일으켰던 황우석 전 서울대 교수를 기억하실 겁니다. 황 전 교수는 현재 아랍에미리트에서 활동하고 있는데, 아예 아랍에미리트 국적을 취득해 한국 국적은 이미 상실한 것으로 드러났습니다. 신귀혜 기자가 보도합니다. [기자] 법무부 청주 출입국·외국인 사무소는 지난 8월, 1953년생 황우석 씨가 ...",
+        "source": "YTN",
+        "publishedAt": "2026-11-09",
+        "url": "https://www.ytn.co.kr/_ln/0103_202611092245310941",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.XAq5lPMz8mjl2BrW7LKf1w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "인공지능ㆍ자율주행차 등 규제 합리화 브리핑 나선 김용수 국무 2차장",
+        "summary": "(서울=연합뉴스) 안정원 기자 = 김용수 국무조정실 2차장이 10일 서울 종로구 정부서울청사에서 열린 제1차 규제합리화 정례브리핑에서 인공지능ㆍ자율주행차 등 주요 분야 추진 현황에 대해 브리핑하고 있다. 2026.11.10 ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-09",
+        "url": "https://www.yna.co.kr/view/PYH20261110063500013",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.AnmPSdFr2a6fKz_1PtGb7Q&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "유주동 서울시의원 “로봇인공지능과학관, 용역노동자 2년 이상 계약·고용승계 지침 준수해야”",
+        "summary": "서울특별시의회 유주동 의원(더불어민주당, 비례)은 2026년 서울시의회 기획경제위원회의 서울시립과학관 대상 행정사무감사에서 로봇인공지능과학관 외부 용역의 운영 실태를 지적하고, 2년 이상 계약 체결, 고용승계, 용역노동자 생활임금 적용, 전시운영 사무의 민간위탁 전환 ...",
+        "source": "서울신문 on MSN",
+        "publishedAt": "2026-11-09",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%9C%A0%EC%A3%BC%EB%8F%99-%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%9D%98%EC%9B%90-%EB%A1%9C%EB%B4%87%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%ED%95%99%EA%B4%80-%EC%9A%A9%EC%97%AD%EB%85%B8%EB%8F%99%EC%9E%90-2%EB%85%84-%EC%9D%B4%EC%83%81-%EA%B3%84%EC%95%BD-%EA%B3%A0%EC%9A%A9%EC%8A%B9%EA%B3%84-%EC%A7%80%EC%B9%A8-%EC%A4%80%EC%88%98%ED%95%B4%EC%95%BC/ar-AA2h2WM3",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.gBXgHrPPf-ciNGnk9ocIVA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "만들기만 하면 떼돈 벌던 소프트웨어…AI는 왜 데이터센터에 돈을 쏟아붓나 [한눈에 보는 AI 투자지도]",
+        "summary": "윈도우와 챗GPT로 살핀 AI의 비용과 수익 2026년 9월 29일 백악관에서 기자들에게 설명하는 다리오 아모데이 앤트로픽 최고경영자. 왼쪽에는 도널드 트럼프 미국 대통령과 마크 저커버그 메타 최고경영자가 서 있다. 이달 기업공개(IPO)를 추진하는 앤트로픽은 AI 성능뿐 아니라 수익성도 입증해야 한다. 프로그램을 많이 팔수록 이익이 쌓이던 윈도우와 달리 ...",
+        "source": "매일경제 on MSN",
+        "publishedAt": "2026-11-09",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%A7%8C%EB%93%A4%EA%B8%B0%EB%A7%8C-%ED%95%98%EB%A9%B4-%EB%96%BC%EB%8F%88-%EB%B2%8C%EB%8D%98-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-ai%EB%8A%94-%EC%99%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%EC%97%90-%EB%8F%88%EC%9D%84-%EC%8F%9F%EC%95%84%EB%B6%93%EB%82%98-%ED%95%9C%EB%88%88%EC%97%90-%EB%B3%B4%EB%8A%94-ai-%ED%88%AC%EC%9E%90%EC%A7%80%EB%8F%84/ar-AA2h42hY",
+        "imageUrl": "https://www.bing.com/th?id=ONUT._M_n3_hPyoDVBSxM_jWZ1Q&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI로 바뀌는 바이오산업…KIT, 12일 'DEEP DIVE INTO 2026' 바이오헬스 기술포럼 주관",
+        "summary": "국가독성과학연구소(KIT)가 인공지능(AI) 기반 신약개발부터 임상시험, 바이오의약품 제조까지 우리 바이오기업의 혁신기술을 글로벌 시장에 소개한다. KIT는 오는 12일 서울 그랜드하얏트 호텔에서 열리는 ‘DEEP DIVE INTO 2026’에서 바이오헬스 분야 기술포럼을 주관한다. 이번 행사는 중소벤처기업부의 ‘초격차 스타트업 프로젝트(DIPS)’를 통해 ...",
+        "source": "쿠키뉴스 on MSN",
+        "publishedAt": "2026-11-10",
+        "url": "https://www.msn.com/ko-kr/news/other/ai%EB%A1%9C-%EB%B0%94%EB%80%8C%EB%8A%94-%EB%B0%94%EC%9D%B4%EC%98%A4%EC%82%B0%EC%97%85-kit-12%EC%9D%BC-deep-dive-into-2026-%EB%B0%94%EC%9D%B4%EC%98%A4%ED%97%AC%EC%8A%A4-%EA%B8%B0%EC%88%A0%ED%8F%AC%EB%9F%BC-%EC%A3%BC%EA%B4%80/ar-AA2h63D5",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.JQon3fEJvJX4slGWPgDWqA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "젠슨 황 논란 속 열린 엔비디아 AI 데이…韓, 기술 협력·추가 투자 직진(종합)",
+        "summary": "[서울=뉴시스]심지혜 윤현성 윤정민 기자 = 젠슨 황 엔비디아 최고경영자(CEO)를 둘러싼 사생활 논란에도 불구하고 엔비디아가 국내 기업들과 인공지능(AI) 기술 협력을 예정대로 추진하며 한국 AI 생태계와의 협력 기조를 이어갔다. 당초 예정됐던 정부 고위급 면담..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-11-09",
+        "url": "https://www.fnnews.com/news/202611091824333896",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.0EVVRLdKvBikx4rRVSXd6g&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-11-09",
     "windowStart": "2026-11-07T22:00:00.000Z",
     "windowEnd": "2026-11-08T22:00:00.000Z",
@@ -524,103 +621,6 @@
         "publishedAt": "2026-11-03",
         "url": "https://www.yna.co.kr/view/AKR20261104051900003",
         "imageUrl": "https://www.bing.com/th?id=ONUT.YyXs-NDBn0--HrBHx7ipyg&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-11-03",
-    "windowStart": "2026-11-01T22:00:00.000Z",
-    "windowEnd": "2026-11-02T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "안산시 상상스테이션 ‘사회이슈 대응을 위한 창의적 해결방안 지원사업’ 공모 선정",
-        "summary": "안산시가 지난해 고잔역 인근에 조성한 청년문화공간인 ‘상상스테이션’이 사회복지공동모금회가 주관하는 ‘사회이슈 대응을 위한 창의적 해결방안 지원사업’ 공모에 선정됐습니다. 선정된 사업은 ‘이주배경 청년 주도의 지역사회 관계망 형성을 위한 문화예술 커뮤니티 프로젝트’로, 안산시는 이번 선정으로 지원받게 되는 9천700만 원의 사업비를 활용해 이주배경 청년들과 ...",
-        "source": "news.skbroadband",
-        "publishedAt": "2026-11-02",
-        "url": "https://news.skbroadband.com/news/articleView.html?idxno=242050",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.o0Ixo5CqHRFQHA87yUfrDQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "한국거래소, 지역사회 소통하며 국내외 사회공헌",
-        "summary": "한국거래소가 지역사회와 협력하며 아동 복지사업부터 해외 의료봉사까지 국내외에서 사회공헌 활동을 이어가고 있다.◇ 부산에 놀이터 20곳 조성한 KRX한국거래소는 지난 10월 1일 부산광역시 연제구 거제동에서 'KRX 통통꿈놀이터' 20호 완공식을 열었다. 행사에는 KRX국민행복재단 정상호 사무국장과 어린이재단 여승수 사무총장, 부산시 및 연제구 관계자, 인근 ...",
-        "source": "스트레이트뉴스",
-        "publishedAt": "2026-11-02",
-        "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314421",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.FlS-3DHNaiQXF-3eAEuIfw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "‘2027학년도 수시모집 면접 대비’ 시사 이슈 살펴보기 ⑤: 정치·법·사회적 권리",
-        "summary": "수시모집 대학별 면접이 본격화하면서 시사 이슈에 대한 수험생들의 관심도 높아지고 있다. 올해는 인공지능(AI)을 비롯해 의료개혁과 지역의사제, 저출생·고령화, 청년 일자리, 기후위기, 반도체 산업, 국제질서와 통상 변화 등 교육·사회·경제 전반의 굵 ...",
-        "source": "조선에듀 on MSN",
-        "publishedAt": "2026-10-21",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/2027%ED%95%99%EB%85%84%EB%8F%84-%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91-%EB%A9%B4%EC%A0%91-%EB%8C%80%EB%B9%84-%EC%8B%9C%EC%82%AC-%EC%9D%B4%EC%8A%88-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-%EC%A0%95%EC%B9%98-%EB%B2%95-%EC%82%AC%ED%9A%8C%EC%A0%81-%EA%B6%8C%EB%A6%AC/ar-AA2fIDPu",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.DvfXUOco7ry3Uag-LurtSg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[박준규의 이슈언박싱] 대만 \"中 선거개입 100건 추적\"…”설마 우리도?” 한국 2030 반응은",
-        "summary": "대만 정보당국이 중국의 선거개입 의혹 사건 100여 건을 추적하고 있다고 밝히면서, 국내 온라인 커뮤니티에서도 관심이 뜨겁습니다. 젊은 층이 주로 이용하는 커뮤니티에서는 \"우리나라도 예외가 아닐 것\"이라는 경계의 목소리가 쏟아졌습니다. 반면 \"대만 집권당의 정치적 쇼일 수 있다\"거나 \"의심만으로 단정해선 안 된다\"는 반론도 함께 나왔습니다.",
-        "source": "펜앤드마이크",
-        "publishedAt": "2026-10-24",
-        "url": "https://www.pennmike.com/news/articleView.html?idxno=130207",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.P-3u81kbOh0MI6lYOQYunQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[가리사니] 죽어야만 영웅이 되는 사회",
-        "summary": "개인의 희생에 안전을 기대는 사회가 아니라 임무를 마치고 무사히 퇴근하는 사회가 돼야 2022년 1월 경기도 평택 냉동창고 화재 현장에서 이형석 소방경과 박수동 소방장, 조우찬 소방교가 순직했다. 당시 이들은 큰불을 진압한 뒤 마지막 인명 수색을 위해 현장에 투입됐다가 ...",
-        "source": "국민일보",
-        "publishedAt": "2026-10-26",
-        "url": "https://www.kmib.co.kr/article/20261025501577",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.5BO034nDkr5ozLvTYuVMXg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "울산항만공사, 인공지능 경영 관리체계 구축 착수",
-        "summary": "울산항만공사가 경영 전반에 인공지능(AI) 기술 도입을 넘어 이를 안전하고 윤리적으로 관리하는 'AI 경영 관리체계' 구축에 나섰다. 울산항만공사는 최근 AI 경영시스템(ISO/IEC 42001) 인증심사원 양성과정에 참여한 내부 직원 2명이 강도 높은 교육과 시험을 거쳐 국제 인증심사원 자격을 최종 획득했다고 2일 밝혔다. ISO/IEC 42001은 AI ...",
-        "source": "뉴시스 on MSN",
-        "publishedAt": "2026-11-02",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%9A%B8%EC%82%B0%ED%95%AD%EB%A7%8C%EA%B3%B5%EC%82%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B2%BD%EC%98%81-%EA%B4%80%EB%A6%AC%EC%B2%B4%EA%B3%84-%EA%B5%AC%EC%B6%95-%EC%B0%A9%EC%88%98/ar-AA2gyZ38",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.EbbwApS52-mbEF6WMQcBWg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "삼성SDS, 구미 AI 데이터센터 착공…60MW급 2029년 가동 목표(종합)",
-        "summary": "이날 행사는 올해 1월 세계 최대 정보기술 (IT)·가전 전시회인 CES 2026현장에서 경북도·구미시·삼성SDS가 구미 국가산업단지에 AI 데이터센터 건립을 위한 투자 양해각서를 체결한 이후 본격적인 사업에 들어가는 자리다.",
-        "source": "연합뉴스",
-        "publishedAt": "2026-11-02",
-        "url": "https://www.yna.co.kr/view/AKR20261102107951053",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.0a59JjSQ5VURJhk3dp8GWQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "삼성SDS 구미 AI 데이터센터 첫 삽… 60MW급 2029년 가동 목표",
-        "summary": "생성형 AI와 클라우드 수요 대응…지역경제 파급효과도 기대 (구미=연합뉴스) 김현태 기자 = 삼성SDS 구미 AI 데이터센터 기공식이 2일 경북 구미시 공단동 옛 삼성전자 1캠퍼스 부지에서 열렸다. 기공식에는 이철우 경북도지사, 김장호 구미시장, 이준희 삼성SDS 대표이사, 지형근 삼성물산 부사장과 구자근·강명구 ...",
-        "source": "연합뉴스 on MSN",
-        "publishedAt": "2026-11-02",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%82%BC%EC%84%B1sds-%EA%B5%AC%EB%AF%B8-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%B2%AB-%EC%82%BD-60mw%EA%B8%89-2029%EB%85%84-%EA%B0%80%EB%8F%99-%EB%AA%A9%ED%91%9C/ar-AA2gycGj",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Chlcf3haVhMz-PFgreDlXA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "삼성SDS 구미 AI 데이터센터 착공…2029년 3월 가동 목표",
-        "summary": "[경북=이데일리 홍석천 기자] 삼성SDS가 구미에 AI 전용 데이터센터를 짓는다. 전자·반도체 제조 기반이 집적된 구미에 AI·클라우드 인프라를 구축하는 사업으로, 2028년 12월 준공과 2029년 3월 가동이 목표다. 경북도와 구미시는 2일 구미시 공단동 옛 삼성전자 구미1사업장 부지에서 데이터센터 기공식을 개최했다.",
-        "source": "이데일리 on MSN",
-        "publishedAt": "2026-11-02",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%82%BC%EC%84%B1sds-%EA%B5%AC%EB%AF%B8-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%B0%A9%EA%B3%B5-2029%EB%85%84-3%EC%9B%94-%EA%B0%80%EB%8F%99-%EB%AA%A9%ED%91%9C/ar-AA2gA3Lq",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.EY_HJwcHaYBNPjNaAuMOzA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "삼성, 60조 영남권 투자 첫삽 떴다…구미 AI데이터센터 2028년 준공",
-        "summary": "삼성이 영남권에 60조원을 투자해 ‘글로벌 피지컬 인공지능 (AI) 혁신 클러스터’를 구축하는 계획이 실행에 들어갔다. 삼성SDS가 경북 구미에서 초기 60㎿, 최대 120㎿ 규모의 AI 전용 데이터센터 건립에 나서면서다. 제조 현장의 로봇 AI 학습에 필요한 대규모 연산 인프라를 구축해 영남권 제조업의 AI 전환을 뒷받침한다는 구상이다. 2025.04 경 ...",
-        "source": "매일경제",
-        "publishedAt": "2026-11-02",
-        "url": "https://www.mk.co.kr/news/it/12194009",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ButetZre_2o8riGZWJziWQ&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
