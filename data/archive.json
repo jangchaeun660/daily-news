@@ -1,5 +1,93 @@
 [
   {
+    "updatedAt": "2026-11-11",
+    "windowStart": "2026-11-09T22:00:00.000Z",
+    "windowEnd": "2026-11-10T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "\"새벽 샤워·엘리베이터 자제해달라\"…선 넘은 배려 요구인가[이슈N]",
+        "summary": "[서울=뉴시스]장인혜 인턴 기자 = 아파트에서 밤늦게 샤워하는 것을 두고 이웃 간 생활 소음 논쟁이 이어지고 있다. 지난 6일 사회관계망서비스(SNS)에 늦은 시간 샤워와 세탁기 사용을 자제해 달라는 아파트 주민의 글이 올라오자, 개인의 일상생활을 어디까지 이웃..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-11-10",
+        "url": "https://www.fnnews.com/news/202611100701407155",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Ih8HqaReMAUKZhQWTLAAzQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "경기도 이민사회국 2년 만에 없애나…이주민단체 “정책 후퇴” 반발",
+        "summary": "경기도가 신설 2년3개월 만에 이민사회국을 성평등가족국으로 통합하는 조직개편안을 추진하면서 이주민단체들이 반발하고 있다. 이주민 권리구제 공백과 이민사회 종합계획 이행 차질에 대한 우려에서다. 경기도외국인복지센터협의회 등 이주민 단체는 9일 국가인권위원회에 진정서를 내고 이민사회국 폐지 방침을 철회하도록 경기도에 권고해 달라고 요구했다. 이들은 이민사회국이 ...",
+        "source": "쿠키뉴스 on MSN",
+        "publishedAt": "2026-11-10",
+        "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EA%B8%B0%EB%8F%84-%EC%9D%B4%EB%AF%BC%EC%82%AC%ED%9A%8C%EA%B5%AD-2%EB%85%84-%EB%A7%8C%EC%97%90-%EC%97%86%EC%95%A0%EB%82%98-%EC%9D%B4%EC%A3%BC%EB%AF%BC%EB%8B%A8%EC%B2%B4-%EC%A0%95%EC%B1%85-%ED%9B%84%ED%87%B4-%EB%B0%98%EB%B0%9C/ar-AA2h6eRt",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.MXrmPaGT4N2mG6WOclnIWQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "한국세무사회 'AOTCA 홍콩 총회'서 해법 제시… 글로벌 조세 협력 주도",
+        "summary": "구재이 회장 등 이사회·VIP 리셉션 참석해 각국 단체와 교류도11일 컨퍼런스서 홍성원 세무사 '예측적 위험관리' 발표 예정 (홍콩=뉴스1) 송용환 기자 = 아시아·오세아니아 각국의 조세 전문가들이 홍콩에 모여 세무행정의 디지털 전환과 국제조세 협력 방안을 논의하고 있다. 한국세무사회도 대표단을 파견해 각국 세무사 ...",
+        "source": "뉴스1 on MSN",
+        "publishedAt": "2026-11-10",
+        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%84%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-aotca-%ED%99%8D%EC%BD%A9-%EC%B4%9D%ED%9A%8C%EC%84%9C-%ED%95%B4%EB%B2%95-%EC%A0%9C%EC%8B%9C-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%A1%B0%EC%84%B8-%ED%98%91%EB%A0%A5-%EC%A3%BC%EB%8F%84/ar-AA2h73F8",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.dGins-tO1MaqftPgrSkIkw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "한국메나리니, 성남 이어 대구까지 임직원 나눔 확대",
+        "summary": "한국메나리니가 수도권에 이어 대구까지 사회공헌 활동 무대를 넓히며 지역사회 나눔을 실천했다. 임직원들이 무료급식 현장에서 배식과 도시락 제작 등에 직접 참여하면서 지역별 복지기관을 지원하고 사내 봉사활동 참여 기회도 확대했다.",
+        "source": "약사공론",
+        "publishedAt": "2026-11-10",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548545",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.plLTXK02XWAKOvAw6ER7IQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "한국 디지털·AI 경쟁력 세계 10위…전년보다 8단계 상승",
+        "summary": "(서울=연합뉴스) 권하영 기자 = 한국이 스위스 국제경영개발원 (IMD)의 세계 디지털·인공지능 (AI) 경쟁력 평가에서 70개국 중 10위에 올라 전년보다 8단계 상승했다. 기술인프라와 효율성이 나란히 세계 3위를 기록하는 등 5대 평가 분야에서 모두 순위가 올랐다. 다만 거버넌스는 27위, 인력개발은 20위로 분야별 격차를 보였다.",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-10",
+        "url": "https://www.yna.co.kr/view/AKR20261110131300017",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.xLShPtNeE6UB8MCaqGHWtg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "韓 디지털·AI 경쟁력 세계 10위…1년 만에 8계단 상승",
+        "summary": "[서울=뉴시스]심지혜 기자 = 우리나라의 디지털·인공지능(AI) 경쟁력이 세계 70개국 가운데 10위를 기록하며 1년 만에 8계단 상승한 것으로 나타났다. 기술인프라와 효율성 분야가 나란히 세계 3위에 올랐고 평가 대상 5개 분야 모두 지난해보다 순위가 개선됐다.과학기술정보통신부는 스위스 국제경영개발원(IMD)이 발표한 2026년 세계 디지털·AI 경쟁력 ...",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-10",
+        "url": "https://www.newsis.com/view/NISX20261110_0003862873",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.HNHzJVIk-phzds2lAr9KUQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "인공지능ㆍ자율주행차 등 규제 합리화 브리핑 나선 김용수 국무 2차장",
+        "summary": "(서울=연합뉴스) 안정원 기자 = 김용수 국무조정실 2차장이 10일 서울 종로구 정부서울청사에서 열린 제1차 규제합리화 정례브리핑에서 인공지능ㆍ자율주행차 등 주요 분야 추진 현황에 대해 브리핑하고 있다. 2026.11.10 ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-10",
+        "url": "https://www.yna.co.kr/view/PYH20261110063700013",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ND3FqhWATl0TZGHQ8sX80g&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "인공지능이라는 진짜 괴물 [유레카]",
+        "summary": "최근 온라인 커뮤니티에 ‘요즘 애들은 절대 이해 못 하는 8090년생이 괴물인 이유’라는 글이 돌았다. 작성자는 아날로그와 디지털 과도기를 보낸 1980~1990년생의 일상을 무용담처럼 풀어냈다. ‘노빠꾸 배달―앱 없이 전화로 주문’, ‘인간 폰북―친구 집 전화번호 5 ...",
+        "source": "한겨레",
+        "publishedAt": "2026-11-10",
+        "url": "https://www.hani.co.kr/arti/opinion/column/1286642.html",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.-3k-BjtLln61i7X7jjVx_w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "탄소는 이제 원가…AI 데이터센터 경쟁력, GPU 아닌 전력이 가른다",
+        "summary": "[디지털데일리 박재현기자] 한국전자통신연구원(ETRI)이 데이터센터 탄소 배출량을 개별 서비스 단위까지 추적하는 기술 개발에 나섰다. 건물 전체 전력 사용량으로 배출량을 따지던 기존 방식 대신 AI 워크로드별 배출량을 실시간으로 산정한다. 디지털 트윈과 생성형 AI로 탄소 저감 운영안을 추천하는 플랫폼을 2029년까지 만든다. 한국데이터센터연합회는 10일 ...",
+        "source": "디지털데일리 on MSN",
+        "publishedAt": "2026-11-10",
+        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%83%84%EC%86%8C%EB%8A%94-%EC%9D%B4%EC%A0%9C-%EC%9B%90%EA%B0%80-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B2%BD%EC%9F%81%EB%A0%A5-gpu-%EC%95%84%EB%8B%8C-%EC%A0%84%EB%A0%A5%EC%9D%B4-%EA%B0%80%EB%A5%B8%EB%8B%A4/ar-AA2hakyM",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.9RbVNjjxs7Ob0uhi9a9luw&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-11-10",
     "windowStart": "2026-11-08T22:00:00.000Z",
     "windowEnd": "2026-11-09T22:00:00.000Z",
@@ -542,85 +630,6 @@
         "publishedAt": "2026-11-04",
         "url": "https://kr.news.cn/20261104/c454fab508ab4daf8879b762bace6d3f/c.html",
         "imageUrl": "https://www.bing.com/th?id=ONUT.NDE5VHPw5w4VPzdMNOSAMw&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-11-04",
-    "windowStart": "2026-11-02T22:00:00.000Z",
-    "windowEnd": "2026-11-03T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "이기대 경기도의원, ‘사회혁신경제국 조직개편 및 사회연대경제 현안 정담회’ 개최",
-        "summary": "경기도의회 경제노동위원회 이기대 의원 (더불어민주당, 고양9)은 3일 경기도의회 기획재정위원회 소회의실에서 사회연대경제 관계자들 및 시·군 중간지원조직 관계자들과 정담회를 열고, 최근 입법예고된 경기도 조직개편안에 따른 사회혁신경제국 개편 방향과 관련 정책 예산 현안을 집중 논의했다.",
-        "source": "화성저널",
-        "publishedAt": "2026-11-03",
-        "url": "https://www.hsj.co.kr/news/articleView.html?idxno=56852",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.KO_uuPlredy23CiqLPIiiA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "영산조용기자선재단, 법무보호대상자 사회복귀 4천만 원 추가 지원",
-        "summary": "(재)영산조용기자선재단(이사장 윤홍열·김기돈)은 지난 11월 2일, 재단 사무실에서 한국법무보호복지공단 경기북부지부와 함께 법무보호대상자의 안정적 사회복귀와 자립을 위한 2차 지원사업 전달식을 진행했다. 이날 전달식에는 영산조용기자선재단 김기돈 이사장과 조희준 상임이사, 이재원 사무국장, 조형서 학생인턴, 한국법무보호복지공단 경기북부지부 권영호 지부장 ...",
-        "source": "크리스천투데이",
-        "publishedAt": "2026-11-03",
-        "url": "https://www.christiantoday.co.kr/news/378366",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.-SoXXnOsREEEthEF-R0Wwg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "임신 여친 기절시켜 낙태약 주입…\"또 코넬대 한국 남자\" 美 시끌",
-        "summary": "(서울=뉴스1) 김학진 기자 = 미국 육군사관학교에 재학하던 한국계 남성이 임신한 여자 친구에게 몰래 약물을 먹여 의식을 잃게 한 뒤 강제로 낙태약을 투여해 유산시킨 사건이 뒤늦게 알려졌다. 가해자가 사건 이후 코넬대에 입학했다는 사실이 알려지면서 \"또 코넬대 한국 남성이냐?\"는 부정적인 반응들이 나오고 있다. 4일 ...",
-        "source": "뉴스1 on MSN",
-        "publishedAt": "2026-11-04",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%9E%84%EC%8B%A0-%EC%97%AC%EC%B9%9C-%EA%B8%B0%EC%A0%88%EC%8B%9C%EC%BC%9C-%EB%82%99%ED%83%9C%EC%95%BD-%EC%A3%BC%EC%9E%85-%EB%98%90-%EC%BD%94%EB%84%AC%EB%8C%80-%ED%95%9C%EA%B5%AD-%EB%82%A8%EC%9E%90-%E7%BE%8E-%EC%8B%9C%EB%81%8C/ar-AA2gHgxQ",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.-tJGL9jQ0WeKs2SxoQ-L4w&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[임기범의 AI 혁신 스토리] 인공지능이 낸 답만 의심할 것인가",
-        "summary": "\"'통제불가 AI 에이전트', 6시간 만에 48개국 395곳 공격\" 지난 9월 한 언론에 실린 기사의 제목이다. 해커가 부리던 인공지능(AI) 에이전트가 명령까지 어겨 가며 세계 곳곳을 공격했다는 내용이다. 6시간, 48개국, 395곳. 숫자도 놀랍지만 '통제 불가'라는 표현이 더 섬뜩하다. AI가 사람의 지시를 듣지 않기 시작했다는 뜻으로 읽히기 때문이다 ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-11-03",
-        "url": "https://www.yna.co.kr/view/AKR20261104063500371",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.30w3BiSs4j75EYNQaJzmBA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "美 빅테크 투자비 눈덩이…韓 반도체에 ‘겨울’ 올까 [호황의 시계②]",
-        "summary": "미국 정보 기술 대기업(빅테크)이 인공지능(AI)에 천문학적인 자금을 쏟아붓는 가운데 투자비 회수에 대한 의문이 커지고 있다. 미국 중간선거와 빅테크의 투자 속도 조정 가능성이 맞물리면서 2028년 이후 우리나라 반도체 호황이 시험대에 오를 수 있다는 관측이다.‘2029년 완판’ 외친 SK하이닉스…확정계약 밖 물량은 변수4일 반도체 업계에 따르면 SK하이닉 ...",
-        "source": "데일리안 on MSN",
-        "publishedAt": "2026-11-03",
-        "url": "https://www.msn.com/ko-kr/news/other/%E7%BE%8E-%EB%B9%85%ED%85%8C%ED%81%AC-%ED%88%AC%EC%9E%90%EB%B9%84-%EB%88%88%EB%8D%A9%EC%9D%B4-%E9%9F%93-%EB%B0%98%EB%8F%84%EC%B2%B4%EC%97%90-%EA%B2%A8%EC%9A%B8-%EC%98%AC%EA%B9%8C-%ED%98%B8%ED%99%A9%EC%9D%98-%EC%8B%9C%EA%B3%84/ar-AA2gH0bM",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.RZyddOwvmv_cArrc5LodMA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "\"새만금을 피지컬AI·로봇 산업 거점으로\"…국회서 대토론회",
-        "summary": "\"새만금을 피지컬AI·로봇 산업 거점으로\"…국회서 대토론회 도내 국회의원 공동 주최…로봇 팜 팩토리 등 5대 사업 도출 (전주=연합뉴스) 임채두 기자 = 전북의 새만금을 대한민국의 피지컬 인공지능(AI)·로봇 산업 거점으로 키울 방안을 찾는 토론회가 4일 국회..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-11-03",
-        "url": "https://www.fnnews.com/news/202611041028403857",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.vOzGEc024-7e0d8uBCDPhQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "LG AI연구원 ‘저작권 기술 어워드’서 국가지식재산위원장상 수상",
-        "summary": "LG AI연구원이 자체 개발한 AI 컴플라이언스 에이전트 ‘엑사원 넥서스(EXAONE Nexus). [LG 제공] LG AI연구원이 4일 문화체육관광부가 주최한 ‘2026 국제저작권기술 콘퍼런스(ICOTEC)’ 저작권 기술 어워드에서 국가지식재산위원장상을 수상했다. 이번 수상으로 LG AI연구원은 자체 개발한 인공지능(AI) 컴플라이언스 에이전트 ‘엑사원 ...",
-        "source": "매일경제 on MSN",
-        "publishedAt": "2026-11-04",
-        "url": "https://www.msn.com/ko-kr/news/other/lg-ai%EC%97%B0%EA%B5%AC%EC%9B%90-%EC%A0%80%EC%9E%91%EA%B6%8C-%EA%B8%B0%EC%88%A0-%EC%96%B4%EC%9B%8C%EB%93%9C-%EC%84%9C-%EA%B5%AD%EA%B0%80%EC%A7%80%EC%8B%9D%EC%9E%AC%EC%82%B0%EC%9C%84%EC%9B%90%EC%9E%A5%EC%83%81-%EC%88%98%EC%83%81/ar-AA2gHCH0",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.taANSiq9JTZuDMMVaqI0Eg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "전차·전투기 정비 판단도 AI가…정부, 군수 AI 에이전트 개발",
-        "summary": "(세종=연합뉴스) 신창용 기자 = 군수 빅데이터와 인공지능(AI)을 활용해 탱크나 전투기 등 무기체계의 가동 상태를 최상으로 유지하면서도 관리 비용을 아끼는 기술 개발이 본격화된다. 국방부와 산업통상부는 4일 대전컨벤션센터에서 한국항공우주산업(KAI), 육·해·공군, 한국국방연구원, 국방기술품질원 등 관계자 100여명이 참석한 가운데 'RAM-C AI 에이 ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-11-03",
-        "url": "https://www.yna.co.kr/view/AKR20261104051900003",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.YyXs-NDBn0--HrBHx7ipyg&pid=News&w=1200&h=675&c=14"
       }
     ]
   }

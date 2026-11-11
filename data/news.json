@@ -1,97 +1,88 @@
 {
-  "updatedAt": "2026-11-10",
-  "windowStart": "2026-11-08T22:00:00.000Z",
-  "windowEnd": "2026-11-09T22:00:00.000Z",
+  "updatedAt": "2026-11-11",
+  "windowStart": "2026-11-09T22:00:00.000Z",
+  "windowEnd": "2026-11-10T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "새벽 샤워·엘리베이터 자제해달라…선 넘은 배려 요구인가 [이슈N]",
-      "summary": "아파트에서 밤늦게 샤워하는 것을 두고 이웃 간 생활 소음 논쟁이 이어지고 있다. 지난 6일 사회관계망서비스(SNS)에 늦은 시간 샤워와 세탁기 사용을 자제해 달라는 아파트 주민의 글이 올라오자, 개인의 일상생활을 어디까지 이웃이 배려해야 하는지를 두고 네티즌 사이에서 의견이 엇갈렸다. 샤워는 퇴근이나 귀가 시간이 늦은 주민에게 필수적인 일상인 만큼 시간대를 ...",
-      "source": "뉴시스 on MSN",
-      "publishedAt": "2026-11-09",
-      "url": "https://www.msn.com/ko-kr/news/national/%EC%83%88%EB%B2%BD-%EC%83%A4%EC%9B%8C-%EC%97%98%EB%A6%AC%EB%B2%A0%EC%9D%B4%ED%84%B0-%EC%9E%90%EC%A0%9C%ED%95%B4%EB%8B%AC%EB%9D%BC-%EC%84%A0-%EB%84%98%EC%9D%80-%EB%B0%B0%EB%A0%A4-%EC%9A%94%EA%B5%AC%EC%9D%B8%EA%B0%80-%EC%9D%B4%EC%8A%88n/ar-AA2h5dWr",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.q_Q2_f1-SaMPEz3kBjLhNQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "\"개인 사정 적었더니 핀잔\"…연차 사유 기재 놓고 '동상이몽'[이슈N]",
-      "summary": "[서울=뉴시스]김드보라 인턴 기자 = 연차휴가 신청서 사유란에 적힌 '개인 사정' 네 글자를 둘러싸고 직장 내 갈등이 이어지고 있다. \"사생활까지 회사에 보고할 이유는 없다\"는 직장인들의 반발과 \"원활한 업무 조율을 위해 구체적인 파악이 필요하다\"는 관리자 측의 ..",
+      "title": "\"새벽 샤워·엘리베이터 자제해달라\"…선 넘은 배려 요구인가[이슈N]",
+      "summary": "[서울=뉴시스]장인혜 인턴 기자 = 아파트에서 밤늦게 샤워하는 것을 두고 이웃 간 생활 소음 논쟁이 이어지고 있다. 지난 6일 사회관계망서비스(SNS)에 늦은 시간 샤워와 세탁기 사용을 자제해 달라는 아파트 주민의 글이 올라오자, 개인의 일상생활을 어디까지 이웃..",
       "source": "파이낸셜뉴스",
-      "publishedAt": "2026-11-09",
-      "url": "https://www.fnnews.com/news/202611090700451908",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.b13WP86mMDxIdHxGUgL7pw&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-11-10",
+      "url": "https://www.fnnews.com/news/202611100701407155",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Ih8HqaReMAUKZhQWTLAAzQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
       "title": "경기도 이민사회국 2년 만에 없애나…이주민단체 “정책 후퇴” 반발",
-      "summary": "경기도외국인복지센터협의회 등 이주민인권단체들이 9일 오전 10시30분 서울 중구 국가인권위원회 앞에서 기자회견을 열고 있다. 유정민 기자 경기도가 신설 2년3개월 만에 이민사회국을 성평등가족국으로 통합하는 조직개편안을 추진하면서 이주민단체들이 반발하고 있다. 이주민 권리구제 공백과 이민사회 종합계획 이행 차질에 대한 우려에서다. 경기도외국인복지센터협의회 등 ...",
-      "source": "쿠키뉴스",
+      "summary": "경기도가 신설 2년3개월 만에 이민사회국을 성평등가족국으로 통합하는 조직개편안을 추진하면서 이주민단체들이 반발하고 있다. 이주민 권리구제 공백과 이민사회 종합계획 이행 차질에 대한 우려에서다. 경기도외국인복지센터협의회 등 이주민 단체는 9일 국가인권위원회에 진정서를 내고 이민사회국 폐지 방침을 철회하도록 경기도에 권고해 달라고 요구했다. 이들은 이민사회국이 ...",
+      "source": "쿠키뉴스 on MSN",
       "publishedAt": "2026-11-10",
-      "url": "https://www.kukinews.com/article/view/kuk202611090228",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ZcapOOZH3dJy7LbUkg6x_g&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EA%B8%B0%EB%8F%84-%EC%9D%B4%EB%AF%BC%EC%82%AC%ED%9A%8C%EA%B5%AD-2%EB%85%84-%EB%A7%8C%EC%97%90-%EC%97%86%EC%95%A0%EB%82%98-%EC%9D%B4%EC%A3%BC%EB%AF%BC%EB%8B%A8%EC%B2%B4-%EC%A0%95%EC%B1%85-%ED%9B%84%ED%87%B4-%EB%B0%98%EB%B0%9C/ar-AA2h6eRt",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.MXrmPaGT4N2mG6WOclnIWQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "경기도의회 민주당, 행감 첫날부터 소상공인·주거·교육 현안 집중 점검",
-      "summary": "민주당은 \"행정사무감사는 도정과 교육행정을 꼼꼼하고 세밀하게 살펴 올바른 이정표를 세우는 엄중한 자리\"라며 \"첫날 7개 상임위원회에서 거둔 성과를 발판으로 19일까지 집행부에 대한 견제와 대안 제시라는 본연의 책무를 다하겠다\"고 밝혔다.",
-      "source": "경인매일",
-      "publishedAt": "2026-11-09",
-      "url": "https://www.kmaeil.com/news/articleView.html?idxno=657473",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Cnb3vTMX7xuNQnYlCRhIRw&pid=News&w=1200&h=675&c=14"
+      "title": "한국세무사회 'AOTCA 홍콩 총회'서 해법 제시… 글로벌 조세 협력 주도",
+      "summary": "구재이 회장 등 이사회·VIP 리셉션 참석해 각국 단체와 교류도11일 컨퍼런스서 홍성원 세무사 '예측적 위험관리' 발표 예정 (홍콩=뉴스1) 송용환 기자 = 아시아·오세아니아 각국의 조세 전문가들이 홍콩에 모여 세무행정의 디지털 전환과 국제조세 협력 방안을 논의하고 있다. 한국세무사회도 대표단을 파견해 각국 세무사 ...",
+      "source": "뉴스1 on MSN",
+      "publishedAt": "2026-11-10",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%84%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-aotca-%ED%99%8D%EC%BD%A9-%EC%B4%9D%ED%9A%8C%EC%84%9C-%ED%95%B4%EB%B2%95-%EC%A0%9C%EC%8B%9C-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%A1%B0%EC%84%B8-%ED%98%91%EB%A0%A5-%EC%A3%BC%EB%8F%84/ar-AA2h73F8",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.dGins-tO1MaqftPgrSkIkw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "'줄기세포 논문 조작' 황우석, UAE 국적 취득...한국 국적 상실",
-      "summary": "줄기세포 연구 논문 조작으로 과학계는 물론 사회 전반에 큰 파문을 일으켰던 황우석 전 서울대 교수를 기억하실 겁니다. 황 전 교수는 현재 아랍에미리트에서 활동하고 있는데, 아예 아랍에미리트 국적을 취득해 한국 국적은 이미 상실한 것으로 드러났습니다. 신귀혜 기자가 보도합니다. [기자] 법무부 청주 출입국·외국인 사무소는 지난 8월, 1953년생 황우석 씨가 ...",
-      "source": "YTN",
-      "publishedAt": "2026-11-09",
-      "url": "https://www.ytn.co.kr/_ln/0103_202611092245310941",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.XAq5lPMz8mjl2BrW7LKf1w&pid=News&w=1200&h=675&c=14"
+      "title": "한국메나리니, 성남 이어 대구까지 임직원 나눔 확대",
+      "summary": "한국메나리니가 수도권에 이어 대구까지 사회공헌 활동 무대를 넓히며 지역사회 나눔을 실천했다. 임직원들이 무료급식 현장에서 배식과 도시락 제작 등에 직접 참여하면서 지역별 복지기관을 지원하고 사내 봉사활동 참여 기회도 확대했다.",
+      "source": "약사공론",
+      "publishedAt": "2026-11-10",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548545",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.plLTXK02XWAKOvAw6ER7IQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "한국 디지털·AI 경쟁력 세계 10위…전년보다 8단계 상승",
+      "summary": "(서울=연합뉴스) 권하영 기자 = 한국이 스위스 국제경영개발원 (IMD)의 세계 디지털·인공지능 (AI) 경쟁력 평가에서 70개국 중 10위에 올라 전년보다 8단계 상승했다. 기술인프라와 효율성이 나란히 세계 3위를 기록하는 등 5대 평가 분야에서 모두 순위가 올랐다. 다만 거버넌스는 27위, 인력개발은 20위로 분야별 격차를 보였다.",
+      "source": "연합뉴스",
+      "publishedAt": "2026-11-10",
+      "url": "https://www.yna.co.kr/view/AKR20261110131300017",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.xLShPtNeE6UB8MCaqGHWtg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "韓 디지털·AI 경쟁력 세계 10위…1년 만에 8계단 상승",
+      "summary": "[서울=뉴시스]심지혜 기자 = 우리나라의 디지털·인공지능(AI) 경쟁력이 세계 70개국 가운데 10위를 기록하며 1년 만에 8계단 상승한 것으로 나타났다. 기술인프라와 효율성 분야가 나란히 세계 3위에 올랐고 평가 대상 5개 분야 모두 지난해보다 순위가 개선됐다.과학기술정보통신부는 스위스 국제경영개발원(IMD)이 발표한 2026년 세계 디지털·AI 경쟁력 ...",
+      "source": "뉴시스",
+      "publishedAt": "2026-11-10",
+      "url": "https://www.newsis.com/view/NISX20261110_0003862873",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.HNHzJVIk-phzds2lAr9KUQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
       "title": "인공지능ㆍ자율주행차 등 규제 합리화 브리핑 나선 김용수 국무 2차장",
       "summary": "(서울=연합뉴스) 안정원 기자 = 김용수 국무조정실 2차장이 10일 서울 종로구 정부서울청사에서 열린 제1차 규제합리화 정례브리핑에서 인공지능ㆍ자율주행차 등 주요 분야 추진 현황에 대해 브리핑하고 있다. 2026.11.10 ...",
       "source": "연합뉴스",
-      "publishedAt": "2026-11-09",
-      "url": "https://www.yna.co.kr/view/PYH20261110063500013",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.AnmPSdFr2a6fKz_1PtGb7Q&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "유주동 서울시의원 “로봇인공지능과학관, 용역노동자 2년 이상 계약·고용승계 지침 준수해야”",
-      "summary": "서울특별시의회 유주동 의원(더불어민주당, 비례)은 2026년 서울시의회 기획경제위원회의 서울시립과학관 대상 행정사무감사에서 로봇인공지능과학관 외부 용역의 운영 실태를 지적하고, 2년 이상 계약 체결, 고용승계, 용역노동자 생활임금 적용, 전시운영 사무의 민간위탁 전환 ...",
-      "source": "서울신문 on MSN",
-      "publishedAt": "2026-11-09",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%9C%A0%EC%A3%BC%EB%8F%99-%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%9D%98%EC%9B%90-%EB%A1%9C%EB%B4%87%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%ED%95%99%EA%B4%80-%EC%9A%A9%EC%97%AD%EB%85%B8%EB%8F%99%EC%9E%90-2%EB%85%84-%EC%9D%B4%EC%83%81-%EA%B3%84%EC%95%BD-%EA%B3%A0%EC%9A%A9%EC%8A%B9%EA%B3%84-%EC%A7%80%EC%B9%A8-%EC%A4%80%EC%88%98%ED%95%B4%EC%95%BC/ar-AA2h2WM3",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.gBXgHrPPf-ciNGnk9ocIVA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "만들기만 하면 떼돈 벌던 소프트웨어…AI는 왜 데이터센터에 돈을 쏟아붓나 [한눈에 보는 AI 투자지도]",
-      "summary": "윈도우와 챗GPT로 살핀 AI의 비용과 수익 2026년 9월 29일 백악관에서 기자들에게 설명하는 다리오 아모데이 앤트로픽 최고경영자. 왼쪽에는 도널드 트럼프 미국 대통령과 마크 저커버그 메타 최고경영자가 서 있다. 이달 기업공개(IPO)를 추진하는 앤트로픽은 AI 성능뿐 아니라 수익성도 입증해야 한다. 프로그램을 많이 팔수록 이익이 쌓이던 윈도우와 달리 ...",
-      "source": "매일경제 on MSN",
-      "publishedAt": "2026-11-09",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%A7%8C%EB%93%A4%EA%B8%B0%EB%A7%8C-%ED%95%98%EB%A9%B4-%EB%96%BC%EB%8F%88-%EB%B2%8C%EB%8D%98-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-ai%EB%8A%94-%EC%99%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%EC%97%90-%EB%8F%88%EC%9D%84-%EC%8F%9F%EC%95%84%EB%B6%93%EB%82%98-%ED%95%9C%EB%88%88%EC%97%90-%EB%B3%B4%EB%8A%94-ai-%ED%88%AC%EC%9E%90%EC%A7%80%EB%8F%84/ar-AA2h42hY",
-      "imageUrl": "https://www.bing.com/th?id=ONUT._M_n3_hPyoDVBSxM_jWZ1Q&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "AI로 바뀌는 바이오산업…KIT, 12일 'DEEP DIVE INTO 2026' 바이오헬스 기술포럼 주관",
-      "summary": "국가독성과학연구소(KIT)가 인공지능(AI) 기반 신약개발부터 임상시험, 바이오의약품 제조까지 우리 바이오기업의 혁신기술을 글로벌 시장에 소개한다. KIT는 오는 12일 서울 그랜드하얏트 호텔에서 열리는 ‘DEEP DIVE INTO 2026’에서 바이오헬스 분야 기술포럼을 주관한다. 이번 행사는 중소벤처기업부의 ‘초격차 스타트업 프로젝트(DIPS)’를 통해 ...",
-      "source": "쿠키뉴스 on MSN",
       "publishedAt": "2026-11-10",
-      "url": "https://www.msn.com/ko-kr/news/other/ai%EB%A1%9C-%EB%B0%94%EB%80%8C%EB%8A%94-%EB%B0%94%EC%9D%B4%EC%98%A4%EC%82%B0%EC%97%85-kit-12%EC%9D%BC-deep-dive-into-2026-%EB%B0%94%EC%9D%B4%EC%98%A4%ED%97%AC%EC%8A%A4-%EA%B8%B0%EC%88%A0%ED%8F%AC%EB%9F%BC-%EC%A3%BC%EA%B4%80/ar-AA2h63D5",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.JQon3fEJvJX4slGWPgDWqA&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.yna.co.kr/view/PYH20261110063700013",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ND3FqhWATl0TZGHQ8sX80g&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "젠슨 황 논란 속 열린 엔비디아 AI 데이…韓, 기술 협력·추가 투자 직진(종합)",
-      "summary": "[서울=뉴시스]심지혜 윤현성 윤정민 기자 = 젠슨 황 엔비디아 최고경영자(CEO)를 둘러싼 사생활 논란에도 불구하고 엔비디아가 국내 기업들과 인공지능(AI) 기술 협력을 예정대로 추진하며 한국 AI 생태계와의 협력 기조를 이어갔다. 당초 예정됐던 정부 고위급 면담..",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-11-09",
-      "url": "https://www.fnnews.com/news/202611091824333896",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.0EVVRLdKvBikx4rRVSXd6g&pid=News&w=1200&h=675&c=14"
+      "title": "인공지능이라는 진짜 괴물 [유레카]",
+      "summary": "최근 온라인 커뮤니티에 ‘요즘 애들은 절대 이해 못 하는 8090년생이 괴물인 이유’라는 글이 돌았다. 작성자는 아날로그와 디지털 과도기를 보낸 1980~1990년생의 일상을 무용담처럼 풀어냈다. ‘노빠꾸 배달―앱 없이 전화로 주문’, ‘인간 폰북―친구 집 전화번호 5 ...",
+      "source": "한겨레",
+      "publishedAt": "2026-11-10",
+      "url": "https://www.hani.co.kr/arti/opinion/column/1286642.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-3k-BjtLln61i7X7jjVx_w&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "탄소는 이제 원가…AI 데이터센터 경쟁력, GPU 아닌 전력이 가른다",
+      "summary": "[디지털데일리 박재현기자] 한국전자통신연구원(ETRI)이 데이터센터 탄소 배출량을 개별 서비스 단위까지 추적하는 기술 개발에 나섰다. 건물 전체 전력 사용량으로 배출량을 따지던 기존 방식 대신 AI 워크로드별 배출량을 실시간으로 산정한다. 디지털 트윈과 생성형 AI로 탄소 저감 운영안을 추천하는 플랫폼을 2029년까지 만든다. 한국데이터센터연합회는 10일 ...",
+      "source": "디지털데일리 on MSN",
+      "publishedAt": "2026-11-10",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%83%84%EC%86%8C%EB%8A%94-%EC%9D%B4%EC%A0%9C-%EC%9B%90%EA%B0%80-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B2%BD%EC%9F%81%EB%A0%A5-gpu-%EC%95%84%EB%8B%8C-%EC%A0%84%EB%A0%A5%EC%9D%B4-%EA%B0%80%EB%A5%B8%EB%8B%A4/ar-AA2hakyM",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.9RbVNjjxs7Ob0uhi9a9luw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
