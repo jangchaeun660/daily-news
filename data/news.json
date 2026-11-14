@@ -1,52 +1,61 @@
 {
-  "updatedAt": "2026-11-13",
-  "windowStart": "2026-11-11T22:00:00.000Z",
-  "windowEnd": "2026-11-12T22:00:00.000Z",
+  "updatedAt": "2026-11-14",
+  "windowStart": "2026-11-12T22:00:00.000Z",
+  "windowEnd": "2026-11-13T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "국내 제약바이오 ESG 평가 들여다보니…기업별 성적 차이 뚜렷",
-      "summary": "기사의 본문 내용은 이 글자크기로 변경됩니다. ESG경영. AI 생성 이미지 2026년 국내 제약·바이오기업의 환경·사회·지배구조(ESG) 평가에서 기업별 통합 등급뿐 아니라 영역별 평가 결과에서도 차이가 나타났다. 삼성바이오로직스와 SK바이오팜, HK이노엔, 동아제약은 통합 A+ 등급을 받으며 최상위권에 올랐으며, 일부 기업은 사회 영역에서 높은 평가를 ...",
-      "source": "약사공론",
-      "publishedAt": "2026-11-12",
-      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548820",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Nr5vBqd6e4gUp6PDk_Q8Ow&pid=News&w=1200&h=675&c=14"
+      "title": "[이슈&피플]\"베드타운 확대 막아야\"…한강2 대책위, 김포 아라지구 주택 공급 반발",
+      "summary": "[앵커]정부가 김포 아라지구에 신규주택 3만 7천 호를 공급하겠다고 발표한 것과 관련해 김포한강2 공공주택지구 원주민들이 들고일어났습니다. 한강2 지구 5만 천여 호 조성 사업에 차질이 생길 수 있다는 우려 때문인데 보상 재원과 공공임대주택 비율, 광역 교통과 자족도시 계획 전반에 문제를 제기하고 있습니다. 김포한강2 공공주택지구 대책위 공동협의체를 직접 ...",
+      "source": "헬로tv뉴스",
+      "publishedAt": "2026-11-13",
+      "url": "https://news.lghellovision.net/news/articleView.html?idxno=562283",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.95jbyL_wddDjdpEE-6HgXA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "\"새벽 샤워·엘리베이터 자제해달라\"…선 넘은 배려 요구인가[이슈N]",
-      "summary": "[서울=뉴시스]장인혜 인턴 기자 = 아파트에서 밤늦게 샤워하는 것을 두고 이웃 간 생활 소음 논쟁이 이어지고 있다. 지난 6일 사회관계망서비스(SNS)에 늦은 시간 샤워와 세탁기 사용을 자제해 달라는 아파트 주민의 글이 올라오자, 개인의 일상생활을 어디까지 이웃..",
+      "title": "'사회공헌 전문가' 정무성 현대차 정몽구 재단 이사장 별세…향년 68세",
+      "summary": "류인선 기자 = 정무성 현대자동차 정몽구 재단 이사장이 향년 68세로 별세했다. 13일 재단에 따르면 1959년생인 정 이사장은 숭실대 영문학과를 졸업하고 서울대 사회복지학 석사, 미국 시카고대 복지행정학 박사 학위를 받았다.",
       "source": "파이낸셜뉴스",
-      "publishedAt": "2026-11-10",
-      "url": "https://www.fnnews.com/news/202611100701407155",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Ih8HqaReMAUKZhQWTLAAzQ&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-11-13",
+      "url": "https://www.fnnews.com/news/202611131752213007",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.db3vaLZU4tpyYuZznNWh_w&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "[이슈&경제] 이윤을 넘어 가치로, 넷플릭스와 삼성화재가 보여준 ESG",
-      "summary": "넷플릭스는 오늘날 ESG(환경·사회·지배구조) 경영을 콘텐츠 산업에서 가장 성공적으로 구현한 기업으로 평가받는다. 이 플랫폼은 기술과 창작의 자율성을 토대로 다양하고 의미 있는 스토리를 발굴해 전 세계 시청자에게 즐거움과 사회적 가치를 전달하는 글로벌 엔터테인먼트로 자 ...",
-      "source": "경기일보",
-      "publishedAt": "2026-11-08",
-      "url": "https://www.kyeonggi.com/article/20261108580101",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.BMXlZfXLlC8tFzgCiQHJUw&pid=News&w=1200&h=675&c=14"
+      "title": "경기도의회 김진명 의원, “이주노동자 주거환경 전수조사만 반복… 실질적인 개선대책 마련해야”",
+      "summary": "이어 김 의원은 “주거환경 개선 필요성을 지속적으로 강조하면서도 정작 2026년도 관련 예산은 삭감됐다”며 “실태조사만 반복할 것이 아니라 개선에 필요한 예산과 구체적인 후속조치가 마련돼야 한다”라고 강조했다. 이에 대해 윤현옥 이민사회정책과장은 “5년 전보다 주거환경이 일부 개선됐지만 불법·부적정 숙소가 여전히 많이 남아 있다”며 “전수조사는 완료했으나 ...",
+      "source": "세계타임즈",
+      "publishedAt": "2026-11-13",
+      "url": "https://www.thesegye.com/news/view/1065575561102622",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.9ebsy0HLRdw8__ufqQj-6w&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "안산시 상상스테이션 ‘사회이슈 대응을 위한 창의적 해결방안 지원사업’ 공모 선정",
-      "summary": "안산시가 지난해 고잔역 인근에 조성한 청년문화공간인 ‘상상스테이션’이 사회복지공동모금회가 주관하는 ‘사회이슈 대응을 위한 창의적 해결방안 지원사업’ 공모에 선정됐습니다. 선정된 사업은 ‘이주배경 청년 주도의 지역사회 관계망 형성을 위한 문화예술 커뮤니티 프로젝트’로, 안산시는 이번 선정으로 지원받게 되는 9천700만 원의 사업비를 활용해 이주배경 청년들과 ...",
-      "source": "news.skbroadband",
-      "publishedAt": "2026-11-02",
-      "url": "https://news.skbroadband.com/news/articleView.html?idxno=242050",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.o0Ixo5CqHRFQHA87yUfrDQ&pid=News&w=1200&h=675&c=14"
+      "title": "BNK금융, 한국ESG기준원 ESG 평가서 5년 연속 통합 'A'",
+      "summary": "[파이낸셜뉴스] BNK금융그룹이 국내 대표 환경·사회·지배구조(ESG) 평가에서 5년 연속 통합 A등급을 획득하며 지속가능경영 역량을 인정받았다. 사회(S) 부문에서 4년 연속, 환경(E) 부문에서 3년 연속 A+등급을 달성하며 지역사회 상생과 친환경 금융 확대 성과를 이어갔다. BNK금융그룹은 한국ESG기준원(KCGS)이 발표한 '2026년 ESG 평가' ...",
+      "source": "파이낸셜뉴스 on MSN",
+      "publishedAt": "2026-11-13",
+      "url": "https://www.msn.com/ko-kr/news/other/bnk%EA%B8%88%EC%9C%B5-%ED%95%9C%EA%B5%ADesg%EA%B8%B0%EC%A4%80%EC%9B%90-esg-%ED%8F%89%EA%B0%80%EC%84%9C-5%EB%85%84-%EC%97%B0%EC%86%8D-%ED%86%B5%ED%95%A9-a/ar-AA2hkhfr",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.oXZ5S7kRyOiBX8D4v8CY0g&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "society",
-      "title": "“당진외국인노동자쉼터, 임시 거처 넘어 주거복지·재취업 지원 거점으로 발전해야”",
-      "summary": "제9회 실직 외국인 근로자 실태조사 분석 발표 및 정책토론회가 지난 11일 당진시청 중회의실에서 열렸다.당진시외국인근로자지원센터(센터장 김승숙)가 주최·주관하고 충남광역 외국인노동자쉼터가 협력한 이번 토론회는 실직 외국인노동자의 주거 실태와 당진에 위치한 충남광역 외국인노동자쉼터의 운영 현황을 점검하고, 이주노동자의 기본권과 주거권 보장을 위한 정책 대안을 ...",
-      "source": "당진시대",
-      "publishedAt": "2026-11-11",
-      "url": "http://www.djtimes.co.kr/news/articleView.html?idxno=114214",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.qqbFLizOakwl_-YU9HZ7_A&pid=News&w=1200&h=675&c=14"
+      "category": "ai",
+      "title": "“인공지능 MRI 설치하니 투자금 15개월 만에 회수” [건강한겨레]",
+      "summary": "‘GE 헬스케어×AI 센터’. 지난 6일 방문한 경기 화성시 동탄시티병원 신관 3층의 ‘자기공명영상(MRI) 검사실’ 옆 벽면에 표시된 문구다. 이 MRI 설비는 이 병원의 ‘인공지능 전환’(AX)의 출발점이다. 병원은 검사시간 감축 등을 목표로 2020년 ‘제너럴일렉 ...",
+      "source": "한겨레",
+      "publishedAt": "2026-11-13",
+      "url": "https://www.hani.co.kr/arti/hanihealth/medical/1287299.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.geMRRqI3ZmLvudkVWnY1eA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "\"내가 AI 안경 썼다고?\" 분노한 리트 만점자, 라이브 켜고 '충격 예고' 반격",
+      "summary": "[내외일보] 이태종 기자 = 초소형 카메라와 인공지능 (AI)이 탑재된 스마트 안경을 이용한 시험 부정행위 의혹이 국가직 자격시험은 물론 로스쿨 입시 시험 고득점자에게까지 들불처럼 번지고 있다. 기형적인 고득점을 향한 수험생들의 불신이 커지면서 근거 없는 '마녀사냥'을 우려하는 목소리가 나오는 가운데, 의혹의 당사자로 지목된 고득점자들은 실시간 라이브 문제 ...",
+      "source": "내외일보",
+      "publishedAt": "2026-11-13",
+      "url": "https://www.naewoeilbo.com/news/articleView.html?idxno=2454133",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.H71wBfSm8SQ_efqqdCaQ5A&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
@@ -59,30 +68,21 @@
     },
     {
       "category": "ai",
+      "title": "서부발전, 코웨포 에이엑스 페스티벌 개최…인공지능 혁신 성과 공유",
+      "summary": "[태안]한국서부발전은 인공지능(AI)을 활용해 발전설비 운영과 안전관리 등 다양한 업무를 개선한 성과를 공유하고 우수사례를 전사로 확산하기 위한 자리를 마련했다.서부발전은 지난 10일 충남 태안 본사에서 '오늘의 성과, 함께 여는 에이엑스(AX) 미래'를 주제로 '2026 코웨포(KOWEPO) 에이엑스 페스티벌'을 개최했다고 11일 밝혔다.행사에는 이정복 ...",
+      "source": "대전일보 on MSN",
+      "publishedAt": "2026-11-12",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%84%9C%EB%B6%80%EB%B0%9C%EC%A0%84-%EC%BD%94%EC%9B%A8%ED%8F%AC-%EC%97%90%EC%9D%B4%EC%97%91%EC%8A%A4-%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-%EA%B0%9C%EC%B5%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%98%81%EC%8B%A0-%EC%84%B1%EA%B3%BC-%EA%B3%B5%EC%9C%A0/ar-AA2hgTA3",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.I2XvQnpaAaq4nyGjJMi9yw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
       "title": "인천시, 미래 3년 정보화 청사진 다진다… 제7차 지능정보화 기본계획 심의",
       "summary": "박찬대 인천시장은 “시가 급변하는 디지털 환경과 인공지능(AI) 기술 혁신에 발맞추어, 향후 3년 동안 시정 전반을 이끌어갈 정보화 마스터플랜 구체화에 나선다”고 밝혔다.시는 12일부터 13일까지 ‘2026년 제2차 인천시 지능정보화위원회’를 열고, ‘제7차 인천시 지능정보화 기본계획(안)」을 심의한다.이번 위원회는 내년부터 오는 2029년까지 3개년 동안 ...",
       "source": "전국매일신문",
       "publishedAt": "2026-11-12",
       "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311357",
       "imageUrl": "https://www.bing.com/th?id=ONUT.2K0WC7-mZf0A0kLnnb9Nnw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "AI 데이터센터 특수 누리던 철근, 美 수출 99.9% 급감…무슨 일?",
-      "summary": "[디지털데일리 최민지기자] 북미 인공지능(AI) 데이터센터 건설 확대에 힘입어 증가했던 한국산 철근 수출이 급격히 위축됐다. 지난 10월 대미 철근 수출량은 한 달 만에 99.9% 급감했다. 고환율 효과가 약해진 데다 미국 철강업계가 한국산 철강에 추가 규제를 요구하면서 수출 여건이 악화된 것으로 풀이된다. 13일 한국철강협회에 따르면 올해 10월 한국의 ...",
-      "source": "디지털데일리 on MSN",
-      "publishedAt": "2026-11-13",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%ED%8A%B9%EC%88%98-%EB%88%84%EB%A6%AC%EB%8D%98-%EC%B2%A0%EA%B7%BC-%E7%BE%8E-%EC%88%98%EC%B6%9C-99-9-%EA%B8%89%EA%B0%90-%EB%AC%B4%EC%8A%A8-%EC%9D%BC/ar-AA2hkQtl",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ap2LIne-gzLezQkHhNLEfw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[AT 현장] 인텔 \"AI 데이터센터 CPU 수요 5배 성장\"…2000억달러 시장 열린다",
-      "summary": "생성형 AI 넘어 에이전틱 AI 시대 본격화 작업 실행·자원 관리 맡는 CPU 부상 삼성메디슨 협력 통해 의료 AI 사례 소개 [아시아타임즈=김빛나 기자] \"향후 몇 년간 데이터센터용 중앙처리장치(CPU) 수요가 현재의 5배로 증가해 2000억달러(약 266조원)를 넘어설 것으로 봅니다.\" 아닐 난두리 인텔 데이터센터 AI그룹 AI 제품 및 시장 진출 전략 ...",
-      "source": "아시아타임즈 on MSN",
-      "publishedAt": "2026-11-12",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/at-%ED%98%84%EC%9E%A5-%EC%9D%B8%ED%85%94-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-cpu-%EC%88%98%EC%9A%94-5%EB%B0%B0-%EC%84%B1%EC%9E%A5-2000%EC%96%B5%EB%8B%AC%EB%9F%AC-%EC%8B%9C%EC%9E%A5-%EC%97%B4%EB%A6%B0%EB%8B%A4/ar-AA2hgglM",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.f2xJDtnEMGowyozp1XW3Rw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
