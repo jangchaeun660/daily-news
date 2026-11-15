@@ -1,34 +1,16 @@
 {
-  "updatedAt": "2026-11-14",
-  "windowStart": "2026-11-12T22:00:00.000Z",
-  "windowEnd": "2026-11-13T22:00:00.000Z",
+  "updatedAt": "2026-11-15",
+  "windowStart": "2026-11-13T22:00:00.000Z",
+  "windowEnd": "2026-11-14T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[이슈&피플]\"베드타운 확대 막아야\"…한강2 대책위, 김포 아라지구 주택 공급 반발",
-      "summary": "[앵커]정부가 김포 아라지구에 신규주택 3만 7천 호를 공급하겠다고 발표한 것과 관련해 김포한강2 공공주택지구 원주민들이 들고일어났습니다. 한강2 지구 5만 천여 호 조성 사업에 차질이 생길 수 있다는 우려 때문인데 보상 재원과 공공임대주택 비율, 광역 교통과 자족도시 계획 전반에 문제를 제기하고 있습니다. 김포한강2 공공주택지구 대책위 공동협의체를 직접 ...",
-      "source": "헬로tv뉴스",
-      "publishedAt": "2026-11-13",
-      "url": "https://news.lghellovision.net/news/articleView.html?idxno=562283",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.95jbyL_wddDjdpEE-6HgXA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "'사회공헌 전문가' 정무성 현대차 정몽구 재단 이사장 별세…향년 68세",
-      "summary": "류인선 기자 = 정무성 현대자동차 정몽구 재단 이사장이 향년 68세로 별세했다. 13일 재단에 따르면 1959년생인 정 이사장은 숭실대 영문학과를 졸업하고 서울대 사회복지학 석사, 미국 시카고대 복지행정학 박사 학위를 받았다.",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-11-13",
-      "url": "https://www.fnnews.com/news/202611131752213007",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.db3vaLZU4tpyYuZznNWh_w&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "경기도의회 김진명 의원, “이주노동자 주거환경 전수조사만 반복… 실질적인 개선대책 마련해야”",
-      "summary": "이어 김 의원은 “주거환경 개선 필요성을 지속적으로 강조하면서도 정작 2026년도 관련 예산은 삭감됐다”며 “실태조사만 반복할 것이 아니라 개선에 필요한 예산과 구체적인 후속조치가 마련돼야 한다”라고 강조했다. 이에 대해 윤현옥 이민사회정책과장은 “5년 전보다 주거환경이 일부 개선됐지만 불법·부적정 숙소가 여전히 많이 남아 있다”며 “전수조사는 완료했으나 ...",
-      "source": "세계타임즈",
-      "publishedAt": "2026-11-13",
-      "url": "https://www.thesegye.com/news/view/1065575561102622",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.9ebsy0HLRdw8__ufqQj-6w&pid=News&w=1200&h=675&c=14"
+      "title": "한국세무사회 'AOTCA 홍콩 총회'서 해법 제시… 글로벌 조세 협력 주도",
+      "summary": "구재이 회장 등 이사회·VIP 리셉션 참석해 각국 단체와 교류도11일 컨퍼런스서 홍성원 세무사 '예측적 위험관리' 발표 예정 (홍콩=뉴스1) 송용환 기자 = 아시아·오세아니아 각국의 조세 전문가들이 홍콩에 모여 세무행정의 디지털 전환과 국제조세 협력 방안을 논의하고 있다. 한국세무사회도 대표단을 파견해 각국 세무사 ...",
+      "source": "뉴스1 on MSN",
+      "publishedAt": "2026-11-10",
+      "url": "https://www.msn.com/ko-kr/news/news/%ED%95%9C%EA%B5%AD%EC%84%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-aotca-%ED%99%8D%EC%BD%A9-%EC%B4%9D%ED%9A%8C-%EC%84%9C-%ED%95%B4%EB%B2%95-%EC%A0%9C%EC%8B%9C-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%A1%B0%EC%84%B8-%ED%98%91%EB%A0%A5-%EC%A3%BC%EB%8F%84/ar-AA2h73F8",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.dGins-tO1MaqftPgrSkIkw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -40,49 +22,49 @@
       "imageUrl": "https://www.bing.com/th?id=ONUT.oXZ5S7kRyOiBX8D4v8CY0g&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "ai",
-      "title": "“인공지능 MRI 설치하니 투자금 15개월 만에 회수” [건강한겨레]",
-      "summary": "‘GE 헬스케어×AI 센터’. 지난 6일 방문한 경기 화성시 동탄시티병원 신관 3층의 ‘자기공명영상(MRI) 검사실’ 옆 벽면에 표시된 문구다. 이 MRI 설비는 이 병원의 ‘인공지능 전환’(AX)의 출발점이다. 병원은 검사시간 감축 등을 목표로 2020년 ‘제너럴일렉 ...",
-      "source": "한겨레",
-      "publishedAt": "2026-11-13",
-      "url": "https://www.hani.co.kr/arti/hanihealth/medical/1287299.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.geMRRqI3ZmLvudkVWnY1eA&pid=News&w=1200&h=675&c=14"
+      "category": "society",
+      "title": "한국원자력환경공단, 지역사회공헌 인정제 최고등급 S등급 획득",
+      "summary": "[헤럴드경제(경주)=김병진 기자]한국원자력환경공단은 보건복지부와 한국사회복지협의회가 공동 주관하는 ‘2026년 지역사회공헌 인정제’에서 최고등급인 S등급을 획득했다고 13일 밝혔다. 지역사회공헌 인정제는 비영리단체와 협력해 지속적인 사회공헌 활동을 펼친 기업과 기관을 발굴·인정하는 제도다. 공단은 지난해 첫 참여에서 A+등급을 받은 데 이어 올해 한 단계 ...",
+      "source": "헤럴드경제 on MSN",
+      "publishedAt": "2026-11-14",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%9B%90%EC%9E%90%EB%A0%A5%ED%99%98%EA%B2%BD%EA%B3%B5%EB%8B%A8-%EC%A7%80%EC%97%AD%EC%82%AC%ED%9A%8C%EA%B3%B5%ED%97%8C-%EC%9D%B8%EC%A0%95%EC%A0%9C-%EC%B5%9C%EA%B3%A0%EB%93%B1%EA%B8%89-s%EB%93%B1%EA%B8%89-%ED%9A%8D%EB%93%9D/ar-AA2hpnqj",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.9B3SsO1FtJtG3k6K_BvIFQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "\"우승 신문 구해요\"…삼성라이온즈 한국시리즈 우승에 신문 불티",
+      "summary": "(대구=연합뉴스) 윤관식 기자 = 삼성라이온즈 야구단의 한국시리즈 우승에 삼성 팬들이 신문 구하기에 열을 올리고 있다. 사회관계망서비스(SNS) 상에서는 1면에 삼성라이온즈 사진이 실린 신문을 구하는 누리꾼들이 등장했다. 해당 신문은 '가성비 우승 굿즈'(가격대비 우수한 우승 상품)로 꼽히며 인기를 끄는 모양새다. 삼성라이온즈 한국시리즈 우승 다음 날인 9 ...",
+      "source": "연합뉴스",
+      "publishedAt": "2026-11-09",
+      "url": "https://www.yna.co.kr/view/AKR20261109132200053",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Fw2FuxGdj0gQalCLMOOa6g&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "\"내가 AI 안경 썼다고?\" 분노한 리트 만점자, 라이브 켜고 '충격 예고' 반격",
-      "summary": "[내외일보] 이태종 기자 = 초소형 카메라와 인공지능 (AI)이 탑재된 스마트 안경을 이용한 시험 부정행위 의혹이 국가직 자격시험은 물론 로스쿨 입시 시험 고득점자에게까지 들불처럼 번지고 있다. 기형적인 고득점을 향한 수험생들의 불신이 커지면서 근거 없는 '마녀사냥'을 우려하는 목소리가 나오는 가운데, 의혹의 당사자로 지목된 고득점자들은 실시간 라이브 문제 ...",
-      "source": "내외일보",
-      "publishedAt": "2026-11-13",
-      "url": "https://www.naewoeilbo.com/news/articleView.html?idxno=2454133",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.H71wBfSm8SQ_efqqdCaQ5A&pid=News&w=1200&h=675&c=14"
+      "title": "337호 미래산업특집) AI·휴머노이드·반도체·바이오·우주가 대한민국의 미래를 바꾼다",
+      "summary": "인공지능(AI)이 인간의 지적 노동을 바꾸고, 휴머노이드 로봇이 생산현장에 등장하며, 첨단 반도체는 국가 경쟁력의 핵심으로 떠오르고 있다. 바이오 기술은 질병의 진단과 치료 방식을 혁신하고, 우주산업은 통신과 국방, 새로운 경제영토의 가능성을 넓히고 있다.",
+      "source": "시사매거진",
+      "publishedAt": "2026-11-14",
+      "url": "https://www.sisamagazine.co.kr/article/1000000000806",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.is2ODFSAgO8zxylIW5tvXg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "㈜비이오케이, (사)한국인공지능협회와 전략적 제휴 업무협약 체결",
-      "summary": "AI 기반 클라이언트 맞춤형 소셜미디어 모니터링 서비스 본격 선보여공공브랜드 커뮤니케이션 전문기업인 ㈜비이오케이(BeOk, 대표이사 복정선)는 지난 10일 사단법인 한국인공지능협회(회장 김현철)와 AI 산업 활성화를 위한 전략적 제휴 업무협약을 체결했다고 13일 ...",
-      "source": "서울신문 on MSN",
-      "publishedAt": "2026-11-13",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EB%B9%84%EC%9D%B4%EC%98%A4%EC%BC%80%EC%9D%B4-%EC%82%AC-%ED%95%9C%EA%B5%AD%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%ED%98%91%ED%9A%8C%EC%99%80-%EC%A0%84%EB%9E%B5%EC%A0%81-%EC%A0%9C%ED%9C%B4-%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD-%EC%B2%B4%EA%B2%B0/ar-AA2hk4fs",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.-btyh0hYg_9MRXxKgj58MQ&pid=News&w=1200&h=675&c=14"
+      "title": "[특집/AI 시대, 새롭게 뜨는 유망산업 제4편: 산업용 AI·스마트팩토리] “공장이 스스로 판단한다”…제조업 AI 전환에서 찾는 한국의 ...",
+      "summary": "산업통상부는 지난 8월 AI팩토리 선도 프로젝트로 지원한 약 170개 사업장 가운데 사업에 일찍 착수한 42곳을 점검한 결과, 생산성이 평균 30.1% 높아지고 불량률은 평균 15.5% 낮아졌다고 밝혔다. 이 수치는 먼저 사업에 착수한 42개 사업장을 대상으로 집계한 결과다.",
+      "source": "코리아포스트",
+      "publishedAt": "2026-11-14",
+      "url": "https://www.koreapost.co.kr/news/articleView.html?idxno=90106",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.hsry-Ie2LYQFU5Qa9I6cZg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "서부발전, 코웨포 에이엑스 페스티벌 개최…인공지능 혁신 성과 공유",
-      "summary": "[태안]한국서부발전은 인공지능(AI)을 활용해 발전설비 운영과 안전관리 등 다양한 업무를 개선한 성과를 공유하고 우수사례를 전사로 확산하기 위한 자리를 마련했다.서부발전은 지난 10일 충남 태안 본사에서 '오늘의 성과, 함께 여는 에이엑스(AX) 미래'를 주제로 '2026 코웨포(KOWEPO) 에이엑스 페스티벌'을 개최했다고 11일 밝혔다.행사에는 이정복 ...",
-      "source": "대전일보 on MSN",
-      "publishedAt": "2026-11-12",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%84%9C%EB%B6%80%EB%B0%9C%EC%A0%84-%EC%BD%94%EC%9B%A8%ED%8F%AC-%EC%97%90%EC%9D%B4%EC%97%91%EC%8A%A4-%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-%EA%B0%9C%EC%B5%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%98%81%EC%8B%A0-%EC%84%B1%EA%B3%BC-%EA%B3%B5%EC%9C%A0/ar-AA2hgTA3",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.I2XvQnpaAaq4nyGjJMi9yw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "인천시, 미래 3년 정보화 청사진 다진다… 제7차 지능정보화 기본계획 심의",
-      "summary": "박찬대 인천시장은 “시가 급변하는 디지털 환경과 인공지능(AI) 기술 혁신에 발맞추어, 향후 3년 동안 시정 전반을 이끌어갈 정보화 마스터플랜 구체화에 나선다”고 밝혔다.시는 12일부터 13일까지 ‘2026년 제2차 인천시 지능정보화위원회’를 열고, ‘제7차 인천시 지능정보화 기본계획(안)」을 심의한다.이번 위원회는 내년부터 오는 2029년까지 3개년 동안 ...",
-      "source": "전국매일신문",
-      "publishedAt": "2026-11-12",
-      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311357",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.2K0WC7-mZf0A0kLnnb9Nnw&pid=News&w=1200&h=675&c=14"
+      "title": "미 공군·NSA·맨디언트 거친 롭 T. 리, 드라고스 첫 최고AI책임자 전격 취임",
+      "summary": "거액의 스카우트와 핵심 임원의 이적 뒤에는 글로벌 산업 지형을 바꿀 거대한 셈법이 숨어 있습니다. 더구루는 기획 시리즈 '국경 없는 인재 전쟁 : 핵심 인재는 어디로 이동하는가'를 통해 테크·산업계 핵심 인재의 이동 경로를 추적합니다. 인재 영입이 가져올 기업의 숨은 신사업 전략과 산업 지각변동의 비하인드를 파헤칩니다. -편집자주- [더구루=김예지 기자] ...",
+      "source": "더구루",
+      "publishedAt": "2026-11-14",
+      "url": "https://www.theguru.co.kr/news/article.html?no=109543",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.3JHsWJNKvhO_sgFXZCS2ew&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
