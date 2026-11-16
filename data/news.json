@@ -1,70 +1,88 @@
 {
-  "updatedAt": "2026-11-15",
-  "windowStart": "2026-11-13T22:00:00.000Z",
-  "windowEnd": "2026-11-14T22:00:00.000Z",
+  "updatedAt": "2026-11-16",
+  "windowStart": "2026-11-14T22:00:00.000Z",
+  "windowEnd": "2026-11-15T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "한국세무사회 'AOTCA 홍콩 총회'서 해법 제시… 글로벌 조세 협력 주도",
-      "summary": "구재이 회장 등 이사회·VIP 리셉션 참석해 각국 단체와 교류도11일 컨퍼런스서 홍성원 세무사 '예측적 위험관리' 발표 예정 (홍콩=뉴스1) 송용환 기자 = 아시아·오세아니아 각국의 조세 전문가들이 홍콩에 모여 세무행정의 디지털 전환과 국제조세 협력 방안을 논의하고 있다. 한국세무사회도 대표단을 파견해 각국 세무사 ...",
+      "title": "부천시, ‘기본사회’ 정책 구체화 나선다…주거·돌봄·일자리 시민 의견 수렴",
+      "summary": "부천시가 주거·돌봄·교육·일자리 등 시민 생활과 밀접한 분야의 기본서비스 확대를 위한 정책 발굴에 나섰다. 특히 이는 기존 복지제도의 한계를 보완하고 지역 실정에 맞는 이른바 ‘부천형 기본사회’ 정책을 마련하겠다는 구상이다. 부천시는 지난 12일 시청 소통마당에서 주민자치위원과 통장 등 시민 150여 명이 참석한 가운데 ‘2026년 기본사회 시민 포럼’을 ...",
+      "source": "중부일보",
+      "publishedAt": "2026-11-15",
+      "url": "https://www.joongboo.com/news/articleView.html?idxno=363742498",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.OGB88dDskIxoDG4K8YlEkg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "한국수목원정원관리원 AI 윤리 준수기관 확인마크 획득",
+      "summary": "(대전=뉴스1) 박찬수 기자 = 산림청 산하 한국수목원정원관리원이 한국지능정보사회진흥원(NIA)으로부터 'AI 윤리 준수기관' 확인마크를 획득했다고 16일 밝혔다. 'AI 윤리 준수기관' 확인마크는 기관 차원의 인공지능 윤리원칙 수립과 업무 반영, 임직원 윤리교육 이수 여부 등을 확인해 발급하는 제도다.",
       "source": "뉴스1 on MSN",
-      "publishedAt": "2026-11-10",
-      "url": "https://www.msn.com/ko-kr/news/news/%ED%95%9C%EA%B5%AD%EC%84%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-aotca-%ED%99%8D%EC%BD%A9-%EC%B4%9D%ED%9A%8C-%EC%84%9C-%ED%95%B4%EB%B2%95-%EC%A0%9C%EC%8B%9C-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%A1%B0%EC%84%B8-%ED%98%91%EB%A0%A5-%EC%A3%BC%EB%8F%84/ar-AA2h73F8",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.dGins-tO1MaqftPgrSkIkw&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-11-16",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%ED%95%9C%EA%B5%AD%EC%88%98%EB%AA%A9%EC%9B%90%EC%A0%95%EC%9B%90%EA%B4%80%EB%A6%AC%EC%9B%90-ai-%EC%9C%A4%EB%A6%AC-%EC%A4%80%EC%88%98%EA%B8%B0%EA%B4%80-%ED%99%95%EC%9D%B8%EB%A7%88%ED%81%AC-%ED%9A%8D%EB%93%9D/ar-AA2hvxus",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.BY40mgxk3HQAvrisLV2Z8Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "BNK금융, 한국ESG기준원 ESG 평가서 5년 연속 통합 'A'",
-      "summary": "[파이낸셜뉴스] BNK금융그룹이 국내 대표 환경·사회·지배구조(ESG) 평가에서 5년 연속 통합 A등급을 획득하며 지속가능경영 역량을 인정받았다. 사회(S) 부문에서 4년 연속, 환경(E) 부문에서 3년 연속 A+등급을 달성하며 지역사회 상생과 친환경 금융 확대 성과를 이어갔다. BNK금융그룹은 한국ESG기준원(KCGS)이 발표한 '2026년 ESG 평가' ...",
-      "source": "파이낸셜뉴스 on MSN",
-      "publishedAt": "2026-11-13",
-      "url": "https://www.msn.com/ko-kr/news/other/bnk%EA%B8%88%EC%9C%B5-%ED%95%9C%EA%B5%ADesg%EA%B8%B0%EC%A4%80%EC%9B%90-esg-%ED%8F%89%EA%B0%80%EC%84%9C-5%EB%85%84-%EC%97%B0%EC%86%8D-%ED%86%B5%ED%95%A9-a/ar-AA2hkhfr",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.oXZ5S7kRyOiBX8D4v8CY0g&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "한국원자력환경공단, 지역사회공헌 인정제 최고등급 S등급 획득",
-      "summary": "[헤럴드경제(경주)=김병진 기자]한국원자력환경공단은 보건복지부와 한국사회복지협의회가 공동 주관하는 ‘2026년 지역사회공헌 인정제’에서 최고등급인 S등급을 획득했다고 13일 밝혔다. 지역사회공헌 인정제는 비영리단체와 협력해 지속적인 사회공헌 활동을 펼친 기업과 기관을 발굴·인정하는 제도다. 공단은 지난해 첫 참여에서 A+등급을 받은 데 이어 올해 한 단계 ...",
-      "source": "헤럴드경제 on MSN",
-      "publishedAt": "2026-11-14",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%9B%90%EC%9E%90%EB%A0%A5%ED%99%98%EA%B2%BD%EA%B3%B5%EB%8B%A8-%EC%A7%80%EC%97%AD%EC%82%AC%ED%9A%8C%EA%B3%B5%ED%97%8C-%EC%9D%B8%EC%A0%95%EC%A0%9C-%EC%B5%9C%EA%B3%A0%EB%93%B1%EA%B8%89-s%EB%93%B1%EA%B8%89-%ED%9A%8D%EB%93%9D/ar-AA2hpnqj",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.9B3SsO1FtJtG3k6K_BvIFQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "\"우승 신문 구해요\"…삼성라이온즈 한국시리즈 우승에 신문 불티",
-      "summary": "(대구=연합뉴스) 윤관식 기자 = 삼성라이온즈 야구단의 한국시리즈 우승에 삼성 팬들이 신문 구하기에 열을 올리고 있다. 사회관계망서비스(SNS) 상에서는 1면에 삼성라이온즈 사진이 실린 신문을 구하는 누리꾼들이 등장했다. 해당 신문은 '가성비 우승 굿즈'(가격대비 우수한 우승 상품)로 꼽히며 인기를 끄는 모양새다. 삼성라이온즈 한국시리즈 우승 다음 날인 9 ...",
+      "title": "에이피알, 한국ESG기준원 ESG 평가 A등급…MSCI는 BBB등급",
+      "summary": "글로벌 ESG 평가기관 모건스탠리캐피털인터내셔널 (MSCI)의 평가에서도 지난 9월 B등급에서 이달 BBB등급으로 두 단계 상승했다. 에이피알은 지난 6월 창사 이래 처음으로 지속가능경영보고서를 발간해 ESG 경영 현황과 중장기 추진 방향을 공개했으며, 국문에 이어 영문 보고서도 발간했다.",
       "source": "연합뉴스",
-      "publishedAt": "2026-11-09",
-      "url": "https://www.yna.co.kr/view/AKR20261109132200053",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Fw2FuxGdj0gQalCLMOOa6g&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-11-15",
+      "url": "https://www.yna.co.kr/view/AKR20261115022400030",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.wdrcQ3DhT1--kuq_S81PIg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "하나금융그룹 미얀마법인, 현지서 한국식 사회공헌사업 펼쳐",
+      "summary": "미얀마에서 한국 금융회사가 현지 직원들과 함께 김장 나눔과 지진 피해 주민 지원에 나서 눈길을 끌고 있다.하나금융그룹의 미얀마 법인인 하나마이크로파이낸스(Hana Microfinance Limited·HMF)는 지난 11월 11일 본사 하나카페에서 '모두하나데이' 행사를 열고, 직원들 ...",
+      "source": "재외동포신문",
+      "publishedAt": "2026-11-15",
+      "url": "https://www.dongponews.net/news/articleView.html?idxno=61695",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.M1FDVcIAsM99q5E7Kl80OA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "337호 미래산업특집) AI·휴머노이드·반도체·바이오·우주가 대한민국의 미래를 바꾼다",
-      "summary": "인공지능(AI)이 인간의 지적 노동을 바꾸고, 휴머노이드 로봇이 생산현장에 등장하며, 첨단 반도체는 국가 경쟁력의 핵심으로 떠오르고 있다. 바이오 기술은 질병의 진단과 치료 방식을 혁신하고, 우주산업은 통신과 국방, 새로운 경제영토의 가능성을 넓히고 있다.",
-      "source": "시사매거진",
-      "publishedAt": "2026-11-14",
-      "url": "https://www.sisamagazine.co.kr/article/1000000000806",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.is2ODFSAgO8zxylIW5tvXg&pid=News&w=1200&h=675&c=14"
+      "title": "충남도서관, 누리집에 인공지능 도서추천 서비스 도입",
+      "summary": "충남도서관은 누리집에 인공지능(AI) 도서 추천 서비스를 도입했다고 16일 밝혔다. 이용자가 관심 있는 주제나 읽고 싶은 내용을 일상적인 문장으로 입력하면 인공지능이 이를 바탕으로 관련 도서를 추천하는 방식이다. 책 제목이나 저자를 정확히 알지 못하더라도 읽고 싶은 내용을 표현해 도서를 찾을 수 있는 만큼 책 선택에 어려움을 느끼는 이용자들에게 도움이 될 ...",
+      "source": "국민일보 on MSN",
+      "publishedAt": "2026-11-16",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%B6%A9%EB%82%A8%EB%8F%84%EC%84%9C%EA%B4%80-%EB%88%84%EB%A6%AC%EC%A7%91%EC%97%90-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8F%84%EC%84%9C%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%8F%84%EC%9E%85/ar-AA2hv3BB",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.85cUEUE1HSqD1_BPCrKOxw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "[특집/AI 시대, 새롭게 뜨는 유망산업 제4편: 산업용 AI·스마트팩토리] “공장이 스스로 판단한다”…제조업 AI 전환에서 찾는 한국의 ...",
-      "summary": "산업통상부는 지난 8월 AI팩토리 선도 프로젝트로 지원한 약 170개 사업장 가운데 사업에 일찍 착수한 42곳을 점검한 결과, 생산성이 평균 30.1% 높아지고 불량률은 평균 15.5% 낮아졌다고 밝혔다. 이 수치는 먼저 사업에 착수한 42개 사업장을 대상으로 집계한 결과다.",
-      "source": "코리아포스트",
-      "publishedAt": "2026-11-14",
-      "url": "https://www.koreapost.co.kr/news/articleView.html?idxno=90106",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.hsry-Ie2LYQFU5Qa9I6cZg&pid=News&w=1200&h=675&c=14"
+      "title": "인공지능 시대 신입은 누가 키우나",
+      "summary": "지난 9월 오픈AI는 자사 인공지능(AI)이 수학계의 오랜 난제를 해결했다고 발표했다. 100만 달러의 상금이 걸린 일곱 ‘밀레니엄 난제’ 중 하나였다. 인간 지성의 최전선에 있는 뛰어난 수학자들이 풀지 못했던 문제에 AI가 해법을 내놓았다는 것이다. 불과 3년 전만 해도 전문가들의 전망은 달랐다. 전 세계 AI 연구자 2700여 명이 참여한 2023년도 ...",
+      "source": "중앙일보",
+      "publishedAt": "2026-11-16",
+      "url": "https://www.joongang.co.kr/article/25478843",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.OkHjpYdIaHwoLmklv5PUGg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "미 공군·NSA·맨디언트 거친 롭 T. 리, 드라고스 첫 최고AI책임자 전격 취임",
-      "summary": "거액의 스카우트와 핵심 임원의 이적 뒤에는 글로벌 산업 지형을 바꿀 거대한 셈법이 숨어 있습니다. 더구루는 기획 시리즈 '국경 없는 인재 전쟁 : 핵심 인재는 어디로 이동하는가'를 통해 테크·산업계 핵심 인재의 이동 경로를 추적합니다. 인재 영입이 가져올 기업의 숨은 신사업 전략과 산업 지각변동의 비하인드를 파헤칩니다. -편집자주- [더구루=김예지 기자] ...",
-      "source": "더구루",
-      "publishedAt": "2026-11-14",
-      "url": "https://www.theguru.co.kr/news/article.html?no=109543",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.3JHsWJNKvhO_sgFXZCS2ew&pid=News&w=1200&h=675&c=14"
+      "title": "美 주도 'AI 공급망 동맹 활동'에 한국 합류…AI 산업 보호에 필요한 기술과 공급망 목록 공동 작성",
+      "summary": "[파이낸셜뉴스]미국이 한국과 일본, 호주 등 주요 동맹·협력국과 함께 중국을 견제하기 위해 인공지능(AI) 핵심 기술과 공급망의 공동 보호에 나선다. 반도체와 핵심 광물, 에너지 등 AI 산업을 뒷받침하는 전략 분야에서 보호가 필요한 기술과 공급망 목록을 공동으로 작성하기로 했다. 15일(현지 시간) 파이낸셜타임스(FT)에 따르면 제이컵 헬버그 미국 국무부 ...",
+      "source": "파이낸셜뉴스 on MSN",
+      "publishedAt": "2026-11-15",
+      "url": "https://www.msn.com/ko-kr/news/other/%E7%BE%8E-%EC%A3%BC%EB%8F%84-ai-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EB%8F%99%EB%A7%B9-%ED%99%9C%EB%8F%99%EC%97%90-%ED%95%9C%EA%B5%AD-%ED%95%A9%EB%A5%98-ai-%EC%82%B0%EC%97%85-%EB%B3%B4%ED%98%B8%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B8%B0%EC%88%A0%EA%B3%BC-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EB%AA%A9%EB%A1%9D-%EA%B3%B5%EB%8F%99-%EC%9E%91%EC%84%B1/ar-AA2hueJ6",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.LFdAmrmKapcf9ZS6qZOs5w&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "미, 한·일과 'AI 공급망 보호' 협정... 중 첨단기술 굴기 견제",
+      "summary": "미국이 중국의 인공지능 패권 확장을 견제하기 위해 한국과 일본 등 핵심 동맹국들과 첨단 AI 공급망 보호를 위한 다자간 협정을 전격 체결했습니다. 현지 시간 15일 영국 일간 파이낸셜타임스 보도에 따르면, 이른바 '지속적 번영을 위한 안전 기반에 관한 샌프란시스코 선언'으로 명명된 이번 협정에는 민감한 AI 기술과 토대 ...",
+      "source": "YTN on MSN",
+      "publishedAt": "2026-11-16",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%AF%B8-%ED%95%9C-%EC%9D%BC%EA%B3%BC-ai-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EB%B3%B4%ED%98%B8-%ED%98%91%EC%A0%95%EC%A4%91-%EC%B2%A8%EB%8B%A8%EA%B8%B0%EC%88%A0-%EA%B5%B4%EA%B8%B0-%EA%B2%AC%EC%A0%9C/ar-AA2huMc6",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.xb7EWFYWBl66FJzafSTodw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "‘관 주도 뺀 AI 전략’…인천시, 기업 12곳과 밑그림",
+      "summary": "시가 최근 스타트업파크에서 인천테크노파크와 공동으로 ‘인천 AI·인공지능 전환 (AX) 기술혁신 협의체 AI 기술기업 협력분과 사전분과회의’를 개최했다고 16일 밝혔다. 이번 회의에는 지역 AI 기술기업 12개사와 관계기관 관계자들이 참석해 협의체 공식 출범에 앞서 분과 운영 방식과 공동 전략을 점검했다.",
+      "source": "서울경제",
+      "publishedAt": "2026-11-15",
+      "url": "https://www.sedaily.com/article/20114612",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.b44LFnifejNTwwSgn4Uvyw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
