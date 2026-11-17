@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-11-17",
+    "windowStart": "2026-11-15T22:00:00.000Z",
+    "windowEnd": "2026-11-16T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "교육부, 행복기숙사부터 대학 기숙사까지 학생 주거환경 분석 ‘데이터로 읽는 우리 교육’ 제18호 발간",
+        "summary": "[한국강사신문 이미숙 기자] 교육부와 한국교육개발원이 대학생들의 주거 부담을 완화하고 안정적인 대학생활을 지원하기 위해 교육데이터를 활용한 학생 주거지원 정책 정보를 소개한다.교육부는 한국교육개발원과 공동으로 교육데이터 심층분석 자료인 ‘데이터로 읽는 우리 교육’ 제18호를 발간했다고 밝혔다. 이번 자료는 ‘대학생 주거 걱정 한 걸음 덜기: 행복기숙사부터 ...",
+        "source": "한국강사신문",
+        "publishedAt": "2026-11-16",
+        "url": "https://www.lecturernews.com/news/articleView.html?idxno=213913",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Zqn5_NncJy18c0EDtazidQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[뉴스초점] 수석까지 만든 'AI 커닝'…세무사회 대응 방안은",
+        "summary": "AI 부정행위로 인한 관리 부실 논란이 커지고 있는 가운데, 한국세무사회도 시험 관리 체계의 전면적인 개선을 촉구하고 나섰는데요.김선명 한국세무사회 부회장 전화 연결해 대응방안은 무엇일지, 이야기 나눠보겠습니다. 이번 부정행위 논란이 더 큰 공분을 사고 있는 건, 그만큼 세무사 시험이 어렵고, 합격을 위해 오랜 시간 노력하는 수험생들이 많기 때문이지 않습니 ...",
+        "source": "연합뉴스TV on MSN",
+        "publishedAt": "2026-11-16",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EB%89%B4%EC%8A%A4%EC%B4%88%EC%A0%90-%EC%88%98%EC%84%9D%EA%B9%8C%EC%A7%80-%EB%A7%8C%EB%93%A0-ai-%EC%BB%A4%EB%8B%9D-%EC%84%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-%EB%8C%80%EC%9D%91-%EB%B0%A9%EC%95%88%EC%9D%80/vi-AA2hwiA6",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.BPHlkspNRPpvD5pPBo2OQw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[복지뉴스] AI는 복지를 어떻게 바꿀까…‘사회보장 AI 심포지엄’ 13일부터 사전등록 外",
+        "summary": "아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 ...",
+        "source": "베이비뉴스 on MSN",
+        "publishedAt": "2026-11-17",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-ai%EB%8A%94-%EB%B3%B5%EC%A7%80%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%94%EA%BF%80%EA%B9%8C-%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5-ai-%EC%8B%AC%ED%8F%AC%EC%A7%80%EC%97%84-13%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%82%AC%EC%A0%84%EB%93%B1%EB%A1%9D-%E5%A4%96/ar-AA2hAKp3",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.eyQGMT3Oy1sA9pVRd3z6oA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "세무사회 \"우리가 걸러낸다…이번 합격자부터 적용\"",
+        "summary": "세무사 시험에서 드러난 AI 부정행위 여파로 전문직 단체들에 비상이 걸렸습니다. 직업 신뢰가 흔들리는 상황이 되자, 수험생들 역량을 자체 ...",
+        "source": "SBS 뉴스 on MSN",
+        "publishedAt": "2026-11-17",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%84%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-%EC%9A%B0%EB%A6%AC%EA%B0%80-%EA%B1%B8%EB%9F%AC%EB%82%B8%EB%8B%A4-%EC%9D%B4%EB%B2%88-%ED%95%A9%EA%B2%A9%EC%9E%90%EB%B6%80%ED%84%B0-%EC%A0%81%EC%9A%A9/ar-AA2hA69V",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.72b3839dd9c7d3ea821d30af6151d4e8&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "한국GM, 제3회 한국다양성포럼 개최…산업·학계 등 150명 참여",
+        "summary": "인구변화 대응·조직 다양성 논의…특별강연 및 사례 공유 진행 임직원 참여주간 운영…장애인 공동 달력 제작·차량 무상점검 추진 GM 한국사업장(한국GM)이 산업계와 학계, 공공기관 관계자들과 함께 조직의 다양성을 높이고 이를 몰입과 혁신으로 연결하는 방안을 모색했다.한국GM은 지난 16일 ...",
+        "source": "뉴스1",
+        "publishedAt": "2026-11-16",
+        "url": "https://www.news1.kr/industry/auto-industry/6356124",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.nG5YIAScYqoeTquthkt98w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "인공지능 생성 얼굴을 가려내는 6가지 기준",
+        "summary": "얼마 전까지만 해도 인공지능(AI)은 사람의 얼굴 특징을 학습하는 데 매진해야 했다. 방대한 얼굴 사진 자료 속에서 사람의 얼굴 특징을 찾아내기 위해서다. 이제는 입장이 정반대가 됐다. 인공지능이 만들어낸 얼굴을 사람이 가려내야 하는 처지가 됐다. 그 사이에 인공지능의 ...",
+        "source": "한겨레",
+        "publishedAt": "2026-11-16",
+        "url": "https://www.hani.co.kr/arti/science/science_general/1287655.html",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.VdjMPC4dEh8aKmD_A_2JSg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "짓고 식히고 운영까지…LG CNS, AI 데이터센터 주도권 잡았다",
+        "summary": "LG CNS는 AI 데이터센터의 설계와 구축부터 냉각 및 운영까지 통합적으로 수행하는 역량을 바탕으로 AI 인프라 시장 진출에 박차를 가하고 있다. LG CNS는 오랜 기간 축적한 데이터센터 설계·구축·운영 (DBO) 역량을 토대로 AI 데이터센터 사업을 확대하고 있다.",
+        "source": "financialpost",
+        "publishedAt": "2026-11-16",
+        "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301413",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.CTBUps-UNvYyxbTYxZRCbA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "美 증시, AI 빅테크 7개 종목 일제히 하락…엔비디아 4.1% 급락에 나스닥 2.5%↓",
+        "summary": "미국 증시에서 인공지능(AI) 관련 대형 기술주가 일제히 하락하면서 나스닥지수가 2.5% 급락했다. AI 반도체 시장을 주도하는 엔비디아가 4% 넘게 떨어진 가운데 알파벳과 아마존, 테슬라 등 주요 빅테크 기업에도 매도세가 확산됐다.특히, 엔비디아(NVIDIA) 경영진을 둘러싼 불확실성과 첨단 AI 반도체 수출 규제 우려, 대규모 AI 인프라 투자에 따른 ...",
+        "source": "인공지능신문",
+        "publishedAt": "2026-11-16",
+        "url": "https://www.aitimes.kr/news/articleView.html?idxno=42749",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.BOPueFTVXif57volZ-ysAg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "기가와트급 AI 데이터센터 전력 확보전… SKT·효성 손잡았다",
+        "summary": "SK텔레콤과 효성중공업이 대규모 인공지능(AI) 데이터센터 구축에 필요한 전력 인프라 확보를 위해 손을 잡았다. AI 데이터센터의 전력 수요가 급증하는 가운데 초고압 변전설비를 안정적으로 공급하고, 전력 효율을 높이는 차세대 기술도 공동 개발·검증하기로 ...",
+        "source": "서울신문 on MSN",
+        "publishedAt": "2026-11-17",
+        "url": "https://www.msn.com/ko-kr/money/topstories/%EA%B8%B0%EA%B0%80%EC%99%80%ED%8A%B8%EA%B8%89-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%A0%84%EB%A0%A5-%ED%99%95%EB%B3%B4%EC%A0%84-skt-%ED%9A%A8%EC%84%B1-%EC%86%90%EC%9E%A1%EC%95%98%EB%8B%A4/ar-AA2hxu9i",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.73a015423b04836e695ab5ca8a2ee36c&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[AI 3강으로 가는 길]②입법 발의·관련 예산↑, 국회에 찾아온 'AI 붐'",
+        "summary": "이재명 정부가 'AI(인공지능) 3대 강국 대한민국'을 위해 총력을 기울이고 있는 가운데 입법부인 국회는 다양한 산업에 접목될 인공지능 관련 미비한 제도를 보완하는 한편, AI 시대에 소외되는 계층이나 분야를 보호하고 기술 진보가 몰고 오는 폐해를 예방하기 위한 법률 ...",
+        "source": "메트로신문",
+        "publishedAt": "2026-11-17",
+        "url": "https://www.metroseoul.co.kr/article/20261117500204",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.GWk3SEW2cg1vOJUqpFn20w&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-11-16",
     "windowStart": "2026-11-14T22:00:00.000Z",
     "windowEnd": "2026-11-15T22:00:00.000Z",
@@ -515,103 +612,6 @@
         "publishedAt": "2026-11-10",
         "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%83%84%EC%86%8C%EB%8A%94-%EC%9D%B4%EC%A0%9C-%EC%9B%90%EA%B0%80-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B2%BD%EC%9F%81%EB%A0%A5-gpu-%EC%95%84%EB%8B%8C-%EC%A0%84%EB%A0%A5%EC%9D%B4-%EA%B0%80%EB%A5%B8%EB%8B%A4/ar-AA2hakyM",
         "imageUrl": "https://www.bing.com/th?id=ONUT.9RbVNjjxs7Ob0uhi9a9luw&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-11-10",
-    "windowStart": "2026-11-08T22:00:00.000Z",
-    "windowEnd": "2026-11-09T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "새벽 샤워·엘리베이터 자제해달라…선 넘은 배려 요구인가 [이슈N]",
-        "summary": "아파트에서 밤늦게 샤워하는 것을 두고 이웃 간 생활 소음 논쟁이 이어지고 있다. 지난 6일 사회관계망서비스(SNS)에 늦은 시간 샤워와 세탁기 사용을 자제해 달라는 아파트 주민의 글이 올라오자, 개인의 일상생활을 어디까지 이웃이 배려해야 하는지를 두고 네티즌 사이에서 의견이 엇갈렸다. 샤워는 퇴근이나 귀가 시간이 늦은 주민에게 필수적인 일상인 만큼 시간대를 ...",
-        "source": "뉴시스 on MSN",
-        "publishedAt": "2026-11-09",
-        "url": "https://www.msn.com/ko-kr/news/national/%EC%83%88%EB%B2%BD-%EC%83%A4%EC%9B%8C-%EC%97%98%EB%A6%AC%EB%B2%A0%EC%9D%B4%ED%84%B0-%EC%9E%90%EC%A0%9C%ED%95%B4%EB%8B%AC%EB%9D%BC-%EC%84%A0-%EB%84%98%EC%9D%80-%EB%B0%B0%EB%A0%A4-%EC%9A%94%EA%B5%AC%EC%9D%B8%EA%B0%80-%EC%9D%B4%EC%8A%88n/ar-AA2h5dWr",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.q_Q2_f1-SaMPEz3kBjLhNQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "\"개인 사정 적었더니 핀잔\"…연차 사유 기재 놓고 '동상이몽'[이슈N]",
-        "summary": "[서울=뉴시스]김드보라 인턴 기자 = 연차휴가 신청서 사유란에 적힌 '개인 사정' 네 글자를 둘러싸고 직장 내 갈등이 이어지고 있다. \"사생활까지 회사에 보고할 이유는 없다\"는 직장인들의 반발과 \"원활한 업무 조율을 위해 구체적인 파악이 필요하다\"는 관리자 측의 ..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-11-09",
-        "url": "https://www.fnnews.com/news/202611090700451908",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.b13WP86mMDxIdHxGUgL7pw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "경기도 이민사회국 2년 만에 없애나…이주민단체 “정책 후퇴” 반발",
-        "summary": "경기도외국인복지센터협의회 등 이주민인권단체들이 9일 오전 10시30분 서울 중구 국가인권위원회 앞에서 기자회견을 열고 있다. 유정민 기자 경기도가 신설 2년3개월 만에 이민사회국을 성평등가족국으로 통합하는 조직개편안을 추진하면서 이주민단체들이 반발하고 있다. 이주민 권리구제 공백과 이민사회 종합계획 이행 차질에 대한 우려에서다. 경기도외국인복지센터협의회 등 ...",
-        "source": "쿠키뉴스",
-        "publishedAt": "2026-11-10",
-        "url": "https://www.kukinews.com/article/view/kuk202611090228",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ZcapOOZH3dJy7LbUkg6x_g&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "경기도의회 민주당, 행감 첫날부터 소상공인·주거·교육 현안 집중 점검",
-        "summary": "민주당은 \"행정사무감사는 도정과 교육행정을 꼼꼼하고 세밀하게 살펴 올바른 이정표를 세우는 엄중한 자리\"라며 \"첫날 7개 상임위원회에서 거둔 성과를 발판으로 19일까지 집행부에 대한 견제와 대안 제시라는 본연의 책무를 다하겠다\"고 밝혔다.",
-        "source": "경인매일",
-        "publishedAt": "2026-11-09",
-        "url": "https://www.kmaeil.com/news/articleView.html?idxno=657473",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Cnb3vTMX7xuNQnYlCRhIRw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "'줄기세포 논문 조작' 황우석, UAE 국적 취득...한국 국적 상실",
-        "summary": "줄기세포 연구 논문 조작으로 과학계는 물론 사회 전반에 큰 파문을 일으켰던 황우석 전 서울대 교수를 기억하실 겁니다. 황 전 교수는 현재 아랍에미리트에서 활동하고 있는데, 아예 아랍에미리트 국적을 취득해 한국 국적은 이미 상실한 것으로 드러났습니다. 신귀혜 기자가 보도합니다. [기자] 법무부 청주 출입국·외국인 사무소는 지난 8월, 1953년생 황우석 씨가 ...",
-        "source": "YTN",
-        "publishedAt": "2026-11-09",
-        "url": "https://www.ytn.co.kr/_ln/0103_202611092245310941",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.XAq5lPMz8mjl2BrW7LKf1w&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "인공지능ㆍ자율주행차 등 규제 합리화 브리핑 나선 김용수 국무 2차장",
-        "summary": "(서울=연합뉴스) 안정원 기자 = 김용수 국무조정실 2차장이 10일 서울 종로구 정부서울청사에서 열린 제1차 규제합리화 정례브리핑에서 인공지능ㆍ자율주행차 등 주요 분야 추진 현황에 대해 브리핑하고 있다. 2026.11.10 ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-11-09",
-        "url": "https://www.yna.co.kr/view/PYH20261110063500013",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.AnmPSdFr2a6fKz_1PtGb7Q&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "유주동 서울시의원 “로봇인공지능과학관, 용역노동자 2년 이상 계약·고용승계 지침 준수해야”",
-        "summary": "서울특별시의회 유주동 의원(더불어민주당, 비례)은 2026년 서울시의회 기획경제위원회의 서울시립과학관 대상 행정사무감사에서 로봇인공지능과학관 외부 용역의 운영 실태를 지적하고, 2년 이상 계약 체결, 고용승계, 용역노동자 생활임금 적용, 전시운영 사무의 민간위탁 전환 ...",
-        "source": "서울신문 on MSN",
-        "publishedAt": "2026-11-09",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%9C%A0%EC%A3%BC%EB%8F%99-%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%9D%98%EC%9B%90-%EB%A1%9C%EB%B4%87%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%ED%95%99%EA%B4%80-%EC%9A%A9%EC%97%AD%EB%85%B8%EB%8F%99%EC%9E%90-2%EB%85%84-%EC%9D%B4%EC%83%81-%EA%B3%84%EC%95%BD-%EA%B3%A0%EC%9A%A9%EC%8A%B9%EA%B3%84-%EC%A7%80%EC%B9%A8-%EC%A4%80%EC%88%98%ED%95%B4%EC%95%BC/ar-AA2h2WM3",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.gBXgHrPPf-ciNGnk9ocIVA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "만들기만 하면 떼돈 벌던 소프트웨어…AI는 왜 데이터센터에 돈을 쏟아붓나 [한눈에 보는 AI 투자지도]",
-        "summary": "윈도우와 챗GPT로 살핀 AI의 비용과 수익 2026년 9월 29일 백악관에서 기자들에게 설명하는 다리오 아모데이 앤트로픽 최고경영자. 왼쪽에는 도널드 트럼프 미국 대통령과 마크 저커버그 메타 최고경영자가 서 있다. 이달 기업공개(IPO)를 추진하는 앤트로픽은 AI 성능뿐 아니라 수익성도 입증해야 한다. 프로그램을 많이 팔수록 이익이 쌓이던 윈도우와 달리 ...",
-        "source": "매일경제 on MSN",
-        "publishedAt": "2026-11-09",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%A7%8C%EB%93%A4%EA%B8%B0%EB%A7%8C-%ED%95%98%EB%A9%B4-%EB%96%BC%EB%8F%88-%EB%B2%8C%EB%8D%98-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-ai%EB%8A%94-%EC%99%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%EC%97%90-%EB%8F%88%EC%9D%84-%EC%8F%9F%EC%95%84%EB%B6%93%EB%82%98-%ED%95%9C%EB%88%88%EC%97%90-%EB%B3%B4%EB%8A%94-ai-%ED%88%AC%EC%9E%90%EC%A7%80%EB%8F%84/ar-AA2h42hY",
-        "imageUrl": "https://www.bing.com/th?id=ONUT._M_n3_hPyoDVBSxM_jWZ1Q&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "AI로 바뀌는 바이오산업…KIT, 12일 'DEEP DIVE INTO 2026' 바이오헬스 기술포럼 주관",
-        "summary": "국가독성과학연구소(KIT)가 인공지능(AI) 기반 신약개발부터 임상시험, 바이오의약품 제조까지 우리 바이오기업의 혁신기술을 글로벌 시장에 소개한다. KIT는 오는 12일 서울 그랜드하얏트 호텔에서 열리는 ‘DEEP DIVE INTO 2026’에서 바이오헬스 분야 기술포럼을 주관한다. 이번 행사는 중소벤처기업부의 ‘초격차 스타트업 프로젝트(DIPS)’를 통해 ...",
-        "source": "쿠키뉴스 on MSN",
-        "publishedAt": "2026-11-10",
-        "url": "https://www.msn.com/ko-kr/news/other/ai%EB%A1%9C-%EB%B0%94%EB%80%8C%EB%8A%94-%EB%B0%94%EC%9D%B4%EC%98%A4%EC%82%B0%EC%97%85-kit-12%EC%9D%BC-deep-dive-into-2026-%EB%B0%94%EC%9D%B4%EC%98%A4%ED%97%AC%EC%8A%A4-%EA%B8%B0%EC%88%A0%ED%8F%AC%EB%9F%BC-%EC%A3%BC%EA%B4%80/ar-AA2h63D5",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.JQon3fEJvJX4slGWPgDWqA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "젠슨 황 논란 속 열린 엔비디아 AI 데이…韓, 기술 협력·추가 투자 직진(종합)",
-        "summary": "[서울=뉴시스]심지혜 윤현성 윤정민 기자 = 젠슨 황 엔비디아 최고경영자(CEO)를 둘러싼 사생활 논란에도 불구하고 엔비디아가 국내 기업들과 인공지능(AI) 기술 협력을 예정대로 추진하며 한국 AI 생태계와의 협력 기조를 이어갔다. 당초 예정됐던 정부 고위급 면담..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-11-09",
-        "url": "https://www.fnnews.com/news/202611091824333896",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.0EVVRLdKvBikx4rRVSXd6g&pid=News&w=1200&h=675&c=14"
       }
     ]
   }

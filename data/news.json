@@ -1,88 +1,97 @@
 {
-  "updatedAt": "2026-11-16",
-  "windowStart": "2026-11-14T22:00:00.000Z",
-  "windowEnd": "2026-11-15T22:00:00.000Z",
+  "updatedAt": "2026-11-17",
+  "windowStart": "2026-11-15T22:00:00.000Z",
+  "windowEnd": "2026-11-16T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "부천시, ‘기본사회’ 정책 구체화 나선다…주거·돌봄·일자리 시민 의견 수렴",
-      "summary": "부천시가 주거·돌봄·교육·일자리 등 시민 생활과 밀접한 분야의 기본서비스 확대를 위한 정책 발굴에 나섰다. 특히 이는 기존 복지제도의 한계를 보완하고 지역 실정에 맞는 이른바 ‘부천형 기본사회’ 정책을 마련하겠다는 구상이다. 부천시는 지난 12일 시청 소통마당에서 주민자치위원과 통장 등 시민 150여 명이 참석한 가운데 ‘2026년 기본사회 시민 포럼’을 ...",
-      "source": "중부일보",
-      "publishedAt": "2026-11-15",
-      "url": "https://www.joongboo.com/news/articleView.html?idxno=363742498",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.OGB88dDskIxoDG4K8YlEkg&pid=News&w=1200&h=675&c=14"
+      "title": "교육부, 행복기숙사부터 대학 기숙사까지 학생 주거환경 분석 ‘데이터로 읽는 우리 교육’ 제18호 발간",
+      "summary": "[한국강사신문 이미숙 기자] 교육부와 한국교육개발원이 대학생들의 주거 부담을 완화하고 안정적인 대학생활을 지원하기 위해 교육데이터를 활용한 학생 주거지원 정책 정보를 소개한다.교육부는 한국교육개발원과 공동으로 교육데이터 심층분석 자료인 ‘데이터로 읽는 우리 교육’ 제18호를 발간했다고 밝혔다. 이번 자료는 ‘대학생 주거 걱정 한 걸음 덜기: 행복기숙사부터 ...",
+      "source": "한국강사신문",
+      "publishedAt": "2026-11-16",
+      "url": "https://www.lecturernews.com/news/articleView.html?idxno=213913",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Zqn5_NncJy18c0EDtazidQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "한국수목원정원관리원 AI 윤리 준수기관 확인마크 획득",
-      "summary": "(대전=뉴스1) 박찬수 기자 = 산림청 산하 한국수목원정원관리원이 한국지능정보사회진흥원(NIA)으로부터 'AI 윤리 준수기관' 확인마크를 획득했다고 16일 밝혔다. 'AI 윤리 준수기관' 확인마크는 기관 차원의 인공지능 윤리원칙 수립과 업무 반영, 임직원 윤리교육 이수 여부 등을 확인해 발급하는 제도다.",
-      "source": "뉴스1 on MSN",
+      "title": "[뉴스초점] 수석까지 만든 'AI 커닝'…세무사회 대응 방안은",
+      "summary": "AI 부정행위로 인한 관리 부실 논란이 커지고 있는 가운데, 한국세무사회도 시험 관리 체계의 전면적인 개선을 촉구하고 나섰는데요.김선명 한국세무사회 부회장 전화 연결해 대응방안은 무엇일지, 이야기 나눠보겠습니다. 이번 부정행위 논란이 더 큰 공분을 사고 있는 건, 그만큼 세무사 시험이 어렵고, 합격을 위해 오랜 시간 노력하는 수험생들이 많기 때문이지 않습니 ...",
+      "source": "연합뉴스TV on MSN",
       "publishedAt": "2026-11-16",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%ED%95%9C%EA%B5%AD%EC%88%98%EB%AA%A9%EC%9B%90%EC%A0%95%EC%9B%90%EA%B4%80%EB%A6%AC%EC%9B%90-ai-%EC%9C%A4%EB%A6%AC-%EC%A4%80%EC%88%98%EA%B8%B0%EA%B4%80-%ED%99%95%EC%9D%B8%EB%A7%88%ED%81%AC-%ED%9A%8D%EB%93%9D/ar-AA2hvxus",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.BY40mgxk3HQAvrisLV2Z8Q&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EB%89%B4%EC%8A%A4%EC%B4%88%EC%A0%90-%EC%88%98%EC%84%9D%EA%B9%8C%EC%A7%80-%EB%A7%8C%EB%93%A0-ai-%EC%BB%A4%EB%8B%9D-%EC%84%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-%EB%8C%80%EC%9D%91-%EB%B0%A9%EC%95%88%EC%9D%80/vi-AA2hwiA6",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.BPHlkspNRPpvD5pPBo2OQw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "에이피알, 한국ESG기준원 ESG 평가 A등급…MSCI는 BBB등급",
-      "summary": "글로벌 ESG 평가기관 모건스탠리캐피털인터내셔널 (MSCI)의 평가에서도 지난 9월 B등급에서 이달 BBB등급으로 두 단계 상승했다. 에이피알은 지난 6월 창사 이래 처음으로 지속가능경영보고서를 발간해 ESG 경영 현황과 중장기 추진 방향을 공개했으며, 국문에 이어 영문 보고서도 발간했다.",
-      "source": "연합뉴스",
-      "publishedAt": "2026-11-15",
-      "url": "https://www.yna.co.kr/view/AKR20261115022400030",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.wdrcQ3DhT1--kuq_S81PIg&pid=News&w=1200&h=675&c=14"
+      "title": "[복지뉴스] AI는 복지를 어떻게 바꿀까…‘사회보장 AI 심포지엄’ 13일부터 사전등록 外",
+      "summary": "아이를 키우다 보면 신경 써야 할 일이 많아 정부와 지방자치단체가 제공하는 다양한 복지 혜택을 미처 챙기지 못하는 경우도 적지 않다. ‘복지뉴스’는 아이를 키우는 가정에 도움이 되는 복지 정책과 제도 관련 주요 소식을 전하기 위해 기획된 코너다. 돌봄·보육 지원 ...",
+      "source": "베이비뉴스 on MSN",
+      "publishedAt": "2026-11-17",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%89%B4%EC%8A%A4-ai%EB%8A%94-%EB%B3%B5%EC%A7%80%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%94%EA%BF%80%EA%B9%8C-%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5-ai-%EC%8B%AC%ED%8F%AC%EC%A7%80%EC%97%84-13%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%82%AC%EC%A0%84%EB%93%B1%EB%A1%9D-%E5%A4%96/ar-AA2hAKp3",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.eyQGMT3Oy1sA9pVRd3z6oA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "하나금융그룹 미얀마법인, 현지서 한국식 사회공헌사업 펼쳐",
-      "summary": "미얀마에서 한국 금융회사가 현지 직원들과 함께 김장 나눔과 지진 피해 주민 지원에 나서 눈길을 끌고 있다.하나금융그룹의 미얀마 법인인 하나마이크로파이낸스(Hana Microfinance Limited·HMF)는 지난 11월 11일 본사 하나카페에서 '모두하나데이' 행사를 열고, 직원들 ...",
-      "source": "재외동포신문",
-      "publishedAt": "2026-11-15",
-      "url": "https://www.dongponews.net/news/articleView.html?idxno=61695",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.M1FDVcIAsM99q5E7Kl80OA&pid=News&w=1200&h=675&c=14"
+      "title": "세무사회 \"우리가 걸러낸다…이번 합격자부터 적용\"",
+      "summary": "세무사 시험에서 드러난 AI 부정행위 여파로 전문직 단체들에 비상이 걸렸습니다. 직업 신뢰가 흔들리는 상황이 되자, 수험생들 역량을 자체 ...",
+      "source": "SBS 뉴스 on MSN",
+      "publishedAt": "2026-11-17",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%84%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-%EC%9A%B0%EB%A6%AC%EA%B0%80-%EA%B1%B8%EB%9F%AC%EB%82%B8%EB%8B%A4-%EC%9D%B4%EB%B2%88-%ED%95%A9%EA%B2%A9%EC%9E%90%EB%B6%80%ED%84%B0-%EC%A0%81%EC%9A%A9/ar-AA2hA69V",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.72b3839dd9c7d3ea821d30af6151d4e8&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "ai",
-      "title": "충남도서관, 누리집에 인공지능 도서추천 서비스 도입",
-      "summary": "충남도서관은 누리집에 인공지능(AI) 도서 추천 서비스를 도입했다고 16일 밝혔다. 이용자가 관심 있는 주제나 읽고 싶은 내용을 일상적인 문장으로 입력하면 인공지능이 이를 바탕으로 관련 도서를 추천하는 방식이다. 책 제목이나 저자를 정확히 알지 못하더라도 읽고 싶은 내용을 표현해 도서를 찾을 수 있는 만큼 책 선택에 어려움을 느끼는 이용자들에게 도움이 될 ...",
-      "source": "국민일보 on MSN",
+      "category": "society",
+      "title": "한국GM, 제3회 한국다양성포럼 개최…산업·학계 등 150명 참여",
+      "summary": "인구변화 대응·조직 다양성 논의…특별강연 및 사례 공유 진행 임직원 참여주간 운영…장애인 공동 달력 제작·차량 무상점검 추진 GM 한국사업장(한국GM)이 산업계와 학계, 공공기관 관계자들과 함께 조직의 다양성을 높이고 이를 몰입과 혁신으로 연결하는 방안을 모색했다.한국GM은 지난 16일 ...",
+      "source": "뉴스1",
       "publishedAt": "2026-11-16",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%B6%A9%EB%82%A8%EB%8F%84%EC%84%9C%EA%B4%80-%EB%88%84%EB%A6%AC%EC%A7%91%EC%97%90-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8F%84%EC%84%9C%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%8F%84%EC%9E%85/ar-AA2hv3BB",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.85cUEUE1HSqD1_BPCrKOxw&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.news1.kr/industry/auto-industry/6356124",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.nG5YIAScYqoeTquthkt98w&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "인공지능 시대 신입은 누가 키우나",
-      "summary": "지난 9월 오픈AI는 자사 인공지능(AI)이 수학계의 오랜 난제를 해결했다고 발표했다. 100만 달러의 상금이 걸린 일곱 ‘밀레니엄 난제’ 중 하나였다. 인간 지성의 최전선에 있는 뛰어난 수학자들이 풀지 못했던 문제에 AI가 해법을 내놓았다는 것이다. 불과 3년 전만 해도 전문가들의 전망은 달랐다. 전 세계 AI 연구자 2700여 명이 참여한 2023년도 ...",
-      "source": "중앙일보",
+      "title": "인공지능 생성 얼굴을 가려내는 6가지 기준",
+      "summary": "얼마 전까지만 해도 인공지능(AI)은 사람의 얼굴 특징을 학습하는 데 매진해야 했다. 방대한 얼굴 사진 자료 속에서 사람의 얼굴 특징을 찾아내기 위해서다. 이제는 입장이 정반대가 됐다. 인공지능이 만들어낸 얼굴을 사람이 가려내야 하는 처지가 됐다. 그 사이에 인공지능의 ...",
+      "source": "한겨레",
       "publishedAt": "2026-11-16",
-      "url": "https://www.joongang.co.kr/article/25478843",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.OkHjpYdIaHwoLmklv5PUGg&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.hani.co.kr/arti/science/science_general/1287655.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.VdjMPC4dEh8aKmD_A_2JSg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "美 주도 'AI 공급망 동맹 활동'에 한국 합류…AI 산업 보호에 필요한 기술과 공급망 목록 공동 작성",
-      "summary": "[파이낸셜뉴스]미국이 한국과 일본, 호주 등 주요 동맹·협력국과 함께 중국을 견제하기 위해 인공지능(AI) 핵심 기술과 공급망의 공동 보호에 나선다. 반도체와 핵심 광물, 에너지 등 AI 산업을 뒷받침하는 전략 분야에서 보호가 필요한 기술과 공급망 목록을 공동으로 작성하기로 했다. 15일(현지 시간) 파이낸셜타임스(FT)에 따르면 제이컵 헬버그 미국 국무부 ...",
-      "source": "파이낸셜뉴스 on MSN",
-      "publishedAt": "2026-11-15",
-      "url": "https://www.msn.com/ko-kr/news/other/%E7%BE%8E-%EC%A3%BC%EB%8F%84-ai-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EB%8F%99%EB%A7%B9-%ED%99%9C%EB%8F%99%EC%97%90-%ED%95%9C%EA%B5%AD-%ED%95%A9%EB%A5%98-ai-%EC%82%B0%EC%97%85-%EB%B3%B4%ED%98%B8%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B8%B0%EC%88%A0%EA%B3%BC-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EB%AA%A9%EB%A1%9D-%EA%B3%B5%EB%8F%99-%EC%9E%91%EC%84%B1/ar-AA2hueJ6",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.LFdAmrmKapcf9ZS6qZOs5w&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "미, 한·일과 'AI 공급망 보호' 협정... 중 첨단기술 굴기 견제",
-      "summary": "미국이 중국의 인공지능 패권 확장을 견제하기 위해 한국과 일본 등 핵심 동맹국들과 첨단 AI 공급망 보호를 위한 다자간 협정을 전격 체결했습니다. 현지 시간 15일 영국 일간 파이낸셜타임스 보도에 따르면, 이른바 '지속적 번영을 위한 안전 기반에 관한 샌프란시스코 선언'으로 명명된 이번 협정에는 민감한 AI 기술과 토대 ...",
-      "source": "YTN on MSN",
+      "title": "짓고 식히고 운영까지…LG CNS, AI 데이터센터 주도권 잡았다",
+      "summary": "LG CNS는 AI 데이터센터의 설계와 구축부터 냉각 및 운영까지 통합적으로 수행하는 역량을 바탕으로 AI 인프라 시장 진출에 박차를 가하고 있다. LG CNS는 오랜 기간 축적한 데이터센터 설계·구축·운영 (DBO) 역량을 토대로 AI 데이터센터 사업을 확대하고 있다.",
+      "source": "financialpost",
       "publishedAt": "2026-11-16",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%AF%B8-%ED%95%9C-%EC%9D%BC%EA%B3%BC-ai-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EB%B3%B4%ED%98%B8-%ED%98%91%EC%A0%95%EC%A4%91-%EC%B2%A8%EB%8B%A8%EA%B8%B0%EC%88%A0-%EA%B5%B4%EA%B8%B0-%EA%B2%AC%EC%A0%9C/ar-AA2huMc6",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.xb7EWFYWBl66FJzafSTodw&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301413",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.CTBUps-UNvYyxbTYxZRCbA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "‘관 주도 뺀 AI 전략’…인천시, 기업 12곳과 밑그림",
-      "summary": "시가 최근 스타트업파크에서 인천테크노파크와 공동으로 ‘인천 AI·인공지능 전환 (AX) 기술혁신 협의체 AI 기술기업 협력분과 사전분과회의’를 개최했다고 16일 밝혔다. 이번 회의에는 지역 AI 기술기업 12개사와 관계기관 관계자들이 참석해 협의체 공식 출범에 앞서 분과 운영 방식과 공동 전략을 점검했다.",
-      "source": "서울경제",
-      "publishedAt": "2026-11-15",
-      "url": "https://www.sedaily.com/article/20114612",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.b44LFnifejNTwwSgn4Uvyw&pid=News&w=1200&h=675&c=14"
+      "title": "美 증시, AI 빅테크 7개 종목 일제히 하락…엔비디아 4.1% 급락에 나스닥 2.5%↓",
+      "summary": "미국 증시에서 인공지능(AI) 관련 대형 기술주가 일제히 하락하면서 나스닥지수가 2.5% 급락했다. AI 반도체 시장을 주도하는 엔비디아가 4% 넘게 떨어진 가운데 알파벳과 아마존, 테슬라 등 주요 빅테크 기업에도 매도세가 확산됐다.특히, 엔비디아(NVIDIA) 경영진을 둘러싼 불확실성과 첨단 AI 반도체 수출 규제 우려, 대규모 AI 인프라 투자에 따른 ...",
+      "source": "인공지능신문",
+      "publishedAt": "2026-11-16",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42749",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.BOPueFTVXif57volZ-ysAg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "기가와트급 AI 데이터센터 전력 확보전… SKT·효성 손잡았다",
+      "summary": "SK텔레콤과 효성중공업이 대규모 인공지능(AI) 데이터센터 구축에 필요한 전력 인프라 확보를 위해 손을 잡았다. AI 데이터센터의 전력 수요가 급증하는 가운데 초고압 변전설비를 안정적으로 공급하고, 전력 효율을 높이는 차세대 기술도 공동 개발·검증하기로 ...",
+      "source": "서울신문 on MSN",
+      "publishedAt": "2026-11-17",
+      "url": "https://www.msn.com/ko-kr/money/topstories/%EA%B8%B0%EA%B0%80%EC%99%80%ED%8A%B8%EA%B8%89-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%A0%84%EB%A0%A5-%ED%99%95%EB%B3%B4%EC%A0%84-skt-%ED%9A%A8%EC%84%B1-%EC%86%90%EC%9E%A1%EC%95%98%EB%8B%A4/ar-AA2hxu9i",
+      "imageUrl": "https://www.bing.com/th?id=ORMS.73a015423b04836e695ab5ca8a2ee36c&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "[AI 3강으로 가는 길]②입법 발의·관련 예산↑, 국회에 찾아온 'AI 붐'",
+      "summary": "이재명 정부가 'AI(인공지능) 3대 강국 대한민국'을 위해 총력을 기울이고 있는 가운데 입법부인 국회는 다양한 산업에 접목될 인공지능 관련 미비한 제도를 보완하는 한편, AI 시대에 소외되는 계층이나 분야를 보호하고 기술 진보가 몰고 오는 폐해를 예방하기 위한 법률 ...",
+      "source": "메트로신문",
+      "publishedAt": "2026-11-17",
+      "url": "https://www.metroseoul.co.kr/article/20261117500204",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.GWk3SEW2cg1vOJUqpFn20w&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
