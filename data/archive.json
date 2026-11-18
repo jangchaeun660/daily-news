@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-11-18",
+    "windowStart": "2026-11-16T22:00:00.000Z",
+    "windowEnd": "2026-11-17T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "사회대개혁위원회, 20일 전북도청서 '제3차 국민토론회'",
+        "summary": "(전주=연합뉴스) 임채두 기자 = 전북특별자치도는 오는 20일 도청에서 국무총리 소속 사회대개혁위원회가 '대한민국 대전환, 제3차 국민토론회'를 연다고 17일 밝혔다. 9월 강원, 10월 충청에 이어 세 번째 토론회다. 이번 토론회에서는 '지역을 잇고 격차를 넘어 대한민국 대전환!'을 주제로 경제와 기업의 성장 성과가 소상공인과 자영업자, 중소기업 종사자 ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-17",
+        "url": "https://www.yna.co.kr/view/AKR20261117145800055",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.i90bjgSmAXoxK48pNwBb3w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "한국장애인고용공단, 한국ESG학회와 업무협약 체결",
+        "summary": "【에이블뉴스 백민 기자】 한국장애인고용공단(이사장 이종성, 이하 공단)과 한국ESG학회(회장 고문현)는 17일 공단 서울지역본부에서 ‘장애인 고용촉진 및 ESG경영 확산을 위한 업무협약’을 체결했다.이번 협약은 장애인 고용정책과 지원사업에 전문성을 보유한 한국장애인고용공단과 ESG 분야의 학술·연구 역량 및 기업·학계 네트워크를 갖춘 한국ESG학회가 협력한 ...",
+        "source": "에이블뉴스",
+        "publishedAt": "2026-11-17",
+        "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=234686",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.j2ffP2oMvP8xyGq9ODvrog&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "‘2027학년도 수시모집 면접 대비’ 시사 이슈 살펴보기 ⑤ : 정치·법·사회적 권리",
+        "summary": "수시모집 대학별 면접이 본격화하면서 시사 이슈에 대한 수험생들의 관심도 높아지고 있다. 올해는 인공지능(AI)을 비롯해 의료개혁과 지역의사제, 저출생·고령화, 청년 일자리, 기후위기, 반도체 산업, 국제질서와 통상 변화 등 교육·사회·경제 전반의 굵직한 현안이 이어졌다. AI 기본법 시행과 미국의 관세정책, 중동발 공급망 불안 등 실제 정책과 산업 환경의 ...",
+        "source": "조선에듀",
+        "publishedAt": "2026-10-21",
+        "url": "https://edu.chosun.com/m/edu_article.html?contid=2026102180134",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.1Bqi97xh0kn-EKFhv10PUg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "\"새벽 샤워·엘리베이터 자제해달라\"…선 넘은 배려 요구인가[이슈N]",
+        "summary": "[서울=뉴시스]장인혜 인턴 기자 = 아파트에서 밤늦게 샤워하는 것을 두고 이웃 간 생활 소음 논쟁이 이어지고 있다. 지난 6일 사회관계망서비스(SNS)에 늦은 시간 샤워와 세탁기 사용을 자제해 달라는 아파트 주민의 글이 올라오자, 개인의 일상생활을 어디까지 이웃..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-11-10",
+        "url": "https://www.fnnews.com/news/202611100701407155",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Ih8HqaReMAUKZhQWTLAAzQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈&경제] 이윤을 넘어 가치로, 넷플릭스와 삼성화재가 보여준 ESG",
+        "summary": "넷플릭스는 오늘날 ESG(환경·사회·지배구조) 경영을 콘텐츠 산업에서 가장 성공적으로 구현한 기업으로 평가받는다. 이 플랫폼은 기술과 창작의 자율성을 토대로 다양하고 의미 있는 스토리를 발굴해 전 세계 시청자에게 즐거움과 사회적 가치를 전달하는 글로벌 엔터테인먼트로 자 ...",
+        "source": "경기일보",
+        "publishedAt": "2026-11-08",
+        "url": "https://www.kyeonggi.com/article/20261108580101",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.BMXlZfXLlC8tFzgCiQHJUw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "우리금융, '2026 AI Day' 개최…계열사 인공지능(AI) 혁신 성과 공유",
+        "summary": "우리금융그룹이 그룹 전반의 인공지능 전환(AX) 확산을 위해 '2026 우리금융 AI Day'를 열고, 은행·보험·카드 등 주요 계열사의 AI 적용 우수 사례를 공유했다. 지난 17일 서울 중구 본사 시너지홀에서 열린 이번 행사는 그룹 3대 핵심 전략인 전사적 AX 추진의 일환이다. '그룹 AX 마스터플랜'을 바탕으로 실제 업무 적용 사례를 발표하고 중장기 ...",
+        "source": "전자신문 on MSN",
+        "publishedAt": "2026-11-18",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9A%B0%EB%A6%AC%EA%B8%88%EC%9C%B5-2026-ai-day-%EA%B0%9C%EC%B5%9C-%EA%B3%84%EC%97%B4%EC%82%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-ai-%ED%98%81%EC%8B%A0-%EC%84%B1%EA%B3%BC-%EA%B3%B5%EC%9C%A0/ar-AA2hEXo0",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.jmgXnEKrSDdjfovaTGtipA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[포토] 'K-AI 이노베이터' 엄열 과기정통부 인공지능정책실장 강연",
+        "summary": "인터넷종합지 아이뉴스24와 기업·정책 전문가들이 한자리에 모여 AI 기술 동향과 산업 협력의 방향을 함께 논의하는 'K-AI 이노베이터' 조찬모임이 18일 오전 서울 강남구 삼성동 그랜드 인터컨티넨탈 서울 파르나스에서 열렸다.",
+        "source": "아이뉴스24 on MSN",
+        "publishedAt": "2026-11-18",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%ED%8F%AC%ED%86%A0-k-ai-%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0-%EC%97%84%EC%97%B4-%EA%B3%BC%EA%B8%B0%EC%A0%95%ED%86%B5%EB%B6%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%A0%95%EC%B1%85%EC%8B%A4%EC%9E%A5-%EA%B0%95%EC%97%B0/ar-AA2hEUlZ",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.wNwFtiwXmLNUn1QLbbF09A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "인공지능 생성 얼굴을 가려내는 6가지 기준",
+        "summary": "얼마 전까지만 해도 인공지능(AI)은 사람의 얼굴 특징을 학습하는 데 매진해야 했다. 방대한 얼굴 사진 자료 속에서 사람의 얼굴 특징을 찾아내기 위해서다. 이제는 입장이 정반대가 됐다. 인공지능이 만들어낸 얼굴을 사람이 가려내야 하는 처지가 됐다. 그 사이에 인공지능의 ...",
+        "source": "한겨레",
+        "publishedAt": "2026-11-17",
+        "url": "https://www.hani.co.kr/arti/science/science_general/1287655.html",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.VdjMPC4dEh8aKmD_A_2JSg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI란 무엇인가?…인공지능 시대, 국민이 반드시 알아야 할 기본 상식",
+        "summary": "[국회=KMS뉴스] 홍준용 기자 = 최근 뉴스와 방송, 인터넷, 휴대전화 등 일상생활 곳곳에서 'AI'라는 용어가 등장하고 있다. 그러나 AI가 정확히 무엇을 의미하고 어떤 원리로 작동하는지 이해하지 못하는 국민도 적지 않다.AI는 영어 'Artificial Intelligence'의 약자로, 우리말로는 '인공지능(人工知能)'이라고 한다. 인간이 수행하는 ...",
+        "source": "kmsnews",
+        "publishedAt": "2026-11-17",
+        "url": "http://www.kmsnews.co.kr/news/articleView.html?idxno=30804",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.ZdE2kPAIsYslVzQff6Kb_g&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "인공지능 부정행위 우려 속 2027학년도 수능 연기 논란, 교육부 입장은?",
+        "summary": "[공감신문] 김충식 기자=인공지능을 활용한 부정행위에 대한 우려가 커지면서 2027학년도 대학수학능력시험을 연기해야 한다는 목소리가 나오고 있다. 그러나 교육부는 시험 연기 가능성을 배제하고 있으며, 수험생과 학부모들의 불안은 여전히 가라앉지 않고 있다. 시험 연기를 반대하는 이들도 ...",
+        "source": "공감신문",
+        "publishedAt": "2026-11-17",
+        "url": "https://www.gokorea.kr/news/articleView.html?idxno=886068",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.fWx9qvro0kmBqREg5eFVCA&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-11-17",
     "windowStart": "2026-11-15T22:00:00.000Z",
     "windowEnd": "2026-11-16T22:00:00.000Z",
@@ -524,94 +621,6 @@
         "publishedAt": "2026-11-12",
         "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%97%B0%EA%B5%AC%EC%9B%90%EC%9D%B4-ai%EA%B8%B0%EC%88%A0-%EC%82%B0%EC%97%85-%EC%95%8C%EB%A0%A4%EC%A4%80%EB%8B%A4-%EA%B0%80%EC%B2%9C%EB%8C%80-%ED%95%99%EC%83%9D%EC%97%90-%EC%9E%AC%EB%8A%A5%EA%B8%B0%EB%B6%80/ar-AA2hfJxw",
         "imageUrl": "https://www.bing.com/th?id=ONUT.WgML8lbmGxA4wjg6OEn_rQ&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-11-11",
-    "windowStart": "2026-11-09T22:00:00.000Z",
-    "windowEnd": "2026-11-10T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "\"새벽 샤워·엘리베이터 자제해달라\"…선 넘은 배려 요구인가[이슈N]",
-        "summary": "[서울=뉴시스]장인혜 인턴 기자 = 아파트에서 밤늦게 샤워하는 것을 두고 이웃 간 생활 소음 논쟁이 이어지고 있다. 지난 6일 사회관계망서비스(SNS)에 늦은 시간 샤워와 세탁기 사용을 자제해 달라는 아파트 주민의 글이 올라오자, 개인의 일상생활을 어디까지 이웃..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-11-10",
-        "url": "https://www.fnnews.com/news/202611100701407155",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Ih8HqaReMAUKZhQWTLAAzQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "경기도 이민사회국 2년 만에 없애나…이주민단체 “정책 후퇴” 반발",
-        "summary": "경기도가 신설 2년3개월 만에 이민사회국을 성평등가족국으로 통합하는 조직개편안을 추진하면서 이주민단체들이 반발하고 있다. 이주민 권리구제 공백과 이민사회 종합계획 이행 차질에 대한 우려에서다. 경기도외국인복지센터협의회 등 이주민 단체는 9일 국가인권위원회에 진정서를 내고 이민사회국 폐지 방침을 철회하도록 경기도에 권고해 달라고 요구했다. 이들은 이민사회국이 ...",
-        "source": "쿠키뉴스 on MSN",
-        "publishedAt": "2026-11-10",
-        "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EA%B8%B0%EB%8F%84-%EC%9D%B4%EB%AF%BC%EC%82%AC%ED%9A%8C%EA%B5%AD-2%EB%85%84-%EB%A7%8C%EC%97%90-%EC%97%86%EC%95%A0%EB%82%98-%EC%9D%B4%EC%A3%BC%EB%AF%BC%EB%8B%A8%EC%B2%B4-%EC%A0%95%EC%B1%85-%ED%9B%84%ED%87%B4-%EB%B0%98%EB%B0%9C/ar-AA2h6eRt",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.MXrmPaGT4N2mG6WOclnIWQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "한국세무사회 'AOTCA 홍콩 총회'서 해법 제시… 글로벌 조세 협력 주도",
-        "summary": "구재이 회장 등 이사회·VIP 리셉션 참석해 각국 단체와 교류도11일 컨퍼런스서 홍성원 세무사 '예측적 위험관리' 발표 예정 (홍콩=뉴스1) 송용환 기자 = 아시아·오세아니아 각국의 조세 전문가들이 홍콩에 모여 세무행정의 디지털 전환과 국제조세 협력 방안을 논의하고 있다. 한국세무사회도 대표단을 파견해 각국 세무사 ...",
-        "source": "뉴스1 on MSN",
-        "publishedAt": "2026-11-10",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%84%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-aotca-%ED%99%8D%EC%BD%A9-%EC%B4%9D%ED%9A%8C%EC%84%9C-%ED%95%B4%EB%B2%95-%EC%A0%9C%EC%8B%9C-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%A1%B0%EC%84%B8-%ED%98%91%EB%A0%A5-%EC%A3%BC%EB%8F%84/ar-AA2h73F8",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.dGins-tO1MaqftPgrSkIkw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "한국메나리니, 성남 이어 대구까지 임직원 나눔 확대",
-        "summary": "한국메나리니가 수도권에 이어 대구까지 사회공헌 활동 무대를 넓히며 지역사회 나눔을 실천했다. 임직원들이 무료급식 현장에서 배식과 도시락 제작 등에 직접 참여하면서 지역별 복지기관을 지원하고 사내 봉사활동 참여 기회도 확대했다.",
-        "source": "약사공론",
-        "publishedAt": "2026-11-10",
-        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548545",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.plLTXK02XWAKOvAw6ER7IQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "한국 디지털·AI 경쟁력 세계 10위…전년보다 8단계 상승",
-        "summary": "(서울=연합뉴스) 권하영 기자 = 한국이 스위스 국제경영개발원 (IMD)의 세계 디지털·인공지능 (AI) 경쟁력 평가에서 70개국 중 10위에 올라 전년보다 8단계 상승했다. 기술인프라와 효율성이 나란히 세계 3위를 기록하는 등 5대 평가 분야에서 모두 순위가 올랐다. 다만 거버넌스는 27위, 인력개발은 20위로 분야별 격차를 보였다.",
-        "source": "연합뉴스",
-        "publishedAt": "2026-11-10",
-        "url": "https://www.yna.co.kr/view/AKR20261110131300017",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.xLShPtNeE6UB8MCaqGHWtg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "韓 디지털·AI 경쟁력 세계 10위…1년 만에 8계단 상승",
-        "summary": "[서울=뉴시스]심지혜 기자 = 우리나라의 디지털·인공지능(AI) 경쟁력이 세계 70개국 가운데 10위를 기록하며 1년 만에 8계단 상승한 것으로 나타났다. 기술인프라와 효율성 분야가 나란히 세계 3위에 올랐고 평가 대상 5개 분야 모두 지난해보다 순위가 개선됐다.과학기술정보통신부는 스위스 국제경영개발원(IMD)이 발표한 2026년 세계 디지털·AI 경쟁력 ...",
-        "source": "뉴시스",
-        "publishedAt": "2026-11-10",
-        "url": "https://www.newsis.com/view/NISX20261110_0003862873",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.HNHzJVIk-phzds2lAr9KUQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "인공지능ㆍ자율주행차 등 규제 합리화 브리핑 나선 김용수 국무 2차장",
-        "summary": "(서울=연합뉴스) 안정원 기자 = 김용수 국무조정실 2차장이 10일 서울 종로구 정부서울청사에서 열린 제1차 규제합리화 정례브리핑에서 인공지능ㆍ자율주행차 등 주요 분야 추진 현황에 대해 브리핑하고 있다. 2026.11.10 ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-11-10",
-        "url": "https://www.yna.co.kr/view/PYH20261110063700013",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ND3FqhWATl0TZGHQ8sX80g&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "인공지능이라는 진짜 괴물 [유레카]",
-        "summary": "최근 온라인 커뮤니티에 ‘요즘 애들은 절대 이해 못 하는 8090년생이 괴물인 이유’라는 글이 돌았다. 작성자는 아날로그와 디지털 과도기를 보낸 1980~1990년생의 일상을 무용담처럼 풀어냈다. ‘노빠꾸 배달―앱 없이 전화로 주문’, ‘인간 폰북―친구 집 전화번호 5 ...",
-        "source": "한겨레",
-        "publishedAt": "2026-11-10",
-        "url": "https://www.hani.co.kr/arti/opinion/column/1286642.html",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.-3k-BjtLln61i7X7jjVx_w&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "탄소는 이제 원가…AI 데이터센터 경쟁력, GPU 아닌 전력이 가른다",
-        "summary": "[디지털데일리 박재현기자] 한국전자통신연구원(ETRI)이 데이터센터 탄소 배출량을 개별 서비스 단위까지 추적하는 기술 개발에 나섰다. 건물 전체 전력 사용량으로 배출량을 따지던 기존 방식 대신 AI 워크로드별 배출량을 실시간으로 산정한다. 디지털 트윈과 생성형 AI로 탄소 저감 운영안을 추천하는 플랫폼을 2029년까지 만든다. 한국데이터센터연합회는 10일 ...",
-        "source": "디지털데일리 on MSN",
-        "publishedAt": "2026-11-10",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%83%84%EC%86%8C%EB%8A%94-%EC%9D%B4%EC%A0%9C-%EC%9B%90%EA%B0%80-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B2%BD%EC%9F%81%EB%A0%A5-gpu-%EC%95%84%EB%8B%8C-%EC%A0%84%EB%A0%A5%EC%9D%B4-%EA%B0%80%EB%A5%B8%EB%8B%A4/ar-AA2hakyM",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.9RbVNjjxs7Ob0uhi9a9luw&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
