@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-11-19",
+    "windowStart": "2026-11-17T22:00:00.000Z",
+    "windowEnd": "2026-11-18T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "'별점 테러'에 고소장 꺼낸 업주들… \"자영업자 보호\" vs \"소비자 입 막기\" [이슈N]",
+        "summary": "배달 앱이 일상의 필수재로 자리 잡은 가운데, '별점 테러'나 악의적 리뷰가 자영업자들의 생존권을 위협하는 심각한 사회적 갈등으로 부상하고 있다. 일부 소상공인들이 악의적인 리뷰에 대해 '업무방해죄' 등 법적 대응에 나서는 사례가 늘어나며 양측 간 공방이 격화되는 양상이다. 배달 앱의 리뷰 시스템은 비대면 거래에서 소비자가 사전에 정보를 얻고 합리적인 선택 ...",
+        "source": "뉴시스 on MSN",
+        "publishedAt": "2026-11-18",
+        "url": "https://www.msn.com/ko-kr/money/%EA%B8%B0%EC%88%A0/%EB%B3%84%EC%A0%90-%ED%85%8C%EB%9F%AC-%EC%97%90-%EA%B3%A0%EC%86%8C%EC%9E%A5-%EA%BA%BC%EB%82%B8-%EC%97%85%EC%A3%BC%EB%93%A4-%EC%9E%90%EC%98%81%EC%97%85%EC%9E%90-%EB%B3%B4%ED%98%B8-vs-%EC%86%8C%EB%B9%84%EC%9E%90-%EC%9E%85-%EB%A7%89%EA%B8%B0-%EC%9D%B4%EC%8A%88n/ar-AA2hJepQ",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.4HQ9UIyhRO1NdQUUhMgUnA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[대전 24시] 대덕특구본부, AIㆍ딥테크 활용 사회 이슈 해결",
+        "summary": "이날 초청강연에서는 김승겸 KAIST 교수가 ‘기후적응의 역설: AI, 도시 불평등과 거버넌스’를 주제로 기후변화가 도시와 사회에 미치는 영향을 살펴보고 AI 기술을 활용한 지속가능한 미래 도시의 방향을 제시했다.",
+        "source": "시사저널",
+        "publishedAt": "2026-11-18",
+        "url": "https://www.sisajournal.com/news/articleView.html?idxno=394380",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.EWgBecu4CjxZzusuT0M6Ag&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "녹지 사회인프라",
+        "summary": "환경과 관련해 제기되는 이슈 중 하나는 도시 녹지 공간 조성이다. 도시에 있는 녹지는 여러 방면에서 주민들에게 긍정적 영향을 준다. 녹지가 건강과 사회적 연결 그리고 환경 정화 기능을 갖는 데서 오는 편익이다. 생활권 주변에 녹지가 많은 경우 신체 활동이 늘어나게 마련이고 이는 곧 건강 증진으로 연결된다. 또 자연을 닮은 공원은 주민들의 대면 활동을 활발하 ...",
+        "source": "전라일보",
+        "publishedAt": "2026-11-18",
+        "url": "https://www.jeollailbo.com/news/articleView.html?idxno=817100",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.AuynuVV-ElxXQ2ZQoinvNQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "최저주거기준·공공임대 정책에 국민 의견 듣는다",
+        "summary": "(서울=연합뉴스) 임기창 기자 = 국토교통부는 오는 20일 서울에서 전문가, 청년, 시민단체 등이 참석해 주거복지 정책을 논의하는 '주거복지정책 토론회'를 개최한다고 19일 밝혔다. 토론회 1부에서는 최저주거기준 개선 방안을 주제로 서지은 영남대 교수가 발제하고, 관련 분야 전문가들이 기준 개선 방향과 세부 개정 방안을 논의한다. 최저주거기준은 국민이 인간 ...",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-18",
+        "url": "https://www.yna.co.kr/view/AKR20261119028200003?section=economy/all",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.GSpxD4jDADu891O60PSoGw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[창간 특별기획 '출산 포비아']스웨덴·덴마크 등 복지 선진국…출산·육아는 국가가 함께 책임진다",
+        "summary": "퍼블릭타임스는 창간 6주년을 맞아 [출산 포비아 대한민국에 희망을]이라는 주제로 특집을 기획했다. 인구구조 변화가 우리 사회에 미치는 영향을 진단하고 정부 정책과 국내외 우수 사례를 살펴보며 실효성 있는 해법을 모색하고자 4회에 걸쳐 게재한다. [편집자주] ...",
+        "source": "공생공사닷컴",
+        "publishedAt": "2026-11-18",
+        "url": "https://www.public25.com/news/articleView.html?idxno=58591",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.741_QmBzm9_sWy6b6NgOuw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "“내 장례식을 AI에게 맡길 수 있을까?” 인공지능 시대의 웰다잉",
+        "summary": "“내 장례식을 인공지능(AI)에게 맡길 수 있을까.” AI가 일상의 빈틈을 메우는 속도가 빨라지면서 죽음과 애도의 풍경마저 변하고 있다. 사용자 개인에게 맞춰 개발된 AI는 위로의 말을 건넨다. 그러나 그것은 죽음을 경험하지 못한 기계가 만든 문장일 뿐이다. 언젠가 자신도 떠난다는 사실을 아는 사람만이 슬픔에 빠진 이웃을 찾아가 말없이 손을 잡아줄 수 있다 ...",
+        "source": "국민일보 on MSN",
+        "publishedAt": "2026-11-19",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%82%B4-%EC%9E%A5%EB%A1%80%EC%8B%9D%EC%9D%84-ai%EC%97%90%EA%B2%8C-%EB%A7%A1%EA%B8%B8-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%8B%9C%EB%8C%80%EC%9D%98-%EC%9B%B0%EB%8B%A4%EC%9E%89/ar-AA2hK6Ce",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.2404673e1c01ed289a98a086e7e749fd&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "EBS, 인공지능 기술의 사회적 변화와 인류 미래 조명... 뜻깊은 시간 선물하고파 (다큐프라임-AI 사피엔스)",
+        "summary": "기술 발전에 따른 사회적 변화부터 인류 공존법까지 다각도로 분석 (MHN 김현숙 기자) EBS가 인공지능 기술의 발전으로 인한 사회적 변화와 인류의 미래를 조명하는 다큐멘터리 시리즈를 선보인다. 오는 23일(월) 오후 9시 55분 첫 방송되는 '다큐프라임-AI 사피엔스'에서는 인공지능이 바꾸고 있는 세상에 대한 다채로운 ...",
+        "source": "MHN스포츠 on MSN",
+        "publishedAt": "2026-11-19",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/ebs-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B8%B0%EC%88%A0%EC%9D%98-%EC%82%AC%ED%9A%8C%EC%A0%81-%EB%B3%80%ED%99%94%EC%99%80-%EC%9D%B8%EB%A5%98-%EB%AF%B8%EB%9E%98-%EC%A1%B0%EB%AA%85-%EB%9C%BB%EA%B9%8A%EC%9D%80-%EC%8B%9C%EA%B0%84-%EC%84%A0%EB%AC%BC%ED%95%98%EA%B3%A0%ED%8C%8C-%EB%8B%A4%ED%81%90%ED%94%84%EB%9D%BC%EC%9E%84-ai-%EC%82%AC%ED%94%BC%EC%97%94%EC%8A%A4/ar-AA2hJxn2",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.asKelFPf0AQ0WJZ98xAO-g&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI란 무엇인가?…인공지능 시대, 국민이 반드시 알아야 할 기본 상식",
+        "summary": "[국회=KMS뉴스] 홍준용 기자 = 최근 뉴스와 방송, 인터넷, 휴대전화 등 일상생활 곳곳에서 'AI'라는 용어가 등장하고 있다. 그러나 AI가 정확히 무엇을 의미하고 어떤 원리로 작동하는지 이해하지 못하는 국민도 적지 않다.AI는 영어 'Artificial Intelligence'의 약자로, 우리말로는 '인공지능(人工知能)'이라고 한다. 인간이 수행하는 ...",
+        "source": "kmsnews",
+        "publishedAt": "2026-11-18",
+        "url": "http://www.kmsnews.co.kr/news/articleView.html?idxno=30804",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.o2h8rETrBNGGGVCyXo5a9A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "압구정 한복판에 AI 데이터센터 들어선다... DB하이텍, 1473억 투자",
+        "summary": "[서울=뉴스핌] 서영욱 기자 = 반도체 파운드리(위탁생산) 기업 DB하이텍이 서울 강남에 1473억원을 투입해 인공지능(AI) 데이터센터 사업에 진출한다. 대규모 AI 모델을 학습시키는 기존 데이터센터와 달리 도심에서 AI 서비스를 실시간으로 제공하는 추론용 엣지 데이터센터를 구축할 계획이다. 반도체 제조를 넘어 AI ...",
+        "source": "뉴스핌 on MSN",
+        "publishedAt": "2026-11-19",
+        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%95%95%EA%B5%AC%EC%A0%95-%ED%95%9C%EB%B3%B5%ED%8C%90%EC%97%90-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EB%93%A4%EC%96%B4%EC%84%A0%EB%8B%A4-db%ED%95%98%EC%9D%B4%ED%85%8D-1473%EC%96%B5-%ED%88%AC%EC%9E%90/ar-AA2hJCkx",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.QUmzKXI2DVg3egHCxAc8FQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "챗GPT 답변 뒤에 숨겨진 4경원 ‘데이터센터’ 전쟁 [증시 블랙홀 데이터센터②]",
+        "summary": "[커버스토리 : 글로벌 증시 블랙홀 데이터센터]챗GPT 창에 질문을 입력하고 엔터키를 누르는 순간, 화면에는 불과 몇 초 만에 완성된 답변이 떠오른다. 우리가 보낸 문장은 빛의 속도로 광케이블을 따라 이동해 거대한 컴퓨터 집적 시설로 들어간다. 바로 ‘데이터센터’다.누구나 데이터센터라는 단어는 들어봤지만, 내부에서 어떤 일이 일어나는지 정확히 아는 이는 드 ...",
+        "source": "매거진한경 on MSN",
+        "publishedAt": "2026-11-18",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%B1%97gpt-%EB%8B%B5%EB%B3%80-%EB%92%A4%EC%97%90-%EC%88%A8%EA%B2%A8%EC%A7%84-4%EA%B2%BD%EC%9B%90-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%A0%84%EC%9F%81-%EC%A6%9D%EC%8B%9C-%EB%B8%94%EB%9E%99%ED%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0/ar-AA2hE56c",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.xfAKd8KOBjTVj9XrJw9B6g&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-11-18",
     "windowStart": "2026-11-16T22:00:00.000Z",
     "windowEnd": "2026-11-17T22:00:00.000Z",
@@ -524,103 +621,6 @@
         "publishedAt": "2026-11-12",
         "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/at-%ED%98%84%EC%9E%A5-%EC%9D%B8%ED%85%94-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-cpu-%EC%88%98%EC%9A%94-5%EB%B0%B0-%EC%84%B1%EC%9E%A5-2000%EC%96%B5%EB%8B%AC%EB%9F%AC-%EC%8B%9C%EC%9E%A5-%EC%97%B4%EB%A6%B0%EB%8B%A4/ar-AA2hgglM",
         "imageUrl": "https://www.bing.com/th?id=ONUT.f2xJDtnEMGowyozp1XW3Rw&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-11-12",
-    "windowStart": "2026-11-10T22:00:00.000Z",
-    "windowEnd": "2026-11-11T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "“당진외국인노동자쉼터, 임시 거처 넘어 주거복지·재취업 지원 거점으로 발전해야”",
-        "summary": "제9회 실직 외국인 근로자 실태조사 분석 발표 및 정책토론회가 지난 11일 당진시청 중회의실에서 열렸다.당진시외국인근로자지원센터(센터장 김승숙)가 주최·주관하고 충남광역 외국인노동자쉼터가 협력한 이번 토론회는 실직 외국인노동자의 주거 실태와 당진에 위치한 충남광역 외국인노동자쉼터의 운영 현황을 점검하고, 이주노동자의 기본권과 주거권 보장을 위한 정책 대안을 ...",
-        "source": "당진시대",
-        "publishedAt": "2026-11-11",
-        "url": "http://www.djtimes.co.kr/news/articleView.html?idxno=114214",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.qqbFLizOakwl_-YU9HZ7_A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "KB금융 \"한국ESG기준원 평가서 통합 A+ 등급 획득\"",
-        "summary": "\"청년과 취약계층 지원 지속할 것\" (서울=연합뉴스) 한지훈 기자 = KB금융그룹은 한국ESG기준원의 '2026년 KCGS ESG 평가 및 등급 공표'에서 최상위 등급인 통합 A+를 받았다고 12일 밝혔다. 한국ESG기준원은 2011년부터 매년 국내 유가증권시장 상장회사의 지속가능경영 수준을 다각도로 평가해 ...",
-        "source": "연합뉴스 on MSN",
-        "publishedAt": "2026-11-12",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/kb%EA%B8%88%EC%9C%B5-%ED%95%9C%EA%B5%ADesg%EA%B8%B0%EC%A4%80%EC%9B%90-%ED%8F%89%EA%B0%80%EC%84%9C-%ED%86%B5%ED%95%A9-a-%EB%93%B1%EA%B8%89-%ED%9A%8D%EB%93%9D/ar-AA2hfQUa",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.EMOHpb3ko_DPxdQbyrZXNA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "\"새벽 샤워·엘리베이터 자제해달라\"…선 넘은 배려 요구인가[이슈N]",
-        "summary": "[서울=뉴시스]장인혜 인턴 기자 = 아파트에서 밤늦게 샤워하는 것을 두고 이웃 간 생활 소음 논쟁이 이어지고 있다. 지난 6일 사회관계망서비스(SNS)에 늦은 시간 샤워와 세탁기 사용을 자제해 달라는 아파트 주민의 글이 올라오자, 개인의 일상생활을 어디까지 이웃..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-11-10",
-        "url": "https://www.fnnews.com/news/202611100701407155",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Ih8HqaReMAUKZhQWTLAAzQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈진단]김진오 인구전략위 부위원장, 저출생·고령화 해법 찾아 현장 행보 강화",
-        "summary": "한편 인구위는 지난 10월 14일 이재명 대통령 주재로 청와대 영빈관에서 열린 국민주권정부 인구전략 비전 선포식에서 ‘세대와 경계를 넘어, 함께 도약하는 대한민국’이라는 인구비전을 제시하고 제1차 국가인구전략 기본계획을 발표했다.",
-        "source": "공생공사닷컴",
-        "publishedAt": "2026-11-04",
-        "url": "https://www.public25.com/news/articleView.html?idxno=57870",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.SuUYd6H139SKUbPkfRYtAQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈&경제] 이윤을 넘어 가치로, 넷플릭스와 삼성화재가 보여준 ESG",
-        "summary": "넷플릭스는 오늘날 ESG(환경·사회·지배구조) 경영을 콘텐츠 산업에서 가장 성공적으로 구현한 기업으로 평가받는다. 이 플랫폼은 기술과 창작의 자율성을 토대로 다양하고 의미 있는 스토리를 발굴해 전 세계 시청자에게 즐거움과 사회적 가치를 전달하는 글로벌 엔터테인먼트로 자 ...",
-        "source": "경기일보",
-        "publishedAt": "2026-11-08",
-        "url": "https://www.kyeonggi.com/article/20261108580101",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.BMXlZfXLlC8tFzgCiQHJUw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "한국 디지털·AI 경쟁력 세계 10위…전년보다 8단계 상승",
-        "summary": "(서울=연합뉴스) 권하영 기자 = 한국이 스위스 국제경영개발원 (IMD)의 세계 디지털·인공지능 (AI) 경쟁력 평가에서 70개국 중 10위에 올라 전년보다 8단계 상승했다. 기술인프라와 효율성이 나란히 세계 3위를 기록하는 등 5대 평가 분야에서 모두 순위가 올랐다. 다만 거버넌스는 27위, 인력개발은 20위로 분야별 격차를 보였다.",
-        "source": "연합뉴스",
-        "publishedAt": "2026-11-11",
-        "url": "https://www.yna.co.kr/view/AKR20261110131300017",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.xLShPtNeE6UB8MCaqGHWtg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "GPU만 빨라선 안 된다…파네시아, AI 데이터센터 승부 가르는 ‘연결 기술’",
-        "summary": "[이데일리 윤정훈 기자]“초거대 인공지능(AI) 시대에는 가속기의 단일 성능만큼 장치와 장치, 랙과 랙을 잇는 ‘인터커넥트’ 기술이 AI 데이터센터의 성패를 좌우합니다.” 이데일리와 한국인공지능산업협회가 주최한 ‘2026 AI 코리아 대상’에서 반도체 팹리스 기업 파네시아가 과학기술정보통신부 장관상을 받았다. AI데이터센터(AIDC)의 핵심 인프라인 인터커 ...",
-        "source": "이데일리 on MSN",
-        "publishedAt": "2026-11-11",
-        "url": "https://www.msn.com/ko-kr/news/other/gpu%EB%A7%8C-%EB%B9%A8%EB%9D%BC%EC%84%A0-%EC%95%88-%EB%90%9C%EB%8B%A4-%ED%8C%8C%EB%84%A4%EC%8B%9C%EC%95%84-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%8A%B9%EB%B6%80-%EA%B0%80%EB%A5%B4%EB%8A%94-%EC%97%B0%EA%B2%B0-%EA%B8%B0%EC%88%A0/ar-AA2hfj9a",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.G90WnfJ5GTns_Z4YBlUXfA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "자율주행·로봇까지 적용 확대…뉴로모픽 반도체 시장 출렁",
-        "summary": "뉴로모픽 반도체 관련 종목들이 12일 강세를 나타내고 있다. 인공지능(AI) 연산 수요가 급증하면서 기존 반도체의 전력 소비와 데이터 처리 효율 한계를 극복할 차세대 기술로 뉴로모픽 반도체가 주목받고 있다. 자율주행차와 지능형 로봇, 엣지 AI 등으로 활용 분야가 확대될 것이라는 기대가 관련 기업들의 투자심리를 자극하고 있다.뉴로모픽 반도체는 인간의 뇌신경 ...",
-        "source": "핀포인트뉴스",
-        "publishedAt": "2026-11-11",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503285",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.SyLNjtBKuOc5qD-6yLRZ4w&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "프롬디, 중기부 팁스 선정…산업현장 AI 위험판단 기술 고도화",
-        "summary": "[서울=뉴스핌] 조한웅 기자 = 프롬디가 중소벤처기업부의 기술창업 지원 프로그램인 팁스(TIPS) 일반트랙에 선정됐다고 밝혔다. 이번 선정을 통해 프롬디는 산업현장의 데이터를 통합·구조화하고, 공정과 설비, 작업환경에 따른 위험요인을 판단하는 AI 핵심 기술 고도화에 나선다. 팁스는 민간 투자사가 기술력과 성장 가능성을 ...",
-        "source": "뉴스핌 on MSN",
-        "publishedAt": "2026-11-12",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%94%84%EB%A1%AC%EB%94%94-%EC%A4%91%EA%B8%B0%EB%B6%80-%ED%8C%81%EC%8A%A4-%EC%84%A0%EC%A0%95-%EC%82%B0%EC%97%85%ED%98%84%EC%9E%A5-ai-%EC%9C%84%ED%97%98%ED%8C%90%EB%8B%A8-%EA%B8%B0%EC%88%A0-%EA%B3%A0%EB%8F%84%ED%99%94/ar-AA2hfxkI",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.SV39aczW9TNPEnjCPlUEBw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "연구원이 AI기술·산업 알려준다…가천대 학생에 재능기부",
-        "summary": "경기 성남시의 제안으로 HD현대와 가천대학교가 손잡고 대학생들에게 인공지능(AI) 기술의 산업 현장 활용 사례와 취업 정보를 제공하는 자리를 마련했다. 기업의 현직 연구원들이 직접 강연자로 나서 조선·해양 분야의 AI 기술과 최신 산업 동향을 소개하고 학생들에게 직무 선택과 취업 준비에 필요한 실질적인 조언을 전달했다. 성남시는 HD현대가 지난 10일에 이 ...",
-        "source": "뉴시스 on MSN",
-        "publishedAt": "2026-11-12",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%97%B0%EA%B5%AC%EC%9B%90%EC%9D%B4-ai%EA%B8%B0%EC%88%A0-%EC%82%B0%EC%97%85-%EC%95%8C%EB%A0%A4%EC%A4%80%EB%8B%A4-%EA%B0%80%EC%B2%9C%EB%8C%80-%ED%95%99%EC%83%9D%EC%97%90-%EC%9E%AC%EB%8A%A5%EA%B8%B0%EB%B6%80/ar-AA2hfJxw",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.WgML8lbmGxA4wjg6OEn_rQ&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
