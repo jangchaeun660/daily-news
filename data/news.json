@@ -1,88 +1,97 @@
 {
-  "updatedAt": "2026-11-20",
-  "windowStart": "2026-11-18T22:00:00.000Z",
-  "windowEnd": "2026-11-19T22:00:00.000Z",
+  "updatedAt": "2026-11-21",
+  "windowStart": "2026-11-19T22:00:00.000Z",
+  "windowEnd": "2026-11-20T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "최저주거기준·공공임대 정책에 국민 의견 듣는다",
-      "summary": "(서울=연합뉴스) 임기창 기자 = 국토교통부는 오는 20일 서울에서 전문가, 청년, 시민단체 등이 참석해 주거복지 정책을 논의하는 '주거복지정책 토론회'를 개최한다고 19일 밝혔다. 토론회 1부에서는 최저주거기준 개선 방안을 주제로 서지은 영남대 교수가 발제하고, 관련 분야 전문가들이 기준 개선 방향과 세부 개정 방안을 논의한다. 최저주거기준은 국민이 인간 ...",
+      "title": "전남광주통합특별시, GGM 공동복지 12개 사업 개편 착수",
+      "summary": "GGM 공동복지프로그램 이행상황 점검회의[세계로컬타임즈] 전남광주통합특별시는 20일 광주청사에서 윤난실 시민주권부시장 주재로 ‘GGM 공동복지프로그램 이행상황 점검회의’를 열고, 12개 사업의 이행실태 점검과 근로자 수요를 반영한 복지체계 개편에 착수했다고 밝혔다.이번 ...",
+      "source": "세계로컬타임즈",
+      "publishedAt": "2026-11-20",
+      "url": "https://segyelocalnews.com/article/1065598229027510",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.WZkn5gS-hDrUicglOtuhtA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "‘리트 만점자’의 삶과 죽음…“한국 사회 문제들 훑고 지나간 듯”",
+      "summary": "인공지능(AI)을 이용한 부정행위를 저질렀다는 의심을 받아 온 ‘리트 만점자’ 이진우씨가 돌연 사망한 뒤, 시민들 사이에 복잡한 심경을 토로하는 목소리가 이어지고 있다. 부정행위 의혹에 대해서는 비판하면서도 안타까움을 느낀다는 누리꾼들 글이 이어지는가 하면, 전문가와 ...",
+      "source": "한겨레",
+      "publishedAt": "2026-11-20",
+      "url": "https://www.hani.co.kr/arti/society/society_general/1288402.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.QfGYcMpF1gAdIun3iC06Fg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "'올공 시위' 건드린 이수지·최시원… 연예인 사회이슈 발언 '득'인가 '독'인가",
+      "summary": "해당 영상에서 이수지는 1년 차 공무원 '김지영'으로 악성 민원에 시달리는 연기를 했다. 제작진은 \"많은 분께서 지적해주신 장면은 특정 사안이나 정치적 입장을 전달하려는 의도로 사용된 것이 아니었다\"며 \"그러나 사회적으로 민감한 사안에 대해 충분히 신중하게 고려하지 못한 채 장면을 사용한 것은 제작진의 판단이 부족했다\"고 해명했다.",
+      "source": "머니투데이",
+      "publishedAt": "2026-08-03",
+      "url": "https://www.mt.co.kr/entertainment/2026/08/03/2026073014275782016",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.WfqPgTVci7Ia8YlvJKm8xg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "녹지 사회인프라",
+      "summary": "환경과 관련해 제기되는 이슈 중 하나는 도시 녹지 공간 조성이다. 도시에 있는 녹지는 여러 방면에서 주민들에게 긍정적 영향을 준다. 녹지가 건강과 사회적 연결 그리고 환경 정화 기능을 갖는 데서 오는 편익이다. 생활권 주변에 녹지가 많은 경우 신체 활동이 늘어나게 마련이고 이는 곧 건강 증진으로 연결된다. 또 자연을 닮은 공원은 주민들의 대면 활동을 활발하 ...",
+      "source": "전라일보",
+      "publishedAt": "2026-11-18",
+      "url": "https://www.jeollailbo.com/news/articleView.html?idxno=817100",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.AuynuVV-ElxXQ2ZQoinvNQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[대전 24시] 대덕특구본부, AIㆍ딥테크 활용 사회 이슈 해결",
+      "summary": "이날 초청강연에서는 김승겸 KAIST 교수가 ‘기후적응의 역설: AI, 도시 불평등과 거버넌스’를 주제로 기후변화가 도시와 사회에 미치는 영향을 살펴보고 AI 기술을 활용한 지속가능한 미래 도시의 방향을 제시했다.",
+      "source": "시사저널",
+      "publishedAt": "2026-11-18",
+      "url": "https://www.sisajournal.com/news/articleView.html?idxno=394380",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.EWgBecu4CjxZzusuT0M6Ag&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "울주군, 경로당 노인 대상 '찾아가는 인공지능' 교육",
+      "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 울주 인공지능 (AI) 교육센터가 지역 노인 대상으로 '찾아가는 인공지능 교육'을 진행한다고 21일 밝혔다. 교육은 교육센터를 방문하기 어려운 노인들이 생활 속 인공지능을 친숙히 느끼고 일상에서 편리하게 활용할 수 있도록 돕기 위해 마련됐다.",
       "source": "연합뉴스",
-      "publishedAt": "2026-11-19",
-      "url": "https://www.yna.co.kr/view/AKR20261119028200003",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.GSpxD4jDADu891O60PSoGw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[창간 특별기획 '출산 포비아']스웨덴·덴마크 등 복지 선진국…출산·육아 국가 책임",
-      "summary": "퍼블릭타임스=대한민국이 인구절벽의 현실과 마주하고 있다. 출생아 수 감소는 국가 성장동력을 위협하고, 초고령사회 진입은 노동시장과 복지, 의료, 금융, 지역경제 등 사회 전반의 구조적 변화를 요구한다. 저출산과 고령화는 더 이상 특정 세대의 문제가 아니라 우리 모두가 함께 해결해야 할 시대적 과제이다. 퍼블릭타임스는 창간 6주년을 맞아 [출산 포비아 ...",
-      "source": "공생공사닷컴",
-      "publishedAt": "2026-11-19",
-      "url": "https://www.public25.com/news/articleView.html?idxno=58591",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.741_QmBzm9_sWy6b6NgOuw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[2027수능] 4교시 사회탐구영역 정답표",
-      "summary": "2027학년도 수능 4교시 사회탐구 윤리와 사상 정답표/한국교육과정평가원 제공ⓒ 뉴스1 2027학년도 수능 4교시 사회탐구 한국지리 정답표/한국교육과정평가원 제공ⓒ 뉴스1 2027학년도 수능 4교시 사회탐구 세계지리 정답표/한국교육과정평가원 제공ⓒ 뉴스1 2027학년도 수능 4교시 사회탐구 동아시아사 정답표/한국교육과정평가원 제공ⓒ 뉴스1 2027학년도 수 ...",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-11-19",
-      "url": "https://www.fnnews.com/news/202611192119227645",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.6YmOIbCkyRayfvrUddqGrQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "강북구도시관리공단, 지역사회공헌 7년 연속 인정",
-      "summary": "강북구도시관리공단이 보건복지부와 한국사회복지협의회가 공동 시행하는 ‘2026년 지역사회공헌 인정제’에서 최종 인정기관으로 선정됐다. 공단은 장애인 도서관 이용 편의 개선과 지역기관을 통한 자원순환 활동 등으로 7년 연속 인정을 받았다고 20일 밝혔다.지역사회공헌 인정제는 기업과 공공기관이 인력과 시설 등을 활용해 지역 비영리단체와 함께 꾸준히 펼친 사회공헌 ...",
-      "source": "전국매일신문",
-      "publishedAt": "2026-11-19",
-      "url": "https://jeonmae.co.kr/news/articleView.html?idxno=1314033",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.AzNmnhj1fWQIwo-Az5mKEA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "광주특별시-국가인공지능전략위, 국산 NPU 실증·판로 확대 모색",
-      "summary": "전남광주통합특별시 제공 전남광주통합특별시와 국가인공지능전략위원회가 국산 인공지능(AI) 반도체의 상용화와 시장 진출을 지원하기 위한 협력 방안을 논의했다. 전남광주통합특별시는 19일 광주 북구 오룡동 인공지능산업융합사업단(AICA)에서 국가인공지능전략위원회와 공동으로 '국산 AI 반도체 기업 간담회'를 개최했다. 이번 ...",
-      "source": "노컷뉴스 on MSN",
-      "publishedAt": "2026-11-19",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B4%91%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%8B%9C-%EA%B5%AD%EA%B0%80%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%A0%84%EB%9E%B5%EC%9C%84-%EA%B5%AD%EC%82%B0-npu-%EC%8B%A4%EC%A6%9D-%ED%8C%90%EB%A1%9C-%ED%99%95%EB%8C%80-%EB%AA%A8%EC%83%89/ar-AA2hKYhH",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.vjZ76GmngKbdfMtbn2idIA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "법무법인 지평, 인공지능 데이터센터 개발·인허가·전력 확보에 협력",
-      "summary": "법무법인(유) 지평은 11월 18일 지평 본사가 있는 그랜드센트럴 26층 대회의실에서 주식회사 디비월드(DB월드)와 인공지능 데이터센터 사업 협력을 위한 업무협약을 맺었다. 이번 협약은 인공지능 데이터센터(AIDC)와 관련 인프라를 조속히 구축하고 안정적으로 운영할 수 있도록 양측의 전문성을 모아 협력 체계를 마련하기 위해 추진됐다. 양측은 인공지능 데이터 ...",
-      "source": "중앙일보",
       "publishedAt": "2026-11-20",
-      "url": "https://www.joongang.co.kr/article/25480426",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.ma_wM3uIZw8Gu-k_6Bo_KQ&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.yna.co.kr/view/AKR20261120106700057",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.0_c7cc0AIEpM88xlMXR5BQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "서울시립대, 한국피지컬AI협회와 인공지능 산업 활성화 위한 업무협약 체결",
-      "summary": "서울시립대학교는 지난 18일 교내에서 한국피지컬AI협회와 ‘인공지능(AI) 산업 활성화 위한 업무협약’을 체결했다고 20일 밝혔다.양 기관은 이번 협약을 통해 피지컬 AI 전문인력 양성, 공동연구 및 기술 교류, 신규 협력사업 발굴과 추진 등에 협력하기로 ...",
-      "source": "서울신문 on MSN",
+      "title": "‘전기 먹는 하마’ 데이터센터, 2060년엔 전력 13배 필요…재생에너지에 답 있다",
+      "summary": "에너지 확보에 달린 ‘AI 강국’ 전남 신안군 자은도 일대에 설치된 포스코에너지 풍력발전소. [사진 포스코에너지] 빠르게 성장하고 있는 인공지능(AI) 산업에서 중요성이 커진 데이터센터의 전력 확보에 대한 고민이 국내에 확산하고 있다. AI 업계는 데이터센터를 늘리면서 급증하는 전력 수요보다 국내 발전량(發電量)이 충분하지 않아 중·장기적 대책 마련이 필요 ...",
+      "source": "중앙일보 on MSN",
+      "publishedAt": "2026-11-21",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%A0%84%EA%B8%B0-%EB%A8%B9%EB%8A%94-%ED%95%98%EB%A7%88-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-2060%EB%85%84%EC%97%94-%EC%A0%84%EB%A0%A5-13%EB%B0%B0-%ED%95%84%EC%9A%94-%EC%9E%AC%EC%83%9D%EC%97%90%EB%84%88%EC%A7%80%EC%97%90-%EB%8B%B5-%EC%9E%88%EB%8B%A4/ar-AA2hRDJF",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.oS31StD2RscfvAmNp_I2cQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "[미리보는 소프트웨이브 2026] 〈1〉AI 혁신부터 투자·수출까지 SW 산업 비즈니스 장 연다",
+      "summary": "인공지능(AI)과 소프트웨어(SW) 산업의 최신 기술과 혁신 솔루션을 한자리에서 살펴보고 글로벌 비즈니스 기회까지 모색하는 자리가 마련된다. 국내 SW 기업이 산업 현장에 적용할 수 있는 기술과 서비스를 선보이고 기업 간 사업 협력과 투자 유치, 해외 시장 진출 기회를 모색한다. 전자신문사는 '제11회 대한민국 소프트웨어대전, AI x 소프트웨이브 2026 ...",
+      "source": "전자신문 on MSN",
+      "publishedAt": "2026-11-21",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4/%EB%AF%B8%EB%A6%AC%EB%B3%B4%EB%8A%94-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%9D%B4%EB%B8%8C-2026-1-ai-%ED%98%81%EC%8B%A0%EB%B6%80%ED%84%B0-%ED%88%AC%EC%9E%90-%EC%88%98%EC%B6%9C%EA%B9%8C%EC%A7%80-sw-%EC%82%B0%EC%97%85-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EC%9E%A5-%EC%97%B0%EB%8B%A4/ar-AA2hT6GR",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.rN2tD5aIFuDBB-7aPXXclA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "오믈렛, 실리콘밸리 'XTC AI:360 서밋'서 산업용 플랫폼 공개",
+      "summary": "재단법인 글로벌디지털혁신네트워크(GDIN)는 과학기술정보통신부의 '2026년 ICT(정보통신) 창의기업육성사업'의 일환으로 국내 인공지능(AI) 스타트업 오믈렛이 미국 실리콘밸리에서 열린 '2026 XTC AI:360 서밋'에 참가했다고 21일 밝혔다. 지난 19일(현지시간) 미국 실리콘밸리 팔로알토의 벤처캐피털 플레이그라운드 글로벌에서 개최된 이번 행사는 ...",
+      "source": "머니투데이 on MSN",
+      "publishedAt": "2026-11-21",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EC%98%A4%EB%AF%88%EB%A0%9B-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-xtc-ai-360-%EC%84%9C%EB%B0%8B-%EC%84%9C-%EC%82%B0%EC%97%85%EC%9A%A9-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B3%B5%EA%B0%9C/ar-AA2hTFtH",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.mps4w6JJ2CJBTUYMaGuhKg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "최진식 \"수출 1조 달러 모멘텀 살려야\"…중견기업, 기술·AI로 재도약",
+      "summary": "중견기업인의 날 개최…송동춘 풍전비철 회장 금탑산업훈장 등 57점 포상 한성숙 총리 \"규제 합리화 속도…균형 발전에 금융·세제 혜택 확대\" 중견기업계가 수출 1조 달러 달성의 동력을 이어갈 과제로 독자 기술 확보와 인공지능(AI) 전환을 제시했다. 중국발 경쟁 심화와 산업구조 변화에 대 ...",
+      "source": "뉴스1",
       "publishedAt": "2026-11-20",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EB%8C%80-%ED%95%9C%EA%B5%AD%ED%94%BC%EC%A7%80%EC%BB%ACai%ED%98%91%ED%9A%8C%EC%99%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%82%B0%EC%97%85-%ED%99%9C%EC%84%B1%ED%99%94-%EC%9C%84%ED%95%9C-%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD-%EC%B2%B4%EA%B2%B0/ar-AA2hOaig",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.noDRc_THFZtFRjgxu-xowg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "AI 부정행위 파문으로 뒤흔들린 수능장… 꽁꽁 언 긴장 녹인 ‘연필 손 편지’",
-      "summary": "오마이뉴스 보도에 따르면 금옥여고 교장은 “이 편지는 삭막한 인공지능 시대에도 우리가 여전히 따뜻한 마음을 가진 인간이라는 사실을 보여준다”며 “편지를 다 읽고 나서 갑자기 눈물이 났다”고 소회를 밝혔다. 이어 “수능 감독관을 하느라 새벽부터 고생한 선생님들도 이 편지를 보고 큰 힘을 얻었다”면서 “우리 학교 학생들도 기운을 내서 편지 내용처럼 ‘꼭 수능이 ...",
-      "source": "위키트리",
-      "publishedAt": "2026-11-19",
-      "url": "https://www.wikitree.co.kr/articles/1176245",
-      "imageUrl": "https://www.bing.com/th?id=ONUT._rrKlnci_u56gKjYq2llDQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "한·중, 공공 인공지능 대전환 협력 강화…미래 인재 양성 공동 대응",
-      "summary": "한국과 중국의 행정·교육 분야 전문가들이 인공지능을 활용한 민생 서비스 개선과 지방 소멸 대응, 미래 공무원 양성 방안 중심으로 양국의 협력 방향을 논의했다.행정안전부 지방자치인재개발원은 19일 경주 황룡원에서 중국 칭화대학 공공관리학원과 제19회 ‘한중 세미나’를..",
-      "source": "아시아투데이",
-      "publishedAt": "2026-11-19",
-      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261119010007682",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.sc8oZ_6VUI3hVuq8G0Frmw&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.news1.kr/industry/sb-founded/6361274",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.EoqfaGo8jREoqdqdhUQ9Aw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
