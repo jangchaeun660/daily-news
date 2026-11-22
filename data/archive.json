@@ -1,5 +1,84 @@
 [
   {
+    "updatedAt": "2026-11-22",
+    "windowStart": "2026-11-20T22:00:00.000Z",
+    "windowEnd": "2026-11-21T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "'올공 시위' 건드린 이수지·최시원… 연예인 사회이슈 발언 '득'인가 '독'인가",
+        "summary": "해당 영상에서 이수지는 1년 차 공무원 '김지영'으로 악성 민원에 시달리는 연기를 했다. 제작진은 \"많은 분께서 지적해주신 장면은 특정 사안이나 정치적 입장을 전달하려는 의도로 사용된 것이 아니었다\"며 \"그러나 사회적으로 민감한 사안에 대해 충분히 신중하게 고려하지 못한 채 장면을 사용한 것은 제작진의 판단이 부족했다\"고 해명했다.",
+        "source": "머니투데이",
+        "publishedAt": "2026-08-03",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/03/2026073014275782016",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.WfqPgTVci7Ia8YlvJKm8xg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "녹지 사회인프라",
+        "summary": "환경과 관련해 제기되는 이슈 중 하나는 도시 녹지 공간 조성이다. 도시에 있는 녹지는 여러 방면에서 주민들에게 긍정적 영향을 준다. 녹지가 건강과 사회적 연결 그리고 환경 정화 기능을 갖는 데서 오는 편익이다. 생활권 주변에 녹지가 많은 경우 신체 활동이 늘어나게 마련이고 이는 곧 건강 증진으로 연결된다. 또 자연을 닮은 공원은 주민들의 대면 활동을 활발하 ...",
+        "source": "전라일보",
+        "publishedAt": "2026-11-18",
+        "url": "https://www.jeollailbo.com/news/articleView.html?idxno=817100",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.AuynuVV-ElxXQ2ZQoinvNQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "\"새벽 샤워·엘리베이터 자제해달라\"…선 넘은 배려 요구인가[이슈N]",
+        "summary": "[서울=뉴시스]장인혜 인턴 기자 = 아파트에서 밤늦게 샤워하는 것을 두고 이웃 간 생활 소음 논쟁이 이어지고 있다. 지난 6일 사회관계망서비스(SNS)에 늦은 시간 샤워와 세탁기 사용을 자제해 달라는 아파트 주민의 글이 올라오자, 개인의 일상생활을 어디까지 이웃..",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-11-10",
+        "url": "https://www.fnnews.com/news/202611100701407155",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Ih8HqaReMAUKZhQWTLAAzQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈&경제] 이윤을 넘어 가치로, 넷플릭스와 삼성화재가 보여준 ESG",
+        "summary": "넷플릭스는 오늘날 ESG(환경·사회·지배구조) 경영을 콘텐츠 산업에서 가장 성공적으로 구현한 기업으로 평가받는다. 이 플랫폼은 기술과 창작의 자율성을 토대로 다양하고 의미 있는 스토리를 발굴해 전 세계 시청자에게 즐거움과 사회적 가치를 전달하는 글로벌 엔터테인먼트로 자 ...",
+        "source": "경기일보",
+        "publishedAt": "2026-11-08",
+        "url": "https://www.kyeonggi.com/article/20261108580101",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.BMXlZfXLlC8tFzgCiQHJUw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "“당진외국인노동자쉼터, 임시 거처 넘어 주거복지·재취업 지원 거점으로 발전해야”",
+        "summary": "제9회 실직 외국인 근로자 실태조사 분석 발표 및 정책토론회가 지난 11일 당진시청 중회의실에서 열렸다.당진시외국인근로자지원센터(센터장 김승숙)가 주최·주관하고 충남광역 외국인노동자쉼터가 협력한 이번 토론회는 실직 외국인노동자의 주거 실태와 당진에 위치한 충남광역 외국인노동자쉼터의 운영 현황을 점검하고, 이주노동자의 기본권과 주거권 보장을 위한 정책 대안을 ...",
+        "source": "당진시대",
+        "publishedAt": "2026-11-11",
+        "url": "http://www.djtimes.co.kr/news/articleView.html?idxno=114214",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.qqbFLizOakwl_-YU9HZ7_A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "토론도 수행평가도 AI로 인공지능 경연장 된 학교",
+        "summary": "최근 교내에서 비교과 활동의 하나로 치러진 아이들의 찬반 토론을 참관한 적이 있다. 한 달 전쯤 게시판에 토론 참여자를 모집한다는 공고가 붙었고, 마음이 맞는 친구와 팀을 꾸리려는 아이들의 발걸음이 분주했다. 토론 프로그램은 생활기록부에 ...",
+        "source": "오마이뉴스 on MSN",
+        "publishedAt": "2026-11-21",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%ED%86%A0%EB%A1%A0%EB%8F%84-%EC%88%98%ED%96%89%ED%8F%89%EA%B0%80%EB%8F%84-ai%EB%A1%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B2%BD%EC%97%B0%EC%9E%A5-%EB%90%9C-%ED%95%99%EA%B5%90/ar-AA2hV38O",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.VPRZiM_f-dw35WZAW2fbdw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "울주군, 경로당 노인 대상 '찾아가는 인공지능' 교육",
+        "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 울주 인공지능 (AI) 교육센터가 지역 노인 대상으로 '찾아가는 인공지능 교육'을 진행한다고 21일 밝혔다. 교육은 교육센터를 방문하기 어려운 노인들이 생활 속 인공지능을 친숙히 느끼고 일상에서 편리하게 활용할 수 있도록 돕기 위해 마련됐다.",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-21",
+        "url": "https://www.yna.co.kr/view/AKR20261120106700057",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.0_c7cc0AIEpM88xlMXR5BQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "로봇산업진흥원-2작전사, 국방 첨단로봇·피지컬 AI 확대 맞손",
+        "summary": "(서울=연합뉴스) 장보인 기자 = 한국로봇산업진흥원은 지난 19일 육군 제2작전사령부와 '국방분야 첨단로봇 및 피지컬 인공지능(AI) 도입 확대 등을 위한 업무협약'을 했다고 22일 밝혔다. 양 기관은 ▲ 국방분야 첨단로봇·피지컬 AI 활용 수요발굴과 협력사업 추진 ▲ 첨단로봇·피지컬 AI 기술의 현장 적용과 실증 확대 ...",
+        "source": "연합뉴스 on MSN",
+        "publishedAt": "2026-11-22",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EB%A1%9C%EB%B4%87%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90-2%EC%9E%91%EC%A0%84%EC%82%AC-%EA%B5%AD%EB%B0%A9-%EC%B2%A8%EB%8B%A8%EB%A1%9C%EB%B4%87-%ED%94%BC%EC%A7%80%EC%BB%AC-ai-%ED%99%95%EB%8C%80-%EB%A7%9E%EC%86%90/ar-AA2hVVnI",
+        "imageUrl": "https://www.bing.com/th?id=ONUT._jmB0gKTR1Uf-aonl2Tvnw&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-11-21",
     "windowStart": "2026-11-19T22:00:00.000Z",
     "windowEnd": "2026-11-20T22:00:00.000Z",
@@ -560,76 +639,6 @@
         "publishedAt": "2026-11-15",
         "url": "https://www.sedaily.com/article/20114612",
         "imageUrl": "https://www.bing.com/th?id=ONUT.b44LFnifejNTwwSgn4Uvyw&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-11-15",
-    "windowStart": "2026-11-13T22:00:00.000Z",
-    "windowEnd": "2026-11-14T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "한국세무사회 'AOTCA 홍콩 총회'서 해법 제시… 글로벌 조세 협력 주도",
-        "summary": "구재이 회장 등 이사회·VIP 리셉션 참석해 각국 단체와 교류도11일 컨퍼런스서 홍성원 세무사 '예측적 위험관리' 발표 예정 (홍콩=뉴스1) 송용환 기자 = 아시아·오세아니아 각국의 조세 전문가들이 홍콩에 모여 세무행정의 디지털 전환과 국제조세 협력 방안을 논의하고 있다. 한국세무사회도 대표단을 파견해 각국 세무사 ...",
-        "source": "뉴스1 on MSN",
-        "publishedAt": "2026-11-10",
-        "url": "https://www.msn.com/ko-kr/news/news/%ED%95%9C%EA%B5%AD%EC%84%B8%EB%AC%B4%EC%82%AC%ED%9A%8C-aotca-%ED%99%8D%EC%BD%A9-%EC%B4%9D%ED%9A%8C-%EC%84%9C-%ED%95%B4%EB%B2%95-%EC%A0%9C%EC%8B%9C-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%A1%B0%EC%84%B8-%ED%98%91%EB%A0%A5-%EC%A3%BC%EB%8F%84/ar-AA2h73F8",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.dGins-tO1MaqftPgrSkIkw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "BNK금융, 한국ESG기준원 ESG 평가서 5년 연속 통합 'A'",
-        "summary": "[파이낸셜뉴스] BNK금융그룹이 국내 대표 환경·사회·지배구조(ESG) 평가에서 5년 연속 통합 A등급을 획득하며 지속가능경영 역량을 인정받았다. 사회(S) 부문에서 4년 연속, 환경(E) 부문에서 3년 연속 A+등급을 달성하며 지역사회 상생과 친환경 금융 확대 성과를 이어갔다. BNK금융그룹은 한국ESG기준원(KCGS)이 발표한 '2026년 ESG 평가' ...",
-        "source": "파이낸셜뉴스 on MSN",
-        "publishedAt": "2026-11-13",
-        "url": "https://www.msn.com/ko-kr/news/other/bnk%EA%B8%88%EC%9C%B5-%ED%95%9C%EA%B5%ADesg%EA%B8%B0%EC%A4%80%EC%9B%90-esg-%ED%8F%89%EA%B0%80%EC%84%9C-5%EB%85%84-%EC%97%B0%EC%86%8D-%ED%86%B5%ED%95%A9-a/ar-AA2hkhfr",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.oXZ5S7kRyOiBX8D4v8CY0g&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "한국원자력환경공단, 지역사회공헌 인정제 최고등급 S등급 획득",
-        "summary": "[헤럴드경제(경주)=김병진 기자]한국원자력환경공단은 보건복지부와 한국사회복지협의회가 공동 주관하는 ‘2026년 지역사회공헌 인정제’에서 최고등급인 S등급을 획득했다고 13일 밝혔다. 지역사회공헌 인정제는 비영리단체와 협력해 지속적인 사회공헌 활동을 펼친 기업과 기관을 발굴·인정하는 제도다. 공단은 지난해 첫 참여에서 A+등급을 받은 데 이어 올해 한 단계 ...",
-        "source": "헤럴드경제 on MSN",
-        "publishedAt": "2026-11-14",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%9B%90%EC%9E%90%EB%A0%A5%ED%99%98%EA%B2%BD%EA%B3%B5%EB%8B%A8-%EC%A7%80%EC%97%AD%EC%82%AC%ED%9A%8C%EA%B3%B5%ED%97%8C-%EC%9D%B8%EC%A0%95%EC%A0%9C-%EC%B5%9C%EA%B3%A0%EB%93%B1%EA%B8%89-s%EB%93%B1%EA%B8%89-%ED%9A%8D%EB%93%9D/ar-AA2hpnqj",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.9B3SsO1FtJtG3k6K_BvIFQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "\"우승 신문 구해요\"…삼성라이온즈 한국시리즈 우승에 신문 불티",
-        "summary": "(대구=연합뉴스) 윤관식 기자 = 삼성라이온즈 야구단의 한국시리즈 우승에 삼성 팬들이 신문 구하기에 열을 올리고 있다. 사회관계망서비스(SNS) 상에서는 1면에 삼성라이온즈 사진이 실린 신문을 구하는 누리꾼들이 등장했다. 해당 신문은 '가성비 우승 굿즈'(가격대비 우수한 우승 상품)로 꼽히며 인기를 끄는 모양새다. 삼성라이온즈 한국시리즈 우승 다음 날인 9 ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-11-09",
-        "url": "https://www.yna.co.kr/view/AKR20261109132200053",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Fw2FuxGdj0gQalCLMOOa6g&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "337호 미래산업특집) AI·휴머노이드·반도체·바이오·우주가 대한민국의 미래를 바꾼다",
-        "summary": "인공지능(AI)이 인간의 지적 노동을 바꾸고, 휴머노이드 로봇이 생산현장에 등장하며, 첨단 반도체는 국가 경쟁력의 핵심으로 떠오르고 있다. 바이오 기술은 질병의 진단과 치료 방식을 혁신하고, 우주산업은 통신과 국방, 새로운 경제영토의 가능성을 넓히고 있다.",
-        "source": "시사매거진",
-        "publishedAt": "2026-11-14",
-        "url": "https://www.sisamagazine.co.kr/article/1000000000806",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.is2ODFSAgO8zxylIW5tvXg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[특집/AI 시대, 새롭게 뜨는 유망산업 제4편: 산업용 AI·스마트팩토리] “공장이 스스로 판단한다”…제조업 AI 전환에서 찾는 한국의 ...",
-        "summary": "산업통상부는 지난 8월 AI팩토리 선도 프로젝트로 지원한 약 170개 사업장 가운데 사업에 일찍 착수한 42곳을 점검한 결과, 생산성이 평균 30.1% 높아지고 불량률은 평균 15.5% 낮아졌다고 밝혔다. 이 수치는 먼저 사업에 착수한 42개 사업장을 대상으로 집계한 결과다.",
-        "source": "코리아포스트",
-        "publishedAt": "2026-11-14",
-        "url": "https://www.koreapost.co.kr/news/articleView.html?idxno=90106",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.hsry-Ie2LYQFU5Qa9I6cZg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "미 공군·NSA·맨디언트 거친 롭 T. 리, 드라고스 첫 최고AI책임자 전격 취임",
-        "summary": "거액의 스카우트와 핵심 임원의 이적 뒤에는 글로벌 산업 지형을 바꿀 거대한 셈법이 숨어 있습니다. 더구루는 기획 시리즈 '국경 없는 인재 전쟁 : 핵심 인재는 어디로 이동하는가'를 통해 테크·산업계 핵심 인재의 이동 경로를 추적합니다. 인재 영입이 가져올 기업의 숨은 신사업 전략과 산업 지각변동의 비하인드를 파헤칩니다. -편집자주- [더구루=김예지 기자] ...",
-        "source": "더구루",
-        "publishedAt": "2026-11-14",
-        "url": "https://www.theguru.co.kr/news/article.html?no=109543",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.3JHsWJNKvhO_sgFXZCS2ew&pid=News&w=1200&h=675&c=14"
       }
     ]
   }

@@ -1,26 +1,8 @@
 {
-  "updatedAt": "2026-11-21",
-  "windowStart": "2026-11-19T22:00:00.000Z",
-  "windowEnd": "2026-11-20T22:00:00.000Z",
+  "updatedAt": "2026-11-22",
+  "windowStart": "2026-11-20T22:00:00.000Z",
+  "windowEnd": "2026-11-21T22:00:00.000Z",
   "articles": [
-    {
-      "category": "society",
-      "title": "전남광주통합특별시, GGM 공동복지 12개 사업 개편 착수",
-      "summary": "GGM 공동복지프로그램 이행상황 점검회의[세계로컬타임즈] 전남광주통합특별시는 20일 광주청사에서 윤난실 시민주권부시장 주재로 ‘GGM 공동복지프로그램 이행상황 점검회의’를 열고, 12개 사업의 이행실태 점검과 근로자 수요를 반영한 복지체계 개편에 착수했다고 밝혔다.이번 ...",
-      "source": "세계로컬타임즈",
-      "publishedAt": "2026-11-20",
-      "url": "https://segyelocalnews.com/article/1065598229027510",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.WZkn5gS-hDrUicglOtuhtA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "‘리트 만점자’의 삶과 죽음…“한국 사회 문제들 훑고 지나간 듯”",
-      "summary": "인공지능(AI)을 이용한 부정행위를 저질렀다는 의심을 받아 온 ‘리트 만점자’ 이진우씨가 돌연 사망한 뒤, 시민들 사이에 복잡한 심경을 토로하는 목소리가 이어지고 있다. 부정행위 의혹에 대해서는 비판하면서도 안타까움을 느낀다는 누리꾼들 글이 이어지는가 하면, 전문가와 ...",
-      "source": "한겨레",
-      "publishedAt": "2026-11-20",
-      "url": "https://www.hani.co.kr/arti/society/society_general/1288402.html",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.QfGYcMpF1gAdIun3iC06Fg&pid=News&w=1200&h=675&c=14"
-    },
     {
       "category": "society",
       "title": "'올공 시위' 건드린 이수지·최시원… 연예인 사회이슈 발언 '득'인가 '독'인가",
@@ -41,57 +23,57 @@
     },
     {
       "category": "society",
-      "title": "[대전 24시] 대덕특구본부, AIㆍ딥테크 활용 사회 이슈 해결",
-      "summary": "이날 초청강연에서는 김승겸 KAIST 교수가 ‘기후적응의 역설: AI, 도시 불평등과 거버넌스’를 주제로 기후변화가 도시와 사회에 미치는 영향을 살펴보고 AI 기술을 활용한 지속가능한 미래 도시의 방향을 제시했다.",
-      "source": "시사저널",
-      "publishedAt": "2026-11-18",
-      "url": "https://www.sisajournal.com/news/articleView.html?idxno=394380",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.EWgBecu4CjxZzusuT0M6Ag&pid=News&w=1200&h=675&c=14"
+      "title": "\"새벽 샤워·엘리베이터 자제해달라\"…선 넘은 배려 요구인가[이슈N]",
+      "summary": "[서울=뉴시스]장인혜 인턴 기자 = 아파트에서 밤늦게 샤워하는 것을 두고 이웃 간 생활 소음 논쟁이 이어지고 있다. 지난 6일 사회관계망서비스(SNS)에 늦은 시간 샤워와 세탁기 사용을 자제해 달라는 아파트 주민의 글이 올라오자, 개인의 일상생활을 어디까지 이웃..",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-11-10",
+      "url": "https://www.fnnews.com/news/202611100701407155",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Ih8HqaReMAUKZhQWTLAAzQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[이슈&경제] 이윤을 넘어 가치로, 넷플릭스와 삼성화재가 보여준 ESG",
+      "summary": "넷플릭스는 오늘날 ESG(환경·사회·지배구조) 경영을 콘텐츠 산업에서 가장 성공적으로 구현한 기업으로 평가받는다. 이 플랫폼은 기술과 창작의 자율성을 토대로 다양하고 의미 있는 스토리를 발굴해 전 세계 시청자에게 즐거움과 사회적 가치를 전달하는 글로벌 엔터테인먼트로 자 ...",
+      "source": "경기일보",
+      "publishedAt": "2026-11-08",
+      "url": "https://www.kyeonggi.com/article/20261108580101",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.BMXlZfXLlC8tFzgCiQHJUw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "“당진외국인노동자쉼터, 임시 거처 넘어 주거복지·재취업 지원 거점으로 발전해야”",
+      "summary": "제9회 실직 외국인 근로자 실태조사 분석 발표 및 정책토론회가 지난 11일 당진시청 중회의실에서 열렸다.당진시외국인근로자지원센터(센터장 김승숙)가 주최·주관하고 충남광역 외국인노동자쉼터가 협력한 이번 토론회는 실직 외국인노동자의 주거 실태와 당진에 위치한 충남광역 외국인노동자쉼터의 운영 현황을 점검하고, 이주노동자의 기본권과 주거권 보장을 위한 정책 대안을 ...",
+      "source": "당진시대",
+      "publishedAt": "2026-11-11",
+      "url": "http://www.djtimes.co.kr/news/articleView.html?idxno=114214",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.qqbFLizOakwl_-YU9HZ7_A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "토론도 수행평가도 AI로 인공지능 경연장 된 학교",
+      "summary": "최근 교내에서 비교과 활동의 하나로 치러진 아이들의 찬반 토론을 참관한 적이 있다. 한 달 전쯤 게시판에 토론 참여자를 모집한다는 공고가 붙었고, 마음이 맞는 친구와 팀을 꾸리려는 아이들의 발걸음이 분주했다. 토론 프로그램은 생활기록부에 ...",
+      "source": "오마이뉴스 on MSN",
+      "publishedAt": "2026-11-21",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%ED%86%A0%EB%A1%A0%EB%8F%84-%EC%88%98%ED%96%89%ED%8F%89%EA%B0%80%EB%8F%84-ai%EB%A1%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B2%BD%EC%97%B0%EC%9E%A5-%EB%90%9C-%ED%95%99%EA%B5%90/ar-AA2hV38O",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.VPRZiM_f-dw35WZAW2fbdw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
       "title": "울주군, 경로당 노인 대상 '찾아가는 인공지능' 교육",
       "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 울주 인공지능 (AI) 교육센터가 지역 노인 대상으로 '찾아가는 인공지능 교육'을 진행한다고 21일 밝혔다. 교육은 교육센터를 방문하기 어려운 노인들이 생활 속 인공지능을 친숙히 느끼고 일상에서 편리하게 활용할 수 있도록 돕기 위해 마련됐다.",
       "source": "연합뉴스",
-      "publishedAt": "2026-11-20",
+      "publishedAt": "2026-11-21",
       "url": "https://www.yna.co.kr/view/AKR20261120106700057",
       "imageUrl": "https://www.bing.com/th?id=ONUT.0_c7cc0AIEpM88xlMXR5BQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "‘전기 먹는 하마’ 데이터센터, 2060년엔 전력 13배 필요…재생에너지에 답 있다",
-      "summary": "에너지 확보에 달린 ‘AI 강국’ 전남 신안군 자은도 일대에 설치된 포스코에너지 풍력발전소. [사진 포스코에너지] 빠르게 성장하고 있는 인공지능(AI) 산업에서 중요성이 커진 데이터센터의 전력 확보에 대한 고민이 국내에 확산하고 있다. AI 업계는 데이터센터를 늘리면서 급증하는 전력 수요보다 국내 발전량(發電量)이 충분하지 않아 중·장기적 대책 마련이 필요 ...",
-      "source": "중앙일보 on MSN",
-      "publishedAt": "2026-11-21",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%A0%84%EA%B8%B0-%EB%A8%B9%EB%8A%94-%ED%95%98%EB%A7%88-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-2060%EB%85%84%EC%97%94-%EC%A0%84%EB%A0%A5-13%EB%B0%B0-%ED%95%84%EC%9A%94-%EC%9E%AC%EC%83%9D%EC%97%90%EB%84%88%EC%A7%80%EC%97%90-%EB%8B%B5-%EC%9E%88%EB%8B%A4/ar-AA2hRDJF",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.oS31StD2RscfvAmNp_I2cQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[미리보는 소프트웨이브 2026] 〈1〉AI 혁신부터 투자·수출까지 SW 산업 비즈니스 장 연다",
-      "summary": "인공지능(AI)과 소프트웨어(SW) 산업의 최신 기술과 혁신 솔루션을 한자리에서 살펴보고 글로벌 비즈니스 기회까지 모색하는 자리가 마련된다. 국내 SW 기업이 산업 현장에 적용할 수 있는 기술과 서비스를 선보이고 기업 간 사업 협력과 투자 유치, 해외 시장 진출 기회를 모색한다. 전자신문사는 '제11회 대한민국 소프트웨어대전, AI x 소프트웨이브 2026 ...",
-      "source": "전자신문 on MSN",
-      "publishedAt": "2026-11-21",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4/%EB%AF%B8%EB%A6%AC%EB%B3%B4%EB%8A%94-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%9D%B4%EB%B8%8C-2026-1-ai-%ED%98%81%EC%8B%A0%EB%B6%80%ED%84%B0-%ED%88%AC%EC%9E%90-%EC%88%98%EC%B6%9C%EA%B9%8C%EC%A7%80-sw-%EC%82%B0%EC%97%85-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EC%9E%A5-%EC%97%B0%EB%8B%A4/ar-AA2hT6GR",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.rN2tD5aIFuDBB-7aPXXclA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "오믈렛, 실리콘밸리 'XTC AI:360 서밋'서 산업용 플랫폼 공개",
-      "summary": "재단법인 글로벌디지털혁신네트워크(GDIN)는 과학기술정보통신부의 '2026년 ICT(정보통신) 창의기업육성사업'의 일환으로 국내 인공지능(AI) 스타트업 오믈렛이 미국 실리콘밸리에서 열린 '2026 XTC AI:360 서밋'에 참가했다고 21일 밝혔다. 지난 19일(현지시간) 미국 실리콘밸리 팔로알토의 벤처캐피털 플레이그라운드 글로벌에서 개최된 이번 행사는 ...",
-      "source": "머니투데이 on MSN",
-      "publishedAt": "2026-11-21",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EA%B8%B0%EC%88%A0-%ED%9A%8C%EC%82%AC/%EC%98%A4%EB%AF%88%EB%A0%9B-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-xtc-ai-360-%EC%84%9C%EB%B0%8B-%EC%84%9C-%EC%82%B0%EC%97%85%EC%9A%A9-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B3%B5%EA%B0%9C/ar-AA2hTFtH",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.mps4w6JJ2CJBTUYMaGuhKg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "최진식 \"수출 1조 달러 모멘텀 살려야\"…중견기업, 기술·AI로 재도약",
-      "summary": "중견기업인의 날 개최…송동춘 풍전비철 회장 금탑산업훈장 등 57점 포상 한성숙 총리 \"규제 합리화 속도…균형 발전에 금융·세제 혜택 확대\" 중견기업계가 수출 1조 달러 달성의 동력을 이어갈 과제로 독자 기술 확보와 인공지능(AI) 전환을 제시했다. 중국발 경쟁 심화와 산업구조 변화에 대 ...",
-      "source": "뉴스1",
-      "publishedAt": "2026-11-20",
-      "url": "https://www.news1.kr/industry/sb-founded/6361274",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.EoqfaGo8jREoqdqdhUQ9Aw&pid=News&w=1200&h=675&c=14"
+      "title": "로봇산업진흥원-2작전사, 국방 첨단로봇·피지컬 AI 확대 맞손",
+      "summary": "(서울=연합뉴스) 장보인 기자 = 한국로봇산업진흥원은 지난 19일 육군 제2작전사령부와 '국방분야 첨단로봇 및 피지컬 인공지능(AI) 도입 확대 등을 위한 업무협약'을 했다고 22일 밝혔다. 양 기관은 ▲ 국방분야 첨단로봇·피지컬 AI 활용 수요발굴과 협력사업 추진 ▲ 첨단로봇·피지컬 AI 기술의 현장 적용과 실증 확대 ...",
+      "source": "연합뉴스 on MSN",
+      "publishedAt": "2026-11-22",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EB%A1%9C%EB%B4%87%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90-2%EC%9E%91%EC%A0%84%EC%82%AC-%EA%B5%AD%EB%B0%A9-%EC%B2%A8%EB%8B%A8%EB%A1%9C%EB%B4%87-%ED%94%BC%EC%A7%80%EC%BB%AC-ai-%ED%99%95%EB%8C%80-%EB%A7%9E%EC%86%90/ar-AA2hVVnI",
+      "imageUrl": "https://www.bing.com/th?id=ONUT._jmB0gKTR1Uf-aonl2Tvnw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
