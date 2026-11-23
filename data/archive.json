@@ -1,5 +1,84 @@
 [
   {
+    "updatedAt": "2026-11-23",
+    "windowStart": "2026-11-21T22:00:00.000Z",
+    "windowEnd": "2026-11-22T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "[재계핫이슈] 대한상의 졸업 최태원 회장, 더 많은 ‘사회적 발언’ 예고",
+        "summary": "SK 최태원 회장이 대한상공회의소(대한상의) 회장직을 내려놓을 예정이다. 최 회장의 두 번째 대한상의 회장 임기가 내년 3월에 만료되기 때문이다. 최태원 회장은 문재인 정부 때인 2021년 2월 4대그룹 총수 중에서는 처음으로 제24대 대한상의 회장으로 추대됐다. 2024년까지 3년 ...",
+        "source": "펜앤드마이크",
+        "publishedAt": "2026-11-22",
+        "url": "https://www.pennmike.com/news/articleView.html?idxno=132449",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.TaQOgcvF1Lc26Q8OIsnxsA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[단독] 전국법관대표회의 의장 “조희대 탄핵소추 땐 법관들 행동 나서야”",
+        "summary": "강동원 의장, 22일 밤 법원 내부게시판에 글 올려“판결 마음에 안 든다고 법관 탄핵”“민주주의와 삼권분립 파괴 행위” ...",
+        "source": "한겨레 on MSN",
+        "publishedAt": "2026-11-22",
+        "url": "https://www.msn.com/ko-kr/news/national/%EB%8B%A8%EB%8F%85-%EC%A0%84%EA%B5%AD%EB%B2%95%EA%B4%80%EB%8C%80%ED%91%9C%ED%9A%8C%EC%9D%98-%EC%9D%98%EC%9E%A5-%EC%A1%B0%ED%9D%AC%EB%8C%80-%ED%83%84%ED%95%B5%EC%86%8C%EC%B6%94-%EB%95%90-%EB%B2%95%EA%B4%80%EB%93%A4-%ED%96%89%EB%8F%99-%EB%82%98%EC%84%9C%EC%95%BC/ar-AA2hXBMF",
+        "imageUrl": "https://www.bing.com/th?id=ORMS.6e9536d6d2b7af9931149a0bbbaf7608&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "한국마사회 제주본부, ‘애월고팡과 나눔냉장고’ 기부금 전달",
+        "summary": "한국마사회 제주지역본부(본부장 유병돈)는 사회복지공동모금회 제주특별자치도지회를 통해 ‘애월고팡과 나눔냉장고’운영 지원금 1500만원을 전달했다고 23일 밝혔다. 이번 기부금은 사업장 인근 지역사회에 기여하고, 도움이 필요한 이웃들에게 상시 이용 가능한 생필품과 반찬 나눔, 돌봄 창구를 마련하기 위해 추진됐다. 지원된 1500만원은 수행단체인 서부종합사회복지 ...",
+        "source": "제주의소리",
+        "publishedAt": "2026-11-22",
+        "url": "https://www.jejusori.net/news/articleView.html?idxno=508562",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.P20SrFmZPV6BE44C9B518g&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "인공지능산업융합사업단장에 곽재도 현 본부장 선임",
+        "summary": "곽재도 신임 인공지능산업융합사업단 단장. 전남광주통합특별시 제공 전남광주통합특별시 인공지능산업융합사업단 제4대 단장에 곽재도 현 본부장이 선임됐다. 전남광주통합특별시는 지난 8월부터 9월까지 진행한 공개모집과 심사를 거쳐 곽재도 본부장을 신임 단장으로 선임했다고 23일 밝혔다. 광주정보문화산업진흥원은 공개모집 지원자를 ...",
+        "source": "노컷뉴스 on MSN",
+        "publishedAt": "2026-11-23",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%82%B0%EC%97%85%EC%9C%B5%ED%95%A9%EC%82%AC%EC%97%85%EB%8B%A8%EC%9E%A5%EC%97%90-%EA%B3%BD%EC%9E%AC%EB%8F%84-%ED%98%84-%EB%B3%B8%EB%B6%80%EC%9E%A5-%EC%84%A0%EC%9E%84/ar-AA2i034P",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.9IgXWSDNZgxVCZiM5DX83g&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "가명처리 한계 땐 AI 개발에 개인정보 활용…안전조치 의무화",
+        "summary": "공익·사회적 이익 등 요건 충족하고개인정보위 심의·의결 거쳐 허용침해 위험 땐 사전 위험요인평가 의무화 가명·익명처리한 정보로 인공지능(AI) 기술을 개발하기 어려운 경우, 개인정보를 적법하게 수집한 기업·기관이 해당 정보를 AI 개발에 활용할 수 있도록 하는 특례의 세부 기준이 마련됐다. 특례를 적용받으려면 개발에 따른 공익·사회적 이익 요건을 충족하고 ...",
+        "source": "서울경제 on MSN",
+        "publishedAt": "2026-11-23",
+        "url": "https://www.msn.com/ko-kr/news/other/%EA%B0%80%EB%AA%85%EC%B2%98%EB%A6%AC-%ED%95%9C%EA%B3%84-%EB%95%90-ai-%EA%B0%9C%EB%B0%9C%EC%97%90-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%ED%99%9C%EC%9A%A9-%EC%95%88%EC%A0%84%EC%A1%B0%EC%B9%98-%EC%9D%98%EB%AC%B4%ED%99%94/ar-AA2i0d5A",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.FVnUzwtxL-GTezzLzwnSzA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "[FOCUS 경기] 챗봇부터 취약층 돌봄까지… 안성시, 인공지능 도입 확대",
+        "summary": "안성 맞춤 정보 ‘덕이’… 복지·교육 ‘AI 딸깍’ 1월부터 市홈피 생활·축제·시정 등 궁금증 해소 스마트폰 앱·로봇 노인들 건강관리·응급서비스 인기 애니 캐릭터 접목 ‘AI 놀이터’ 체험 주목 공무원 분야별 전문가 ...",
+        "source": "경인일보 on MSN",
+        "publishedAt": "2026-11-22",
+        "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/focus-%EA%B2%BD%EA%B8%B0-%EC%B1%97%EB%B4%87%EB%B6%80%ED%84%B0-%EC%B7%A8%EC%95%BD%EC%B8%B5-%EB%8F%8C%EB%B4%84%EA%B9%8C%EC%A7%80-%EC%95%88%EC%84%B1%EC%8B%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8F%84%EC%9E%85-%ED%99%95%EB%8C%80/ar-AA2hYcAx",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.YB0I4ZX-GX6xFUqvlRZnpA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "AI 투자 주도권 재편에 반도체 수요 이동 주목",
+        "summary": "국내 증권가에서 엔비디아를 둘러싼 불확실성이 한국 반도체에 단기 충격을 주더라도, 이후 수요가 다른 고객사로 이동하면서 기업별 재평가가 나타날 수 있다는 전망이 나왔다. 인공지능(AI) 산업 전체의 성장 중단보다 투자 주도권과 이익 배분 구조의 변화에 주목해야 한다는 분석이다.◇ “AI 투자 위축과 기업 재편 구분해야…한국 반도체 재평가 가능성”23일 김병 ...",
+        "source": "스트레이트뉴스",
+        "publishedAt": "2026-11-22",
+        "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315917",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.7nW9LdQZjH6pl_HyF8IVyg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "전기 더 쓰는 AI 서버…'반도체 변압기'로 전력변환 단계 줄인다 [차세대 전력망戰]",
+        "summary": "AI 데이터센터발(發) 전력 수요 폭증이 현실화하면서 글로벌 전력망의 패러다임이 근본적으로 바뀌고 있다. 대규모 전력을 안정적이고 효율적으로 공급하기 위해 기존 교류(AC) 중심의 전력 공급 방식을 직류(DC)로 전환하고, 이를 구현할 핵심 설비인 ‘반도체 변압기(SST)’를 도입하려는 움직임이 빨라지고 있다. 엔비디아 등 글로벌 빅테크가 차세대 ‘800볼 ...",
+        "source": "이투데이",
+        "publishedAt": "2026-11-22",
+        "url": "https://www.etoday.co.kr/news/view/2650524",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.azw0O-FQD7NUojZEdOulbw&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-11-22",
     "windowStart": "2026-11-20T22:00:00.000Z",
     "windowEnd": "2026-11-21T22:00:00.000Z",
@@ -551,94 +630,6 @@
         "publishedAt": "2026-11-17",
         "url": "https://www.metroseoul.co.kr/article/20261117500204",
         "imageUrl": "https://www.bing.com/th?id=ONUT.GWk3SEW2cg1vOJUqpFn20w&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-11-16",
-    "windowStart": "2026-11-14T22:00:00.000Z",
-    "windowEnd": "2026-11-15T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "부천시, ‘기본사회’ 정책 구체화 나선다…주거·돌봄·일자리 시민 의견 수렴",
-        "summary": "부천시가 주거·돌봄·교육·일자리 등 시민 생활과 밀접한 분야의 기본서비스 확대를 위한 정책 발굴에 나섰다. 특히 이는 기존 복지제도의 한계를 보완하고 지역 실정에 맞는 이른바 ‘부천형 기본사회’ 정책을 마련하겠다는 구상이다. 부천시는 지난 12일 시청 소통마당에서 주민자치위원과 통장 등 시민 150여 명이 참석한 가운데 ‘2026년 기본사회 시민 포럼’을 ...",
-        "source": "중부일보",
-        "publishedAt": "2026-11-15",
-        "url": "https://www.joongboo.com/news/articleView.html?idxno=363742498",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.OGB88dDskIxoDG4K8YlEkg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "한국수목원정원관리원 AI 윤리 준수기관 확인마크 획득",
-        "summary": "(대전=뉴스1) 박찬수 기자 = 산림청 산하 한국수목원정원관리원이 한국지능정보사회진흥원(NIA)으로부터 'AI 윤리 준수기관' 확인마크를 획득했다고 16일 밝혔다. 'AI 윤리 준수기관' 확인마크는 기관 차원의 인공지능 윤리원칙 수립과 업무 반영, 임직원 윤리교육 이수 여부 등을 확인해 발급하는 제도다.",
-        "source": "뉴스1 on MSN",
-        "publishedAt": "2026-11-16",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%ED%95%9C%EA%B5%AD%EC%88%98%EB%AA%A9%EC%9B%90%EC%A0%95%EC%9B%90%EA%B4%80%EB%A6%AC%EC%9B%90-ai-%EC%9C%A4%EB%A6%AC-%EC%A4%80%EC%88%98%EA%B8%B0%EA%B4%80-%ED%99%95%EC%9D%B8%EB%A7%88%ED%81%AC-%ED%9A%8D%EB%93%9D/ar-AA2hvxus",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.BY40mgxk3HQAvrisLV2Z8Q&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "에이피알, 한국ESG기준원 ESG 평가 A등급…MSCI는 BBB등급",
-        "summary": "글로벌 ESG 평가기관 모건스탠리캐피털인터내셔널 (MSCI)의 평가에서도 지난 9월 B등급에서 이달 BBB등급으로 두 단계 상승했다. 에이피알은 지난 6월 창사 이래 처음으로 지속가능경영보고서를 발간해 ESG 경영 현황과 중장기 추진 방향을 공개했으며, 국문에 이어 영문 보고서도 발간했다.",
-        "source": "연합뉴스",
-        "publishedAt": "2026-11-15",
-        "url": "https://www.yna.co.kr/view/AKR20261115022400030",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.wdrcQ3DhT1--kuq_S81PIg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "하나금융그룹 미얀마법인, 현지서 한국식 사회공헌사업 펼쳐",
-        "summary": "미얀마에서 한국 금융회사가 현지 직원들과 함께 김장 나눔과 지진 피해 주민 지원에 나서 눈길을 끌고 있다.하나금융그룹의 미얀마 법인인 하나마이크로파이낸스(Hana Microfinance Limited·HMF)는 지난 11월 11일 본사 하나카페에서 '모두하나데이' 행사를 열고, 직원들 ...",
-        "source": "재외동포신문",
-        "publishedAt": "2026-11-15",
-        "url": "https://www.dongponews.net/news/articleView.html?idxno=61695",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.M1FDVcIAsM99q5E7Kl80OA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "충남도서관, 누리집에 인공지능 도서추천 서비스 도입",
-        "summary": "충남도서관은 누리집에 인공지능(AI) 도서 추천 서비스를 도입했다고 16일 밝혔다. 이용자가 관심 있는 주제나 읽고 싶은 내용을 일상적인 문장으로 입력하면 인공지능이 이를 바탕으로 관련 도서를 추천하는 방식이다. 책 제목이나 저자를 정확히 알지 못하더라도 읽고 싶은 내용을 표현해 도서를 찾을 수 있는 만큼 책 선택에 어려움을 느끼는 이용자들에게 도움이 될 ...",
-        "source": "국민일보 on MSN",
-        "publishedAt": "2026-11-16",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%B6%A9%EB%82%A8%EB%8F%84%EC%84%9C%EA%B4%80-%EB%88%84%EB%A6%AC%EC%A7%91%EC%97%90-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8F%84%EC%84%9C%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%8F%84%EC%9E%85/ar-AA2hv3BB",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.85cUEUE1HSqD1_BPCrKOxw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "인공지능 시대 신입은 누가 키우나",
-        "summary": "지난 9월 오픈AI는 자사 인공지능(AI)이 수학계의 오랜 난제를 해결했다고 발표했다. 100만 달러의 상금이 걸린 일곱 ‘밀레니엄 난제’ 중 하나였다. 인간 지성의 최전선에 있는 뛰어난 수학자들이 풀지 못했던 문제에 AI가 해법을 내놓았다는 것이다. 불과 3년 전만 해도 전문가들의 전망은 달랐다. 전 세계 AI 연구자 2700여 명이 참여한 2023년도 ...",
-        "source": "중앙일보",
-        "publishedAt": "2026-11-16",
-        "url": "https://www.joongang.co.kr/article/25478843",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.OkHjpYdIaHwoLmklv5PUGg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "美 주도 'AI 공급망 동맹 활동'에 한국 합류…AI 산업 보호에 필요한 기술과 공급망 목록 공동 작성",
-        "summary": "[파이낸셜뉴스]미국이 한국과 일본, 호주 등 주요 동맹·협력국과 함께 중국을 견제하기 위해 인공지능(AI) 핵심 기술과 공급망의 공동 보호에 나선다. 반도체와 핵심 광물, 에너지 등 AI 산업을 뒷받침하는 전략 분야에서 보호가 필요한 기술과 공급망 목록을 공동으로 작성하기로 했다. 15일(현지 시간) 파이낸셜타임스(FT)에 따르면 제이컵 헬버그 미국 국무부 ...",
-        "source": "파이낸셜뉴스 on MSN",
-        "publishedAt": "2026-11-15",
-        "url": "https://www.msn.com/ko-kr/news/other/%E7%BE%8E-%EC%A3%BC%EB%8F%84-ai-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EB%8F%99%EB%A7%B9-%ED%99%9C%EB%8F%99%EC%97%90-%ED%95%9C%EA%B5%AD-%ED%95%A9%EB%A5%98-ai-%EC%82%B0%EC%97%85-%EB%B3%B4%ED%98%B8%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B8%B0%EC%88%A0%EA%B3%BC-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EB%AA%A9%EB%A1%9D-%EA%B3%B5%EB%8F%99-%EC%9E%91%EC%84%B1/ar-AA2hueJ6",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.LFdAmrmKapcf9ZS6qZOs5w&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "미, 한·일과 'AI 공급망 보호' 협정... 중 첨단기술 굴기 견제",
-        "summary": "미국이 중국의 인공지능 패권 확장을 견제하기 위해 한국과 일본 등 핵심 동맹국들과 첨단 AI 공급망 보호를 위한 다자간 협정을 전격 체결했습니다. 현지 시간 15일 영국 일간 파이낸셜타임스 보도에 따르면, 이른바 '지속적 번영을 위한 안전 기반에 관한 샌프란시스코 선언'으로 명명된 이번 협정에는 민감한 AI 기술과 토대 ...",
-        "source": "YTN on MSN",
-        "publishedAt": "2026-11-16",
-        "url": "https://www.msn.com/ko-kr/news/other/%EB%AF%B8-%ED%95%9C-%EC%9D%BC%EA%B3%BC-ai-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EB%B3%B4%ED%98%B8-%ED%98%91%EC%A0%95%EC%A4%91-%EC%B2%A8%EB%8B%A8%EA%B8%B0%EC%88%A0-%EA%B5%B4%EA%B8%B0-%EA%B2%AC%EC%A0%9C/ar-AA2huMc6",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.xb7EWFYWBl66FJzafSTodw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "‘관 주도 뺀 AI 전략’…인천시, 기업 12곳과 밑그림",
-        "summary": "시가 최근 스타트업파크에서 인천테크노파크와 공동으로 ‘인천 AI·인공지능 전환 (AX) 기술혁신 협의체 AI 기술기업 협력분과 사전분과회의’를 개최했다고 16일 밝혔다. 이번 회의에는 지역 AI 기술기업 12개사와 관계기관 관계자들이 참석해 협의체 공식 출범에 앞서 분과 운영 방식과 공동 전략을 점검했다.",
-        "source": "서울경제",
-        "publishedAt": "2026-11-15",
-        "url": "https://www.sedaily.com/article/20114612",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.b44LFnifejNTwwSgn4Uvyw&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
