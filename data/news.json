@@ -1,79 +1,97 @@
 {
-  "updatedAt": "2026-11-23",
-  "windowStart": "2026-11-21T22:00:00.000Z",
-  "windowEnd": "2026-11-22T22:00:00.000Z",
+  "updatedAt": "2026-11-24",
+  "windowStart": "2026-11-22T22:00:00.000Z",
+  "windowEnd": "2026-11-23T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "[재계핫이슈] 대한상의 졸업 최태원 회장, 더 많은 ‘사회적 발언’ 예고",
-      "summary": "SK 최태원 회장이 대한상공회의소(대한상의) 회장직을 내려놓을 예정이다. 최 회장의 두 번째 대한상의 회장 임기가 내년 3월에 만료되기 때문이다. 최태원 회장은 문재인 정부 때인 2021년 2월 4대그룹 총수 중에서는 처음으로 제24대 대한상의 회장으로 추대됐다. 2024년까지 3년 ...",
-      "source": "펜앤드마이크",
-      "publishedAt": "2026-11-22",
-      "url": "https://www.pennmike.com/news/articleView.html?idxno=132449",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.TaQOgcvF1Lc26Q8OIsnxsA&pid=News&w=1200&h=675&c=14"
+      "title": "정부, 내년 일자리·주거·금융 3대 민생 프로젝트 추진",
+      "summary": "정부가 내년 경제정책의 핵심 과제로 일자리와 주거, 서민금융을 내세운다. 계층별 일자리 확대와 공적주택 119만호 공급, 저리자금 지원 등을 주요 과제로 검토한다. 반도체 호황에 힘입어 경제 성장세가 확대되고 있지만 고물가와 ...",
+      "source": "디지털타임스 on MSN",
+      "publishedAt": "2026-11-24",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%95%EB%B6%80-%EB%82%B4%EB%85%84-%EC%9D%BC%EC%9E%90%EB%A6%AC-%EC%A3%BC%EA%B1%B0-%EA%B8%88%EC%9C%B5-3%EB%8C%80-%EB%AF%BC%EC%83%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B6%94%EC%A7%84/ar-AA2i5o4E",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.s2ofE3gsySxJjR2STuecmQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "[단독] 전국법관대표회의 의장 “조희대 탄핵소추 땐 법관들 행동 나서야”",
-      "summary": "강동원 의장, 22일 밤 법원 내부게시판에 글 올려“판결 마음에 안 든다고 법관 탄핵”“민주주의와 삼권분립 파괴 행위” ...",
-      "source": "한겨레 on MSN",
-      "publishedAt": "2026-11-22",
-      "url": "https://www.msn.com/ko-kr/news/national/%EB%8B%A8%EB%8F%85-%EC%A0%84%EA%B5%AD%EB%B2%95%EA%B4%80%EB%8C%80%ED%91%9C%ED%9A%8C%EC%9D%98-%EC%9D%98%EC%9E%A5-%EC%A1%B0%ED%9D%AC%EB%8C%80-%ED%83%84%ED%95%B5%EC%86%8C%EC%B6%94-%EB%95%90-%EB%B2%95%EA%B4%80%EB%93%A4-%ED%96%89%EB%8F%99-%EB%82%98%EC%84%9C%EC%95%BC/ar-AA2hXBMF",
-      "imageUrl": "https://www.bing.com/th?id=ORMS.6e9536d6d2b7af9931149a0bbbaf7608&pid=News&w=1200&h=675&c=14"
+      "title": "DL, 한국ESG기준원 ESG 평가 6년 연속 통합 A등급",
+      "summary": "DL 관계자는 \"글로벌 ESG 평가에서 등급이 상승하고 국내 평가에서도 6년 연속 우수 등급을 유지한 것은 지속가능 경영 역량과 ESG 경영 경쟁력을 보여주는 성과\"라며 \"앞으로도 글로벌 기준에 부합하는 ESG 경영체계를 고도화하고 지속적 혁신을 통해 기업가치와 주주가치를 높여 나가겠다\"고 말했다.",
+      "source": "연합뉴스",
+      "publishedAt": "2026-11-24",
+      "url": "https://www.yna.co.kr/view/AKR20261124121000003",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.incZLbP8oxB-nJ_5jpbNxg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "한국마사회 제주본부, ‘애월고팡과 나눔냉장고’ 기부금 전달",
-      "summary": "한국마사회 제주지역본부(본부장 유병돈)는 사회복지공동모금회 제주특별자치도지회를 통해 ‘애월고팡과 나눔냉장고’운영 지원금 1500만원을 전달했다고 23일 밝혔다. 이번 기부금은 사업장 인근 지역사회에 기여하고, 도움이 필요한 이웃들에게 상시 이용 가능한 생필품과 반찬 나눔, 돌봄 창구를 마련하기 위해 추진됐다. 지원된 1500만원은 수행단체인 서부종합사회복지 ...",
-      "source": "제주의소리",
-      "publishedAt": "2026-11-22",
-      "url": "https://www.jejusori.net/news/articleView.html?idxno=508562",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.P20SrFmZPV6BE44C9B518g&pid=News&w=1200&h=675&c=14"
+      "title": "한국사회보장정보원, 2027년 전산자원 통합유지관리 사업설명회 개최",
+      "summary": "한국사회보장정보원이 11월 25일 서울에서 2027년 전산자원 통합유지관리 사업 설명회를 개최한다. 65억 원 규모의 이번 사업은 보건복지 서비스의 안정적 제공을 위한 정보시스템 운영 기반 강화에 초점을 맞췄다.",
+      "source": "인사이트 on MSN",
+      "publishedAt": "2026-11-23",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90-2027%EB%85%84-%EC%A0%84%EC%82%B0%EC%9E%90%EC%9B%90-%ED%86%B5%ED%95%A9%EC%9C%A0%EC%A7%80%EA%B4%80%EB%A6%AC-%EC%82%AC%EC%97%85%EC%84%A4%EB%AA%85%ED%9A%8C-%EA%B0%9C%EC%B5%9C/ar-AA2i1Jht",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.jCX8JDljT1zT7q7SUkxZaw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "고무줄 같은 병역판정 기준 [똑똑! 한국사회]",
+      "summary": "방혜린 | 군인권센터 사무국장 국가데이터처 국가통계포털에 게시된 통계에 따르면 2025년 현역 판정률은 89%에 달한다. 병역의무 대상 청년 열에 아홉이 군대에 가는 셈이다. 2010년대 들어 이 비율이 80% 아래로 떨어진 적은 한번도 없다. 2020년부터는 해마다 ...",
+      "source": "한겨레",
+      "publishedAt": "2026-11-23",
+      "url": "https://www.hani.co.kr/arti/opinion/column/1288727.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.DTx5-7zC9ujDqxBji-0aDg&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "한국지엠 노사, 인천마라톤서 지역사회 상생·지속가능 미래 약속",
+      "summary": "인천투데이=이형성 기자 | 한국지엠 노사가 인천마라톤에서 지역사회 상생과 지속가능한 미래를 다시금 약속했다. 한국지엠 노사는 지난 22일 열린 ‘2026 인천마라톤’에 참여해 지속발전 약속 퍼포먼스와 현장 마케팅 등을 진행했다고 23일 밝혔다.",
+      "source": "인천투데이",
+      "publishedAt": "2026-11-23",
+      "url": "https://www.incheontoday.com/news/articleView.html?idxno=326752",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.Z2TAJ-ZwOszh7dHgVnKBqg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "인공지능산업융합사업단장에 곽재도 현 본부장 선임",
-      "summary": "곽재도 신임 인공지능산업융합사업단 단장. 전남광주통합특별시 제공 전남광주통합특별시 인공지능산업융합사업단 제4대 단장에 곽재도 현 본부장이 선임됐다. 전남광주통합특별시는 지난 8월부터 9월까지 진행한 공개모집과 심사를 거쳐 곽재도 본부장을 신임 단장으로 선임했다고 23일 밝혔다. 광주정보문화산업진흥원은 공개모집 지원자를 ...",
+      "title": "금천구, 인공지능(AI) 영상 '다시 한걸음'으로 청년 취업정책 알렸다",
+      "summary": "금천구(구청장 최기찬)는 지난 23일 국회의사당 의원회관 대회의실에서 열린 '제3회 대한민국지자체홍보대상' 시상식에서 인공지능(AI)영상 사회복지부문 대상을 ...",
+      "source": "스포츠조선 on MSN",
+      "publishedAt": "2026-11-24",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B8%88%EC%B2%9C%EA%B5%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-ai-%EC%98%81%EC%83%81-%EB%8B%A4%EC%8B%9C-%ED%95%9C%EA%B1%B8%EC%9D%8C-%EC%9C%BC%EB%A1%9C-%EC%B2%AD%EB%85%84-%EC%B7%A8%EC%97%85%EC%A0%95%EC%B1%85-%EC%95%8C%EB%A0%B8%EB%8B%A4/ar-AA2i5BJv",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.SAYUqODxSmX0Yo2J-Svhvw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "곽재도 인공지능산업융합사업단장 취임... 전남광주 AI 산업 전환 가속",
+      "summary": "곽재도 제4대 인공지능산업융합사업단(AICA) 신임 단장이 24일 전남광주 북구 첨단3지구 AI집적단지 컨퍼런스홀에서 열린 취임식에서 '전남광주통합특별시 AI 대전환을 선도하는 글로벌 AI 융합혁신 거점 AICA'를 새로운 비전으로 제시하고 있다. 인공지능산업융합사업단 제공 곽재도 제4대 인공지능산업융합사업단장이 취임과 ...",
       "source": "노컷뉴스 on MSN",
+      "publishedAt": "2026-11-24",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B3%BD%EC%9E%AC%EB%8F%84-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%82%B0%EC%97%85%EC%9C%B5%ED%95%A9%EC%82%AC%EC%97%85%EB%8B%A8%EC%9E%A5-%EC%B7%A8%EC%9E%84-%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC-ai-%EC%82%B0%EC%97%85-%EC%A0%84%ED%99%98-%EA%B0%80%EC%86%8D/ar-AA2i4Hm1",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.fvCf8TNSRJvZpXgNRYuG0w&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "수원시, '인공지능 당직 보이스봇' 도입…단순 민원 응대 자동화로 긴급 대응 강화",
+      "summary": "수원특례시 (시장 이재준)가 23일부터 시청 당직실에 '인공지능 (AI) 당직 보이스봇'을 도입해 시민들에게 24시간 중단 없는 민원서비스를 제공한다. 당직 보이스봇은 평일 오후 6시부터 다음 날 오전 9시까지, 휴일·공휴일은 오전 9시부터 운영한다. 민원인이 기존 당직실 전화번호로 전화를 하면 보이스봇으로 연결된다. 동시에 16개 채널을 운영해 다수 ...",
+      "source": "연합뉴스",
       "publishedAt": "2026-11-23",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%82%B0%EC%97%85%EC%9C%B5%ED%95%A9%EC%82%AC%EC%97%85%EB%8B%A8%EC%9E%A5%EC%97%90-%EA%B3%BD%EC%9E%AC%EB%8F%84-%ED%98%84-%EB%B3%B8%EB%B6%80%EC%9E%A5-%EC%84%A0%EC%9E%84/ar-AA2i034P",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.9IgXWSDNZgxVCZiM5DX83g&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.yna.co.kr/view/RPR20261123003300353",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.VW4nHpn1-UKhazI1Ku2w7Q&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "가명처리 한계 땐 AI 개발에 개인정보 활용…안전조치 의무화",
-      "summary": "공익·사회적 이익 등 요건 충족하고개인정보위 심의·의결 거쳐 허용침해 위험 땐 사전 위험요인평가 의무화 가명·익명처리한 정보로 인공지능(AI) 기술을 개발하기 어려운 경우, 개인정보를 적법하게 수집한 기업·기관이 해당 정보를 AI 개발에 활용할 수 있도록 하는 특례의 세부 기준이 마련됐다. 특례를 적용받으려면 개발에 따른 공익·사회적 이익 요건을 충족하고 ...",
-      "source": "서울경제 on MSN",
+      "title": "AI 반도체 섞어 비용 낮춘다…통신사 '칩믹스' 전략은 [IT클로즈업]",
+      "summary": "[디지털데일리 정혜승기자] \"100쪽짜리 보고서를 세 줄로 요약해줘.\" \"인공지능(AI) 소재로 장편 소설을 써줘.\" 같은 생성형 AI에 던진 주문이어도 AI 반도체가 하는 일은 다르다. 전자는 긴 입력을 처리하는 데, 후자는 답변을 길게 생성하는 데 더 많은 자원이 필요하다. 24일 업계에 따르면 국내 이동통신사가 최근 '칩믹스'에 주목하고 있다. AI ...",
+      "source": "디지털데일리 on MSN",
+      "publishedAt": "2026-11-24",
+      "url": "https://www.msn.com/ko-kr/news/other/ai-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%84%9E%EC%96%B4-%EB%B9%84%EC%9A%A9-%EB%82%AE%EC%B6%98%EB%8B%A4-%ED%86%B5%EC%8B%A0%EC%82%AC-%EC%B9%A9%EB%AF%B9%EC%8A%A4-%EC%A0%84%EB%9E%B5%EC%9D%80-it%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85/ar-AA2i4VKp",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.5mlKsoupvIXzFNm3ha5MAw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "알파고로 이해하는 ‘학습’과 ‘추론’…반도체 주문이 계속되는 이유 [한눈에 보는 AI 투자지도]",
+      "summary": "급변동 장세 AI 투자의 지속 가능성 진단 급등락을 반복하는 ‘롤러코스피’ 장세 속에서 삼성전자와 SK하이닉스의 하락한 주가가 서울 중구 하나은행 본점 전광판에 표시돼 있다. 두 기업의 반도체를 구매할 AI 기업들이 막대한 데이터센터 투자비를 감당할 수 있을지에 따라 반도체 주문도 달라질 수 있다. AI 수요의 성장뿐 아니라 투자 재원을 확보할 수 있는지도 ...",
+      "source": "매일경제 on MSN",
       "publishedAt": "2026-11-23",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B0%80%EB%AA%85%EC%B2%98%EB%A6%AC-%ED%95%9C%EA%B3%84-%EB%95%90-ai-%EA%B0%9C%EB%B0%9C%EC%97%90-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%ED%99%9C%EC%9A%A9-%EC%95%88%EC%A0%84%EC%A1%B0%EC%B9%98-%EC%9D%98%EB%AC%B4%ED%99%94/ar-AA2i0d5A",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.FVnUzwtxL-GTezzLzwnSzA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "[FOCUS 경기] 챗봇부터 취약층 돌봄까지… 안성시, 인공지능 도입 확대",
-      "summary": "안성 맞춤 정보 ‘덕이’… 복지·교육 ‘AI 딸깍’ 1월부터 市홈피 생활·축제·시정 등 궁금증 해소 스마트폰 앱·로봇 노인들 건강관리·응급서비스 인기 애니 캐릭터 접목 ‘AI 놀이터’ 체험 주목 공무원 분야별 전문가 ...",
-      "source": "경인일보 on MSN",
-      "publishedAt": "2026-11-22",
-      "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/focus-%EA%B2%BD%EA%B8%B0-%EC%B1%97%EB%B4%87%EB%B6%80%ED%84%B0-%EC%B7%A8%EC%95%BD%EC%B8%B5-%EB%8F%8C%EB%B4%84%EA%B9%8C%EC%A7%80-%EC%95%88%EC%84%B1%EC%8B%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8F%84%EC%9E%85-%ED%99%95%EB%8C%80/ar-AA2hYcAx",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.YB0I4ZX-GX6xFUqvlRZnpA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "AI 투자 주도권 재편에 반도체 수요 이동 주목",
-      "summary": "국내 증권가에서 엔비디아를 둘러싼 불확실성이 한국 반도체에 단기 충격을 주더라도, 이후 수요가 다른 고객사로 이동하면서 기업별 재평가가 나타날 수 있다는 전망이 나왔다. 인공지능(AI) 산업 전체의 성장 중단보다 투자 주도권과 이익 배분 구조의 변화에 주목해야 한다는 분석이다.◇ “AI 투자 위축과 기업 재편 구분해야…한국 반도체 재평가 가능성”23일 김병 ...",
-      "source": "스트레이트뉴스",
-      "publishedAt": "2026-11-22",
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315917",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.7nW9LdQZjH6pl_HyF8IVyg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "전기 더 쓰는 AI 서버…'반도체 변압기'로 전력변환 단계 줄인다 [차세대 전력망戰]",
-      "summary": "AI 데이터센터발(發) 전력 수요 폭증이 현실화하면서 글로벌 전력망의 패러다임이 근본적으로 바뀌고 있다. 대규모 전력을 안정적이고 효율적으로 공급하기 위해 기존 교류(AC) 중심의 전력 공급 방식을 직류(DC)로 전환하고, 이를 구현할 핵심 설비인 ‘반도체 변압기(SST)’를 도입하려는 움직임이 빨라지고 있다. 엔비디아 등 글로벌 빅테크가 차세대 ‘800볼 ...",
-      "source": "이투데이",
-      "publishedAt": "2026-11-22",
-      "url": "https://www.etoday.co.kr/news/view/2650524",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.azw0O-FQD7NUojZEdOulbw&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%95%8C%ED%8C%8C%EA%B3%A0%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%ED%95%99%EC%8A%B5-%EA%B3%BC-%EC%B6%94%EB%A1%A0-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A3%BC%EB%AC%B8%EC%9D%B4-%EA%B3%84%EC%86%8D%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%ED%95%9C%EB%88%88%EC%97%90-%EB%B3%B4%EB%8A%94-ai-%ED%88%AC%EC%9E%90%EC%A7%80%EB%8F%84/ar-AA2i1xG9",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.f7NxLG4N-bRxoA3ByldzaQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
