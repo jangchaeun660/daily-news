@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-11-25",
+    "windowStart": "2026-11-23T22:00:00.000Z",
+    "windowEnd": "2026-11-24T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "사회연대경제 전담 인력 5.7배 격차",
+        "summary": "Google 검색에서 한국경제 기사를 더 자주 볼 수 있습니다. 한국지역정보개발원, 지방정부 AI 대응 전략 제시 사회연대경제기본법 제정에 따른 지방정부 대응 전략 AI 이슈리포트. 사회연대경제기본법 제정에 따른 지방정부의 정책 대응 역량이 지역별로 큰 차이를 보이는 것으로 나타났다. 2029년 경영공시 의무화를 앞두고 인공지능(AI)을 활용한 행정 기반을 ...",
+        "source": "한국경제",
+        "publishedAt": "2026-11-24",
+        "url": "https://www.hankyung.com/article/202611259290h",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.LgntFI9QYOWrvSUc6_ipQg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "지역정보개발원, 지방정부 사회연대경제기본법 대응 전략서 발간",
+        "summary": "한국지역정보개발원은 25일 ‘AI 이슈 리포트 - 사회연대경제기본법 제정에 따른 지방정부 대응 전략’를 발간했다. ⓒ한국지역정보개발원 제공[데일리한국 정백현 기자] 지난 9월 제정된 ‘사회연대경제기본법’에 따라 오는 2029년 경영공시 의무화와 통합플랫폼 운행이 전면 시행되는 가운데 지자체 간 준비 격차를 해소하고 인공지능(AI) 기반의 행정 체계를 조속히 ...",
+        "source": "데일리한국 on MSN",
+        "publishedAt": "2026-11-25",
+        "url": "https://www.msn.com/ko-kr/money/%EA%B8%B0%EC%88%A0/%EC%A7%80%EC%97%AD%EC%A0%95%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9B%90-%EC%A7%80%EB%B0%A9%EC%A0%95%EB%B6%80-%EC%82%AC%ED%9A%8C%EC%97%B0%EB%8C%80%EA%B2%BD%EC%A0%9C%EA%B8%B0%EB%B3%B8%EB%B2%95-%EB%8C%80%EC%9D%91-%EC%A0%84%EB%9E%B5%EC%84%9C-%EB%B0%9C%EA%B0%84/ar-AA2i9z4r",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.816HCsgknN-Qtc0oGYgPYg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈프리즘] 반칙 부추기는 사회",
+        "summary": "국가시험은 ‘대한민국에서 반칙이 통하지 않는 몇 안 되는 성역’이라고 다들 믿었다. 제아무리 돈 많고 힘센 집 자식이라도 공부를 못하면 명문대 졸업장이나 폼 나는 자격증을 손에 쥘 수 없다고 생각했다. 오직 수험생의 실력으로 당락을 가르는 국가시험은 “누구든 노력하면 성공할 수 있다”는 희망을 줬고, 그 힘으로 대한민국은 ‘한강의 기적’을 일궈냈다. 비록 ...",
+        "source": "한국경제",
+        "publishedAt": "2026-11-24",
+        "url": "https://www.hankyung.com/article/2026112477481",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.GhuzgBx4_N351nI_eVyZbA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "정부, 내년 일자리·주거·금융 3대 민생 프로젝트 추진",
+        "summary": "정부가 내년 경제정책의 핵심 과제로 일자리와 주거, 서민금융을 내세운다. 계층별 일자리 확대와 공적주택 119만호 공급, 저리자금 지원 등을 주요 과제로 검토한다. 반도체 호황에 힘입어 경제 성장세가 확대되고 있지만 고물가와 ...",
+        "source": "디지털타임스 on MSN",
+        "publishedAt": "2026-11-24",
+        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%95%EB%B6%80-%EB%82%B4%EB%85%84-%EC%9D%BC%EC%9E%90%EB%A6%AC-%EC%A3%BC%EA%B1%B0-%EA%B8%88%EC%9C%B5-3%EB%8C%80-%EB%AF%BC%EC%83%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B6%94%EC%A7%84/ar-AA2i5o4E",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.s2ofE3gsySxJjR2STuecmQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "내년 경제정책 '모두의 성장' 초점…일자리·주거·서민금융 3대 민생 프로젝트",
+        "summary": "정부는 올해 우리 경제가 글로벌 반도체 호황에 힘입어 수출·투자 중심으로 성장세가 확대됐다고 평가했다. 지난 7월 하반기 경제성장전략에서 제시한 잠재성장률 3%, 수출 4강, 1인당 국민소득 5만 달러의 '3·4·5 비전'도 가시화되고 있다고 진단했다.",
+        "source": "스포탈코리아",
+        "publishedAt": "2026-11-24",
+        "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553726727",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.JDtGHULUmOjCTDkg5THbig&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "안양시, 세계가 주목하는 ‘인공지능(AI) 선도 도시’로 우뚝",
+        "summary": "경기 안양시가 안전·교통·재난 등을 하나로 연결하는 ‘스마트도시통합센터’를 구심점으로, 세계 도시들의 벤치마킹 대상으로 주목받고 있다.지난 3일부터 5일까지 스페인 바르셀로나에서 열린 세계 최대 규모의 스마트도시 박람회 ‘스마트시티 엑스포 월드 콩그레스(SCEWC) ...",
+        "source": "서울신문 on MSN",
+        "publishedAt": "2026-11-25",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%95%88%EC%96%91%EC%8B%9C-%EC%84%B8%EA%B3%84%EA%B0%80-%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-ai-%EC%84%A0%EB%8F%84-%EB%8F%84%EC%8B%9C-%EB%A1%9C-%EC%9A%B0%EB%9A%9D/ar-AA2ia6bD",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.j8e7w0fZ_clee8mVfllgtQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "포천시, 인공지능 업무비서 '포비' 도입…행정업무 혁신",
+        "summary": "'포비'는 생성형 인공지능 통합 플랫폼 '웍스인공지능(AI)'를 기반으로 구축한 포천시 맞춤형 업무지원 서비스다. 챗지피티(ChatGPT), 제미나이(Gemini), 클로드(Claude) 등 다양한 생성형 인공지능 모델을 하나의 플랫폼에서 이용할 수 있는 것이 특징이다. 직원들은 업무 목적과 특성에 따라 적합한 인공지능 ...",
+        "source": "연합뉴스 on MSN",
+        "publishedAt": "2026-11-25",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%ED%8F%AC%EC%B2%9C%EC%8B%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%97%85%EB%AC%B4%EB%B9%84%EC%84%9C-%ED%8F%AC%EB%B9%84-%EB%8F%84%EC%9E%85-%ED%96%89%EC%A0%95%EC%97%85%EB%AC%B4-%ED%98%81%EC%8B%A0/ar-AA2iaKhi",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.v8xRV7P_0IaqbCfCvenS4A&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "금천구, 인공지능(AI) 영상 '다시 한걸음'으로 청년 취업정책 알렸다",
+        "summary": "금천구(구청장 최기찬)는 지난 23일 국회의사당 의원회관 대회의실에서 열린 '제3회 대한민국지자체홍보대상' 시상식에서 인공지능(AI)영상 사회복지부문 대상을 ...",
+        "source": "스포츠조선 on MSN",
+        "publishedAt": "2026-11-24",
+        "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%88%EC%B2%9C%EA%B5%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5ai-%EC%98%81%EC%83%81-%EB%8B%A4%EC%8B%9C-%ED%95%9C%EA%B1%B8%EC%9D%8C%EC%9C%BC%EB%A1%9C-%EC%B2%AD%EB%85%84-%EC%B7%A8%EC%97%85%EC%A0%95%EC%B1%85-%EC%95%8C%EB%A0%B8%EB%8B%A4/ar-AA2i5BJv",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.Aq-oPWvi8XiK_wVvhhSaMw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "안양시, 인공지능 종합 계획 용역 보고회 가져",
+        "summary": "[이뉴스투데이 경기2취재본부 안상철 기자] 안양시가 20일 스마트도시통합센터에서 AI 기본 및 종합계획 수립 용역보고회를 가졌다.보고회에는 안양시 인공지능위원회와 민관협치위원회 위원, 시 의원 및 관계자 등 17명이 참석해 용역의 추진 방향과 과업 범위를 공유하고 의견을 나눴다.이번 ...",
+        "source": "이뉴스투데이",
+        "publishedAt": "2026-11-24",
+        "url": "https://www.enewstoday.co.kr/news/articleView.html?idxno=2496166",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.1y-MQhdNdK9THX7JHSDYCQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "울산경자청, 일본서 관광 복합개발·제조 인공지능 분야 투자유치 나서",
+        "summary": "울산경제자유구역청(울산경자청)이 일본을 찾아 관광 복합개발·제조 인공지능 분야에 대한 투자유치 활동에 나선다. 울산경자청은 오는 27일까지 일본 도쿄와 나고야에서 열리는 ‘케이페즈 데이 인 재팬(KFEZ Day in Japan)’에 참가해 일본기업을 대상으로 산업별 맞춤형 투자유치활동을 펼친다고 밝혔다. 이번 행사는 산업통상부와 대한무역투자진흥공사(KOTR ...",
+        "source": "국민일보 on MSN",
+        "publishedAt": "2026-11-24",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%9A%B8%EC%82%B0%EA%B2%BD%EC%9E%90%EC%B2%AD-%EC%9D%BC%EB%B3%B8%EC%84%9C-%EA%B4%80%EA%B4%91-%EB%B3%B5%ED%95%A9%EA%B0%9C%EB%B0%9C-%EC%A0%9C%EC%A1%B0-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B6%84%EC%95%BC-%ED%88%AC%EC%9E%90%EC%9C%A0%EC%B9%98-%EB%82%98%EC%84%9C/ar-AA2i5kIf",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.mBE4dQl7F3yBweFlML1wBw&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-11-24",
     "windowStart": "2026-11-22T22:00:00.000Z",
     "windowEnd": "2026-11-23T22:00:00.000Z",
@@ -533,103 +630,6 @@
         "publishedAt": "2026-11-18",
         "url": "https://www.msn.com/ko-kr/news/other/%EC%B1%97gpt-%EB%8B%B5%EB%B3%80-%EB%92%A4%EC%97%90-%EC%88%A8%EA%B2%A8%EC%A7%84-4%EA%B2%BD%EC%9B%90-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%A0%84%EC%9F%81-%EC%A6%9D%EC%8B%9C-%EB%B8%94%EB%9E%99%ED%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0/ar-AA2hE56c",
         "imageUrl": "https://www.bing.com/th?id=ONUT.xfAKd8KOBjTVj9XrJw9B6g&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-11-18",
-    "windowStart": "2026-11-16T22:00:00.000Z",
-    "windowEnd": "2026-11-17T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "사회대개혁위원회, 20일 전북도청서 '제3차 국민토론회'",
-        "summary": "(전주=연합뉴스) 임채두 기자 = 전북특별자치도는 오는 20일 도청에서 국무총리 소속 사회대개혁위원회가 '대한민국 대전환, 제3차 국민토론회'를 연다고 17일 밝혔다. 9월 강원, 10월 충청에 이어 세 번째 토론회다. 이번 토론회에서는 '지역을 잇고 격차를 넘어 대한민국 대전환!'을 주제로 경제와 기업의 성장 성과가 소상공인과 자영업자, 중소기업 종사자 ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-11-17",
-        "url": "https://www.yna.co.kr/view/AKR20261117145800055",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.i90bjgSmAXoxK48pNwBb3w&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "한국장애인고용공단, 한국ESG학회와 업무협약 체결",
-        "summary": "【에이블뉴스 백민 기자】 한국장애인고용공단(이사장 이종성, 이하 공단)과 한국ESG학회(회장 고문현)는 17일 공단 서울지역본부에서 ‘장애인 고용촉진 및 ESG경영 확산을 위한 업무협약’을 체결했다.이번 협약은 장애인 고용정책과 지원사업에 전문성을 보유한 한국장애인고용공단과 ESG 분야의 학술·연구 역량 및 기업·학계 네트워크를 갖춘 한국ESG학회가 협력한 ...",
-        "source": "에이블뉴스",
-        "publishedAt": "2026-11-17",
-        "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=234686",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.j2ffP2oMvP8xyGq9ODvrog&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "‘2027학년도 수시모집 면접 대비’ 시사 이슈 살펴보기 ⑤ : 정치·법·사회적 권리",
-        "summary": "수시모집 대학별 면접이 본격화하면서 시사 이슈에 대한 수험생들의 관심도 높아지고 있다. 올해는 인공지능(AI)을 비롯해 의료개혁과 지역의사제, 저출생·고령화, 청년 일자리, 기후위기, 반도체 산업, 국제질서와 통상 변화 등 교육·사회·경제 전반의 굵직한 현안이 이어졌다. AI 기본법 시행과 미국의 관세정책, 중동발 공급망 불안 등 실제 정책과 산업 환경의 ...",
-        "source": "조선에듀",
-        "publishedAt": "2026-10-21",
-        "url": "https://edu.chosun.com/m/edu_article.html?contid=2026102180134",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.1Bqi97xh0kn-EKFhv10PUg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "\"새벽 샤워·엘리베이터 자제해달라\"…선 넘은 배려 요구인가[이슈N]",
-        "summary": "[서울=뉴시스]장인혜 인턴 기자 = 아파트에서 밤늦게 샤워하는 것을 두고 이웃 간 생활 소음 논쟁이 이어지고 있다. 지난 6일 사회관계망서비스(SNS)에 늦은 시간 샤워와 세탁기 사용을 자제해 달라는 아파트 주민의 글이 올라오자, 개인의 일상생활을 어디까지 이웃..",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-11-10",
-        "url": "https://www.fnnews.com/news/202611100701407155",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.Ih8HqaReMAUKZhQWTLAAzQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[이슈&경제] 이윤을 넘어 가치로, 넷플릭스와 삼성화재가 보여준 ESG",
-        "summary": "넷플릭스는 오늘날 ESG(환경·사회·지배구조) 경영을 콘텐츠 산업에서 가장 성공적으로 구현한 기업으로 평가받는다. 이 플랫폼은 기술과 창작의 자율성을 토대로 다양하고 의미 있는 스토리를 발굴해 전 세계 시청자에게 즐거움과 사회적 가치를 전달하는 글로벌 엔터테인먼트로 자 ...",
-        "source": "경기일보",
-        "publishedAt": "2026-11-08",
-        "url": "https://www.kyeonggi.com/article/20261108580101",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.BMXlZfXLlC8tFzgCiQHJUw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "우리금융, '2026 AI Day' 개최…계열사 인공지능(AI) 혁신 성과 공유",
-        "summary": "우리금융그룹이 그룹 전반의 인공지능 전환(AX) 확산을 위해 '2026 우리금융 AI Day'를 열고, 은행·보험·카드 등 주요 계열사의 AI 적용 우수 사례를 공유했다. 지난 17일 서울 중구 본사 시너지홀에서 열린 이번 행사는 그룹 3대 핵심 전략인 전사적 AX 추진의 일환이다. '그룹 AX 마스터플랜'을 바탕으로 실제 업무 적용 사례를 발표하고 중장기 ...",
-        "source": "전자신문 on MSN",
-        "publishedAt": "2026-11-18",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9A%B0%EB%A6%AC%EA%B8%88%EC%9C%B5-2026-ai-day-%EA%B0%9C%EC%B5%9C-%EA%B3%84%EC%97%B4%EC%82%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-ai-%ED%98%81%EC%8B%A0-%EC%84%B1%EA%B3%BC-%EA%B3%B5%EC%9C%A0/ar-AA2hEXo0",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.jmgXnEKrSDdjfovaTGtipA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "[포토] 'K-AI 이노베이터' 엄열 과기정통부 인공지능정책실장 강연",
-        "summary": "인터넷종합지 아이뉴스24와 기업·정책 전문가들이 한자리에 모여 AI 기술 동향과 산업 협력의 방향을 함께 논의하는 'K-AI 이노베이터' 조찬모임이 18일 오전 서울 강남구 삼성동 그랜드 인터컨티넨탈 서울 파르나스에서 열렸다.",
-        "source": "아이뉴스24 on MSN",
-        "publishedAt": "2026-11-18",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%ED%8F%AC%ED%86%A0-k-ai-%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0-%EC%97%84%EC%97%B4-%EA%B3%BC%EA%B8%B0%EC%A0%95%ED%86%B5%EB%B6%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%A0%95%EC%B1%85%EC%8B%A4%EC%9E%A5-%EA%B0%95%EC%97%B0/ar-AA2hEUlZ",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.wNwFtiwXmLNUn1QLbbF09A&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "인공지능 생성 얼굴을 가려내는 6가지 기준",
-        "summary": "얼마 전까지만 해도 인공지능(AI)은 사람의 얼굴 특징을 학습하는 데 매진해야 했다. 방대한 얼굴 사진 자료 속에서 사람의 얼굴 특징을 찾아내기 위해서다. 이제는 입장이 정반대가 됐다. 인공지능이 만들어낸 얼굴을 사람이 가려내야 하는 처지가 됐다. 그 사이에 인공지능의 ...",
-        "source": "한겨레",
-        "publishedAt": "2026-11-17",
-        "url": "https://www.hani.co.kr/arti/science/science_general/1287655.html",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.VdjMPC4dEh8aKmD_A_2JSg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "AI란 무엇인가?…인공지능 시대, 국민이 반드시 알아야 할 기본 상식",
-        "summary": "[국회=KMS뉴스] 홍준용 기자 = 최근 뉴스와 방송, 인터넷, 휴대전화 등 일상생활 곳곳에서 'AI'라는 용어가 등장하고 있다. 그러나 AI가 정확히 무엇을 의미하고 어떤 원리로 작동하는지 이해하지 못하는 국민도 적지 않다.AI는 영어 'Artificial Intelligence'의 약자로, 우리말로는 '인공지능(人工知能)'이라고 한다. 인간이 수행하는 ...",
-        "source": "kmsnews",
-        "publishedAt": "2026-11-17",
-        "url": "http://www.kmsnews.co.kr/news/articleView.html?idxno=30804",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ZdE2kPAIsYslVzQff6Kb_g&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "인공지능 부정행위 우려 속 2027학년도 수능 연기 논란, 교육부 입장은?",
-        "summary": "[공감신문] 김충식 기자=인공지능을 활용한 부정행위에 대한 우려가 커지면서 2027학년도 대학수학능력시험을 연기해야 한다는 목소리가 나오고 있다. 그러나 교육부는 시험 연기 가능성을 배제하고 있으며, 수험생과 학부모들의 불안은 여전히 가라앉지 않고 있다. 시험 연기를 반대하는 이들도 ...",
-        "source": "공감신문",
-        "publishedAt": "2026-11-17",
-        "url": "https://www.gokorea.kr/news/articleView.html?idxno=886068",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.fWx9qvro0kmBqREg5eFVCA&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
