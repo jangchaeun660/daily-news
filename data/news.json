@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-11-25",
-  "windowStart": "2026-11-23T22:00:00.000Z",
-  "windowEnd": "2026-11-24T22:00:00.000Z",
+  "updatedAt": "2026-11-26",
+  "windowStart": "2026-11-24T22:00:00.000Z",
+  "windowEnd": "2026-11-25T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "사회연대경제 전담 인력 5.7배 격차",
-      "summary": "Google 검색에서 한국경제 기사를 더 자주 볼 수 있습니다. 한국지역정보개발원, 지방정부 AI 대응 전략 제시 사회연대경제기본법 제정에 따른 지방정부 대응 전략 AI 이슈리포트. 사회연대경제기본법 제정에 따른 지방정부의 정책 대응 역량이 지역별로 큰 차이를 보이는 것으로 나타났다. 2029년 경영공시 의무화를 앞두고 인공지능(AI)을 활용한 행정 기반을 ...",
-      "source": "한국경제",
-      "publishedAt": "2026-11-24",
-      "url": "https://www.hankyung.com/article/202611259290h",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.LgntFI9QYOWrvSUc6_ipQg&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "지역정보개발원, 지방정부 사회연대경제기본법 대응 전략서 발간",
-      "summary": "한국지역정보개발원은 25일 ‘AI 이슈 리포트 - 사회연대경제기본법 제정에 따른 지방정부 대응 전략’를 발간했다. ⓒ한국지역정보개발원 제공[데일리한국 정백현 기자] 지난 9월 제정된 ‘사회연대경제기본법’에 따라 오는 2029년 경영공시 의무화와 통합플랫폼 운행이 전면 시행되는 가운데 지자체 간 준비 격차를 해소하고 인공지능(AI) 기반의 행정 체계를 조속히 ...",
-      "source": "데일리한국 on MSN",
+      "title": "대한사회복지회-자동차손해배상진흥원, 사회소외계층 복지 사각지대 해소 위한 업무협약 체결",
+      "summary": "사회복지법인 대한사회복지회(회장 이봉원)는 지난 25일 자동차손해배상진흥원(원장직무대행 김성완)과 사회소외계층 지원사업을 위한 업무협약을 체결했다고 밝혔다.이번 협약식은 서울 영등포구에 위치한 자동차손해배상진흥원 본사에서 대한사회복지회 이봉원 회장, 자동차손해배상진흥원 김성완 원장직무 ...",
+      "source": "이넷뉴스",
       "publishedAt": "2026-11-25",
-      "url": "https://www.msn.com/ko-kr/money/%EA%B8%B0%EC%88%A0/%EC%A7%80%EC%97%AD%EC%A0%95%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9B%90-%EC%A7%80%EB%B0%A9%EC%A0%95%EB%B6%80-%EC%82%AC%ED%9A%8C%EC%97%B0%EB%8C%80%EA%B2%BD%EC%A0%9C%EA%B8%B0%EB%B3%B8%EB%B2%95-%EB%8C%80%EC%9D%91-%EC%A0%84%EB%9E%B5%EC%84%9C-%EB%B0%9C%EA%B0%84/ar-AA2i9z4r",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.816HCsgknN-Qtc0oGYgPYg&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=56837",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.8Lh5KeOYHvQJnH3--irvsg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "[이슈프리즘] 반칙 부추기는 사회",
-      "summary": "국가시험은 ‘대한민국에서 반칙이 통하지 않는 몇 안 되는 성역’이라고 다들 믿었다. 제아무리 돈 많고 힘센 집 자식이라도 공부를 못하면 명문대 졸업장이나 폼 나는 자격증을 손에 쥘 수 없다고 생각했다. 오직 수험생의 실력으로 당락을 가르는 국가시험은 “누구든 노력하면 성공할 수 있다”는 희망을 줬고, 그 힘으로 대한민국은 ‘한강의 기적’을 일궈냈다. 비록 ...",
-      "source": "한국경제",
-      "publishedAt": "2026-11-24",
-      "url": "https://www.hankyung.com/article/2026112477481",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.GhuzgBx4_N351nI_eVyZbA&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "정부, 내년 일자리·주거·금융 3대 민생 프로젝트 추진",
-      "summary": "정부가 내년 경제정책의 핵심 과제로 일자리와 주거, 서민금융을 내세운다. 계층별 일자리 확대와 공적주택 119만호 공급, 저리자금 지원 등을 주요 과제로 검토한다. 반도체 호황에 힘입어 경제 성장세가 확대되고 있지만 고물가와 ...",
-      "source": "디지털타임스 on MSN",
-      "publishedAt": "2026-11-24",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%95%EB%B6%80-%EB%82%B4%EB%85%84-%EC%9D%BC%EC%9E%90%EB%A6%AC-%EC%A3%BC%EA%B1%B0-%EA%B8%88%EC%9C%B5-3%EB%8C%80-%EB%AF%BC%EC%83%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B6%94%EC%A7%84/ar-AA2i5o4E",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.s2ofE3gsySxJjR2STuecmQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "내년 경제정책 '모두의 성장' 초점…일자리·주거·서민금융 3대 민생 프로젝트",
-      "summary": "정부는 올해 우리 경제가 글로벌 반도체 호황에 힘입어 수출·투자 중심으로 성장세가 확대됐다고 평가했다. 지난 7월 하반기 경제성장전략에서 제시한 잠재성장률 3%, 수출 4강, 1인당 국민소득 5만 달러의 '3·4·5 비전'도 가시화되고 있다고 진단했다.",
-      "source": "스포탈코리아",
-      "publishedAt": "2026-11-24",
-      "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553726727",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.JDtGHULUmOjCTDkg5THbig&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "안양시, 세계가 주목하는 ‘인공지능(AI) 선도 도시’로 우뚝",
-      "summary": "경기 안양시가 안전·교통·재난 등을 하나로 연결하는 ‘스마트도시통합센터’를 구심점으로, 세계 도시들의 벤치마킹 대상으로 주목받고 있다.지난 3일부터 5일까지 스페인 바르셀로나에서 열린 세계 최대 규모의 스마트도시 박람회 ‘스마트시티 엑스포 월드 콩그레스(SCEWC) ...",
-      "source": "서울신문 on MSN",
+      "title": "근무 중 카톡·인스타 확인, 어디까지 봐줘야 할까요 [이슈N]",
+      "summary": "업무 시간 중 개인적인 메시지를 주고받거나 사회관계망서비스(SNS)를 확인하는 행위를 두고 직장 내 시각차가 평행선을 달리고 있다. 개인의 자율성과 성과 유지를 우선시하는 입장과, 전체적인 생산성 저하 및 분위기 저해를 우려하는 입장이 팽팽하게 맞서는 모양새다. 용인 가능한 범위에 대한 인식 차이는 명확하게 갈린다. 긍정적인 반응을 보이는 이들은 주어진 업 ...",
+      "source": "뉴시스 on MSN",
       "publishedAt": "2026-11-25",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%95%88%EC%96%91%EC%8B%9C-%EC%84%B8%EA%B3%84%EA%B0%80-%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-ai-%EC%84%A0%EB%8F%84-%EB%8F%84%EC%8B%9C-%EB%A1%9C-%EC%9A%B0%EB%9A%9D/ar-AA2ia6bD",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.j8e7w0fZ_clee8mVfllgtQ&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/news/national/%EA%B7%BC%EB%AC%B4-%EC%A4%91-%EC%B9%B4%ED%86%A1-%EC%9D%B8%EC%8A%A4%ED%83%80-%ED%99%95%EC%9D%B8-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EB%B4%90%EC%A4%98%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94-%EC%9D%B4%EC%8A%88n/ar-AA2ieMcA",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.5cYUNHB58HX4XFPOq6Y2cw&pid=News&w=1200&h=675&c=14"
     },
     {
-      "category": "ai",
-      "title": "포천시, 인공지능 업무비서 '포비' 도입…행정업무 혁신",
-      "summary": "'포비'는 생성형 인공지능 통합 플랫폼 '웍스인공지능(AI)'를 기반으로 구축한 포천시 맞춤형 업무지원 서비스다. 챗지피티(ChatGPT), 제미나이(Gemini), 클로드(Claude) 등 다양한 생성형 인공지능 모델을 하나의 플랫폼에서 이용할 수 있는 것이 특징이다. 직원들은 업무 목적과 특성에 따라 적합한 인공지능 ...",
-      "source": "연합뉴스 on MSN",
+      "category": "society",
+      "title": "LH주거복지정보, 직원 역량 강화 교육 우수기관 2년 연속 인증",
+      "summary": "LH주거복지정보가 한국폴리텍Ⅳ대학 산학협력단으로부터 ‘2026년도 직원 역량 강화 교육 우수기관’ 인증을 받았다. 지난해에 이어 2년 연속이다.이번 인증은 양 기관이 이어온 교육 협력의 결과로 풀이된다. LH주거복지정보는 관리자 교육에 이어 올해 현장 상담직원까지 교육 대상을 넓히며 ...",
+      "source": "스페셜타임스",
       "publishedAt": "2026-11-25",
-      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%ED%8F%AC%EC%B2%9C%EC%8B%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%97%85%EB%AC%B4%EB%B9%84%EC%84%9C-%ED%8F%AC%EB%B9%84-%EB%8F%84%EC%9E%85-%ED%96%89%EC%A0%95%EC%97%85%EB%AC%B4-%ED%98%81%EC%8B%A0/ar-AA2iaKhi",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.v8xRV7P_0IaqbCfCvenS4A&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=490221",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.T7xbS67p3RHbHBCO13Ba7w&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "마운자로가 일깨운 건강 계급 사회 [뉴스룸에서]",
+      "summary": "황보연 | 기획부국장 일명 ‘스시자로’(스시+마운자로) 원정 처방이 유행처럼 번지고 있다. 정부가 지난 12일부터 해외에서 의약품을 처방받아 구매한 경우 국내 반입을 허용하면서다. 여기에는 마운자로와 같은 비만치료제도 포함됐다. 우리나라보다 훨씬 저렴한 값에 살 수 있 ...",
+      "source": "한겨레",
+      "publishedAt": "2026-11-25",
+      "url": "https://www.hani.co.kr/arti/opinion/column/1289132.html",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.auV2O9W8P1yL7yWQu5abUA&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "전체 사회일반 젠더 노동 환경 장애인 인권·복지 의료·건강 미디어 궂긴소식 인사 엔지오 교육 종교",
+      "summary": "서울시는 내년에 열리는 제6회 서울도시건축비엔날레 총감독으로 이탈리아 출신 건축가이자 도시 연구자인 카를로 라티를 선정했다고 25일 밝혔다.라티 총감독은 미국 매사추세츠공과대학교 (MIT) 교수이자 센서블 시티 랩 소장이다. 도시 데이터와 디지털 기술을 활용해 건축과 도 ...",
+      "source": "한겨레",
+      "publishedAt": "2026-11-25",
+      "url": "https://www.hani.co.kr/arti/society",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.svLoEtcT8olI1nPpJURPQw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "금천구, 인공지능(AI) 영상 '다시 한걸음'으로 청년 취업정책 알렸다",
-      "summary": "금천구(구청장 최기찬)는 지난 23일 국회의사당 의원회관 대회의실에서 열린 '제3회 대한민국지자체홍보대상' 시상식에서 인공지능(AI)영상 사회복지부문 대상을 ...",
-      "source": "스포츠조선 on MSN",
-      "publishedAt": "2026-11-24",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%88%EC%B2%9C%EA%B5%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5ai-%EC%98%81%EC%83%81-%EB%8B%A4%EC%8B%9C-%ED%95%9C%EA%B1%B8%EC%9D%8C%EC%9C%BC%EB%A1%9C-%EC%B2%AD%EB%85%84-%EC%B7%A8%EC%97%85%EC%A0%95%EC%B1%85-%EC%95%8C%EB%A0%B8%EB%8B%A4/ar-AA2i5BJv",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.Aq-oPWvi8XiK_wVvhhSaMw&pid=News&w=1200&h=675&c=14"
+      "title": "'충북 AI대전환' 싱크탱크 뜬다... 인공지능위원회 내년 1월 출범",
+      "summary": "충북의 인공지능(AI) 대전환을 이끌 민관 협력 기구인 ‘충북인공지능위원회’가 내년 1월 출범한다. 충북도는 25일 서울 중구 컨퍼런스하우스 달개비에서 신용한 지사와 AI 분야 산학연 전문가 등이 참석한 가운데 ...",
+      "source": "한국일보 on MSN",
+      "publishedAt": "2026-11-25",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%B6%A9%EB%B6%81-ai%EB%8C%80%EC%A0%84%ED%99%98-%EC%8B%B1%ED%81%AC%ED%83%B1%ED%81%AC-%EB%9C%AC%EB%8B%A4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9C%84%EC%9B%90%ED%9A%8C-%EB%82%B4%EB%85%84-1%EC%9B%94-%EC%B6%9C%EB%B2%94/ar-AA2ibd45",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.O19wfAcENZTf4O5UMgIECQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "안양시, 인공지능 종합 계획 용역 보고회 가져",
-      "summary": "[이뉴스투데이 경기2취재본부 안상철 기자] 안양시가 20일 스마트도시통합센터에서 AI 기본 및 종합계획 수립 용역보고회를 가졌다.보고회에는 안양시 인공지능위원회와 민관협치위원회 위원, 시 의원 및 관계자 등 17명이 참석해 용역의 추진 방향과 과업 범위를 공유하고 의견을 나눴다.이번 ...",
-      "source": "이뉴스투데이",
-      "publishedAt": "2026-11-24",
-      "url": "https://www.enewstoday.co.kr/news/articleView.html?idxno=2496166",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.1y-MQhdNdK9THX7JHSDYCQ&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "울산경자청, 일본서 관광 복합개발·제조 인공지능 분야 투자유치 나서",
-      "summary": "울산경제자유구역청(울산경자청)이 일본을 찾아 관광 복합개발·제조 인공지능 분야에 대한 투자유치 활동에 나선다. 울산경자청은 오는 27일까지 일본 도쿄와 나고야에서 열리는 ‘케이페즈 데이 인 재팬(KFEZ Day in Japan)’에 참가해 일본기업을 대상으로 산업별 맞춤형 투자유치활동을 펼친다고 밝혔다. 이번 행사는 산업통상부와 대한무역투자진흥공사(KOTR ...",
+      "title": "충북인공지능위원회 내년 1월 본격 운영",
+      "summary": "충북도가 인공지능(AI) 대전환을 이끌 민관 협력 정책 심의·자문 기구인 충북인공지능위원회 출범에 시동을 걸었다. 도는 25일 서울 중구 컨퍼런스하우스 달개비에서 충북인공지능위원회 준비위원회를 열고 충북 AI 발전전략과 위원회 운영 방향을 논의했다. 도는 12월까지 50여명의 위원회 구성을 마치고 내년 1월부터 본격적으로 충북인공지능위원회를 운영한다는 구상 ...",
       "source": "국민일보 on MSN",
-      "publishedAt": "2026-11-24",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%9A%B8%EC%82%B0%EA%B2%BD%EC%9E%90%EC%B2%AD-%EC%9D%BC%EB%B3%B8%EC%84%9C-%EA%B4%80%EA%B4%91-%EB%B3%B5%ED%95%A9%EA%B0%9C%EB%B0%9C-%EC%A0%9C%EC%A1%B0-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B6%84%EC%95%BC-%ED%88%AC%EC%9E%90%EC%9C%A0%EC%B9%98-%EB%82%98%EC%84%9C/ar-AA2i5kIf",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.mBE4dQl7F3yBweFlML1wBw&pid=News&w=1200&h=675&c=14"
+      "publishedAt": "2026-11-25",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%B6%A9%EB%B6%81%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9C%84%EC%9B%90%ED%9A%8C-%EB%82%B4%EB%85%84-1%EC%9B%94-%EB%B3%B8%EA%B2%A9-%EC%9A%B4%EC%98%81/ar-AA2ibAyj",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.qAsHjl-DE9G6pEEYkAhQ8A&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "KT클라우드, 안산에 60MW AI 데이터센터 추가 구축 추진",
+      "summary": "(서울=연합뉴스) 박형빈 기자 = KT클라우드는 경기 안산에 60메가와트 (MW) 규모의 인공지능 (AI) 데이터센터를 추가로 구축해 총 110MW 규모의 데이터센터 클러스터를 조성한다고 26일 밝혔다. 이번 '안산2 AI 데이터센터'는 수전용량 60MW, 연면적 약 5만2천622㎡에 지하 2층·지상 8층 규모로 조성되며, 이달 착공해 2030년 내 서비스 ...",
+      "source": "연합뉴스",
+      "publishedAt": "2026-11-25",
+      "url": "https://www.yna.co.kr/view/AKR20261126069900017",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.ThwoslMM3081ofVaXdtGDQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "KT클라우드, 안산2 AI 데이터센터 구축 추진…수도권 AI 인프라 공급 확대",
+      "summary": "KT클라우드가 경기도 안산에 인공지능 데이터센터 (AIDC) 공급 거점을 추가 확보하며 수도권 AI 인프라 사업을 확대한다. 기존 안산1 AIDC와 신규 안산2 AIDC를 연계해 대규모 데이터센터 클러스터를 조성하고 고밀도·고발열 AI 서버 수요에 대응하기 위한 액체냉각 인프라를 구축할 계획이다.",
+      "source": "e-science",
+      "publishedAt": "2026-11-25",
+      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=140775",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.INmZgkEVgBxnPyuyXL23Aw&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "스페이스X '우주 AI 데이터센터' 위성 100만기 승인…미래에셋벤처투자 급등",
+      "summary": "[메가경제=박성태 기자] 일론 머스크가 이끄는 스페이스X가 지구 상공에 인공지능(AI) 연산용 위성 최대 100만기를 띄워 ‘우주 데이터센터’를 구축할 수 있는 규제 관문을 넘어섰다. 유럽우주국(ESA)이 추산한 현재 지구 궤도 위성(약 1만 6900 ...",
+      "source": "메가경제 on MSN",
+      "publishedAt": "2026-11-26",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9A%B0%EC%A3%BC-%ED%83%90%EC%82%AC/%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4x-%EC%9A%B0%EC%A3%BC-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%9C%84%EC%84%B1-100%EB%A7%8C%EA%B8%B0-%EC%8A%B9%EC%9D%B8-%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EB%B2%A4%EC%B2%98%ED%88%AC%EC%9E%90-%EA%B8%89%EB%93%B1/ar-AA2ifzZk",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.SUYW4KsYuv6sFoOqWSMhcw&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
