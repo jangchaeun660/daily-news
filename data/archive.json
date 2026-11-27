@@ -1,5 +1,102 @@
 [
   {
+    "updatedAt": "2026-11-27",
+    "windowStart": "2026-11-25T22:00:00.000Z",
+    "windowEnd": "2026-11-26T22:00:00.000Z",
+    "articles": [
+      {
+        "category": "society",
+        "title": "교인들이 매긴 한국교회 사회적 신뢰 점수는 44점",
+        "summary": "교회에 출석하는 개신교인들이 한국교회의 사회적 신뢰에 매긴 점수는 100점 만점에 44점이었다. 교회 내부에서조차 한국교회의 사회적 신뢰에 대한 평가가 절반에 못 미치는 것으로 나타났다. 한국기독교교회협의회(NCCK) 에큐메니컬신학과교육위원회와 한국기독교사회문제연구원( ...",
+        "source": "국민일보",
+        "publishedAt": "2026-11-27",
+        "url": "https://www.kmib.co.kr/article/20261126501780",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.HrYTiE_RWCCEA7_53gKYZg&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "한국세무사회, 사무처 특별승진·승급 인사 단행",
+        "summary": "세무사회는 회원들에게 인정받고 있는 ‘혁신회무’ 추진을 주도한 직원을 중심으로 근무성적이 우수하며 담당 업무에서 탁월한 성과를 거둔 직원, 회원 권익 증진과 회무 발전을 위해 헌신적인 자세로 직무를 선도한 직원을 대상으로 심도있는 심사를 통해 특별승진과 특별승급자를 4명 배출했다.",
+        "source": "일간 NTN",
+        "publishedAt": "2026-11-26",
+        "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000552",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.6AbxCLr5jIU2XLuPhsdMiA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[이슈프리즘] 반칙 부추기는 사회",
+        "summary": "국가시험은 ‘대한민국에서 반칙이 통하지 않는 몇 안 되는 성역’이라고 다들 믿었다. 제아무리 돈 많고 힘센 집 자식이라도 공부를 못하면 명문대 졸업장이나 폼 나는 자격증을 손에 쥘 수 없다고 생각했다. 오직 수험생의 실력으로 당락을 가르는 국가시험은 “누구든 노력하면 성공할 수 있다”는 희망을 줬고, 그 힘으로 대한민국은 ‘한강의 기적’을 일궈냈다. 비록 ...",
+        "source": "한국경제",
+        "publishedAt": "2026-11-24",
+        "url": "https://www.hankyung.com/article/2026112477481",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.GhuzgBx4_N351nI_eVyZbA&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[대전 24시] 대덕특구본부, AIㆍ딥테크 활용 사회 이슈 해결",
+        "summary": "이날 초청강연에서는 김승겸 KAIST 교수가 ‘기후적응의 역설: AI, 도시 불평등과 거버넌스’를 주제로 기후변화가 도시와 사회에 미치는 영향을 살펴보고 AI 기술을 활용한 지속가능한 미래 도시의 방향을 제시했다.",
+        "source": "시사저널",
+        "publishedAt": "2026-11-18",
+        "url": "https://www.sisajournal.com/news/articleView.html?idxno=394380",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.EWgBecu4CjxZzusuT0M6Ag&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "society",
+        "title": "[재계핫이슈] 대한상의 졸업 최태원 회장, 더 많은 ‘사회적 발언’ 예고",
+        "summary": "SK 최태원 회장이 대한상공회의소(대한상의) 회장직을 내려놓을 예정이다. 최 회장의 두 번째 대한상의 회장 임기가 내년 3월에 만료되기 때문이다. 최태원 회장은 문재인 정부 때인 2021년 2월 4대그룹 총수 중에서는 처음으로 제24대 대한상의 회장으로 추대됐다. 2024년까지 3년 ...",
+        "source": "펜앤드마이크",
+        "publishedAt": "2026-11-22",
+        "url": "https://www.pennmike.com/news/articleView.html?idxno=132449",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.LXyH5ij0_bsoyDPJHRvF2w&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "한국인공지능·소프트웨어산업협회, 인공지능 산업 법정단체로 인정받아 'K-AI 국가 대표팀' 참여 기업 뒷받침",
+        "summary": "한국인공지능·소프트웨어산업협회(KOSA)가 인공지능(AI) 산업의 법정단체로 지정된 것을 계기로 사업 영역을 확대하고 있다. 정부의 AI 지원제도를 직접 운영하는 한편 민관 협의체를 이끌고 국내 AI 기업들의 해외 진출을 지원하고 있다.KOSA는 지난 2월 AI 기본법에 따른 법정단체로 지정됐다. 1988년 설립된 KOSA는 소프트웨어진흥법에 따른 법정단체 ...",
+        "source": "한국경제 on MSN",
+        "publishedAt": "2026-11-26",
+        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%82%B0%EC%97%85%ED%98%91%ED%9A%8C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%82%B0%EC%97%85-%EB%B2%95%EC%A0%95%EB%8B%A8%EC%B2%B4%EB%A1%9C-%EC%9D%B8%EC%A0%95%EB%B0%9B%EC%95%84-k-ai-%EA%B5%AD%EA%B0%80-%EB%8C%80%ED%91%9C%ED%8C%80-%EC%B0%B8%EC%97%AC-%EA%B8%B0%EC%97%85-%EB%92%B7%EB%B0%9B%EC%B9%A8/ar-AA2igsi4",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.gkKmA4jBa77uSPxe9RPpaw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "수은, 인공지능(AI) 가치사슬 핵심부품 기업 종합 지원체제 구축",
+        "summary": "한국수출입은행(www.koreaexim.go.kr, 은행장 황기연, 이하 '수은')이 ㈜두산 등 국내 인공지능(AI) 소재·부품 분야 기업의 수출, 해외투자 확대를 위해 적극적인 ...",
+        "source": "스포츠조선 on MSN",
+        "publishedAt": "2026-11-26",
+        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%88%98%EC%9D%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-ai-%EA%B0%80%EC%B9%98%EC%82%AC%EC%8A%AC-%ED%95%B5%EC%8B%AC%EB%B6%80%ED%92%88-%EA%B8%B0%EC%97%85-%EC%A2%85%ED%95%A9-%EC%A7%80%EC%9B%90%EC%B2%B4%EC%A0%9C-%EA%B5%AC%EC%B6%95/ar-AA2igKbq",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.9-8CsfqPGb4oPpRzVPyhdw&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "충남도,‘대한민국 제조 인공지능 전환(AX) 창업수도’ 도전",
+        "summary": "[이철우 기자] 충남도가 대한민국 첨단 제조산업의 중심인 천안·아산을 기반으로 ‘대한민국 제조 인공지능 전환 (AX) 창업수도’ 조성을 위한 도전을 본격화했다. 도는 26일 아산 충남콘텐츠기업지원센터에서 박수현 지사를 비롯해 장기수 천안시장, 오세현 아산시장, 대·중견기업, 대학, 연구기관, 투자기관 및 창업지원기관 관계자 등 50여 명이 참석한 가운데 ...",
+        "source": "wide-news.kr",
+        "publishedAt": "2026-11-27",
+        "url": "https://www.wide-news.kr/14274",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.DZYzvboHYNpps2T3LoGXQQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "최태원 'AI 인프라' 청사진 현실로…SK, 데이터센터 사업 가속",
+        "summary": "SK그룹의 미래 성장축이 메모리 반도체에서 인공지능 (AI) 인프라로 확장되고 있다. 최태원 SK그룹 회장이 1년 전 천명한 'AI 인프라 기업' 전환 구상이 울산 AI 데이터센터 건설과 글로벌 빅테크 협력 등으로 구체화하면서다. 반도체 경쟁력을 기반으로 데이터센터와 에너지까지 아우르는 AI 산업 생태계 구축에 본격 나선 모습이다.",
+        "source": "EBN",
+        "publishedAt": "2026-11-26",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1733049",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.rnVpk6awH5r9UgnBmbo5YQ&pid=News&w=1200&h=675&c=14"
+      },
+      {
+        "category": "ai",
+        "title": "'동해시 GS AI데이터센터' 28일 첫 삽…단일 규모로 아시아 최대",
+        "summary": "2.4GW급 데이터센터 목표…AI산업 생태계 조성 본격화 ...",
+        "source": "노컷뉴스 on MSN",
+        "publishedAt": "2026-11-26",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%8F%99%ED%95%B4%EC%8B%9C-gs-ai%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-28%EC%9D%BC-%EC%B2%AB-%EC%82%BD-%EB%8B%A8%EC%9D%BC-%EA%B7%9C%EB%AA%A8%EB%A1%9C-%EC%95%84%EC%8B%9C%EC%95%84-%EC%B5%9C%EB%8C%80/ar-AA2ijANn",
+        "imageUrl": "https://www.bing.com/th?id=ONUT.uxjJA5rrsuXD6dlo5lRfqQ&pid=News&w=1200&h=675&c=14"
+      }
+    ]
+  },
+  {
     "updatedAt": "2026-11-26",
     "windowStart": "2026-11-24T22:00:00.000Z",
     "windowEnd": "2026-11-25T22:00:00.000Z",
@@ -542,94 +639,6 @@
         "publishedAt": "2026-11-20",
         "url": "https://www.news1.kr/industry/sb-founded/6361274",
         "imageUrl": "https://www.bing.com/th?id=ONUT.EoqfaGo8jREoqdqdhUQ9Aw&pid=News&w=1200&h=675&c=14"
-      }
-    ]
-  },
-  {
-    "updatedAt": "2026-11-20",
-    "windowStart": "2026-11-18T22:00:00.000Z",
-    "windowEnd": "2026-11-19T22:00:00.000Z",
-    "articles": [
-      {
-        "category": "society",
-        "title": "최저주거기준·공공임대 정책에 국민 의견 듣는다",
-        "summary": "(서울=연합뉴스) 임기창 기자 = 국토교통부는 오는 20일 서울에서 전문가, 청년, 시민단체 등이 참석해 주거복지 정책을 논의하는 '주거복지정책 토론회'를 개최한다고 19일 밝혔다. 토론회 1부에서는 최저주거기준 개선 방안을 주제로 서지은 영남대 교수가 발제하고, 관련 분야 전문가들이 기준 개선 방향과 세부 개정 방안을 논의한다. 최저주거기준은 국민이 인간 ...",
-        "source": "연합뉴스",
-        "publishedAt": "2026-11-19",
-        "url": "https://www.yna.co.kr/view/AKR20261119028200003",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.GSpxD4jDADu891O60PSoGw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[창간 특별기획 '출산 포비아']스웨덴·덴마크 등 복지 선진국…출산·육아 국가 책임",
-        "summary": "퍼블릭타임스=대한민국이 인구절벽의 현실과 마주하고 있다. 출생아 수 감소는 국가 성장동력을 위협하고, 초고령사회 진입은 노동시장과 복지, 의료, 금융, 지역경제 등 사회 전반의 구조적 변화를 요구한다. 저출산과 고령화는 더 이상 특정 세대의 문제가 아니라 우리 모두가 함께 해결해야 할 시대적 과제이다. 퍼블릭타임스는 창간 6주년을 맞아 [출산 포비아 ...",
-        "source": "공생공사닷컴",
-        "publishedAt": "2026-11-19",
-        "url": "https://www.public25.com/news/articleView.html?idxno=58591",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.741_QmBzm9_sWy6b6NgOuw&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "[2027수능] 4교시 사회탐구영역 정답표",
-        "summary": "2027학년도 수능 4교시 사회탐구 윤리와 사상 정답표/한국교육과정평가원 제공ⓒ 뉴스1 2027학년도 수능 4교시 사회탐구 한국지리 정답표/한국교육과정평가원 제공ⓒ 뉴스1 2027학년도 수능 4교시 사회탐구 세계지리 정답표/한국교육과정평가원 제공ⓒ 뉴스1 2027학년도 수능 4교시 사회탐구 동아시아사 정답표/한국교육과정평가원 제공ⓒ 뉴스1 2027학년도 수 ...",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-11-19",
-        "url": "https://www.fnnews.com/news/202611192119227645",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.6YmOIbCkyRayfvrUddqGrQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "society",
-        "title": "강북구도시관리공단, 지역사회공헌 7년 연속 인정",
-        "summary": "강북구도시관리공단이 보건복지부와 한국사회복지협의회가 공동 시행하는 ‘2026년 지역사회공헌 인정제’에서 최종 인정기관으로 선정됐다. 공단은 장애인 도서관 이용 편의 개선과 지역기관을 통한 자원순환 활동 등으로 7년 연속 인정을 받았다고 20일 밝혔다.지역사회공헌 인정제는 기업과 공공기관이 인력과 시설 등을 활용해 지역 비영리단체와 함께 꾸준히 펼친 사회공헌 ...",
-        "source": "전국매일신문",
-        "publishedAt": "2026-11-19",
-        "url": "https://jeonmae.co.kr/news/articleView.html?idxno=1314033",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.AzNmnhj1fWQIwo-Az5mKEA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "광주특별시-국가인공지능전략위, 국산 NPU 실증·판로 확대 모색",
-        "summary": "전남광주통합특별시 제공 전남광주통합특별시와 국가인공지능전략위원회가 국산 인공지능(AI) 반도체의 상용화와 시장 진출을 지원하기 위한 협력 방안을 논의했다. 전남광주통합특별시는 19일 광주 북구 오룡동 인공지능산업융합사업단(AICA)에서 국가인공지능전략위원회와 공동으로 '국산 AI 반도체 기업 간담회'를 개최했다. 이번 ...",
-        "source": "노컷뉴스 on MSN",
-        "publishedAt": "2026-11-19",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B4%91%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%8B%9C-%EA%B5%AD%EA%B0%80%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%A0%84%EB%9E%B5%EC%9C%84-%EA%B5%AD%EC%82%B0-npu-%EC%8B%A4%EC%A6%9D-%ED%8C%90%EB%A1%9C-%ED%99%95%EB%8C%80-%EB%AA%A8%EC%83%89/ar-AA2hKYhH",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.vjZ76GmngKbdfMtbn2idIA&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "법무법인 지평, 인공지능 데이터센터 개발·인허가·전력 확보에 협력",
-        "summary": "법무법인(유) 지평은 11월 18일 지평 본사가 있는 그랜드센트럴 26층 대회의실에서 주식회사 디비월드(DB월드)와 인공지능 데이터센터 사업 협력을 위한 업무협약을 맺었다. 이번 협약은 인공지능 데이터센터(AIDC)와 관련 인프라를 조속히 구축하고 안정적으로 운영할 수 있도록 양측의 전문성을 모아 협력 체계를 마련하기 위해 추진됐다. 양측은 인공지능 데이터 ...",
-        "source": "중앙일보",
-        "publishedAt": "2026-11-20",
-        "url": "https://www.joongang.co.kr/article/25480426",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.ma_wM3uIZw8Gu-k_6Bo_KQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "서울시립대, 한국피지컬AI협회와 인공지능 산업 활성화 위한 업무협약 체결",
-        "summary": "서울시립대학교는 지난 18일 교내에서 한국피지컬AI협회와 ‘인공지능(AI) 산업 활성화 위한 업무협약’을 체결했다고 20일 밝혔다.양 기관은 이번 협약을 통해 피지컬 AI 전문인력 양성, 공동연구 및 기술 교류, 신규 협력사업 발굴과 추진 등에 협력하기로 ...",
-        "source": "서울신문 on MSN",
-        "publishedAt": "2026-11-20",
-        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EB%8C%80-%ED%95%9C%EA%B5%AD%ED%94%BC%EC%A7%80%EC%BB%ACai%ED%98%91%ED%9A%8C%EC%99%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%82%B0%EC%97%85-%ED%99%9C%EC%84%B1%ED%99%94-%EC%9C%84%ED%95%9C-%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD-%EC%B2%B4%EA%B2%B0/ar-AA2hOaig",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.noDRc_THFZtFRjgxu-xowg&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "AI 부정행위 파문으로 뒤흔들린 수능장… 꽁꽁 언 긴장 녹인 ‘연필 손 편지’",
-        "summary": "오마이뉴스 보도에 따르면 금옥여고 교장은 “이 편지는 삭막한 인공지능 시대에도 우리가 여전히 따뜻한 마음을 가진 인간이라는 사실을 보여준다”며 “편지를 다 읽고 나서 갑자기 눈물이 났다”고 소회를 밝혔다. 이어 “수능 감독관을 하느라 새벽부터 고생한 선생님들도 이 편지를 보고 큰 힘을 얻었다”면서 “우리 학교 학생들도 기운을 내서 편지 내용처럼 ‘꼭 수능이 ...",
-        "source": "위키트리",
-        "publishedAt": "2026-11-19",
-        "url": "https://www.wikitree.co.kr/articles/1176245",
-        "imageUrl": "https://www.bing.com/th?id=ONUT._rrKlnci_u56gKjYq2llDQ&pid=News&w=1200&h=675&c=14"
-      },
-      {
-        "category": "ai",
-        "title": "한·중, 공공 인공지능 대전환 협력 강화…미래 인재 양성 공동 대응",
-        "summary": "한국과 중국의 행정·교육 분야 전문가들이 인공지능을 활용한 민생 서비스 개선과 지방 소멸 대응, 미래 공무원 양성 방안 중심으로 양국의 협력 방향을 논의했다.행정안전부 지방자치인재개발원은 19일 경주 황룡원에서 중국 칭화대학 공공관리학원과 제19회 ‘한중 세미나’를..",
-        "source": "아시아투데이",
-        "publishedAt": "2026-11-19",
-        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261119010007682",
-        "imageUrl": "https://www.bing.com/th?id=ONUT.sc8oZ_6VUI3hVuq8G0Frmw&pid=News&w=1200&h=675&c=14"
       }
     ]
   }
