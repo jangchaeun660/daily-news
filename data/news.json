@@ -1,25 +1,34 @@
 {
-  "updatedAt": "2026-11-27",
-  "windowStart": "2026-11-25T22:00:00.000Z",
-  "windowEnd": "2026-11-26T22:00:00.000Z",
+  "updatedAt": "2026-11-28",
+  "windowStart": "2026-11-26T22:00:00.000Z",
+  "windowEnd": "2026-11-27T22:00:00.000Z",
   "articles": [
     {
       "category": "society",
-      "title": "교인들이 매긴 한국교회 사회적 신뢰 점수는 44점",
-      "summary": "교회에 출석하는 개신교인들이 한국교회의 사회적 신뢰에 매긴 점수는 100점 만점에 44점이었다. 교회 내부에서조차 한국교회의 사회적 신뢰에 대한 평가가 절반에 못 미치는 것으로 나타났다. 한국기독교교회협의회(NCCK) 에큐메니컬신학과교육위원회와 한국기독교사회문제연구원( ...",
-      "source": "국민일보",
+      "title": "기아대책, ‘2026 기후변화 이슈리포트’ 4호 발간",
+      "summary": "지역사회 자립·회복력 향상 방안 기후위기 인식 개선과 실천 주목 친환경 농업, 청소년 환경교육 등 국내 최초 국제구호개발 NGO 희망친구 기아대책(회장 최창남)은 기후변화에 따른 빈곤·식량 위기 현황과 기후 취약지역의 대응 사례를 담은 ‘2026 기후변화 이슈리포트’ 4호를 최근 발간했다. 기아대책은 2023년부터 매년 ‘기후변화와 빈곤, 식량 위기’를 주 ...",
+      "source": "크리스천투데이",
       "publishedAt": "2026-11-27",
-      "url": "https://www.kmib.co.kr/article/20261126501780",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.HrYTiE_RWCCEA7_53gKYZg&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.christiantoday.co.kr/news/378930",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.87GzOrDyzkSh5zj--s2UeA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
-      "title": "한국세무사회, 사무처 특별승진·승급 인사 단행",
-      "summary": "세무사회는 회원들에게 인정받고 있는 ‘혁신회무’ 추진을 주도한 직원을 중심으로 근무성적이 우수하며 담당 업무에서 탁월한 성과를 거둔 직원, 회원 권익 증진과 회무 발전을 위해 헌신적인 자세로 직무를 선도한 직원을 대상으로 심도있는 심사를 통해 특별승진과 특별승급자를 4명 배출했다.",
-      "source": "일간 NTN",
+      "title": "서울 대학로 한복판서 백골 28구…18년째 풀리지 않는 미스터리 [뉴스속오늘]",
+      "summary": "뉴스를 통해 우리를 웃고 울렸던 어제의 오늘을 다시 만나봅니다. 2008년 11월 28일, 서울 종로구 연건동의 옛 한국국제협력단 본관 철거 현장에서 사람의 것으로 추정되는 백골 수십구가 발견됐다. 해당 부지는 과거 서울대학교 의과대학병원이 자리했던 곳으로, 발견된 유해 중에는 1~2세로 추정되는 유아 3구와 여성 및 중장년층으로 추정되는 11구 등이 포함 ...",
+      "source": "머니투데이 on MSN",
+      "publishedAt": "2026-11-27",
+      "url": "https://www.msn.com/ko-kr/news/national/%EC%84%9C%EC%9A%B8-%EB%8C%80%ED%95%99%EB%A1%9C-%ED%95%9C%EB%B3%B5%ED%8C%90%EC%84%9C-%EB%B0%B1%EA%B3%A8-28%EA%B5%AC-18%EB%85%84%EC%A7%B8-%ED%92%80%EB%A6%AC%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC-%EB%89%B4%EC%8A%A4%EC%86%8D%EC%98%A4%EB%8A%98/ar-AA2iolf1",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.-Ebzkd2-J0z7NcuNue6IbQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "society",
+      "title": "[이슈&스토리] 꿈을 짓는 LH 경기남부본부, 사회공헌 브랜드 하늬바람",
+      "summary": "동네에 떠오를 미소도, 바람에게 부탁해 작년 론칭, 일회성 보다 ‘선순환 구조’ 지향 올해 아동돌봄 초점… 안성서 ‘교육·문화’ 활동 대학생 봉사자 고려, 진로 탐색·취업 경험 공유 공기업 ‘주택 공급 확대’ 주요 과제 머물지 ...",
+      "source": "경인일보 on MSN",
       "publishedAt": "2026-11-26",
-      "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000552",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.6AbxCLr5jIU2XLuPhsdMiA&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%EC%9D%B4%EC%8A%88-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EA%BF%88%EC%9D%84-%EC%A7%93%EB%8A%94-lh-%EA%B2%BD%EA%B8%B0%EB%82%A8%EB%B6%80%EB%B3%B8%EB%B6%80-%EC%82%AC%ED%9A%8C%EA%B3%B5%ED%97%8C-%EB%B8%8C%EB%9E%9C%EB%93%9C-%ED%95%98%EB%8A%AC%EB%B0%94%EB%9E%8C/ar-AA2ihcfI",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.YE41Ck3K2ej7H4SVvlSgSw&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "society",
@@ -37,61 +46,52 @@
       "source": "시사저널",
       "publishedAt": "2026-11-18",
       "url": "https://www.sisajournal.com/news/articleView.html?idxno=394380",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.EWgBecu4CjxZzusuT0M6Ag&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "society",
-      "title": "[재계핫이슈] 대한상의 졸업 최태원 회장, 더 많은 ‘사회적 발언’ 예고",
-      "summary": "SK 최태원 회장이 대한상공회의소(대한상의) 회장직을 내려놓을 예정이다. 최 회장의 두 번째 대한상의 회장 임기가 내년 3월에 만료되기 때문이다. 최태원 회장은 문재인 정부 때인 2021년 2월 4대그룹 총수 중에서는 처음으로 제24대 대한상의 회장으로 추대됐다. 2024년까지 3년 ...",
-      "source": "펜앤드마이크",
-      "publishedAt": "2026-11-22",
-      "url": "https://www.pennmike.com/news/articleView.html?idxno=132449",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.LXyH5ij0_bsoyDPJHRvF2w&pid=News&w=1200&h=675&c=14"
+      "imageUrl": "https://www.bing.com/th?id=ONUT.FMsvcOcTSe5tPnQDLweusA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "한국인공지능·소프트웨어산업협회, 인공지능 산업 법정단체로 인정받아 'K-AI 국가 대표팀' 참여 기업 뒷받침",
-      "summary": "한국인공지능·소프트웨어산업협회(KOSA)가 인공지능(AI) 산업의 법정단체로 지정된 것을 계기로 사업 영역을 확대하고 있다. 정부의 AI 지원제도를 직접 운영하는 한편 민관 협의체를 이끌고 국내 AI 기업들의 해외 진출을 지원하고 있다.KOSA는 지난 2월 AI 기본법에 따른 법정단체로 지정됐다. 1988년 설립된 KOSA는 소프트웨어진흥법에 따른 법정단체 ...",
-      "source": "한국경제 on MSN",
-      "publishedAt": "2026-11-26",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%82%B0%EC%97%85%ED%98%91%ED%9A%8C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%82%B0%EC%97%85-%EB%B2%95%EC%A0%95%EB%8B%A8%EC%B2%B4%EB%A1%9C-%EC%9D%B8%EC%A0%95%EB%B0%9B%EC%95%84-k-ai-%EA%B5%AD%EA%B0%80-%EB%8C%80%ED%91%9C%ED%8C%80-%EC%B0%B8%EC%97%AC-%EA%B8%B0%EC%97%85-%EB%92%B7%EB%B0%9B%EC%B9%A8/ar-AA2igsi4",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.gkKmA4jBa77uSPxe9RPpaw&pid=News&w=1200&h=675&c=14"
+      "title": "‘아시아 최대’ 동해 AI데이터센터 첫 삽…李대통령 “강원, AI 산업 핵심 거점으로 도약”",
+      "summary": "이재명 대통령은 28일 강원 동해 GS 인공지능(AI) 데이터센터 착공식에서 “전례 없는 국가 단위 속도전에서는 한 걸음만 늦어져도 영원한 추격자 신세가 될 수 있다”면서 한국이 AI 경쟁에서 세계의 기준을 세우고 방향을 제시하는 선도국이 되도록 정부 역량을 총동원하겠다고 밝혔다. 특히 총 2.4기가와트(GW) 규모의 동해 데이터센터가 글로벌 기업의 투자를 ...",
+      "source": "이투데이 on MSN",
+      "publishedAt": "2026-11-28",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%95%84%EC%8B%9C%EC%95%84-%EC%B5%9C%EB%8C%80-%EB%8F%99%ED%95%B4-ai%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%B2%AB-%EC%82%BD-%E6%9D%8E%EB%8C%80%ED%86%B5%EB%A0%B9-%EA%B0%95%EC%9B%90-ai-%EC%82%B0%EC%97%85-%ED%95%B5%EC%8B%AC-%EA%B1%B0%EC%A0%90%EC%9C%BC%EB%A1%9C-%EB%8F%84%EC%95%BD/ar-AA2iouYq",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.GYWVyN8Q_wJlDDSOgIHqfg&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "수은, 인공지능(AI) 가치사슬 핵심부품 기업 종합 지원체제 구축",
-      "summary": "한국수출입은행(www.koreaexim.go.kr, 은행장 황기연, 이하 '수은')이 ㈜두산 등 국내 인공지능(AI) 소재·부품 분야 기업의 수출, 해외투자 확대를 위해 적극적인 ...",
-      "source": "스포츠조선 on MSN",
-      "publishedAt": "2026-11-26",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%88%98%EC%9D%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-ai-%EA%B0%80%EC%B9%98%EC%82%AC%EC%8A%AC-%ED%95%B5%EC%8B%AC%EB%B6%80%ED%92%88-%EA%B8%B0%EC%97%85-%EC%A2%85%ED%95%A9-%EC%A7%80%EC%9B%90%EC%B2%B4%EC%A0%9C-%EA%B5%AC%EC%B6%95/ar-AA2igKbq",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.9-8CsfqPGb4oPpRzVPyhdw&pid=News&w=1200&h=675&c=14"
-    },
-    {
-      "category": "ai",
-      "title": "충남도,‘대한민국 제조 인공지능 전환(AX) 창업수도’ 도전",
-      "summary": "[이철우 기자] 충남도가 대한민국 첨단 제조산업의 중심인 천안·아산을 기반으로 ‘대한민국 제조 인공지능 전환 (AX) 창업수도’ 조성을 위한 도전을 본격화했다. 도는 26일 아산 충남콘텐츠기업지원센터에서 박수현 지사를 비롯해 장기수 천안시장, 오세현 아산시장, 대·중견기업, 대학, 연구기관, 투자기관 및 창업지원기관 관계자 등 50여 명이 참석한 가운데 ...",
-      "source": "wide-news.kr",
+      "title": "“메모리 중심으로 AI 인프라 재설계”…파네시아, 한국형 데이터센터 수출 제안",
+      "summary": "[이데일리 김현아 기자] 인공지능(AI) 데이터센터 경쟁이 개별 반도체의 성능에서 시스템 전체의 효율성으로 옮겨가는 가운데 국내 AI 연결 기술 기업 파네시아가 한국의 강점인 메모리를 중심으로 차세대 AI 데이터센터를 설계하자고 제안했다. 엔비디아 등 특정 기업의 기술에 종속되지 않고 국산 메모리와 AI 가속기, 개방형 연결 기술을 결합한 한국형 데이터센터 ...",
+      "source": "이데일리 on MSN",
       "publishedAt": "2026-11-27",
-      "url": "https://www.wide-news.kr/14274",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.DZYzvboHYNpps2T3LoGXQQ&pid=News&w=1200&h=675&c=14"
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C-ai-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%9E%AC%EC%84%A4%EA%B3%84-%ED%8C%8C%EB%84%A4%EC%8B%9C%EC%95%84-%ED%95%9C%EA%B5%AD%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%88%98%EC%B6%9C-%EC%A0%9C%EC%95%88/ar-AA2iogwb",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.3J6SlQ8p0Gs8Wy_Vl3j2YA&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
       "title": "최태원 'AI 인프라' 청사진 현실로…SK, 데이터센터 사업 가속",
       "summary": "SK그룹의 미래 성장축이 메모리 반도체에서 인공지능 (AI) 인프라로 확장되고 있다. 최태원 SK그룹 회장이 1년 전 천명한 'AI 인프라 기업' 전환 구상이 울산 AI 데이터센터 건설과 글로벌 빅테크 협력 등으로 구체화하면서다. 반도체 경쟁력을 기반으로 데이터센터와 에너지까지 아우르는 AI 산업 생태계 구축에 본격 나선 모습이다.",
       "source": "EBN",
-      "publishedAt": "2026-11-26",
+      "publishedAt": "2026-11-27",
       "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1733049",
       "imageUrl": "https://www.bing.com/th?id=ONUT.rnVpk6awH5r9UgnBmbo5YQ&pid=News&w=1200&h=675&c=14"
     },
     {
       "category": "ai",
-      "title": "'동해시 GS AI데이터센터' 28일 첫 삽…단일 규모로 아시아 최대",
-      "summary": "2.4GW급 데이터센터 목표…AI산업 생태계 조성 본격화 ...",
-      "source": "노컷뉴스 on MSN",
-      "publishedAt": "2026-11-26",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%8F%99%ED%95%B4%EC%8B%9C-gs-ai%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-28%EC%9D%BC-%EC%B2%AB-%EC%82%BD-%EB%8B%A8%EC%9D%BC-%EA%B7%9C%EB%AA%A8%EB%A1%9C-%EC%95%84%EC%8B%9C%EC%95%84-%EC%B5%9C%EB%8C%80/ar-AA2ijANn",
-      "imageUrl": "https://www.bing.com/th?id=ONUT.uxjJA5rrsuXD6dlo5lRfqQ&pid=News&w=1200&h=675&c=14"
+      "title": "'3대 메가프로젝트' GW급 AI DC 동해서 첫 삽…정부도 법령정비 나서",
+      "summary": "강원 동해에 GW(기가와트)급 AI DC(인공지능 데이터센터) 건설이 시작된다. 정부가 올해 6월 발표한 '3대(반도체·AI DC·피지컬AI) 메가프로젝트'에 따른 첫번째 GW급 데이터센터 구축이다. 정부는 본격적인 프로젝트 시작에 발맞춰 관련 제도·법령 정비 등을 통해 AI DC 산업을 지원할 방침이다. 과학기술정보통신부는 28일 오전 강원 동해 북평제2 ...",
+      "source": "머니투데이 on MSN",
+      "publishedAt": "2026-11-28",
+      "url": "https://www.msn.com/ko-kr/news/techandscience/3%EB%8C%80-%EB%A9%94%EA%B0%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-gw%EA%B8%89-ai-dc-%EB%8F%99%ED%95%B4%EC%84%9C-%EC%B2%AB-%EC%82%BD-%EC%A0%95%EB%B6%80%EB%8F%84-%EB%B2%95%EB%A0%B9%EC%A0%95%EB%B9%84-%EB%82%98%EC%84%9C/ar-AA2iozKb",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.nQtC8MHEL_8Whx7noa4rQQ&pid=News&w=1200&h=675&c=14"
+    },
+    {
+      "category": "ai",
+      "title": "아시아 최대 규모 ‘동해 GS AI 데이터센터’ 첫 삽",
+      "summary": "과학기술정보통신부는 28일 강원도 동해시 북평제2산단 GS AI 데이터센터 부지에서 대한민국 메가프로젝트의 핵심인 기가와트(GW)급 인공지능(AI) 데이터 센터의 첫 번째 착공식인 ‘동해 GS AI 데이터센터 착공식’을 개최했다고 밝혔다.",
+      "source": "헤럴드경제 on MSN",
+      "publishedAt": "2026-11-28",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%95%84%EC%8B%9C%EC%95%84-%EC%B5%9C%EB%8C%80-%EA%B7%9C%EB%AA%A8-%EB%8F%99%ED%95%B4-gs-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%B2%AB-%EC%82%BD/ar-AA2ioBZD",
+      "imageUrl": "https://www.bing.com/th?id=ONUT.UffFosX690nI3FRTtBtzhQ&pid=News&w=1200&h=675&c=14"
     }
   ]
 }
